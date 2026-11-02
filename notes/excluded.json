@@ -1,0 +1,243 @@
+[
+  {
+    "pair_id": "p_c5cb8317c0e5c3cd",
+    "source_entry": "port",
+    "source_example": "portal",
+    "word": "portal",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "source_entry": "port",
+      "word": "portal",
+      "action": "exclude",
+      "note": "The relevant component derives from Latin porta (gate/door), not the carry meaning of this ECDICT entry. Exclude this edge, not the word globally.",
+      "sources": [
+        "https://www.etymonline.com/word/portal"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_a4adbbc02a8a4bc1",
+    "source_entry": "port",
+    "source_example": "portcullis",
+    "word": "portcullis",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "source_entry": "port",
+      "word": "portcullis",
+      "action": "exclude",
+      "note": "The relevant component derives from Latin porta (gate/door), not the carry meaning of this ECDICT entry. Exclude this edge, not the word globally.",
+      "sources": [
+        "https://www.etymonline.com/word/portcullis"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_59a89a148af98135",
+    "source_entry": "port",
+    "source_example": "portiere",
+    "word": "portiere",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "source_entry": "port",
+      "word": "portiere",
+      "action": "exclude",
+      "note": "The relevant component derives from Latin porta (gate/door), not the carry meaning of this ECDICT entry. Exclude this edge, not the word globally.",
+      "sources": [
+        "https://www.etymonline.com/word/portiere"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_4600d1a06837c5b2",
+    "source_entry": "scop, -scope, -scopy",
+    "source_example": "gyrocompass",
+    "word": "gyrocompass",
+    "meaning": "to view, to observe",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "decision": {
+      "source_entry": "scop, -scope, -scopy",
+      "word": "gyrocompass",
+      "action": "exclude",
+      "note": "gyro- + compass; not a scop/scope constituent.",
+      "sources": [
+        "https://en.wiktionary.org/wiki/gyrocompass"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_14c5bac86631f505",
+    "source_entry": "graph, -graphy",
+    "source_example": "geopolitics",
+    "word": "geopolitics",
+    "meaning": "writing, drawing, recording",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "decision": {
+      "source_entry": "graph, -graphy",
+      "word": "geopolitics",
+      "action": "exclude",
+      "note": "geo- + politics; the graph family is not a constituent.",
+      "sources": [
+        "https://en.wiktionary.org/wiki/geopolitics"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_ee148037b3f80330",
+    "source_entry": "ann, enn",
+    "source_example": "tercentenary",
+    "word": "tercentenary",
+    "meaning": "year, years",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "decision": {
+      "source_entry": "ann, enn",
+      "word": "tercentenary",
+      "action": "exclude",
+      "note": "ter- + centenary; centenary derives from centum. Do not infer an ann root solely from the anniversary meaning.",
+      "sources": [
+        "https://www.etymonline.com/word/tercentenary"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_da47d401fe1d745b",
+    "source_entry": "bio, bi, -be",
+    "source_example": "aerobatics",
+    "word": "aerobatics",
+    "meaning": "life, living, living things",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "decision": {
+      "source_entry": "bio, bi, -be",
+      "word": "aerobatics",
+      "action": "exclude",
+      "note": "aero- plus an ending from acrobatics; not the life/bio family.",
+      "sources": [
+        "https://www.etymonline.com/word/aerobatics"
+      ]
+    }
+  },
+  {
+    "pair_id": "p_b8a8aec51707dbd5",
+    "source_entry": "tom, -tome, -tomy, -stomy",
+    "source_example": "colostomy",
+    "word": "colostomy",
+    "meaning": "to cut",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "tom",
+      "-tomy",
+      "-stomy"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "decision": {
+      "pair_id": "p_b8a8aec51707dbd5",
+      "source_entry": "tom, -tome, -tomy, -stomy",
+      "source_example": "colostomy",
+      "word": "colostomy",
+      "meaning": "to cut",
+      "class": "root",
+      "origin": "Greek",
+      "reason": "multiple_surface_matches",
+      "candidate_roots": [
+        "tom",
+        "-tomy",
+        "-stomy"
+      ],
+      "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+      "category": "source_error",
+      "anchor_forms": [
+        "-stomy"
+      ],
+      "lookup_alias_forms": [],
+      "component_forms": [],
+      "etymology_chain": "colostomy ← colo- + -stomy ← Greek stoma",
+      "observed_form": "stomy",
+      "note": "实际对应 -stomy；该成分来自 stoma，并非表示切割的 tom/-tomy。原条目把不同来源混成一组，且 meaning=to cut 不适用，故暂不写入该组的造文词表。",
+      "sense_constraint": "",
+      "source_issues": [
+        "wrong_family_and_meaning"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.etymonline.com/word/colostomy",
+        "https://www.merriam-webster.com/dictionary/-stomy"
+      ],
+      "reviewed_on": "2026-11-02",
+      "category_label": "原库关系或分组错误",
+      "adjudication_status": "reviewed",
+      "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+      "anchor_root_ids": [
+        "r_f912dfc24bbd94b8"
+      ],
+      "assigned_forms": [],
+      "assigned_root_ids": [],
+      "outcome": "exclude"
+    }
+  },
+  {
+    "pair_id": "p_c068d094816bee7c",
+    "source_entry": "pan, panto",
+    "source_example": "cyclorama",
+    "word": "cyclorama",
+    "meaning": "all",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "decision": {
+      "pair_id": "p_c068d094816bee7c",
+      "source_entry": "pan, panto",
+      "source_example": "cyclorama",
+      "word": "cyclorama",
+      "meaning": "all",
+      "class": "root",
+      "origin": "Greek",
+      "reason": "no_literal_form_match",
+      "candidate_roots": [],
+      "triage_category": "nonliteral_without_same_family_reference",
+      "category": "source_error",
+      "anchor_forms": [],
+      "lookup_alias_forms": [],
+      "component_forms": [],
+      "etymology_chain": "cyclorama ← cyclo- + -rama",
+      "observed_form": "cyclo",
+      "note": "不对应 pan/panto。实际 cycl/ cyclo 关系在主库已有，保留它们；从 panorama 借来构词结尾也不等于继承 pan。",
+      "sense_constraint": "",
+      "source_issues": [
+        "wrong_source_family"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.etymonline.com/word/cyclorama"
+      ],
+      "reviewed_on": "2026-11-02",
+      "category_label": "原库关系或分组错误",
+      "adjudication_status": "reviewed",
+      "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+      "anchor_root_ids": [],
+      "assigned_forms": [],
+      "assigned_root_ids": [],
+      "outcome": "exclude"
+    }
+  }
+]

@@ -1,0 +1,2829 @@
+[
+  {
+    "pair_id": "p_b8a8aec51707dbd5",
+    "source_entry": "tom, -tome, -tomy, -stomy",
+    "source_example": "colostomy",
+    "word": "colostomy",
+    "meaning": "to cut",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "tom",
+      "-tomy",
+      "-stomy"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "source_error",
+    "anchor_forms": [
+      "-stomy"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "colostomy ← colo- + -stomy ← Greek stoma",
+    "observed_form": "stomy",
+    "note": "实际对应 -stomy；该成分来自 stoma，并非表示切割的 tom/-tomy。原条目把不同来源混成一组，且 meaning=to cut 不适用，故暂不写入该组的造文词表。",
+    "sense_constraint": "",
+    "source_issues": [
+      "wrong_family_and_meaning"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/colostomy",
+      "https://www.merriam-webster.com/dictionary/-stomy"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "原库关系或分组错误",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_f912dfc24bbd94b8"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "exclude"
+  },
+  {
+    "pair_id": "p_ce289dbcf0407753",
+    "source_entry": "esthes, aesthes, esthet, aesthet",
+    "source_example": "aesthete",
+    "word": "aesthete",
+    "meaning": "feeling, sensation, sense perception",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "esthet",
+      "aesthet"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "aesthet"
+    ],
+    "lookup_alias_forms": [
+      "esthet"
+    ],
+    "component_forms": [],
+    "etymology_chain": "aesthete ← Greek aisthēt- (perception)",
+    "observed_form": "aesthet",
+    "note": "aesthet 是此拼写的对应形式；esthet 是 æ/ae/e 拼写对应的检索别名。二者共享这一例词，但不算两个词根。aesthete 的直接形成路径有不同分析，不影响其词源家族。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/aesthete",
+      "https://www.etymonline.com/word/esthete"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_a2447f4fa0133ba9"
+    ],
+    "assigned_forms": [
+      "aesthet",
+      "esthet"
+    ],
+    "assigned_root_ids": [
+      "r_a2447f4fa0133ba9",
+      "r_7e84b4b5ac5aba87"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_b7962bed3e090d6f",
+    "source_entry": "esthes, aesthes, esthet, aesthet",
+    "source_example": "aesthetic",
+    "word": "aesthetic",
+    "meaning": "feeling, sensation, sense perception",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "esthet",
+      "aesthet"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "aesthet"
+    ],
+    "lookup_alias_forms": [
+      "esthet"
+    ],
+    "component_forms": [],
+    "etymology_chain": "aesthetic ← Greek aisthēt- (perception)",
+    "observed_form": "aesthet",
+    "note": "aesthet 是此拼写的对应形式；esthet 是 æ/ae/e 拼写对应的检索别名。二者共享这一例词，但不算两个词根。aesthete 的直接形成路径有不同分析，不影响其词源家族。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/aesthetic",
+      "https://www.etymonline.com/word/esthetic"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_a2447f4fa0133ba9"
+    ],
+    "assigned_forms": [
+      "aesthet",
+      "esthet"
+    ],
+    "assigned_root_ids": [
+      "r_a2447f4fa0133ba9",
+      "r_7e84b4b5ac5aba87"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_c9adbe51504a93ce",
+    "source_entry": "esthes, aesthes, esthet, aesthet",
+    "source_example": "aesthetics",
+    "word": "aesthetics",
+    "meaning": "feeling, sensation, sense perception",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "esthet",
+      "aesthet"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "aesthet"
+    ],
+    "lookup_alias_forms": [
+      "esthet"
+    ],
+    "component_forms": [],
+    "etymology_chain": "aesthetics ← Greek aisthēt- (perception)",
+    "observed_form": "aesthet",
+    "note": "aesthet 是此拼写的对应形式；esthet 是 æ/ae/e 拼写对应的检索别名。二者共享这一例词，但不算两个词根。aesthete 的直接形成路径有不同分析，不影响其词源家族。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/aesthetics",
+      "https://www.etymonline.com/word/esthetic"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_a2447f4fa0133ba9"
+    ],
+    "assigned_forms": [
+      "aesthet",
+      "esthet"
+    ],
+    "assigned_root_ids": [
+      "r_a2447f4fa0133ba9",
+      "r_7e84b4b5ac5aba87"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_882828ad77ad5979",
+    "source_entry": "tend, tent, tens",
+    "source_example": "tenuous",
+    "word": "tenuous",
+    "meaning": "stretch",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "ancestral_only",
+    "anchor_forms": [
+      "tend"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "tenuous ← Latin tenuis; tenuis / tendere ← PIE *ten-",
+    "observed_form": "tenu",
+    "note": "直接来源是 tenuis；与 tendere 的联系在更早的共同祖根层级，不能据此把 tend/tent/tens 当作 tenuous 中的词素。可另研究 tenu- 条目。",
+    "sense_constraint": "",
+    "source_issues": [
+      "shared_ancestor_not_direct_derivation"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/tenuous",
+      "https://www.etymonline.com/word/tend"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "仅保留较远同源联系",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_15decca3bc391700"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_b0ec7dd2a3050b8b",
+    "source_entry": "ben, bene, bon",
+    "source_example": "bounteous",
+    "word": "bounteous",
+    "meaning": "good, well",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "bon"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "bounteous ← Old French bontieus / bontive ← bonté ← Latin bonitas / bonus",
+    "observed_form": "bount",
+    "note": "bon 家族的法语传入后形式；保留与 bon 的历史联系，不把 bount- 当作 ben/bene 的字面命中。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/bounteous",
+      "https://www.etymonline.com/word/bounty"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_1c0919f2a006614f"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_7863332204f1b9a9",
+    "source_entry": "ben, bene, bon",
+    "source_example": "bountiful",
+    "word": "bountiful",
+    "meaning": "good, well",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "possible_unlisted_spelling_variant",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "bon"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "bountiful ← bounty + -ful ← Latin bonitas / bonus",
+    "observed_form": "bount",
+    "note": "bon 家族的法语传入后形式；保留与 bon 的历史联系，不把 bount- 当作 ben/bene 的字面命中。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/bountiful",
+      "https://www.etymonline.com/word/bounty"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_1c0919f2a006614f"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_629dd95dea0dde97",
+    "source_entry": "ben, bene, bon",
+    "source_example": "bounty",
+    "word": "bounty",
+    "meaning": "good, well",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "possible_unlisted_spelling_variant",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "bon"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "bounty ← Old French bonté ← Latin bonitas ← bonus",
+    "observed_form": "bount",
+    "note": "bon 家族的法语传入后形式；保留与 bon 的历史联系，不把 bount- 当作 ben/bene 的字面命中。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/bounty"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_1c0919f2a006614f"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_1cd919ee80743bc1",
+    "source_entry": "scrib, script",
+    "source_example": "escritoire",
+    "word": "escritoire",
+    "meaning": "to write",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "script"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "escritoire ← French écritoire / escritoire ← Latin scriptorium",
+    "observed_form": "scrit",
+    "note": "对应 script 家族，经过法语后不再保留完整 script 拼写。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/escritoire"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_d642e5f91e36ae45"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_551e3b2384a870b6",
+    "source_entry": "scrib, script",
+    "source_example": "scrip",
+    "word": "scrip",
+    "meaning": "to write",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "script"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "scrip ← script; commercial scrip may be shortened from subscription receipt",
+    "observed_form": "scrip",
+    "note": "纸条、凭证类义项可对应 script；词典对具体缩略路径略有差别，但都落在书写家族。另有袋子义项，不得混入。",
+    "sense_constraint": "仅纸条、凭证、代币券等义项；不含袋子、行囊义项。",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/scrip",
+      "https://www.etymonline.com/word/scrip",
+      "https://www.etymonline.com/word/script"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_d642e5f91e36ae45"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_0c7b1b18c47100a4",
+    "source_entry": "scrib, script",
+    "source_example": "scrivener",
+    "word": "scrivener",
+    "meaning": "to write",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "scrib"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "scrivener ← Old French escrivain ← Latin scriba / scribere",
+    "observed_form": "scriv",
+    "note": "scrib 经法语发生 b/v 变化，scriv- 为传入后的表现形式。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/scrivener"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_7b7699c0e550cfcb"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_c040bd1e406e14e0",
+    "source_entry": "rrhea, rrhoea, rrhag",
+    "source_example": "catarrh",
+    "word": "catarrh",
+    "meaning": "flow, gush, discharge",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "rrhea",
+      "rrhoea"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "catarrh ← Greek katarrhous / kata rrhoos ← kata + rhein",
+    "observed_form": "rrh",
+    "note": "对应流动家族，与 rrhea/rrhoea 同源；当前词尾 rrh 不是完整 rrhea。不能仅因同组就同时归入 rrhag。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/catarrh"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_44c42ea0f4518308",
+      "r_77eadb4c40a2b630"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_466b9c34887e4c88",
+    "source_entry": "fac, fic, fec, fact, fect",
+    "source_example": "benefit",
+    "word": "benefit",
+    "meaning": "make, do",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "fact",
+      "fac"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "benefit ← Anglo-French benfet ← Latin benefactum ← bene + facere",
+    "observed_form": "fit",
+    "note": "原关系成立，fact/fac 经法语演变后成为词中 fit 对应的历史成分；不是英语 fit 家族。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/benefit"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_72f8a30d2e7a602f",
+      "r_90ad866145dc561b"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_14a3585d4f0c119a",
+    "source_entry": "fac, fic, fec, fact, fect",
+    "source_example": "discomfit",
+    "word": "discomfit",
+    "meaning": "make, do",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "fic",
+      "fac"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "discomfit ← Old French desconfire ← Latin conficere ← com- + facere",
+    "observed_form": "fit",
+    "note": "对应 fic/fac 的 make/do 家族，经过法语后不再字面出现。不要误按 comfort 拆解。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/discomfit"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_d96ab84612ae3ff1",
+      "r_90ad866145dc561b"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_139c957eea342db1",
+    "source_entry": "chron, chrono",
+    "source_example": "synchromesh",
+    "word": "synchromesh",
+    "meaning": "time",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "chron"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "synchromesh ← synchronized mesh; synchron- ← Greek syn + khronos",
+    "observed_form": "synchro",
+    "note": "synchro- 是从 synchron- 词族缩略而来的复合成分；chron 的 n 已不出现，不能将 chro 自动当成 chrono 的完整命中。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/synchromesh",
+      "https://www.etymonline.com/word/synchronous"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_7a7a706f5bc6b739"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_402f6d8007f99ea1",
+    "source_entry": "chron, chrono",
+    "source_example": "synchroscope",
+    "word": "synchroscope",
+    "meaning": "time",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "chron"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "synchroscope ← synchro- + -scope / synchronism + -scope; synchron- ← Greek syn + khronos",
+    "observed_form": "synchro",
+    "note": "synchro- 是从 synchron- 词族缩略而来的复合成分；chron 的 n 已不出现，不能将 chro 自动当成 chrono 的完整命中。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/synchroscope",
+      "https://www.etymonline.com/word/synchronous"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_7a7a706f5bc6b739"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_de7676df76754f7a",
+    "source_entry": "cerebr, cerebro",
+    "source_example": "cerebellum",
+    "word": "cerebellum",
+    "meaning": "brain",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "cerebr"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "cerebellum ← Latin cerebellum, diminutive of cerebrum",
+    "observed_form": "cerebell",
+    "note": "是 cerebrum 的指小词，不是词源误收；实际 cerebell- 与 cerebr- 不同，保留派生联系。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/cerebellum"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_9533be069bf586c4"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_b6add17703a53492",
+    "source_entry": "dont, odont, odonto, -odon",
+    "source_example": "endodontics",
+    "word": "endodontics",
+    "meaning": "tooth, teeth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "dont",
+      "odont",
+      "-odon"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "odont"
+    ],
+    "lookup_alias_forms": [
+      "dont",
+      "-odon"
+    ],
+    "component_forms": [],
+    "etymology_chain": "endodontics ← odont-/odonto- ← Greek odous/odon, stem odont-",
+    "observed_form": "odont",
+    "note": "实际牙齿词干为 odont-，结合形式为 odonto-；dont 与 -odon 仅保留为同族检索别名，不能据字符重叠解释出多个牙齿词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/endodontics"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_711f6d8fc9bd9e67"
+    ],
+    "assigned_forms": [
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "assigned_root_ids": [
+      "r_711f6d8fc9bd9e67",
+      "r_0d525e701dd16d15",
+      "r_91c14b8865666516"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_b4ad08ad334df00d",
+    "source_entry": "dont, odont, odonto, -odon",
+    "source_example": "odontology",
+    "word": "odontology",
+    "meaning": "tooth, teeth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "dont",
+      "odont",
+      "odonto",
+      "-odon"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "odonto"
+    ],
+    "lookup_alias_forms": [
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "component_forms": [],
+    "etymology_chain": "odontology ← odont-/odonto- ← Greek odous/odon, stem odont-",
+    "observed_form": "odonto",
+    "note": "实际牙齿词干为 odont-，结合形式为 odonto-；dont 与 -odon 仅保留为同族检索别名，不能据字符重叠解释出多个牙齿词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/odontology",
+      "https://www.affixes.org/odonto-.html"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_4ef2e879122ff2ca"
+    ],
+    "assigned_forms": [
+      "odonto",
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "assigned_root_ids": [
+      "r_4ef2e879122ff2ca",
+      "r_711f6d8fc9bd9e67",
+      "r_0d525e701dd16d15",
+      "r_91c14b8865666516"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_5565d1e0ee744621",
+    "source_entry": "dont, odont, odonto, -odon",
+    "source_example": "orthodontics",
+    "word": "orthodontics",
+    "meaning": "tooth, teeth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "dont",
+      "odont",
+      "-odon"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "odont"
+    ],
+    "lookup_alias_forms": [
+      "dont",
+      "-odon"
+    ],
+    "component_forms": [],
+    "etymology_chain": "orthodontics ← odont-/odonto- ← Greek odous/odon, stem odont-",
+    "observed_form": "odont",
+    "note": "实际牙齿词干为 odont-，结合形式为 odonto-；dont 与 -odon 仅保留为同族检索别名，不能据字符重叠解释出多个牙齿词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/orthodontics",
+      "https://www.etymonline.com/word/orthodontic",
+      "https://www.etymonline.com/word/orthodontia"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_711f6d8fc9bd9e67"
+    ],
+    "assigned_forms": [
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "assigned_root_ids": [
+      "r_711f6d8fc9bd9e67",
+      "r_0d525e701dd16d15",
+      "r_91c14b8865666516"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_8bdc1f122a4aa13a",
+    "source_entry": "dont, odont, odonto, -odon",
+    "source_example": "orthodontist",
+    "word": "orthodontist",
+    "meaning": "tooth, teeth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "dont",
+      "odont",
+      "-odon"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "odont"
+    ],
+    "lookup_alias_forms": [
+      "dont",
+      "-odon"
+    ],
+    "component_forms": [],
+    "etymology_chain": "orthodontist ← odont-/odonto- ← Greek odous/odon, stem odont-",
+    "observed_form": "odont",
+    "note": "实际牙齿词干为 odont-，结合形式为 odonto-；dont 与 -odon 仅保留为同族检索别名，不能据字符重叠解释出多个牙齿词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/orthodontist",
+      "https://www.etymonline.com/word/orthodontia"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_711f6d8fc9bd9e67"
+    ],
+    "assigned_forms": [
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "assigned_root_ids": [
+      "r_711f6d8fc9bd9e67",
+      "r_0d525e701dd16d15",
+      "r_91c14b8865666516"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_2113ab1f63e41bc4",
+    "source_entry": "dont, odont, odonto, -odon",
+    "source_example": "periodontal",
+    "word": "periodontal",
+    "meaning": "tooth, teeth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "dont",
+      "odont",
+      "-odon"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "odont"
+    ],
+    "lookup_alias_forms": [
+      "dont",
+      "-odon"
+    ],
+    "component_forms": [],
+    "etymology_chain": "periodontal ← odont-/odonto- ← Greek odous/odon, stem odont-",
+    "observed_form": "odont",
+    "note": "实际牙齿词干为 odont-，结合形式为 odonto-；dont 与 -odon 仅保留为同族检索别名，不能据字符重叠解释出多个牙齿词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/periodontal"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_711f6d8fc9bd9e67"
+    ],
+    "assigned_forms": [
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "assigned_root_ids": [
+      "r_711f6d8fc9bd9e67",
+      "r_0d525e701dd16d15",
+      "r_91c14b8865666516"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_adadf14b0836ea11",
+    "source_entry": "dont, odont, odonto, -odon",
+    "source_example": "periodontics",
+    "word": "periodontics",
+    "meaning": "tooth, teeth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "dont",
+      "odont",
+      "-odon"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "odont"
+    ],
+    "lookup_alias_forms": [
+      "dont",
+      "-odon"
+    ],
+    "component_forms": [],
+    "etymology_chain": "periodontics ← odont-/odonto- ← Greek odous/odon, stem odont-",
+    "observed_form": "odont",
+    "note": "实际牙齿词干为 odont-，结合形式为 odonto-；dont 与 -odon 仅保留为同族检索别名，不能据字符重叠解释出多个牙齿词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/periodontics",
+      "https://www.etymonline.com/word/periodontal"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_711f6d8fc9bd9e67"
+    ],
+    "assigned_forms": [
+      "odont",
+      "dont",
+      "-odon"
+    ],
+    "assigned_root_ids": [
+      "r_711f6d8fc9bd9e67",
+      "r_0d525e701dd16d15",
+      "r_91c14b8865666516"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_3f5c4e3b4fc41c3b",
+    "source_entry": "libra, liber2",
+    "source_example": "equilibrium",
+    "word": "equilibrium",
+    "meaning": "balance, weight",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "libra"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "equilibrium ← Latin aequilibrium ← aequus + libra",
+    "observed_form": "libr",
+    "note": "来自表示天平的 libra，构词中出现 libr-；不能因为字面 libr 就归到表示书的另一个 libr 条目。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/equilibrium"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_0dca006fc3ec2b06"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_32cc56a02fa8771a",
+    "source_entry": "andr, andro",
+    "source_example": "philander",
+    "word": "philander",
+    "meaning": "man, male",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "andr"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "philander ← Philander ← Greek philandros ← phil- + andr-",
+    "observed_form": "ander",
+    "note": "对应 andr，英语中表现为 ander；中间经过人物名的词汇化，不能解释为当前词义的简单直译。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/philander"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_355c182961c31398"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_2293bf01a621db85",
+    "source_entry": "struct",
+    "source_example": "destroy",
+    "word": "destroy",
+    "meaning": "build",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "struct"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "destroy ← French destruire ← Latin destruere ← de- + struere; destructus",
+    "observed_form": "stroy",
+    "note": "与 struct 同属 struere 构词家族；词中 stroy 经历史变化而来，不是完整 struct。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/destroy"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_c33119567054d182"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_08b571d0a375601b",
+    "source_entry": "it, itiner",
+    "source_example": "ambient",
+    "word": "ambient",
+    "meaning": "journey, road",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "ancestral_only",
+    "anchor_forms": [
+      "it",
+      "itiner"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "ambient ← Latin ambientem / ambire ← amb- + ire; iter / itiner- is related to ire",
+    "observed_form": "ient",
+    "note": "直接来源是动词 ire 的分词成分，it/itiner 条目来自名词 iter（旅程）。可保留同一古代动词家族联系，不应把 ambient 当作 journey/road 名词词干的直接例词。",
+    "sense_constraint": "",
+    "source_issues": [
+      "verbal_family_not_nominal_stem"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/ambient",
+      "https://www.etymonline.com/word/itinerary"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "仅保留较远同源联系",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_8f5f6e7d3de5b020",
+      "r_fdb275805963d14c"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_b6664d90ebddb3ef",
+    "source_entry": "entero",
+    "source_example": "enteritis",
+    "word": "enteritis",
+    "meaning": "intestine",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "entero"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "enteritis ← Greek enteron + -itis",
+    "observed_form": "enter",
+    "note": "enter(o)- 在元音开头的 -itis 前使用 enter-；关系成立，属于结合元音省略。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/enteritis"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_339bbc2f5c4919b1"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_8762e7891c0a0786",
+    "source_entry": "entero",
+    "source_example": "gastroenteritis",
+    "word": "gastroenteritis",
+    "meaning": "intestine",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "entero"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "gastroenteritis ← gastro- + enteritis ← enteron + -itis",
+    "observed_form": "enter",
+    "note": "与 enteritis 相同，实际出现 enter-；原库只列 entero，所以放入已确认的非字面关系。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/gastro-enteritis",
+      "https://www.etymonline.com/word/enteritis"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_339bbc2f5c4919b1"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_02091ee63775d5e6",
+    "source_entry": "viv, vivi, vit",
+    "source_example": "viable",
+    "word": "viable",
+    "meaning": "life, living, live",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "vit"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "viable ← French vie + -able ← Latin vita",
+    "observed_form": "vi",
+    "note": "对应生命家族 vit，经法语 vie 传入；与表示道路的 via 无关。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/viable"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_e9bbe7504e788b62"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_c412a765c8998d95",
+    "source_entry": "plic, plex, ply",
+    "source_example": "display",
+    "word": "display",
+    "meaning": "fold, plait",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "plic"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "display ← Old French desploiir ← Latin displicare ← dis- + plicare",
+    "observed_form": "play",
+    "note": "对应 plic 的折叠家族；play 是历史演变后的拼写，不是英语 play（玩）的构词。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/display"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_b6ec0dfd05d5bfac"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_09c983e32aa92b83",
+    "source_entry": "tax, taxo",
+    "source_example": "tactics",
+    "word": "tactics",
+    "meaning": "arrangement, order",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "possible_unlisted_spelling_variant",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "tax"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "tactics ← Greek taktikē / taktikos ← taxis / tassein",
+    "observed_form": "tact",
+    "note": "tact-/takt- 与 tax- 属于希腊语排列家族；不可转入原库另一个表示 touch 的拉丁语 tact 条目。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/tactics"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_5f11a76674da1c94"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_394ef7c47bd83234",
+    "source_entry": "carn, carni",
+    "source_example": "carrion",
+    "word": "carrion",
+    "meaning": "flesh, body",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "carn"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "carrion ← Old French caroigne / carogne ← Latin caro (genitive carnis)",
+    "observed_form": "carri",
+    "note": "caro 与 carn- 是同一拉丁名词的不同词干形式，英语又经历了法语变化；保留历史对应。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/carrion"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_62d7a4d78857be8c"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_3ab7b9ccd9f48daf",
+    "source_entry": "ocul",
+    "source_example": "monocle",
+    "word": "monocle",
+    "meaning": "eye",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "ocul"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "monocle ← French monocle ← Latin monoculus ← mono- + oculus",
+    "observed_form": "ocl",
+    "note": "对应 ocul，传入后元音省略，未保留完整 ocul 字符。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/monocle"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_705b067dda1a9adb"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_0587cbb8cfcb78d1",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "electroencephalograph",
+    "word": "electroencephalograph",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "cephalo",
+      "encephal",
+      "encephalo"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephalo"
+    ],
+    "lookup_alias_forms": [
+      "encephal"
+    ],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "electroencephalograph ← electro- + encephalograph (encephalo- + -graph); encephal- ← Greek en + kephalē",
+    "observed_form": "encephalo",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/electroencephalograph",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_29e5c819858d3d37"
+    ],
+    "assigned_forms": [
+      "encephalo",
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_29e5c819858d3d37",
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_f854e69168dcf316",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "encephalitis",
+    "word": "encephalitis",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "encephal"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephal"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "encephalitis ← encephal- + -itis; encephal- ← Greek en + kephalē",
+    "observed_form": "encephal",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/encephalitis",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_3be1392ba18131f6"
+    ],
+    "assigned_forms": [
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_3a700b5804b6b086",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "encephalon",
+    "word": "encephalon",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "cephalo",
+      "encephal",
+      "encephalo"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephalo"
+    ],
+    "lookup_alias_forms": [
+      "encephal"
+    ],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "encephalon ← Greek enkephalos; encephal- ← Greek en + kephalē",
+    "observed_form": "encephalo",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/encephalon",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_29e5c819858d3d37"
+    ],
+    "assigned_forms": [
+      "encephalo",
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_29e5c819858d3d37",
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_8f65e0ec7e17883e",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "mesencephalon",
+    "word": "mesencephalon",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "cephalo",
+      "encephal",
+      "encephalo"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephalo"
+    ],
+    "lookup_alias_forms": [
+      "encephal"
+    ],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "mesencephalon ← mes- + encephalon; encephal- ← Greek en + kephalē",
+    "observed_form": "encephalo",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/mesencephalon",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_29e5c819858d3d37"
+    ],
+    "assigned_forms": [
+      "encephalo",
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_29e5c819858d3d37",
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_2e3c2d77faf54f22",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "metencephalon",
+    "word": "metencephalon",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "cephalo",
+      "encephal",
+      "encephalo"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephalo"
+    ],
+    "lookup_alias_forms": [
+      "encephal"
+    ],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "metencephalon ← met- + encephalon; encephal- ← Greek en + kephalē",
+    "observed_form": "encephalo",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/metencephalon",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_29e5c819858d3d37"
+    ],
+    "assigned_forms": [
+      "encephalo",
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_29e5c819858d3d37",
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_c76199bfbde91cd9",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "rhombencephalon",
+    "word": "rhombencephalon",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "cephalo",
+      "encephal",
+      "encephalo"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephalo"
+    ],
+    "lookup_alias_forms": [
+      "encephal"
+    ],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "rhombencephalon ← rhomb- + encephalon; encephal- ← Greek en + kephalē",
+    "observed_form": "encephalo",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/rhombencephalon",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_29e5c819858d3d37"
+    ],
+    "assigned_forms": [
+      "encephalo",
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_29e5c819858d3d37",
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_290525d9c5c1e437",
+    "source_entry": "cephal, cephalo, encephal, encephalo",
+    "source_example": "telencephalon",
+    "word": "telencephalon",
+    "meaning": "head, brain",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cephal",
+      "cephalo",
+      "encephal",
+      "encephalo"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "encephalo"
+    ],
+    "lookup_alias_forms": [
+      "encephal"
+    ],
+    "component_forms": [
+      "cephal",
+      "cephalo"
+    ],
+    "etymology_chain": "telencephalon ← tel- + encephalon; encephal- ← Greek en + kephalē",
+    "observed_form": "encephalo",
+    "note": "直接对应表示脑的 encephal(o)-；cephal(o)- 是更深一层的头部成分，不是 encephal(o)- 的可互换拼写。主例词放入 encephal 条目，cephal 另记成分继承关系。",
+    "sense_constraint": "",
+    "source_issues": [
+      "compound_stem_not_spelling_variant"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/telencephalon",
+      "https://www.etymonline.com/word/encephalo-"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_29e5c819858d3d37"
+    ],
+    "assigned_forms": [
+      "encephalo",
+      "encephal"
+    ],
+    "assigned_root_ids": [
+      "r_29e5c819858d3d37",
+      "r_3be1392ba18131f6"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_9ea1d050cb331d8e",
+    "source_entry": "spect, spec, spic, spectro",
+    "source_example": "despise",
+    "word": "despise",
+    "meaning": "to see, look, watch",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "spic",
+      "spec"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "despise ← Old French despis- ← Latin despicere ← de- + spicere/specere",
+    "observed_form": "spis",
+    "note": "对应看的家族；经过法语后表现为 spis-，不是需要新增一个无来源的英语词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/despise"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_a34d48530b345b9c",
+      "r_e26c4e941ce231cd"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_5ab5bf9b10b83938",
+    "source_entry": "spect, spec, spic, spectro",
+    "source_example": "expectation",
+    "word": "expectation",
+    "meaning": "to see, look, watch",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "spect"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "expectation ← Latin expectatio/exspectatio ← expectare/exspectare ← ex- + spectare",
+    "observed_form": "pect",
+    "note": "拉丁语已有 expect-/exspect- 两种拼法，s 消失；关系成立但英文没有完整 spect。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/expectation",
+      "https://www.etymonline.com/word/expect"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_2eff3ad494a615ba"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_8c5ad9c378413b20",
+    "source_entry": "cap1, cip, capt, cept, -ceive, -ceit",
+    "source_example": "inconceivable",
+    "word": "inconceivable",
+    "meaning": "to take, catch",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "-ceive"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "inconceivable ← in- + conceivable ← conceive + -able ← Latin concipere / capere",
+    "observed_form": "ceiv",
+    "note": "对应 -ceive，接 -able 时去掉词末 e，实际为 ceiv。无需把它误标成没有对应关系。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/inconceivable",
+      "https://www.etymonline.com/word/conceivable",
+      "https://www.etymonline.com/word/conceive"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_93e60cce5a372039"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_5b84dc6adc37ac88",
+    "source_entry": "vers, vert",
+    "source_example": "divorce",
+    "word": "divorce",
+    "meaning": "to turn; to be occupied with",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "vert"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "divorce ← Latin divortium ← divertere ← dis- + vertere",
+    "observed_form": "vorc",
+    "note": "属于 vert 的转动、分离词族，经过拉丁语与法语变化，不能按字面出现 vert 处理。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/divorce",
+      "https://www.etymonline.com/word/divert"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_89db3780898d872e"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_88c1c0b7255b54b3",
+    "source_entry": "vers, vert",
+    "source_example": "vortex",
+    "word": "vortex",
+    "meaning": "to turn; to be occupied with",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "vert"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "vortex ← Latin vortex, variant of vertex ← vertere",
+    "observed_form": "vort",
+    "note": "vort-/vert- 是可证实的元音变体；原库未单列 vort，保留非字面对应。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/vortex"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_89db3780898d872e"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_1ba85dc68293dd33",
+    "source_entry": "bell, belli",
+    "source_example": "rebel",
+    "word": "rebel",
+    "meaning": "war",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "bell"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "rebel ← Latin rebellis / rebellare ← re- + bellare / bellum",
+    "observed_form": "bel",
+    "note": "对应 bell；当前原形只有 bel，双写 l 出现在 rebelled 等其他词形中。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/rebel"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_e6cacd59f5659563"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_528e5b5872d47056",
+    "source_entry": "cred, credit",
+    "source_example": "miscreant",
+    "word": "miscreant",
+    "meaning": "believe",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "cred"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "miscreant ← Old French mescreant ← mes- + creire ← Latin credere",
+    "observed_form": "cre",
+    "note": "cred 经法语变化成为 cre-；与表示创造的 crea 无关。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/miscreant"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_1439d82e6f4027c4"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_a61bfe2a0c04aa36",
+    "source_entry": "cred, credit",
+    "source_example": "recreant",
+    "word": "recreant",
+    "meaning": "believe",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "cred"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "recreant ← Old French recroire ← re- + croire ← Latin credere",
+    "observed_form": "cre",
+    "note": "与 cred 相连，具体语义发展涉及认输、改变效忠；不是 re-create。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/recreant"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_1439d82e6f4027c4"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_25283997f8665330",
+    "source_entry": "am, ama, amor",
+    "source_example": "enemy",
+    "word": "enemy",
+    "meaning": "love, friendship",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "am"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "enemy ← Old French enemi ← Latin inimicus ← in- + amicus ← amare",
+    "observed_form": "emi",
+    "note": "经 amicus/inimicus 和法语演变联系到 am；不能因为当前含义相反就删掉词源关系。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/enemy"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_2ed4886efd7c64c3"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_2959bd9252b008da",
+    "source_entry": "am, ama, amor",
+    "source_example": "inimical",
+    "word": "inimical",
+    "meaning": "love, friendship",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "am"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "inimical ← Latin inimicalis ← inimicus ← in- + amicus ← amare",
+    "observed_form": "imic",
+    "note": "am- 在拉丁复合词中变为 im-；保留源头联系，当前词义不是 love。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/inimical",
+      "https://www.etymonline.com/word/enemy"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_2ed4886efd7c64c3"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_201ad566e8078ef3",
+    "source_entry": "cad, cas, cid2",
+    "source_example": "cascade",
+    "word": "cascade",
+    "meaning": "to fall",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "cad",
+      "cas"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "cas"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "cascade ← Italian cascata / cascare ← Latin casus ← cadere",
+    "observed_form": "cas",
+    "note": "实际沿 cas- 路径形成；尾部恰好出现 cad 不能当作第二个直接词根。cadere 是更早的同族来源，在链条中保留。",
+    "sense_constraint": "",
+    "source_issues": [
+      "incidental_second_substring"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/cascade"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_87d568a613ece60e"
+    ],
+    "assigned_forms": [
+      "cas"
+    ],
+    "assigned_root_ids": [
+      "r_87d568a613ece60e"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_e6b3431448dc2d0c",
+    "source_entry": "dextr, dextro",
+    "source_example": "dexter",
+    "word": "dexter",
+    "meaning": "on the righthand side; skilful",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "dextr"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "dexter ← Latin dexter; dextr- is its combining stem",
+    "observed_form": "dexter",
+    "note": "dexter 与 dextr- 属于同一拉丁词形家族；此处不是 dyer 来源的同形姓氏。",
+    "sense_constraint": "仅右侧、右手的形容词义；不含来自染工的姓氏。",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/dexter"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_d302182fba34d035"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_b130d7601d3a7cb8",
+    "source_entry": "dextr, dextro",
+    "source_example": "dexterity",
+    "word": "dexterity",
+    "meaning": "on the righthand side; skilful",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "dextr"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "dexterity ← Latin dexteritas ← dexter",
+    "observed_form": "dexter",
+    "note": "完整 dexter- 与缩合结合词干 dextr- 同族，不是错误例词。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/dexterity"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_d302182fba34d035"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_0bbfc1a46873b823",
+    "source_entry": "grad, -grade",
+    "source_example": "ingredient",
+    "word": "ingredient",
+    "meaning": "go, step, degree",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "grad"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "ingredient ← Latin ingredientem / ingredi ← in- + gradi",
+    "observed_form": "gred",
+    "note": "grad- 在拉丁复合词中出现 gred-；应保留对应，不凭字面转到别的家族。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/ingredient"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_ec5c4ce78e446605"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_f36566b6983e73dd",
+    "source_entry": "deca, dec, deci, deka",
+    "source_example": "duodenum",
+    "word": "duodenum",
+    "meaning": "ten, tenth",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "dec"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "duodenum ← Latin duodeni (twelve each) ← duodecim ← duo + decem",
+    "observed_form": "duoden",
+    "note": "经十二这个复合数词间接联系到 decem；不是说 duodenum 直接含 dec，也不是把十二解释成十。",
+    "sense_constraint": "",
+    "source_issues": [
+      "indirect_numeral_derivation"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/duodenum",
+      "https://www.etymonline.com/word/dozen"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_65c82e4d797a6cd1"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_20b81fb31b0b289e",
+    "source_entry": "equ, equi",
+    "source_example": "iniquity",
+    "word": "iniquity",
+    "meaning": "equal",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "equ",
+      "equi"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "iniquity ← Latin iniquitas ← iniquus ← in- + aequus",
+    "observed_form": "iqu",
+    "note": "aequ-/equ- 在拉丁复合词中变为 iqu-，与 equal 家族关系成立。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/iniquity"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_24fbdb3013ca0643",
+      "r_6b3afac78baa8166"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_9aaf1bdfe0c3325e",
+    "source_entry": "frater",
+    "source_example": "fratricide",
+    "word": "fratricide",
+    "meaning": "brother",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "frater"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "fratricide ← Latin fratricida ← frater (stem fratr-) + -cida",
+    "observed_form": "fratr",
+    "note": "frater 的构词词干是 fratr-，中间 e 不保留；不是关系不成立。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/fratricide"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_540678b32423d0d9"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_f19fcce0a9fc1ec3",
+    "source_entry": "hem, hemo, hemat, hemato, hema, -emia, -aemia",
+    "source_example": "anaemia",
+    "word": "anaemia",
+    "meaning": "blood; blood condition",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "-emia",
+      "-aemia"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "-aemia"
+    ],
+    "lookup_alias_forms": [
+      "-emia"
+    ],
+    "component_forms": [],
+    "etymology_chain": "anaemia ← Greek anaimia ← an- + haima",
+    "observed_form": "aemia",
+    "note": "此拼写实际对应 -aemia；-emia 仅作同族拼写的检索别名，不是两种血液词根。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/anaemia"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_d340c791ec7579ce"
+    ],
+    "assigned_forms": [
+      "-aemia",
+      "-emia"
+    ],
+    "assigned_root_ids": [
+      "r_d340c791ec7579ce",
+      "r_0950324d26c99c33"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_3bcd417ae600ad95",
+    "source_entry": "patr, patri, pater",
+    "source_example": "pattern",
+    "word": "pattern",
+    "meaning": "father, fatherland",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "patr",
+      "pater"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "pattern ← Old French patron ← Latin patronus ← pater (genitive patris)",
+    "observed_form": "pattern",
+    "note": "经过 patronus/patron 的词汇化再形成 pattern，属于间接历史联系；不是现代英语可直接拆出的 pater。",
+    "sense_constraint": "",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/pattern",
+      "https://www.etymonline.com/word/patron"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_5e96daf38050cd00",
+      "r_91793da99f44068a"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_ab1ffa08d391eeb0",
+    "source_entry": "mania",
+    "source_example": "manic",
+    "word": "manic",
+    "meaning": "excessive desire",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "meaning_scope",
+    "anchor_forms": [
+      "mania"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "manic ← manic ← mania + -ic",
+    "observed_form": "man",
+    "note": "与 mania 的形式关系成立，但此处使用躁狂相关义，原 meaning=excessive desire 只覆盖过度欲望这一支。保留关系并暂停自动造文，不能把该原 meaning 当成本词的适用义。",
+    "sense_constraint": "此处为 mania 的躁狂相关义；不是手的 man/mani。",
+    "source_issues": [
+      "source_meaning_too_narrow"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/manic",
+      "https://www.etymonline.com/word/mania"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "关系成立，原 meaning 需补充适用义",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_3386ea5b4bfd9672"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_134efb808a33e75c",
+    "source_entry": "mania",
+    "source_example": "manic-depressive",
+    "word": "manic-depressive",
+    "meaning": "excessive desire",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "meaning_scope",
+    "anchor_forms": [
+      "mania"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "manic-depressive ← manic ← mania + -ic",
+    "observed_form": "man",
+    "note": "与 mania 的形式关系成立，但此处使用躁狂相关义，原 meaning=excessive desire 只覆盖过度欲望这一支。保留关系并暂停自动造文，不能把该原 meaning 当成本词的适用义。",
+    "sense_constraint": "此处为 mania 的躁狂相关义；不是手的 man/mani。",
+    "source_issues": [
+      "source_meaning_too_narrow"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/manic",
+      "https://www.etymonline.com/word/mania"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "关系成立，原 meaning 需补充适用义",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_3386ea5b4bfd9672"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_24bd201847e06f3d",
+    "source_entry": "terr, terra",
+    "source_example": "inter",
+    "word": "inter",
+    "meaning": "earth, land",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "terr",
+      "terra"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "inter (verb) ← Medieval Latin interrare ← in- + terra",
+    "observed_form": "ter",
+    "note": "埋葬动词 inter 对应 terra；词末 rr 在原形中简化，不能混同表示之间的前缀 inter-。",
+    "sense_constraint": "仅埋葬的动词 inter；不含前缀 inter-。",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/inter"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_9589ba707701505f",
+      "r_2a7f1394182d3110"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_0719ad9d13b3a83e",
+    "source_entry": "mill, milli, -illion",
+    "source_example": "million",
+    "word": "million",
+    "meaning": "thousand",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "multiple_surface_matches",
+    "candidate_roots": [
+      "mill",
+      "milli",
+      "-illion"
+    ],
+    "triage_category": "overlap_or_distinct_positions_needing_boundary_review",
+    "category": "literal_confirmed",
+    "anchor_forms": [
+      "mill"
+    ],
+    "lookup_alias_forms": [
+      "milli"
+    ],
+    "component_forms": [],
+    "etymology_chain": "million ← Italian millione ← mille + augmentative -one",
+    "observed_form": "mill",
+    "note": "对应 mille 的 mill-，milli 只作同族检索别名。-illion 是后来从 million 等数词抽出的成分，不应反向解释本词为 m + -illion。此处 thousand 不是 SI milli- 的千分之一。",
+    "sense_constraint": "",
+    "source_issues": [
+      "reverse_derivation_of_illion"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/million",
+      "https://www.worldwidewords.org/numbers.html"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "字面关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_9198f9d660e50624"
+    ],
+    "assigned_forms": [
+      "mill",
+      "milli"
+    ],
+    "assigned_root_ids": [
+      "r_9198f9d660e50624",
+      "r_4ccd60ec0265bc56"
+    ],
+    "outcome": "assign"
+  },
+  {
+    "pair_id": "p_df2b90a9525c6390",
+    "source_entry": "radi",
+    "source_example": "ray",
+    "word": "ray",
+    "meaning": "ray, spoke",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "radi"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "ray (light) ← Old French rai ← Latin radius",
+    "observed_form": "ray",
+    "note": "光线、射线义对应 radi；鱼名 ray 来自 raia，不能共用这条映射。",
+    "sense_constraint": "仅光线、射线及其延伸义；不含鳐鱼。",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/ray"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_28beb0336612b49e"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  },
+  {
+    "pair_id": "p_c068d094816bee7c",
+    "source_entry": "pan, panto",
+    "source_example": "cyclorama",
+    "word": "cyclorama",
+    "meaning": "all",
+    "class": "root",
+    "origin": "Greek",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_without_same_family_reference",
+    "category": "source_error",
+    "anchor_forms": [],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "cyclorama ← cyclo- + -rama",
+    "observed_form": "cyclo",
+    "note": "不对应 pan/panto。实际 cycl/ cyclo 关系在主库已有，保留它们；从 panorama 借来构词结尾也不等于继承 pan。",
+    "sense_constraint": "",
+    "source_issues": [
+      "wrong_source_family"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/cyclorama"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "原库关系或分组错误",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "exclude"
+  },
+  {
+    "pair_id": "p_bc8127ffaa87b5e7",
+    "source_entry": "volv, volu, volut",
+    "source_example": "vault",
+    "word": "vault",
+    "meaning": "roll, turn",
+    "class": "root",
+    "origin": "Latin",
+    "reason": "no_literal_form_match",
+    "candidate_roots": [],
+    "triage_category": "nonliteral_with_family_reference",
+    "category": "historical_confirmed",
+    "anchor_forms": [
+      "volv",
+      "volut"
+    ],
+    "lookup_alias_forms": [],
+    "component_forms": [],
+    "etymology_chain": "vault (arch) ← voluta/volutus ← volvere; vault (leap) ← voltare/volvitare ← volvere",
+    "observed_form": "vault",
+    "note": "拱顶类与跳跃类通过不同路径都可回溯 volvere；前者特别经过 volutus。不存在完整 volv/volut 字面，但两支的历史联系均成立。",
+    "sense_constraint": "拱顶、地下室等名词及相关动词；跳跃、撑杆跳等义项。",
+    "source_issues": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.etymonline.com/word/vault"
+    ],
+    "reviewed_on": "2026-11-02",
+    "category_label": "历史词形关系已确认",
+    "adjudication_status": "reviewed",
+    "mapping_policy": "dictionary_evidence_with_editorial_indexing",
+    "anchor_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_91bc202eee97cb4b"
+    ],
+    "assigned_forms": [],
+    "assigned_root_ids": [],
+    "outcome": "related_only"
+  }
+]
