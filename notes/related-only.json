@@ -2497,5 +2497,115 @@
       "assigned_root_ids": [],
       "outcome": "related_only"
     }
+  },
+  {
+    "pair_id": "batch01_brev_brief",
+    "source_entry": "brev",
+    "source_example": "brief",
+    "word": "brief",
+    "meaning": "short",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "related_only",
+      "note": "MW traces adjective brief through Anglo-French brief/bref to Latin brevis and the noun through the summary/document sense. It is a historical relative whose modern spelling lacks brev or brevi. Do not promote the whole descendant brief to a new root merely to admit it.",
+      "sources": [
+        "https://www.merriam-webster.com/dictionary/brief",
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brev.yml",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brief.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json",
+    "related_root_ids": [
+      "r_54fdb6f39a1f279a"
+    ]
+  },
+  {
+    "pair_id": "batch01_brev_briefer",
+    "source_entry": "brev",
+    "source_example": "briefer",
+    "word": "briefer",
+    "meaning": "short",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "related_only",
+      "note": "Verified-base inference: engra places briefer under brief. The requested MW briefer URL displays the brief entry and lists briefer as a noun, not an independent etymology. Both transparent readings retain the changed brief spelling, so they remain historical relatives of brev.",
+      "sources": [
+        "https://www.merriam-webster.com/dictionary/brief",
+        "https://www.merriam-webster.com/dictionary/briefer",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brief.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json",
+    "related_root_ids": [
+      "r_54fdb6f39a1f279a"
+    ]
+  },
+  {
+    "pair_id": "batch01_brev_briefing",
+    "source_entry": "brev",
+    "source_example": "briefing",
+    "word": "briefing",
+    "meaning": "short",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "related_only",
+      "note": "Verified-base inference from checked verb brief plus engra ancestry; MW lists briefing among verb forms. No separate briefing headword etymology was checked. The -ing derivation retains brief and has no literal supported brev/brevi component.",
+      "sources": [
+        "https://www.merriam-webster.com/dictionary/brief",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brief.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json",
+    "related_root_ids": [
+      "r_54fdb6f39a1f279a"
+    ]
+  },
+  {
+    "pair_id": "batch01_brev_briefly",
+    "source_entry": "brev",
+    "source_example": "briefly",
+    "word": "briefly",
+    "meaning": "short",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "related_only",
+      "note": "Verified-base inference: ordinary brief + -ly, supported by engra parentage. The base was checked, not a separate briefly etymology. The historical v-to-f spelling development prevents placement under brev/brevi.",
+      "sources": [
+        "https://www.merriam-webster.com/dictionary/brief",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brief.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json",
+    "related_root_ids": [
+      "r_54fdb6f39a1f279a"
+    ]
+  },
+  {
+    "pair_id": "batch01_brev_briefness",
+    "source_entry": "brev",
+    "source_example": "briefness",
+    "word": "briefness",
+    "meaning": "short",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "related_only",
+      "note": "Verified-base inference: brief + -ness; MW lists briefness under the adjective and both engra entries attach it to brief. This is run-on/base evidence, not an independent headword etymology, and the spelling remains brief.",
+      "sources": [
+        "https://www.merriam-webster.com/dictionary/brief",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brev.yml",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brief.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json",
+    "related_root_ids": [
+      "r_54fdb6f39a1f279a"
+    ]
   }
 ]

@@ -239,5 +239,98 @@
       "assigned_root_ids": [],
       "outcome": "exclude"
     }
+  },
+  {
+    "pair_id": "batch01_port_opportune",
+    "source_entry": "port",
+    "source_example": "opportune",
+    "word": "opportune",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "excluded",
+      "note": "The harbor component in opportunus is distinct from portare carry.",
+      "sources": [
+        "https://www.etymonline.com/word/opportune",
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json"
+  },
+  {
+    "pair_id": "batch01_port_passport",
+    "source_entry": "port",
+    "source_example": "passport",
+    "word": "passport",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "excluded",
+      "note": "The travel-document compound concerns passage through a port, not the verb carry.",
+      "sources": [
+        "https://www.etymonline.com/word/passport",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/port.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json"
+  },
+  {
+    "pair_id": "batch01_port_portico",
+    "source_entry": "port",
+    "source_example": "portico",
+    "word": "portico",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "excluded",
+      "note": "The architectural noun descends from porticus, related to porta gate.",
+      "sources": [
+        "https://www.etymonline.com/word/portico",
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json"
+  },
+  {
+    "pair_id": "batch01_port_portion",
+    "source_entry": "port",
+    "source_example": "portion",
+    "word": "portion",
+    "meaning": "carry",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "excluded",
+      "note": "The share/part branch is unrelated to portare carry; the string match is misleading.",
+      "sources": [
+        "https://www.etymonline.com/word/portion",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/port.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json"
+  },
+  {
+    "pair_id": "batch01_brev_microbrewery",
+    "source_entry": "brev",
+    "source_example": "microbrewery",
+    "word": "microbrewery",
+    "meaning": "short",
+    "class": "root",
+    "origin": "Latin",
+    "decision": {
+      "action": "excluded",
+      "note": "The checked microbrewery entry concerns beer production; brew is traced to Old English breowan. Transparent micro- + brewery morphology supports exclusion from Latin brevis. The engra path abbreviate > abbreviator > microbrewery is a misplaced tree edge, not a derivation.",
+      "sources": [
+        "https://www.merriam-webster.com/dictionary/microbrewery",
+        "https://www.merriam-webster.com/dictionary/brew",
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/brev.yml"
+      ]
+    },
+    "batch_record": "batches/01-port-duc-brev.json"
   }
 ]

@@ -2,7 +2,7 @@
 
 基于多个项目的公开资料整理的英语词根库，提供词根、原始英文 `meaning` 及对应单词，保留同族变体之间的关联。
 
-当前共收录 **878 个词根条目**，所有 `example` 合并去重后共有 **4,404 个单词**。词根数量按平铺后的独立条目统计，同族变体与同形异义条目分别计数；单词在多个词根下出现时只计一次。
+当前共收录 **881 个词根条目**，所有 `example` 合并去重后共有 **4,555 个单词**。词根数量按平铺后的独立条目统计，同族变体与同形异义条目分别计数；单词在多个词根下出现时只计一次，保留的不同词形分别计数。
 
 ## 整理目的：词根平铺化
 
@@ -35,18 +35,20 @@
 | --- | --- | --- |
 | `id` | string | 当前词根条目的唯一标识，用于关联和区分同形异义条目。 |
 | `root` | string | 展示用词根写法，去掉原资料中的末尾义项编号，例如 `ped1` 显示为 `ped`。展示写法不保证唯一。 |
-| `source_form` | string | 拆分后保留的原始写法，包括 `ped1`、`ped2` 这类义项编号及原有连字符。 |
-| `meaning` | string | 原资料中的英文词根含义，保留原文。 |
-| `class` | string | 原资料中的条目类别；当前 `roots.json` 收录的值均为 `root`。 |
-| `origin` | string | 原资料标注的词源语言，例如 `Latin`、`Greek`。 |
+| `source_form` | string | 采用的来源写法，包括 `ped1`、`ped2` 这类义项编号及原有连字符；补充写法的依据见整理记录。 |
+| `meaning` | string | 基础来源中的英文词根含义，保留原文；新增词根采用对应参考条目的英文含义。 |
+| `class` | string | 条目类别；当前 `roots.json` 收录的值均为 `root`。 |
+| `origin` | string | 词源语言，例如 `Latin`、`Greek`。 |
 | `example` | string[] | 当前词根写法对应的去重单词列表，可以为空。不同同族条目的列表允许重叠。 |
-| `family_id` | string | 原始分组的标识；从同一分组拆出的词根共享此值。 |
-| `related_root_ids` | string[] | 同一原始分组内其他词根条目的 `id`，不包含当前条目自身。 |
-| `source_entry` | string | 原始分组名称，例如 `ped1, pedi, -pede`，用于追溯整理来源。 |
+| `family_id` | string | 词根分组的标识；同一分组的写法及确认补充的同族写法共享此值。 |
+| `related_root_ids` | string[] | 同一分组内其他词根条目的 `id`，不包含当前条目自身。 |
+| `source_entry` | string | 作为基础的来源分组名称，例如 `ped1, pedi, -pede`；补充同族写法时沿用该名称，具体依据见整理记录。 |
 | `pending_family_examples` | integer | 当前原始分组仍待处理的例词关系数量，属于分组级统计；`0` 不代表所有例词均经过逐词词源核实。 |
 
 关联条目时使用 `id`，不要只用 `root`。`family_id` 和 `related_root_ids` 保留分组联系，不表示组内所有写法都可以互换。`example` 保留符合字面对应规则的例词，已确认的历史拼写变化等非字面关系见 [补充记录](notes/related-only.json)。
 
 另对 **67 个单词的词根对应关系**补充了校验核实，相关记录和整理说明见 [notes](notes/README.md)。
+
+跨库补充按词根分批进行。目前完成 `port`、`duc/duct`、`brev` 三组，新增 **151 个去重例词**及 `-duce`、`brev`、`brevi` 三种写法，详见[本批整理记录](notes/batches/01-port-duc-brev.md)。其他词根组尚未进行这轮全量对照补充。
 
 原创整理成果采用 [CC BY-NC 4.0 非商业许可](LICENSE)，上游资料保留原许可，详见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
