@@ -10,7 +10,7 @@ Copyright © 2026 新舰同学roXz（Xekin97），适用于本项目中可受保
 - [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)
 - [engra](https://github.com/eslsoft/engra)：MIT，Copyright © 2023 Ambor；[许可证副本](ENGRA-LICENSE)。
 
-参考项目用于辅助对照，部分词根与单词关系经分批整理后补入主表，具体来源见对应整理记录。未将其完整数据集直接合并或重新分发；继承的上游材料继续保留原有许可。
+参考项目用于辅助对照，部分词根与单词关系经分批整理后补入主表。未将其完整数据集直接合并或重新分发；继承的上游材料继续保留原有许可。
 
 67 条词根关系核实及跨库补充参考 Etymonline、Merriam-Webster、The Century Dictionary、Collins、Affixes.org 等词源资料；具体页面链接保留在相应记录中。说明为本项目的简短整理，不包含第三方词典全文。
 
