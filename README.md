@@ -20,10 +20,22 @@
 
 ## 资料来源
 
+词根与例词主要整理自以下项目：
+
 - [ECDICT](https://github.com/skywind3000/ECDICT)：基础词根与例词数据。
-- [morphemes](https://github.com/colingoldberg/morphemes)：词根、词缀及构词关系参考。
-- [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)：词根与例词对照参考。
-- [engra](https://github.com/eslsoft/engra)：词根及派生词关系参考。
+- [morphemes](https://github.com/colingoldberg/morphemes)：词根、词缀及构词关系。
+- [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)：词根与例词。
+- [engra](https://github.com/eslsoft/engra)：词根及派生词关系。
+
+整理和核对时还参考了以下构词与词源资料：
+
+- [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en)：英语单词的构词标注。
+- [MorphyNet](https://github.com/kbatsuren/MorphyNet)：单词派生和词形变化关系。
+- [etymology-db](https://github.com/droher/etymology-db)：从 Wiktionary 词源数据整理的词源关系。
+- [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)：词条及其词源资料，用于辅助查找；与其他 Wiktionary 衍生数据存在来源重叠。
+- 词典与词源参考：[Online Etymology Dictionary](https://www.etymonline.com/)、[Merriam-Webster](https://www.merriam-webster.com/)、[Dictionary.com](https://www.dictionary.com/)、[Collins Dictionary](https://www.collinsdictionary.com/)、[Wiktionary](https://en.wiktionary.org/)、[American Heritage Dictionary](https://www.ahdictionary.com/)、[Oxford Learner’s Dictionaries](https://www.oxfordlearnersdictionaries.com/) 等。
+
+这些资料用于对照与核实，词形相似或出现在同一资料中并不自动证明词根关系。各来源的许可说明见 [notes/THIRD_PARTY_NOTICES.md](notes/THIRD_PARTY_NOTICES.md)。
 
 数据文件：[JSON](roots.json) · [CSV](roots.csv)。JSON 是完整数据；CSV 提供常用字段，例词以 ` | ` 分隔。
 
