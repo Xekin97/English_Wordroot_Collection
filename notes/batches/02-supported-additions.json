@@ -1,0 +1,4410 @@
+{
+  "snapshot_id": "snapshot_64477449f6c5aa106a12",
+  "scope": "Selected source-sense-reviewed additions with direct component support; partial frozen batches only.",
+  "summary": {
+    "candidate_roots": 65,
+    "candidate_relations": 207,
+    "accepted_relations": 167,
+    "pending_relations": 40,
+    "added_root_entries": 24,
+    "expanded_existing_roots": 30,
+    "added_unique_words": 152,
+    "total_root_entries": 905,
+    "total_unique_words": 4707,
+    "total_root_word_relations": 7111,
+    "full_frozen_batches_completed": 0
+  },
+  "new_forms": [
+    {
+      "id": "r_7345969463e1dfcc",
+      "root": "acid",
+      "source_form": "acid",
+      "meaning": "acidic, sour",
+      "meaning_source": {
+        "id": "s_4ada7b972bdfad4f700a",
+        "project": "morphemes",
+        "entry": "acid-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_f68c5c035c171fba",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin acidus supplies the acid- stem and sour sense; acidic and acidity transparently preserve that base."
+    },
+    {
+      "id": "r_9717f2db906b0912",
+      "root": "art",
+      "source_form": "art",
+      "meaning": "art, skill",
+      "meaning_source": {
+        "id": "s_638066eac5f0c2487b93",
+        "project": "morphemes",
+        "entry": "art-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_e70850a5d7da4565",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Artist preserves Latin ars, genitive artis, art/skill through the borrowed art base. Scope excludes the unrelated -art agent suffix."
+    },
+    {
+      "id": "r_17a06faf99b050a1",
+      "root": "calor",
+      "source_form": "calor",
+      "meaning": "heat",
+      "meaning_source": {
+        "id": "s_b268c52338e0da48d4b2",
+        "project": "morphemes",
+        "entry": "cal-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_12e00a22b88274c6",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin calor means heat; caloric, calorie, calorific and calorimeter retain the calor- heat base."
+    },
+    {
+      "id": "r_e1aea7bffc964244",
+      "root": "camp",
+      "source_form": "camp",
+      "meaning": "field",
+      "meaning_source": {
+        "id": "s_6ee748bd7ca80f2bf628",
+        "project": "morphemes",
+        "entry": "camp-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_9dfaaaba04513a54",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin campus field underlies the borrowed camp base; the listed camp derivatives and campsite retain that historically established base."
+    },
+    {
+      "id": "r_57b6c357c46328c9",
+      "root": "cant",
+      "source_form": "cant",
+      "meaning": "sing, song",
+      "meaning_source": {
+        "id": "s_c46e0373345d377a159d",
+        "project": "morphemes",
+        "entry": "can-, -cin-, cant-, -cent-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_6d8e361a4f4a61a9",
+      "family_reason": "The candidate cent family means hundred and is unrelated to the singing stem; create a separate cant family.",
+      "note": "Latin cantare/cantus supplies cant- sing/song; descant and incantation retain song, and recant/recantation are established historical derivatives."
+    },
+    {
+      "id": "r_5ac3d154d1626e07",
+      "root": "cert",
+      "source_form": "cert",
+      "meaning": "sure, settled",
+      "meaning_source": {
+        "id": "s_1b50b2dda536a2040cd0",
+        "project": "morphemes",
+        "entry": "cert",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_d60f099cddb1d4e9",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin certus sure/settled supplies cert- in certify and certificate."
+    },
+    {
+      "id": "r_555847441629215c",
+      "root": "corn",
+      "source_form": "corn",
+      "meaning": "horn",
+      "meaning_source": {
+        "id": "s_235906916d8a0ac81635",
+        "project": "morphemes",
+        "entry": "corn-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_923c760212e3f3b6",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Unicorn preserves Latin cornu horn via unicornis; unrelated to Germanic corn grain."
+    },
+    {
+      "id": "r_bc74bf6c816a8d41",
+      "root": "coron",
+      "source_form": "coron",
+      "meaning": "crown",
+      "meaning_source": {
+        "id": "s_c43bcaab8b4525ded752",
+        "project": "morphemes",
+        "entry": "coron-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_1e708ae4b870ad7d",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin corona crown supplies coron- in coronation and coronet."
+    },
+    {
+      "id": "r_7f17f7cc4e3d180a",
+      "root": "culp",
+      "source_form": "culp",
+      "meaning": "blame, fault, crime",
+      "meaning_source": {
+        "id": "s_2c9f2b116d1626ff08bf",
+        "project": "morphemes",
+        "entry": "culp-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_59690fc338d88f55",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin culpa fault/blame supplies culp- in culpable, its noun culpability, and exculpate."
+    },
+    {
+      "id": "r_01f89e6b851e2be2",
+      "root": "dorm",
+      "source_form": "dorm",
+      "meaning": "sleep",
+      "meaning_source": {
+        "id": "s_59cbb268476c834f7e9f",
+        "project": "morphemes",
+        "entry": "dorm-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_21db67894bcf448f",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin dormire sleep supplies dorm- in dormant and dormitory."
+    },
+    {
+      "id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "source_form": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "meaning_source": {
+        "id": "s_3965a512a3c04075b126",
+        "project": "morphemes",
+        "entry": "feder-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_d209db32bf054189",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives."
+    },
+    {
+      "id": "r_b2fbc22c4365c85e",
+      "root": "ferv",
+      "source_form": "ferv",
+      "meaning": "boil, glow",
+      "meaning_source": {
+        "id": "s_906e4086d5e7c1589bab",
+        "project": "morphemes",
+        "entry": "ferv-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_5fa7a156878f7683",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin fervere boil/glow supplies ferv- in fervent and fervor, with the established figurative heat/ardor sense."
+    },
+    {
+      "id": "r_8b0e07cfdfd90b72",
+      "root": "flict",
+      "source_form": "flict",
+      "meaning": "strike, dash",
+      "meaning_source": {
+        "id": "s_bfe4c813bac9b50adaed",
+        "project": "morphemes",
+        "entry": "flig-, flict-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_deded7062eb27683",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Inflict preserves the flict- participial stem of Latin fligere strike; this is an attested stem rather than a substring."
+    },
+    {
+      "id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "source_form": "flu",
+      "meaning": "flow, river",
+      "meaning_source": {
+        "id": "s_b41167c19ab1ffd0403f",
+        "project": "morphemes",
+        "entry": "flu-, fluv-, flux-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_041e091275f4ec2f",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases."
+    },
+    {
+      "id": "r_a4ced39aeed55720",
+      "root": "front",
+      "source_form": "front",
+      "meaning": "forehead, face",
+      "meaning_source": {
+        "id": "s_222ddeaa845d7afa2f56",
+        "project": "morphemes",
+        "entry": "front-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_7d310a23df345b33",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin frons, genitive frontis, forehead/face supplies front- in frontal and the established face-facing developments affront, confront and frontage."
+    },
+    {
+      "id": "r_69a15927aae8982a",
+      "root": "gastr",
+      "source_form": "gastr",
+      "meaning": "stomach",
+      "meaning_source": {
+        "id": "s_79a4cf57b0e7470f2b15",
+        "project": "morphemes",
+        "entry": "gastr-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_ce1b97f4502c6d5f",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Greek gaster, genitive gastros, stomach supplies gastr- with combining vowel -o- in gastronomy and gastronomic; the source explicitly records gastr as well as gastro."
+    },
+    {
+      "id": "r_6f8ff74c48e9446d",
+      "root": "germ",
+      "source_form": "germ",
+      "meaning": "sprout, vital part",
+      "meaning_source": {
+        "id": "s_5d1011d054fa5b291ec2",
+        "project": "morphemes",
+        "entry": "germ-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_fd26b1295be4e193",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "The explicitly recorded germ- sprout/vital-part group supports germinal, germinate and germination from Latin germen/germinis; do not infer the microorganism sense from sprout alone."
+    },
+    {
+      "id": "r_6f2f233bf7dc313c",
+      "root": "gloss",
+      "source_form": "gloss",
+      "meaning": "tongue, speech, language",
+      "meaning_source": {
+        "id": "s_98113ae9ff151d5b5893",
+        "project": "morphemes",
+        "entry": "gloss-, glot-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_3934933198fe2d04",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Glossary descends through Latin glossarium from Greek glossa tongue/language/word; gloss- is that stem, distinct from gloss shine."
+    },
+    {
+      "id": "r_1626fb15eccc3f84",
+      "root": "glutin",
+      "source_form": "glutin",
+      "meaning": "glue",
+      "meaning_source": {
+        "id": "s_c2ae24f1e7bd33ea273e",
+        "project": "morphemes",
+        "entry": "glutin-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_68c8908ce15c1b41",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin gluten, genitive glutinis, glue supplies glutin- in glutinous and agglutinate with its transparent derivatives."
+    },
+    {
+      "id": "r_c6dd902d6d5d55b8",
+      "root": "grand",
+      "source_form": "grand",
+      "meaning": "grand, great, large",
+      "meaning_source": {
+        "id": "s_cf6c7d57e04fe7106406",
+        "project": "morphemes",
+        "entry": "grand-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_e4bcd3c3976f3d26",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Latin grandis great/large supplies grand- in the listed size/grandeur formations; kinship grand- is held apart."
+    },
+    {
+      "id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "source_form": "habit",
+      "meaning": "have, dwell, live, abide",
+      "meaning_source": {
+        "id": "s_de377b553183b3ac8906",
+        "project": "morphemes",
+        "entry": "hab-, -hib-, habit-, -hibit-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_863217f370a06b5a",
+      "family_reason": "The original morphemes group explicitly includes hab and habit with have; OUP confirms habitare as the frequentative of habere and habitus as its participle, matching the published Latin hab have family.",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards."
+    },
+    {
+      "id": "r_093a53d03f3c4557",
+      "root": "hero",
+      "source_form": "hero",
+      "meaning": "hero",
+      "meaning_source": {
+        "id": "s_c68571ff909773442030",
+        "project": "morphemes",
+        "entry": "hero-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_775553f1486647f3",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Greek heros supplies the hero- stem; heroine preserves the Greek feminine formation, and antihero/heroism retain the same hero base."
+    },
+    {
+      "id": "r_770a4f503eafd9e2",
+      "root": "hiero",
+      "source_form": "hiero",
+      "meaning": "holy, sacred",
+      "meaning_source": {
+        "id": "s_79337f08ef39b008c131",
+        "project": "morphemes",
+        "entry": "hier-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_5d36d126852131aa",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Greek hieros holy/sacred supplies hiero- in hieroglyph and hieroglyphics."
+    },
+    {
+      "id": "r_ba40968b5b445817",
+      "root": "ideo",
+      "source_form": "ideo",
+      "meaning": "idea, thought",
+      "meaning_source": {
+        "id": "s_a5cdd2a0b226999c6df6",
+        "project": "morphemes",
+        "entry": "ide-",
+        "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      },
+      "family_id": "g_852c66bed55427e2",
+      "family_reason": "No explicit same-etymon published family is identified in this source group; preserve a separate sense-specific family.",
+      "note": "Ideology uses the established ideo- combining form from Greek idea; the idea/thought sense matches both eligible source cards."
+    }
+  ],
+  "accepted_relations": [
+    {
+      "relation_id": "e_d0ac947aadfa16d6434b",
+      "frozen_root_id": "r_f83f07be16e270186d35",
+      "batch_id": "B0002",
+      "published_root_id": "r_9f635c08c6e50fcf",
+      "root": "act",
+      "meaning": "do, drive",
+      "word": "counteract",
+      "source_entries": [
+        {
+          "id": "s_af26b1cf40d8171fa9f4",
+          "project": "morphemes",
+          "entry": "ag-, -ig-, act-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_d855b3a5cd0461083e0f",
+          "project": "generated-roots",
+          "entry": "act",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "counteract and reactionary continue act/react, with act meaning do or act; the prefixed and suffixed families retain this base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_4355911ce8052082d4e9",
+      "frozen_root_id": "r_f83f07be16e270186d35",
+      "batch_id": "B0002",
+      "published_root_id": "r_9f635c08c6e50fcf",
+      "root": "act",
+      "meaning": "do, drive",
+      "word": "reactionary",
+      "source_entries": [
+        {
+          "id": "s_af26b1cf40d8171fa9f4",
+          "project": "morphemes",
+          "entry": "ag-, -ig-, act-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_d855b3a5cd0461083e0f",
+          "project": "generated-roots",
+          "entry": "act",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "counteract and reactionary continue act/react, with act meaning do or act; the prefixed and suffixed families retain this base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_6f614b51012e26106f48",
+      "frozen_root_id": "r_101a07e5f182ba079644",
+      "batch_id": "B0003",
+      "published_root_id": "r_22e79fe7d2789aa9",
+      "root": "aero",
+      "meaning": "air, gas",
+      "word": "aerodynamic",
+      "source_entries": [
+        {
+          "id": "s_82c915f6a966b3f76eff",
+          "project": "morphemes",
+          "entry": "aer-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The aero- component in aerodynamic and aeroplane denotes air; both are established compounds with the same air sense.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_fae581b73d4e9ce5f03c",
+      "frozen_root_id": "r_101a07e5f182ba079644",
+      "batch_id": "B0003",
+      "published_root_id": "r_22e79fe7d2789aa9",
+      "root": "aero",
+      "meaning": "air, gas",
+      "word": "aeroplane",
+      "source_entries": [
+        {
+          "id": "s_82c915f6a966b3f76eff",
+          "project": "morphemes",
+          "entry": "aer-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The aero- component in aerodynamic and aeroplane denotes air; both are established compounds with the same air sense.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_f9a8922ff078c1612377",
+      "frozen_root_id": "r_e06b25096cc2f5c3b39a",
+      "batch_id": "B0007",
+      "published_root_id": "r_0c5542eb6b36fcfb",
+      "root": "anim",
+      "meaning": "mind, spirit, life",
+      "word": "magnanimous",
+      "source_entries": [
+        {
+          "id": "s_c12ca623d3407dc89000",
+          "project": "generated-roots",
+          "entry": "anim",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Magnanimous contains magn- plus anim- in the spirit/soul sense, literally great-spirited.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_4ce992d505508848bbfa",
+      "frozen_root_id": "r_4eeaef47956f66cfa054",
+      "batch_id": "B0024",
+      "published_root_id": "r_8e1da1fc26d31ec0",
+      "root": "capit",
+      "meaning": "head",
+      "word": "decapitation",
+      "source_entries": [
+        {
+          "id": "s_fd6b924c9e7501ce7366",
+          "project": "morphemes",
+          "entry": "capit-, -cipit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Decapitation derives from decapitate, remove the head, retaining Latin capit- head.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_3d2c75cd306d855348aa",
+      "frozen_root_id": "r_07fecdd1666ae890445d",
+      "batch_id": "B0024",
+      "published_root_id": "r_aaebaab6d2f347ab",
+      "root": "capt",
+      "meaning": "to take, catch",
+      "word": "captivate",
+      "source_entries": [
+        {
+          "id": "s_b3a0b2a60feb46831a5d",
+          "project": "morphemes",
+          "entry": "cap-, -cip-, capt-, -cept-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Captor and captivate continue capt- take/capture, with captivate extending capture to holding attention.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_dd07f3591b0016765097",
+      "frozen_root_id": "r_07fecdd1666ae890445d",
+      "batch_id": "B0024",
+      "published_root_id": "r_aaebaab6d2f347ab",
+      "root": "capt",
+      "meaning": "to take, catch",
+      "word": "captor",
+      "source_entries": [
+        {
+          "id": "s_b3a0b2a60feb46831a5d",
+          "project": "morphemes",
+          "entry": "cap-, -cip-, capt-, -cept-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Captor and captivate continue capt- take/capture, with captivate extending capture to holding attention.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_e4675e043e5b1bf8ec17",
+      "frozen_root_id": "r_46aa99de2392bcb97387",
+      "batch_id": "B0027",
+      "published_root_id": "r_e91fe2659d2d120a",
+      "root": "cephalo",
+      "meaning": "head, brain",
+      "word": "electroencephalograph",
+      "source_entries": [
+        {
+          "id": "s_8c87f7d5999cf7f00295",
+          "project": "ecdict",
+          "entry": "cephal, cephalo, encephal, encephalo",
+          "url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Electroencephalograph contains encephalo- brain, built on cephalo- head; the head/brain sense matches the target.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_e7393fd83a643418b0b7",
+      "frozen_root_id": "r_bcede293e47f73e0338a",
+      "batch_id": "B0028",
+      "published_root_id": "r_82e2d42620adceae",
+      "root": "-cess",
+      "meaning": "to go; to go back or yield",
+      "word": "concession",
+      "source_entries": [
+        {
+          "id": "s_145f2fe85271aa5ccf64",
+          "project": "morphemes",
+          "entry": "cess",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_a8e9eb8b8c9c25defb7e",
+          "project": "generated-roots",
+          "entry": "cess",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Concession continues concede/concess- in the yield sense.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_559756759eef50f82814",
+      "frozen_root_id": "r_98f4270f09c07130b919",
+      "batch_id": "B0037",
+      "published_root_id": "r_033b0c460d3e77b9",
+      "root": "cosmo",
+      "meaning": "universe, world, order",
+      "word": "cosmopolite",
+      "source_entries": [
+        {
+          "id": "s_1c33f714c7d423344bb5",
+          "project": "morphemes",
+          "entry": "cosm-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Cosmopolite means a citizen of the world and contains cosmo- world.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_3267b0fd3415b4443dca",
+      "frozen_root_id": "r_534779b478884a7fa34d",
+      "batch_id": "B0038",
+      "published_root_id": "r_1ad39aad005a4ae9",
+      "root": "crat",
+      "meaning": "government, rule",
+      "word": "autocrat",
+      "source_entries": [
+        {
+          "id": "s_72c571c522363997934f",
+          "project": "morphemes",
+          "entry": "-cracy, -crat",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Autocrat and technocrat contain crat- rule/authority, describing a ruler or participant in government.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_b8561930f072028d1722",
+      "frozen_root_id": "r_534779b478884a7fa34d",
+      "batch_id": "B0038",
+      "published_root_id": "r_1ad39aad005a4ae9",
+      "root": "crat",
+      "meaning": "government, rule",
+      "word": "technocrat",
+      "source_entries": [
+        {
+          "id": "s_72c571c522363997934f",
+          "project": "morphemes",
+          "entry": "-cracy, -crat",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Autocrat and technocrat contain crat- rule/authority, describing a ruler or participant in government.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_210802c1a51419b45167",
+      "frozen_root_id": "r_6ab47d70854a8c690a0c",
+      "batch_id": "B0046",
+      "published_root_id": "r_4a07d0b359052c7d",
+      "root": "dict",
+      "meaning": "speak, declare",
+      "word": "dictatorial",
+      "source_entries": [
+        {
+          "id": "s_62010dec012292b05863",
+          "project": "generated-roots",
+          "entry": "dict",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Dictatorial continues dictator/dictate, and interdiction continues interdict; both retain Latin dict- say, declare or issue an order.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_db7e53fb51580ae469ca",
+      "frozen_root_id": "r_6ab47d70854a8c690a0c",
+      "batch_id": "B0046",
+      "published_root_id": "r_4a07d0b359052c7d",
+      "root": "dict",
+      "meaning": "speak, declare",
+      "word": "interdiction",
+      "source_entries": [
+        {
+          "id": "s_f6da8c938e9fdc234a11",
+          "project": "morphemes",
+          "entry": "dic-, dict-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Dictatorial continues dictator/dictate, and interdiction continues interdict; both retain Latin dict- say, declare or issue an order.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_f80617d6bb9c1ce15a1b",
+      "frozen_root_id": "r_c53ab1d1b8ece20d61c2",
+      "batch_id": "B0047",
+      "published_root_id": "r_ab8f5147e2607cdb",
+      "root": "domin",
+      "meaning": "master",
+      "word": "condominium",
+      "source_entries": [
+        {
+          "id": "s_a25bd866d36d2fda3fa8",
+          "project": "morphemes",
+          "entry": "domin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Dominance, domination and predominance retain domin- mastery; condominium expresses shared dominion/ownership from the same master base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_a1dec7e196702ff4fe0e",
+      "frozen_root_id": "r_c53ab1d1b8ece20d61c2",
+      "batch_id": "B0047",
+      "published_root_id": "r_ab8f5147e2607cdb",
+      "root": "domin",
+      "meaning": "master",
+      "word": "dominance",
+      "source_entries": [
+        {
+          "id": "s_a25bd866d36d2fda3fa8",
+          "project": "morphemes",
+          "entry": "domin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Dominance, domination and predominance retain domin- mastery; condominium expresses shared dominion/ownership from the same master base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_70e3c76d7e43032cec8b",
+      "frozen_root_id": "r_c53ab1d1b8ece20d61c2",
+      "batch_id": "B0047",
+      "published_root_id": "r_ab8f5147e2607cdb",
+      "root": "domin",
+      "meaning": "master",
+      "word": "domination",
+      "source_entries": [
+        {
+          "id": "s_a25bd866d36d2fda3fa8",
+          "project": "morphemes",
+          "entry": "domin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Dominance, domination and predominance retain domin- mastery; condominium expresses shared dominion/ownership from the same master base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_02742b176ff7b18a4889",
+      "frozen_root_id": "r_c53ab1d1b8ece20d61c2",
+      "batch_id": "B0047",
+      "published_root_id": "r_ab8f5147e2607cdb",
+      "root": "domin",
+      "meaning": "master",
+      "word": "predominance",
+      "source_entries": [
+        {
+          "id": "s_a25bd866d36d2fda3fa8",
+          "project": "morphemes",
+          "entry": "domin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Dominance, domination and predominance retain domin- mastery; condominium expresses shared dominion/ownership from the same master base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_e35d246ce07f774ecda0",
+      "frozen_root_id": "r_4a2326c64ab2287ead87",
+      "batch_id": "B0047",
+      "published_root_id": "r_d9aa482a00774a77",
+      "root": "don",
+      "meaning": "give",
+      "word": "donated",
+      "source_entries": [
+        {
+          "id": "s_98d89d2ab9db757b415e",
+          "project": "engra",
+          "entry": "don",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/don.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Donated is the inflected form of donate, give, preserving don- give.",
+      "evidence_urls": [
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/don.yml",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_287b8a758d5c743dd22e",
+      "frozen_root_id": "r_d9eb253e06987fa74a5d",
+      "batch_id": "B0055",
+      "published_root_id": "r_b32aff0c72a2371a",
+      "root": "err",
+      "meaning": "error, wander",
+      "word": "unerring",
+      "source_entries": [
+        {
+          "id": "s_29a4e9cd632035890224",
+          "project": "generated-roots",
+          "entry": "err",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Unerring derives from err, go astray or make a mistake, with negation; it retains the wander/error base.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_dbd32b7379e49a7c5e79",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "benefaction",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "These forms retain Latin fact- from facere, make/do: benefaction doing good, satisfaction doing enough, factor a maker/doer, and liquefaction making liquid.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_dfb668e397697e3ae53a",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "dissatisfaction",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "These forms retain Latin fact- from facere, make/do: benefaction doing good, satisfaction doing enough, factor a maker/doer, and liquefaction making liquid.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_202b861265290603848a",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "factious",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Factious derives from the faction/party family, historically factio an act or doing, retaining Latin fact-.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_700493bbc365da228f55",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "factitious",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Factitious means artificially made and retains Latin fact- make.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_9fb22fda4f6568f442df",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "factor",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "These forms retain Latin fact- from facere, make/do: benefaction doing good, satisfaction doing enough, factor a maker/doer, and liquefaction making liquid.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_c7f3b26a27238aeef532",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "factual",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Factual derives from fact, historically factum a thing done, retaining fact- do.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_fb0cfee51b5f2523d20d",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "root": "fact",
+      "meaning": "make, do",
+      "word": "liquefaction",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "These forms retain Latin fact- from facere, make/do: benefaction doing good, satisfaction doing enough, factor a maker/doer, and liquefaction making liquid.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_56e5e092382c61a74c00",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "affectation",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_2dd33b168125a2239543",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "confection",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_c04fbafaa292fb76e5bc",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "defect",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_66e67fe241083c22159d",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "defection",
+      "source_entries": [
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_85fea71fbb95ada3d031",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "effective",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_a63ffebc0e616118ec61",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "effectual",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_028668edecd7c463824a",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "effectuality",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_d58586ed0673c33d69fc",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "effectuate",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_489967e41e7ae5b52fb5",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "infection",
+      "source_entries": [
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_f5815480d9d96f8742fa",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "perfect",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_4b162288164630d860f9",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "perfectibility",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_24dd107fdb50c54cb3dc",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "perfectible",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_71b5dbb14ff32b05beef",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "perfection",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e1c997dcf46cba87fa60",
+          "project": "generated-roots",
+          "entry": "fect",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The fect- component continues Latin facere, make/do, in the affect, confect, defect, effect, infect, perfect, prefect and refect families; suffixation retains those established bases.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_b78b43b24b73ce72040a",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "prefect",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Prefect continues praeficere, put or make someone head of something, with -fect- from facere make/do.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_2956f651333a82dc9db4",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "prefectural",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Prefectural derives through prefecture from prefect, retaining the -fect- make/do component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_ea59c5523b40c15db924",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "prefecture",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Prefecture derives from prefect, retaining the -fect- make/do component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_dc1d425187e00d439f67",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "refection",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Refection continues reficere, remake or restore; the refreshment sense retains the historical fect- make/do stem.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_6fb111f75ce2e2a7fdf0",
+      "frozen_root_id": "r_69ff7be53360c200021e",
+      "batch_id": "B0059",
+      "published_root_id": "r_88ea0b02aad333d1",
+      "root": "fect",
+      "meaning": "make, do",
+      "word": "refectory",
+      "source_entries": [
+        {
+          "id": "s_bc3a05c48d8bfccf25bb",
+          "project": "morphemes",
+          "entry": "fac-, fact-, -fect-, -fic- (FAC)",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Refectory belongs to the reficere/refection refreshment family, with fect- from make again or restore.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_abbff822d556a15c0260",
+      "frozen_root_id": "r_d42c44374930ec8ccd64",
+      "batch_id": "B0060",
+      "published_root_id": "r_4bd685e20a78f276",
+      "root": "femin",
+      "meaning": "female, woman",
+      "word": "femininity",
+      "source_entries": [
+        {
+          "id": "s_49aec562204bc0fe550d",
+          "project": "morphemes",
+          "entry": "femin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Femininity derives from feminine and preserves femin- female/woman.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_d620b89bc040955f2fa0",
+      "frozen_root_id": "r_c5e6d98614b46499b224",
+      "batch_id": "B0064",
+      "published_root_id": "r_27c7f5d6e1305392",
+      "root": "foli",
+      "meaning": "leaf, page",
+      "word": "defoliate",
+      "source_entries": [
+        {
+          "id": "s_3f4e096d51feefd5449d",
+          "project": "generated-roots",
+          "entry": "foli",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_9cd5d6b9556ffbd48965",
+          "project": "morphemes",
+          "entry": "foli-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Defoliate means remove leaves and contains foli- leaf with de- and -ate.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_6ff6e5f56347e86614af",
+      "frozen_root_id": "r_affe69d75e6778ca7512",
+      "batch_id": "B0064",
+      "published_root_id": "r_62e224ef1e26826c",
+      "root": "fore-",
+      "meaning": "before, in time or position",
+      "word": "foreman",
+      "source_entries": [
+        {
+          "id": "s_35687143fb82e3aa9e47",
+          "project": "morphemes",
+          "entry": "fore",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_574e0cb6c09a41bb68a2",
+          "project": "generated-roots",
+          "entry": "fore",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Foreman places a person at the front/in charge, and foremost means furthest forward; both retain fore in the before/front position sense.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_382adc5500950cd9f1b3",
+      "frozen_root_id": "r_affe69d75e6778ca7512",
+      "batch_id": "B0064",
+      "published_root_id": "r_62e224ef1e26826c",
+      "root": "fore-",
+      "meaning": "before, in time or position",
+      "word": "foremost",
+      "source_entries": [
+        {
+          "id": "s_35687143fb82e3aa9e47",
+          "project": "morphemes",
+          "entry": "fore",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Foreman places a person at the front/in charge, and foremost means furthest forward; both retain fore in the before/front position sense.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_eba67f8f08e0b5457978",
+      "frozen_root_id": "r_3b6a765ede676559e0f2",
+      "batch_id": "B0069",
+      "published_root_id": "r_a70fe288c6124081",
+      "root": "gen",
+      "meaning": "birth, origin, race, kind",
+      "word": "endogenous",
+      "source_entries": [
+        {
+          "id": "s_e5e65cfcaf09b7828751",
+          "project": "morphemes",
+          "entry": "gen-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Endogenous means originating within, eugenic concerns birth/breeding, and homogeneous/heterogeneous refer to same/different kinds; all retain the gen- birth/origin/kind component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_3df3b86fdd5c33226c3a",
+      "frozen_root_id": "r_3b6a765ede676559e0f2",
+      "batch_id": "B0069",
+      "published_root_id": "r_a70fe288c6124081",
+      "root": "gen",
+      "meaning": "birth, origin, race, kind",
+      "word": "eugenic",
+      "source_entries": [
+        {
+          "id": "s_e5e65cfcaf09b7828751",
+          "project": "morphemes",
+          "entry": "gen-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Endogenous means originating within, eugenic concerns birth/breeding, and homogeneous/heterogeneous refer to same/different kinds; all retain the gen- birth/origin/kind component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_5a249cad91b5139672c7",
+      "frozen_root_id": "r_3b6a765ede676559e0f2",
+      "batch_id": "B0069",
+      "published_root_id": "r_a70fe288c6124081",
+      "root": "gen",
+      "meaning": "birth, origin, race, kind",
+      "word": "heterogeneous",
+      "source_entries": [
+        {
+          "id": "s_e5e65cfcaf09b7828751",
+          "project": "morphemes",
+          "entry": "gen-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Endogenous means originating within, eugenic concerns birth/breeding, and homogeneous/heterogeneous refer to same/different kinds; all retain the gen- birth/origin/kind component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_6af15fa1d0a553f2b3da",
+      "frozen_root_id": "r_3b6a765ede676559e0f2",
+      "batch_id": "B0069",
+      "published_root_id": "r_a70fe288c6124081",
+      "root": "gen",
+      "meaning": "birth, origin, race, kind",
+      "word": "homogeneous",
+      "source_entries": [
+        {
+          "id": "s_e5e65cfcaf09b7828751",
+          "project": "morphemes",
+          "entry": "gen-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Endogenous means originating within, eugenic concerns birth/breeding, and homogeneous/heterogeneous refer to same/different kinds; all retain the gen- birth/origin/kind component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_8343cd2e9e89db85efa2",
+      "frozen_root_id": "r_e81935fb86434cdaaeee",
+      "batch_id": "B0069",
+      "published_root_id": "r_de86855e9bfcef0c",
+      "root": "geo",
+      "meaning": "earth",
+      "word": "geodetic",
+      "source_entries": [
+        {
+          "id": "s_a63a9c1c1bdc897287b2",
+          "project": "morphemes",
+          "entry": "ge-, geo-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Geodetic relates to geodesy/measurement of the earth, and geophysics to earth physics; both preserve geo- earth.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_0e9fe7623605db7605db",
+      "frozen_root_id": "r_e81935fb86434cdaaeee",
+      "batch_id": "B0069",
+      "published_root_id": "r_de86855e9bfcef0c",
+      "root": "geo",
+      "meaning": "earth",
+      "word": "geophysics",
+      "source_entries": [
+        {
+          "id": "s_a63a9c1c1bdc897287b2",
+          "project": "morphemes",
+          "entry": "ge-, geo-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Geodetic relates to geodesy/measurement of the earth, and geophysics to earth physics; both preserve geo- earth.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_9e3d493d13295bcfd735",
+      "frozen_root_id": "r_0d2c690e7dd5f9478038",
+      "batch_id": "B0074",
+      "published_root_id": "r_9bb8338c117e7dd8",
+      "root": "greg",
+      "meaning": "flock, gathering",
+      "word": "congregational",
+      "source_entries": [
+        {
+          "id": "s_d5a12ac528dd039c4102",
+          "project": "morphemes",
+          "entry": "greg-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Congregational continues congregate, gather together; desegregate and desegregation reverse segregate, separate from the group. All retain greg- flock/gathering.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_ce86bea4fd3a95193d32",
+      "frozen_root_id": "r_0d2c690e7dd5f9478038",
+      "batch_id": "B0074",
+      "published_root_id": "r_9bb8338c117e7dd8",
+      "root": "greg",
+      "meaning": "flock, gathering",
+      "word": "desegregate",
+      "source_entries": [
+        {
+          "id": "s_d5a12ac528dd039c4102",
+          "project": "morphemes",
+          "entry": "greg-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Congregational continues congregate, gather together; desegregate and desegregation reverse segregate, separate from the group. All retain greg- flock/gathering.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_c0e7228f5a9baa580157",
+      "frozen_root_id": "r_0d2c690e7dd5f9478038",
+      "batch_id": "B0074",
+      "published_root_id": "r_9bb8338c117e7dd8",
+      "root": "greg",
+      "meaning": "flock, gathering",
+      "word": "desegregation",
+      "source_entries": [
+        {
+          "id": "s_d5a12ac528dd039c4102",
+          "project": "morphemes",
+          "entry": "greg-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Congregational continues congregate, gather together; desegregate and desegregation reverse segregate, separate from the group. All retain greg- flock/gathering.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_498b17f8fc5e8b0bc057",
+      "frozen_root_id": "r_050d7417f96ac0a408c1",
+      "batch_id": "B0080",
+      "published_root_id": "r_86022d13c06f3fa2",
+      "root": "hetero",
+      "meaning": "different, other",
+      "word": "heterogeneity",
+      "source_entries": [
+        {
+          "id": "s_e8b2d1256252526834c9",
+          "project": "morphemes",
+          "entry": "heter-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Heterogeneity refers to differing kinds and heterozygous to different paired alleles; both retain hetero- different.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_57256458eaf442387819",
+      "frozen_root_id": "r_050d7417f96ac0a408c1",
+      "batch_id": "B0080",
+      "published_root_id": "r_86022d13c06f3fa2",
+      "root": "hetero",
+      "meaning": "different, other",
+      "word": "heterozygous",
+      "source_entries": [
+        {
+          "id": "s_e8b2d1256252526834c9",
+          "project": "morphemes",
+          "entry": "heter-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Heterogeneity refers to differing kinds and heterozygous to different paired alleles; both retain hetero- different.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_1afe430c01e5684361ae",
+      "frozen_root_id": "r_ae5eebff12dd75af2fc9",
+      "batch_id": "B0001",
+      "published_root_id": "r_7345969463e1dfcc",
+      "root": "acid",
+      "meaning": "acidic, sour",
+      "word": "acidic",
+      "source_entries": [
+        {
+          "id": "s_3ca90ac4675bf6317062",
+          "project": "generated-roots",
+          "entry": "acid",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin acidus supplies the acid- stem and sour sense; acidic and acidity transparently preserve that base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_60a87a2f69cddadd1d08",
+      "frozen_root_id": "r_ae5eebff12dd75af2fc9",
+      "batch_id": "B0001",
+      "published_root_id": "r_7345969463e1dfcc",
+      "root": "acid",
+      "meaning": "acidic, sour",
+      "word": "acidity",
+      "source_entries": [
+        {
+          "id": "s_3ca90ac4675bf6317062",
+          "project": "generated-roots",
+          "entry": "acid",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_4ada7b972bdfad4f700a",
+          "project": "morphemes",
+          "entry": "acid-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin acidus supplies the acid- stem and sour sense; acidic and acidity transparently preserve that base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_8519d1b71217e983bb02",
+      "frozen_root_id": "r_d3cec99112255db9bf49",
+      "batch_id": "B0010",
+      "published_root_id": "r_9717f2db906b0912",
+      "root": "art",
+      "meaning": "art, skill",
+      "word": "artist",
+      "source_entries": [
+        {
+          "id": "s_e2268da7a354163a307f",
+          "project": "generated-roots",
+          "entry": "art",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Artist preserves Latin ars, genitive artis, art/skill through the borrowed art base. Scope excludes the unrelated -art agent suffix.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_6c375cb79b6dc1b5dc9d",
+      "frozen_root_id": "r_bd1eec4a7ddbfb4986c3",
+      "batch_id": "B0023",
+      "published_root_id": "r_17a06faf99b050a1",
+      "root": "calor",
+      "meaning": "heat",
+      "word": "caloric",
+      "source_entries": [
+        {
+          "id": "s_1037aeaeeeaec8b3cda8",
+          "project": "generated-roots",
+          "entry": "calor",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_b268c52338e0da48d4b2",
+          "project": "morphemes",
+          "entry": "cal-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin calor means heat; caloric, calorie, calorific and calorimeter retain the calor- heat base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_7e701aaebf47d7df08f7",
+      "frozen_root_id": "r_bd1eec4a7ddbfb4986c3",
+      "batch_id": "B0023",
+      "published_root_id": "r_17a06faf99b050a1",
+      "root": "calor",
+      "meaning": "heat",
+      "word": "calorie",
+      "source_entries": [
+        {
+          "id": "s_1037aeaeeeaec8b3cda8",
+          "project": "generated-roots",
+          "entry": "calor",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_b268c52338e0da48d4b2",
+          "project": "morphemes",
+          "entry": "cal-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin calor means heat; caloric, calorie, calorific and calorimeter retain the calor- heat base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_6b900cd55c1c020ca52c",
+      "frozen_root_id": "r_bd1eec4a7ddbfb4986c3",
+      "batch_id": "B0023",
+      "published_root_id": "r_17a06faf99b050a1",
+      "root": "calor",
+      "meaning": "heat",
+      "word": "calorific",
+      "source_entries": [
+        {
+          "id": "s_b268c52338e0da48d4b2",
+          "project": "morphemes",
+          "entry": "cal-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin calor means heat; caloric, calorie, calorific and calorimeter retain the calor- heat base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_83f0593af003166fac74",
+      "frozen_root_id": "r_bd1eec4a7ddbfb4986c3",
+      "batch_id": "B0023",
+      "published_root_id": "r_17a06faf99b050a1",
+      "root": "calor",
+      "meaning": "heat",
+      "word": "calorimeter",
+      "source_entries": [
+        {
+          "id": "s_b268c52338e0da48d4b2",
+          "project": "morphemes",
+          "entry": "cal-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin calor means heat; caloric, calorie, calorific and calorimeter retain the calor- heat base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_bfc74ca1bd86932ff27e",
+      "frozen_root_id": "r_ccefcd91405c728f09cf",
+      "batch_id": "B0024",
+      "published_root_id": "r_e1aea7bffc964244",
+      "root": "camp",
+      "meaning": "field",
+      "word": "campsite",
+      "source_entries": [
+        {
+          "id": "s_6ee748bd7ca80f2bf628",
+          "project": "morphemes",
+          "entry": "camp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin campus field underlies the borrowed camp base; the listed camp derivatives and campsite retain that historically established base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_665d20e188f993fa6e3e",
+      "frozen_root_id": "r_ccefcd91405c728f09cf",
+      "batch_id": "B0024",
+      "published_root_id": "r_e1aea7bffc964244",
+      "root": "camp",
+      "meaning": "field",
+      "word": "decamp",
+      "source_entries": [
+        {
+          "id": "s_6ee748bd7ca80f2bf628",
+          "project": "morphemes",
+          "entry": "camp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin campus field underlies the borrowed camp base; the listed camp derivatives and campsite retain that historically established base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_5f9a1d8cc84f7b0ef44d",
+      "frozen_root_id": "r_ccefcd91405c728f09cf",
+      "batch_id": "B0024",
+      "published_root_id": "r_e1aea7bffc964244",
+      "root": "camp",
+      "meaning": "field",
+      "word": "encamp",
+      "source_entries": [
+        {
+          "id": "s_6ee748bd7ca80f2bf628",
+          "project": "morphemes",
+          "entry": "camp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin campus field underlies the borrowed camp base; the listed camp derivatives and campsite retain that historically established base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_38b7ff606c8a538e9540",
+      "frozen_root_id": "r_ccefcd91405c728f09cf",
+      "batch_id": "B0024",
+      "published_root_id": "r_e1aea7bffc964244",
+      "root": "camp",
+      "meaning": "field",
+      "word": "encampment",
+      "source_entries": [
+        {
+          "id": "s_0618890e25b1bf35c312",
+          "project": "generated-roots",
+          "entry": "camp",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_6ee748bd7ca80f2bf628",
+          "project": "morphemes",
+          "entry": "camp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin campus field underlies the borrowed camp base; the listed camp derivatives and campsite retain that historically established base.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_9fdd38e52dcb5b8c7e4c",
+      "frozen_root_id": "r_bfbd0a4486d66e7b6eb4",
+      "batch_id": "B0024",
+      "published_root_id": "r_57b6c357c46328c9",
+      "root": "cant",
+      "meaning": "sing, song",
+      "word": "descant",
+      "source_entries": [
+        {
+          "id": "s_c46e0373345d377a159d",
+          "project": "morphemes",
+          "entry": "can-, -cin-, cant-, -cent-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin cantare/cantus supplies cant- sing/song; descant and incantation retain song, and recant/recantation are established historical derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_02ea1669b0b16cc8bb79",
+      "frozen_root_id": "r_bfbd0a4486d66e7b6eb4",
+      "batch_id": "B0024",
+      "published_root_id": "r_57b6c357c46328c9",
+      "root": "cant",
+      "meaning": "sing, song",
+      "word": "incantation",
+      "source_entries": [
+        {
+          "id": "s_1d54cc31178c2adcc910",
+          "project": "generated-roots",
+          "entry": "cant",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_c46e0373345d377a159d",
+          "project": "morphemes",
+          "entry": "can-, -cin-, cant-, -cent-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin cantare/cantus supplies cant- sing/song; descant and incantation retain song, and recant/recantation are established historical derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_ab5dd4f3a75d7f77f457",
+      "frozen_root_id": "r_bfbd0a4486d66e7b6eb4",
+      "batch_id": "B0024",
+      "published_root_id": "r_57b6c357c46328c9",
+      "root": "cant",
+      "meaning": "sing, song",
+      "word": "recant",
+      "source_entries": [
+        {
+          "id": "s_1d54cc31178c2adcc910",
+          "project": "generated-roots",
+          "entry": "cant",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_c46e0373345d377a159d",
+          "project": "morphemes",
+          "entry": "can-, -cin-, cant-, -cent-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin cantare/cantus supplies cant- sing/song; descant and incantation retain song, and recant/recantation are established historical derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_1de9b298e46f0273e24d",
+      "frozen_root_id": "r_bfbd0a4486d66e7b6eb4",
+      "batch_id": "B0024",
+      "published_root_id": "r_57b6c357c46328c9",
+      "root": "cant",
+      "meaning": "sing, song",
+      "word": "recantation",
+      "source_entries": [
+        {
+          "id": "s_c46e0373345d377a159d",
+          "project": "morphemes",
+          "entry": "can-, -cin-, cant-, -cent-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin cantare/cantus supplies cant- sing/song; descant and incantation retain song, and recant/recantation are established historical derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_ea9abcc1ad0eba297be6",
+      "frozen_root_id": "r_06298432e8066b29e222",
+      "batch_id": "B0028",
+      "published_root_id": "r_5ac3d154d1626e07",
+      "root": "cert",
+      "meaning": "sure, settled",
+      "word": "certificate",
+      "source_entries": [
+        {
+          "id": "s_1fad0c2f90966fd9be2e",
+          "project": "generated-roots",
+          "entry": "cert",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin certus sure/settled supplies cert- in certify and certificate.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_592653da0eed82dec2e3",
+      "frozen_root_id": "r_06298432e8066b29e222",
+      "batch_id": "B0028",
+      "published_root_id": "r_5ac3d154d1626e07",
+      "root": "cert",
+      "meaning": "sure, settled",
+      "word": "certify",
+      "source_entries": [
+        {
+          "id": "s_1b50b2dda536a2040cd0",
+          "project": "morphemes",
+          "entry": "cert",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_1fad0c2f90966fd9be2e",
+          "project": "generated-roots",
+          "entry": "cert",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin certus sure/settled supplies cert- in certify and certificate.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_dceb4ab7ac99d2b9ecfd",
+      "frozen_root_id": "r_63b0490d4736e740f26e",
+      "batch_id": "B0037",
+      "published_root_id": "r_555847441629215c",
+      "root": "corn",
+      "meaning": "horn",
+      "word": "unicorn",
+      "source_entries": [
+        {
+          "id": "s_235906916d8a0ac81635",
+          "project": "morphemes",
+          "entry": "corn-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_3976948389d8e0730a97",
+          "project": "generated-roots",
+          "entry": "corn",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Unicorn preserves Latin cornu horn via unicornis; unrelated to Germanic corn grain.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_6c664df9ca50ec09e8b7",
+      "frozen_root_id": "r_352d621d4d33294eb0ad",
+      "batch_id": "B0037",
+      "published_root_id": "r_bc74bf6c816a8d41",
+      "root": "coron",
+      "meaning": "crown",
+      "word": "coronation",
+      "source_entries": [
+        {
+          "id": "s_3804bf8af2e2d238a933",
+          "project": "generated-roots",
+          "entry": "coron",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_c43bcaab8b4525ded752",
+          "project": "morphemes",
+          "entry": "coron-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin corona crown supplies coron- in coronation and coronet.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_78598d7baba2b088bb20",
+      "frozen_root_id": "r_352d621d4d33294eb0ad",
+      "batch_id": "B0037",
+      "published_root_id": "r_bc74bf6c816a8d41",
+      "root": "coron",
+      "meaning": "crown",
+      "word": "coronet",
+      "source_entries": [
+        {
+          "id": "s_3804bf8af2e2d238a933",
+          "project": "generated-roots",
+          "entry": "coron",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_c43bcaab8b4525ded752",
+          "project": "morphemes",
+          "entry": "coron-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin corona crown supplies coron- in coronation and coronet.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_8e9c5c1aab5e7f7358bc",
+      "frozen_root_id": "r_a1d500e37db1a6911a8e",
+      "batch_id": "B0041",
+      "published_root_id": "r_7f17f7cc4e3d180a",
+      "root": "culp",
+      "meaning": "blame, fault, crime",
+      "word": "culpability",
+      "source_entries": [
+        {
+          "id": "s_2c9f2b116d1626ff08bf",
+          "project": "morphemes",
+          "entry": "culp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin culpa fault/blame supplies culp- in culpable, its noun culpability, and exculpate.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_35f685f24756066aac85",
+      "frozen_root_id": "r_a1d500e37db1a6911a8e",
+      "batch_id": "B0041",
+      "published_root_id": "r_7f17f7cc4e3d180a",
+      "root": "culp",
+      "meaning": "blame, fault, crime",
+      "word": "culpable",
+      "source_entries": [
+        {
+          "id": "s_2c9f2b116d1626ff08bf",
+          "project": "morphemes",
+          "entry": "culp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_7125096f6e79609f9cde",
+          "project": "generated-roots",
+          "entry": "culp",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin culpa fault/blame supplies culp- in culpable, its noun culpability, and exculpate.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_349fbcc5ff24d47b28ad",
+      "frozen_root_id": "r_a1d500e37db1a6911a8e",
+      "batch_id": "B0041",
+      "published_root_id": "r_7f17f7cc4e3d180a",
+      "root": "culp",
+      "meaning": "blame, fault, crime",
+      "word": "exculpate",
+      "source_entries": [
+        {
+          "id": "s_2c9f2b116d1626ff08bf",
+          "project": "morphemes",
+          "entry": "culp-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_7125096f6e79609f9cde",
+          "project": "generated-roots",
+          "entry": "culp",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin culpa fault/blame supplies culp- in culpable, its noun culpability, and exculpate.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_01e7a7aaf56f4f9f2c70",
+      "frozen_root_id": "r_50c49b07ad488dd1ed43",
+      "batch_id": "B0048",
+      "published_root_id": "r_01f89e6b851e2be2",
+      "root": "dorm",
+      "meaning": "sleep",
+      "word": "dormant",
+      "source_entries": [
+        {
+          "id": "s_0ab6227ad4d970f903b3",
+          "project": "generated-roots",
+          "entry": "dorm",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_59cbb268476c834f7e9f",
+          "project": "morphemes",
+          "entry": "dorm-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin dormire sleep supplies dorm- in dormant and dormitory.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_2ceb1b8af8e0fe7adb91",
+      "frozen_root_id": "r_50c49b07ad488dd1ed43",
+      "batch_id": "B0048",
+      "published_root_id": "r_01f89e6b851e2be2",
+      "root": "dorm",
+      "meaning": "sleep",
+      "word": "dormitory",
+      "source_entries": [
+        {
+          "id": "s_0ab6227ad4d970f903b3",
+          "project": "generated-roots",
+          "entry": "dorm",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_59cbb268476c834f7e9f",
+          "project": "morphemes",
+          "entry": "dorm-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin dormire sleep supplies dorm- in dormant and dormitory.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_d7af4b6a662cab7ce91f",
+      "frozen_root_id": "r_3c0eac59580288b8abe8",
+      "batch_id": "B0059",
+      "published_root_id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "word": "confederacy",
+      "source_entries": [
+        {
+          "id": "s_3965a512a3c04075b126",
+          "project": "morphemes",
+          "entry": "feder-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_fd34a75ed1acc5baab28",
+      "frozen_root_id": "r_3c0eac59580288b8abe8",
+      "batch_id": "B0059",
+      "published_root_id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "word": "confederate",
+      "source_entries": [
+        {
+          "id": "s_1113f23f218db992c9a8",
+          "project": "generated-roots",
+          "entry": "feder",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_3965a512a3c04075b126",
+          "project": "morphemes",
+          "entry": "feder-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_043a79f2f6ac7085d196",
+      "frozen_root_id": "r_3c0eac59580288b8abe8",
+      "batch_id": "B0059",
+      "published_root_id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "word": "confederation",
+      "source_entries": [
+        {
+          "id": "s_1113f23f218db992c9a8",
+          "project": "generated-roots",
+          "entry": "feder",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_3965a512a3c04075b126",
+          "project": "morphemes",
+          "entry": "feder-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_90b7b8216f95ab3fe625",
+      "frozen_root_id": "r_3c0eac59580288b8abe8",
+      "batch_id": "B0059",
+      "published_root_id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "word": "federal",
+      "source_entries": [
+        {
+          "id": "s_1113f23f218db992c9a8",
+          "project": "generated-roots",
+          "entry": "feder",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_3965a512a3c04075b126",
+          "project": "morphemes",
+          "entry": "feder-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_63b993aae0bf3090b34a",
+      "frozen_root_id": "r_3c0eac59580288b8abe8",
+      "batch_id": "B0059",
+      "published_root_id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "word": "federate",
+      "source_entries": [
+        {
+          "id": "s_3965a512a3c04075b126",
+          "project": "morphemes",
+          "entry": "feder-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_b868a25eb1935f89580b",
+      "frozen_root_id": "r_3c0eac59580288b8abe8",
+      "batch_id": "B0059",
+      "published_root_id": "r_037a42fe338ca44d",
+      "root": "feder",
+      "meaning": "treaty, agreement, contract, league, pact",
+      "word": "federation",
+      "source_entries": [
+        {
+          "id": "s_3965a512a3c04075b126",
+          "project": "morphemes",
+          "entry": "feder-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin foedus, genitive foederis, treaty/alliance supplies the historically adapted feder- stem in federal, federate and their confeder- derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_cac85361e4bc70a5ca43",
+      "frozen_root_id": "r_78c31b568deecf44ef9d",
+      "batch_id": "B0060",
+      "published_root_id": "r_b2fbc22c4365c85e",
+      "root": "ferv",
+      "meaning": "boil, glow",
+      "word": "fervent",
+      "source_entries": [
+        {
+          "id": "s_2b63acc9764eabe9ba49",
+          "project": "generated-roots",
+          "entry": "ferv",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_906e4086d5e7c1589bab",
+          "project": "morphemes",
+          "entry": "ferv-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fervere boil/glow supplies ferv- in fervent and fervor, with the established figurative heat/ardor sense.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_6ca9829d78b45891fa4f",
+      "frozen_root_id": "r_78c31b568deecf44ef9d",
+      "batch_id": "B0060",
+      "published_root_id": "r_b2fbc22c4365c85e",
+      "root": "ferv",
+      "meaning": "boil, glow",
+      "word": "fervor",
+      "source_entries": [
+        {
+          "id": "s_2b63acc9764eabe9ba49",
+          "project": "generated-roots",
+          "entry": "ferv",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_906e4086d5e7c1589bab",
+          "project": "morphemes",
+          "entry": "ferv-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fervere boil/glow supplies ferv- in fervent and fervor, with the established figurative heat/ardor sense.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_207888f6915b06432b63",
+      "frozen_root_id": "r_fb25a13cfe377e605e46",
+      "batch_id": "B0063",
+      "published_root_id": "r_8b0e07cfdfd90b72",
+      "root": "flict",
+      "meaning": "strike, dash",
+      "word": "inflict",
+      "source_entries": [
+        {
+          "id": "s_8bbac01bd120dd22cff1",
+          "project": "generated-roots",
+          "entry": "flict",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_bfe4c813bac9b50adaed",
+          "project": "morphemes",
+          "entry": "flig-, flict-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Inflict preserves the flict- participial stem of Latin fligere strike; this is an attested stem rather than a substring.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_ad9458f7bc7862484a20",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "confluence",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        },
+        {
+          "id": "s_b41167c19ab1ffd0403f",
+          "project": "morphemes",
+          "entry": "flu-, fluv-, flux-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_9860cae35190b8277a70",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "fluency",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        },
+        {
+          "id": "s_b41167c19ab1ffd0403f",
+          "project": "morphemes",
+          "entry": "flu-, fluv-, flux-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_90ebed84bc32374c151a",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "fluent",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        },
+        {
+          "id": "s_b41167c19ab1ffd0403f",
+          "project": "morphemes",
+          "entry": "flu-, fluv-, flux-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_d01c60aaee70b10ec2ce",
+          "project": "generated-roots",
+          "entry": "flu",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_75833323da423c1a4385",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "fluently",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_f6003ef0e9469b872e29",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "influence",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        },
+        {
+          "id": "s_b41167c19ab1ffd0403f",
+          "project": "morphemes",
+          "entry": "flu-, fluv-, flux-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_d01c60aaee70b10ec2ce",
+          "project": "generated-roots",
+          "entry": "flu",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_363f6e080e906aa43502",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "influenced",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_8e5d281cb3cadfb005c3",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "influencing",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_f472fdee135e64f8d165",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "influential",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_e7d02d0cc83a1d65cf09",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "mellifluous",
+      "source_entries": [
+        {
+          "id": "s_d01c60aaee70b10ec2ce",
+          "project": "generated-roots",
+          "entry": "flu",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_876fe025f75803e7ee66",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "superfluity",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_f74b4a2b1af61106e08b",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "superfluous",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        },
+        {
+          "id": "s_b41167c19ab1ffd0403f",
+          "project": "morphemes",
+          "entry": "flu-, fluv-, flux-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_d01c60aaee70b10ec2ce",
+          "project": "generated-roots",
+          "entry": "flu",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_7a4b34f598fca219acc5",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "root": "flu",
+      "meaning": "flow, river",
+      "word": "uninfluenced",
+      "source_entries": [
+        {
+          "id": "s_41c340088a4ec08f5ffc",
+          "project": "engra",
+          "entry": "flu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin fluere flow supplies flu-: fluent, confluence, mellifluous and superfluous preserve that stem, while influence historically denotes flowing in; the listed inflections and derivatives retain their verified bases.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_cfe652e87d52aac4dc62",
+      "frozen_root_id": "r_2d8d693177ac44895fc0",
+      "batch_id": "B0066",
+      "published_root_id": "r_a4ced39aeed55720",
+      "root": "front",
+      "meaning": "forehead, face",
+      "word": "affront",
+      "source_entries": [
+        {
+          "id": "s_222ddeaa845d7afa2f56",
+          "project": "morphemes",
+          "entry": "front-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_aec3c4041526d89e8a01",
+          "project": "generated-roots",
+          "entry": "front",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin frons, genitive frontis, forehead/face supplies front- in frontal and the established face-facing developments affront, confront and frontage.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_76559b10275c00b02a17",
+      "frozen_root_id": "r_2d8d693177ac44895fc0",
+      "batch_id": "B0066",
+      "published_root_id": "r_a4ced39aeed55720",
+      "root": "front",
+      "meaning": "forehead, face",
+      "word": "confront",
+      "source_entries": [
+        {
+          "id": "s_222ddeaa845d7afa2f56",
+          "project": "morphemes",
+          "entry": "front-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_aec3c4041526d89e8a01",
+          "project": "generated-roots",
+          "entry": "front",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin frons, genitive frontis, forehead/face supplies front- in frontal and the established face-facing developments affront, confront and frontage.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_8fb16649e6bef59de30c",
+      "frozen_root_id": "r_2d8d693177ac44895fc0",
+      "batch_id": "B0066",
+      "published_root_id": "r_a4ced39aeed55720",
+      "root": "front",
+      "meaning": "forehead, face",
+      "word": "frontage",
+      "source_entries": [
+        {
+          "id": "s_222ddeaa845d7afa2f56",
+          "project": "morphemes",
+          "entry": "front-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin frons, genitive frontis, forehead/face supplies front- in frontal and the established face-facing developments affront, confront and frontage.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_91caa0d0c706333b35f2",
+      "frozen_root_id": "r_2d8d693177ac44895fc0",
+      "batch_id": "B0066",
+      "published_root_id": "r_a4ced39aeed55720",
+      "root": "front",
+      "meaning": "forehead, face",
+      "word": "frontal",
+      "source_entries": [
+        {
+          "id": "s_222ddeaa845d7afa2f56",
+          "project": "morphemes",
+          "entry": "front-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_aec3c4041526d89e8a01",
+          "project": "generated-roots",
+          "entry": "front",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin frons, genitive frontis, forehead/face supplies front- in frontal and the established face-facing developments affront, confront and frontage.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_66ec703c1b1dd8e9407b",
+      "frozen_root_id": "r_13338da6d6f8314822ba",
+      "batch_id": "B0068",
+      "published_root_id": "r_69a15927aae8982a",
+      "root": "gastr",
+      "meaning": "stomach",
+      "word": "gastronomic",
+      "source_entries": [
+        {
+          "id": "s_79a4cf57b0e7470f2b15",
+          "project": "morphemes",
+          "entry": "gastr-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek gaster, genitive gastros, stomach supplies gastr- with combining vowel -o- in gastronomy and gastronomic; the source explicitly records gastr as well as gastro.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_fca7fd2b836c016684c6",
+      "frozen_root_id": "r_13338da6d6f8314822ba",
+      "batch_id": "B0068",
+      "published_root_id": "r_69a15927aae8982a",
+      "root": "gastr",
+      "meaning": "stomach",
+      "word": "gastronomy",
+      "source_entries": [
+        {
+          "id": "s_79a4cf57b0e7470f2b15",
+          "project": "morphemes",
+          "entry": "gastr-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e6a2363908e90ea79acd",
+          "project": "generated-roots",
+          "entry": "gastr",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek gaster, genitive gastros, stomach supplies gastr- with combining vowel -o- in gastronomy and gastronomic; the source explicitly records gastr as well as gastro.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_fbb0cf48a18adb3c6325",
+      "frozen_root_id": "r_ff3663688727bbb077e6",
+      "batch_id": "B0070",
+      "published_root_id": "r_6f8ff74c48e9446d",
+      "root": "germ",
+      "meaning": "sprout, vital part",
+      "word": "germinal",
+      "source_entries": [
+        {
+          "id": "s_5d1011d054fa5b291ec2",
+          "project": "morphemes",
+          "entry": "germ-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The explicitly recorded germ- sprout/vital-part group supports germinal, germinate and germination from Latin germen/germinis; do not infer the microorganism sense from sprout alone.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_baf2afe2741b260a6e14",
+      "frozen_root_id": "r_ff3663688727bbb077e6",
+      "batch_id": "B0070",
+      "published_root_id": "r_6f8ff74c48e9446d",
+      "root": "germ",
+      "meaning": "sprout, vital part",
+      "word": "germinate",
+      "source_entries": [
+        {
+          "id": "s_52412f203c234105c3e2",
+          "project": "generated-roots",
+          "entry": "germ",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_5d1011d054fa5b291ec2",
+          "project": "morphemes",
+          "entry": "germ-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The explicitly recorded germ- sprout/vital-part group supports germinal, germinate and germination from Latin germen/germinis; do not infer the microorganism sense from sprout alone.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_805b812d4df22a856b58",
+      "frozen_root_id": "r_ff3663688727bbb077e6",
+      "batch_id": "B0070",
+      "published_root_id": "r_6f8ff74c48e9446d",
+      "root": "germ",
+      "meaning": "sprout, vital part",
+      "word": "germination",
+      "source_entries": [
+        {
+          "id": "s_5d1011d054fa5b291ec2",
+          "project": "morphemes",
+          "entry": "germ-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "The explicitly recorded germ- sprout/vital-part group supports germinal, germinate and germination from Latin germen/germinis; do not infer the microorganism sense from sprout alone.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_d0591714e10d91edfb54",
+      "frozen_root_id": "r_d5da31aee80f1722d7b8",
+      "batch_id": "B0071",
+      "published_root_id": "r_6f2f233bf7dc313c",
+      "root": "gloss",
+      "meaning": "tongue, speech, language",
+      "word": "glossary",
+      "source_entries": [
+        {
+          "id": "s_98113ae9ff151d5b5893",
+          "project": "morphemes",
+          "entry": "gloss-, glot-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_9e44ca17e9a923aa49f0",
+          "project": "generated-roots",
+          "entry": "gloss",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Glossary descends through Latin glossarium from Greek glossa tongue/language/word; gloss- is that stem, distinct from gloss shine.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_21399ef52833e5dedee7",
+      "frozen_root_id": "r_e120c46c505ea76753a3",
+      "batch_id": "B0071",
+      "published_root_id": "r_1626fb15eccc3f84",
+      "root": "glutin",
+      "meaning": "glue",
+      "word": "agglutinate",
+      "source_entries": [
+        {
+          "id": "s_c2ae24f1e7bd33ea273e",
+          "project": "morphemes",
+          "entry": "glutin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e97e6565a40c18fd0450",
+          "project": "generated-roots",
+          "entry": "glutin",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin gluten, genitive glutinis, glue supplies glutin- in glutinous and agglutinate with its transparent derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_3f727e23841e05944c6a",
+      "frozen_root_id": "r_e120c46c505ea76753a3",
+      "batch_id": "B0071",
+      "published_root_id": "r_1626fb15eccc3f84",
+      "root": "glutin",
+      "meaning": "glue",
+      "word": "agglutination",
+      "source_entries": [
+        {
+          "id": "s_c2ae24f1e7bd33ea273e",
+          "project": "morphemes",
+          "entry": "glutin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin gluten, genitive glutinis, glue supplies glutin- in glutinous and agglutinate with its transparent derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_070ba90aa7fed01f141c",
+      "frozen_root_id": "r_e120c46c505ea76753a3",
+      "batch_id": "B0071",
+      "published_root_id": "r_1626fb15eccc3f84",
+      "root": "glutin",
+      "meaning": "glue",
+      "word": "agglutinative",
+      "source_entries": [
+        {
+          "id": "s_c2ae24f1e7bd33ea273e",
+          "project": "morphemes",
+          "entry": "glutin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin gluten, genitive glutinis, glue supplies glutin- in glutinous and agglutinate with its transparent derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_8a8c2932d5e344beee15",
+      "frozen_root_id": "r_e120c46c505ea76753a3",
+      "batch_id": "B0071",
+      "published_root_id": "r_1626fb15eccc3f84",
+      "root": "glutin",
+      "meaning": "glue",
+      "word": "glutinous",
+      "source_entries": [
+        {
+          "id": "s_c2ae24f1e7bd33ea273e",
+          "project": "morphemes",
+          "entry": "glutin-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_e97e6565a40c18fd0450",
+          "project": "generated-roots",
+          "entry": "glutin",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin gluten, genitive glutinis, glue supplies glutin- in glutinous and agglutinate with its transparent derivatives.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_badcd5889eadf36ee4fc",
+      "frozen_root_id": "r_4361cc01e665e9d5dfa0",
+      "batch_id": "B0073",
+      "published_root_id": "r_c6dd902d6d5d55b8",
+      "root": "grand",
+      "meaning": "grand, great, large",
+      "word": "aggrandize",
+      "source_entries": [
+        {
+          "id": "s_06f3f028eb0f821e9ba6",
+          "project": "generated-roots",
+          "entry": "grand",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_cf6c7d57e04fe7106406",
+          "project": "morphemes",
+          "entry": "grand-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin grandis great/large supplies grand- in the listed size/grandeur formations; kinship grand- is held apart.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_869c0e8180150aa4823d",
+      "frozen_root_id": "r_4361cc01e665e9d5dfa0",
+      "batch_id": "B0073",
+      "published_root_id": "r_c6dd902d6d5d55b8",
+      "root": "grand",
+      "meaning": "grand, great, large",
+      "word": "grandeur",
+      "source_entries": [
+        {
+          "id": "s_06f3f028eb0f821e9ba6",
+          "project": "generated-roots",
+          "entry": "grand",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_cf6c7d57e04fe7106406",
+          "project": "morphemes",
+          "entry": "grand-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin grandis great/large supplies grand- in the listed size/grandeur formations; kinship grand- is held apart.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_8a7df335da8e76809f3d",
+      "frozen_root_id": "r_4361cc01e665e9d5dfa0",
+      "batch_id": "B0073",
+      "published_root_id": "r_c6dd902d6d5d55b8",
+      "root": "grand",
+      "meaning": "grand, great, large",
+      "word": "grandiloquent",
+      "source_entries": [
+        {
+          "id": "s_06f3f028eb0f821e9ba6",
+          "project": "generated-roots",
+          "entry": "grand",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_cf6c7d57e04fe7106406",
+          "project": "morphemes",
+          "entry": "grand-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin grandis great/large supplies grand- in the listed size/grandeur formations; kinship grand- is held apart.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_91b27e48098b8d1dc94e",
+      "frozen_root_id": "r_4361cc01e665e9d5dfa0",
+      "batch_id": "B0073",
+      "published_root_id": "r_c6dd902d6d5d55b8",
+      "root": "grand",
+      "meaning": "grand, great, large",
+      "word": "grandiose",
+      "source_entries": [
+        {
+          "id": "s_06f3f028eb0f821e9ba6",
+          "project": "generated-roots",
+          "entry": "grand",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_cf6c7d57e04fe7106406",
+          "project": "morphemes",
+          "entry": "grand-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin grandis great/large supplies grand- in the listed size/grandeur formations; kinship grand- is held apart.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_310c550f4712a93d10cf",
+      "frozen_root_id": "r_4361cc01e665e9d5dfa0",
+      "batch_id": "B0073",
+      "published_root_id": "r_c6dd902d6d5d55b8",
+      "root": "grand",
+      "meaning": "grand, great, large",
+      "word": "grandstand",
+      "source_entries": [
+        {
+          "id": "s_06f3f028eb0f821e9ba6",
+          "project": "generated-roots",
+          "entry": "grand",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_cf6c7d57e04fe7106406",
+          "project": "morphemes",
+          "entry": "grand-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin grandis great/large supplies grand- in the listed size/grandeur formations; kinship grand- is held apart.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_64cc661fe32a306f1a40",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "cohabit",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_db2ab676842849d6ce48",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "cohabitation",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_c1b4ac69b4877a63041b",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "habitable",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_898f0b391c55b1344a8a",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "habitat",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_d54e458700f034fb8db2",
+          "project": "generated-roots",
+          "entry": "habit",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_ed72863f7386dfdf580f",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "habitation",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_d54e458700f034fb8db2",
+          "project": "generated-roots",
+          "entry": "habit",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_aea95fbe8d5aafda4d2a",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "habitual",
+      "source_entries": [
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_7d20df015247254473e3",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "habituate",
+      "source_entries": [
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_786804bd8941f7ddfe6e",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "habitude",
+      "source_entries": [
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_194294200a275d482f50",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "inhabit",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_60152335a6bdc77ad1d6",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "inhabitable",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_595b553d1694596bb950",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "inhabitant",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_d54e458700f034fb8db2",
+          "project": "generated-roots",
+          "entry": "habit",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_6764f1b240592d9500c7",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "inhabitation",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        },
+        {
+          "id": "s_de377b553183b3ac8906",
+          "project": "morphemes",
+          "entry": "hab-, -hib-, habit-, -hibit-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_f1ab184f621004ed636b",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "inhabited",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_644bdea56516946d0654",
+      "frozen_root_id": "r_09aee23b1fd4f638918d",
+      "batch_id": "B0076",
+      "published_root_id": "r_8efc7709608cf85b",
+      "root": "habit",
+      "meaning": "have, dwell, live, abide",
+      "word": "uninhabitable",
+      "source_entries": [
+        {
+          "id": "s_ba0024b0bccb4891b1fd",
+          "project": "engra",
+          "entry": "habit",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/habit.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Latin habitare dwell is the frequentative of habere have; habit- is also the participial stem behind habitus. Preserve the original have/dwell glosses. Dwelling-only sources support dwelling forms; habitual, habituate and habitude use only the morphemes have scope, never the dwelling-only cards.",
+      "evidence_urls": [
+        "https://blog.oup.com/2011/04/habit/"
+      ]
+    },
+    {
+      "relation_id": "e_b0cbda07abe931279143",
+      "frozen_root_id": "r_ae6c79d10f1fd4106507",
+      "batch_id": "B0080",
+      "published_root_id": "r_093a53d03f3c4557",
+      "root": "hero",
+      "meaning": "hero",
+      "word": "antihero",
+      "source_entries": [
+        {
+          "id": "s_c68571ff909773442030",
+          "project": "morphemes",
+          "entry": "hero-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek heros supplies the hero- stem; heroine preserves the Greek feminine formation, and antihero/heroism retain the same hero base.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/heroine"
+      ]
+    },
+    {
+      "relation_id": "e_c0514fa72dcd6e495118",
+      "frozen_root_id": "r_ae6c79d10f1fd4106507",
+      "batch_id": "B0080",
+      "published_root_id": "r_093a53d03f3c4557",
+      "root": "hero",
+      "meaning": "hero",
+      "word": "heroine",
+      "source_entries": [
+        {
+          "id": "s_c68571ff909773442030",
+          "project": "morphemes",
+          "entry": "hero-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek heros supplies the hero- stem; heroine preserves the Greek feminine formation, and antihero/heroism retain the same hero base.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/heroine"
+      ]
+    },
+    {
+      "relation_id": "e_cfff832e2526ff3263c3",
+      "frozen_root_id": "r_ae6c79d10f1fd4106507",
+      "batch_id": "B0080",
+      "published_root_id": "r_093a53d03f3c4557",
+      "root": "hero",
+      "meaning": "hero",
+      "word": "heroism",
+      "source_entries": [
+        {
+          "id": "s_13bd8120cd106c2d2e09",
+          "project": "generated-roots",
+          "entry": "hero",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_c68571ff909773442030",
+          "project": "morphemes",
+          "entry": "hero-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek heros supplies the hero- stem; heroine preserves the Greek feminine formation, and antihero/heroism retain the same hero base.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/heroine"
+      ]
+    },
+    {
+      "relation_id": "e_7f5ce28f5813359a10ac",
+      "frozen_root_id": "r_4e7edb456526c6d9b581",
+      "batch_id": "B0081",
+      "published_root_id": "r_770a4f503eafd9e2",
+      "root": "hiero",
+      "meaning": "holy, sacred",
+      "word": "hieroglyph",
+      "source_entries": [
+        {
+          "id": "s_79337f08ef39b008c131",
+          "project": "morphemes",
+          "entry": "hier-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek hieros holy/sacred supplies hiero- in hieroglyph and hieroglyphics.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_0d240700e2baa079c458",
+      "frozen_root_id": "r_4e7edb456526c6d9b581",
+      "batch_id": "B0081",
+      "published_root_id": "r_770a4f503eafd9e2",
+      "root": "hiero",
+      "meaning": "holy, sacred",
+      "word": "hieroglyphics",
+      "source_entries": [
+        {
+          "id": "s_77e1b48810d52c9d59e8",
+          "project": "generated-roots",
+          "entry": "hiero",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        },
+        {
+          "id": "s_79337f08ef39b008c131",
+          "project": "morphemes",
+          "entry": "hier-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Greek hieros holy/sacred supplies hiero- in hieroglyph and hieroglyphics.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_5638515be7b590676d97",
+      "frozen_root_id": "r_15c2c15ec8faf2eb483b",
+      "batch_id": "B0086",
+      "published_root_id": "r_ba40968b5b445817",
+      "root": "ideo",
+      "meaning": "idea, thought",
+      "word": "ideology",
+      "source_entries": [
+        {
+          "id": "s_a5cdd2a0b226999c6df6",
+          "project": "morphemes",
+          "entry": "ide-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_f51ecf23188bbbe87d15",
+          "project": "generated-roots",
+          "entry": "ideo",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Ideology uses the established ideo- combining form from Greek idea; the idea/thought sense matches both eligible source cards.",
+      "evidence_urls": []
+    },
+    {
+      "relation_id": "e_95772b62869588a8b00c",
+      "frozen_root_id": "r_d926c30a7d873c4b897c",
+      "batch_id": "B0084",
+      "published_root_id": "r_49a56c47a6667775",
+      "root": "hydro",
+      "meaning": "water, hydrogen, liquid",
+      "word": "hydrophilic",
+      "source_entries": [
+        {
+          "id": "s_9ab6d6ce43e6e53e96c4",
+          "project": "morphemes",
+          "entry": "hydr-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Hydrophilic denotes affinity for water; hydro is the marked component in MorphoLex.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_7bec75e6c60aa9e72435",
+      "frozen_root_id": "r_d926c30a7d873c4b897c",
+      "batch_id": "B0084",
+      "published_root_id": "r_49a56c47a6667775",
+      "root": "hydro",
+      "meaning": "water, hydrogen, liquid",
+      "word": "hydrophobic",
+      "source_entries": [
+        {
+          "id": "s_9ab6d6ce43e6e53e96c4",
+          "project": "morphemes",
+          "entry": "hydr-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Hydrophobic denotes repulsion of water; hydro is the marked component in MorphoLex.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_f95872034cc5c7a69cc6",
+      "frozen_root_id": "r_d926c30a7d873c4b897c",
+      "batch_id": "B0084",
+      "published_root_id": "r_49a56c47a6667775",
+      "root": "hydro",
+      "meaning": "water, hydrogen, liquid",
+      "word": "hydroponic",
+      "source_entries": [
+        {
+          "id": "s_9ab6d6ce43e6e53e96c4",
+          "project": "morphemes",
+          "entry": "hydr-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Hydroponic concerns growing plants using water-based nutrient solutions; hydro is the marked component in MorphoLex.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_9a4e967e7a6765ff80a7",
+      "frozen_root_id": "r_d926c30a7d873c4b897c",
+      "batch_id": "B0084",
+      "published_root_id": "r_49a56c47a6667775",
+      "root": "hydro",
+      "meaning": "water, hydrogen, liquid",
+      "word": "hydrostatic",
+      "source_entries": [
+        {
+          "id": "s_9ab6d6ce43e6e53e96c4",
+          "project": "morphemes",
+          "entry": "hydr-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Hydrostatic concerns fluids at rest; hydro is the marked component in MorphoLex.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_a004ae21005c038deffd",
+      "frozen_root_id": "r_15ca4104a8e340a93e9e",
+      "batch_id": "B0099",
+      "published_root_id": "r_57c278d8842f0862",
+      "root": "lingu",
+      "meaning": "language, tongue",
+      "word": "linguistically",
+      "source_entries": [
+        {
+          "id": "s_21f0cb170c6378fb4d20",
+          "project": "engra",
+          "entry": "lingu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/lingu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Linguistically derives from linguistic and concerns language; MorphoLex marks lingu and the source traces the linguistic family.",
+      "evidence_urls": [
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/lingu.yml",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_48e00e02c321b59c7993",
+      "frozen_root_id": "r_15ca4104a8e340a93e9e",
+      "batch_id": "B0099",
+      "published_root_id": "r_57c278d8842f0862",
+      "root": "lingu",
+      "meaning": "language, tongue",
+      "word": "nonlinguistic",
+      "source_entries": [
+        {
+          "id": "s_21f0cb170c6378fb4d20",
+          "project": "engra",
+          "entry": "lingu",
+          "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/lingu.yml"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Nonlinguistic means not pertaining to language; MorphoLex marks lingu and the source traces the linguistic family.",
+      "evidence_urls": [
+        "https://github.com/eslsoft/engra/blob/master/dict/roots/lingu.yml",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_11a1f69f0368e3fbf809",
+      "frozen_root_id": "r_2a7a1cb84c8691dad12d",
+      "batch_id": "B0099",
+      "published_root_id": "r_efe991c6b9d1f7c4",
+      "root": "litera",
+      "meaning": "letter, reading",
+      "word": "alliterative",
+      "source_entries": [
+        {
+          "id": "s_626c176cb0f0641fb33a",
+          "project": "morphemes",
+          "entry": "liter-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Alliterative derives from alliterate/alliteration, concerning repetition of initial sounds or letters; MorphoLex marks litera, historically letter.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_41d7ff4d14b840012050",
+      "frozen_root_id": "r_2a7a1cb84c8691dad12d",
+      "batch_id": "B0099",
+      "published_root_id": "r_efe991c6b9d1f7c4",
+      "root": "litera",
+      "meaning": "letter, reading",
+      "word": "transliteration",
+      "source_entries": [
+        {
+          "id": "s_626c176cb0f0641fb33a",
+          "project": "morphemes",
+          "entry": "liter-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Transliteration converts writing between scripts, letter by letter; MorphoLex marks litera and the published family includes transliterate.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_ff14283146fa532c93ab",
+      "frozen_root_id": "r_a25ca791446f3659f6d3",
+      "batch_id": "B0099",
+      "published_root_id": "r_07aae517f7990b27",
+      "root": "litho",
+      "meaning": "mineral, rock, stone, fossil",
+      "word": "photolithography",
+      "source_entries": [
+        {
+          "id": "s_835f47aca8b136b1ffd8",
+          "project": "morphemes",
+          "entry": "lith-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Photolithography derives from lithography, a printing process historically using stone; MorphoLex marks litho. Modern processes need not use stone.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_93bd80d57518c3ca0df4",
+      "frozen_root_id": "r_222f930b87524636da58",
+      "batch_id": "B0063",
+      "published_root_id": "r_8993ea030884f3cd",
+      "root": "flex",
+      "meaning": "bend",
+      "word": "circumflex",
+      "source_entries": [
+        {
+          "id": "s_8ce59facca597a20948b",
+          "project": "morphemes",
+          "entry": "flect-, flex-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_a4190f70c0ac4a113eb0",
+          "project": "generated-roots",
+          "entry": "flex",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Circumflex denotes a bent or curved mark; the source lists it under flex “bend”, and MorphoLex marks flex as its root.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_ec97a0ff51d557fde712",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "bigamous",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Bigamous denotes having two spouses; the marriage sense of gam is supported by the source and the marked MorphoLex component.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_202f55ce73de484a6d91",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "endogamous",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "In its marriage sense, endogamous concerns marriage within a group; the source and MorphoLex identify gam. Other biological uses need their own sense assessment.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_51ac61be5052fcef37ea",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "endogamy",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        },
+        {
+          "id": "s_8d12b3765508f5835d80",
+          "project": "generated-roots",
+          "entry": "gam",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "In its marriage sense, endogamy concerns marriage within a group; the source and MorphoLex identify gam. Other biological uses need their own sense assessment.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_d78b073200df3fd0c522",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "exogamous",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "In its marriage sense, exogamous concerns marriage outside a group; the source and MorphoLex identify gam. Other biological uses need their own sense assessment.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_c79e3654bed588e9e53b",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "exogamy",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "In its marriage sense, exogamy concerns marriage outside a group; the source and MorphoLex identify gam. Other biological uses need their own sense assessment.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_8a761bc14337fadfd740",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "monogamous",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "In the marriage sense, monogamous describes having one spouse; the source and MorphoLex identify gam. Other biological uses need their own sense assessment.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_9f242067dbff02157f42",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "polygamist",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "A polygamist practices polygamy, involving multiple spouses; the source and MorphoLex identify gam.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_17c13cfd31394a1a93ef",
+      "frozen_root_id": "r_981f4e620f014826311b",
+      "batch_id": "B0068",
+      "published_root_id": "r_8133ff5955424c2a",
+      "root": "gam",
+      "meaning": "marriage",
+      "word": "polygamous",
+      "source_entries": [
+        {
+          "id": "s_0443a34c45012ce03e67",
+          "project": "morphemes",
+          "entry": "gam-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "In the marriage sense, polygamous describes having multiple spouses; the source and MorphoLex identify gam. Other biological uses need their own sense assessment.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_f0ecb87602b7f12f8527",
+      "frozen_root_id": "r_b8e2181141b8d667bee1",
+      "batch_id": "B0073",
+      "published_root_id": "r_20627ab25730fdc6",
+      "root": "grat",
+      "meaning": "pleasing",
+      "word": "gratification",
+      "source_entries": [
+        {
+          "id": "s_a1f3b5573f2aa44f6e3b",
+          "project": "morphemes",
+          "entry": "grat-",
+          "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Gratification continues gratify, “to please or satisfy”, an existing example; the source and MorphoLex identify grat.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_065b089b96f630e5cffa",
+      "frozen_root_id": "r_30de0ac1754027e526fd",
+      "batch_id": "B0074",
+      "published_root_id": "r_70cfdb2938fbedd4",
+      "root": "gress",
+      "meaning": "to walk, go",
+      "word": "congressman",
+      "source_entries": [
+        {
+          "id": "s_6344bfe70fa49fa45f75",
+          "project": "generated-roots",
+          "entry": "gress",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Congressman is formed from congress and man; congress, an existing example, historically means a coming together, from gress “go”. MorphoLex marks gress.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    },
+    {
+      "relation_id": "e_77c0fd31b47bd088f21c",
+      "frozen_root_id": "r_30de0ac1754027e526fd",
+      "batch_id": "B0074",
+      "published_root_id": "r_70cfdb2938fbedd4",
+      "root": "gress",
+      "meaning": "to walk, go",
+      "word": "progressive",
+      "source_entries": [
+        {
+          "id": "s_6344bfe70fa49fa45f75",
+          "project": "generated-roots",
+          "entry": "gress",
+          "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json"
+        }
+      ],
+      "evidence_method": "source_relation_and_verified_base",
+      "note": "Progressive continues progress, an existing example, with the sense of moving forward; the source and MorphoLex identify gress “go”.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+        "https://github.com/hugomailhot/MorphoLex-en"
+      ]
+    }
+  ],
+  "reference": "https://github.com/hugomailhot/MorphoLex-en"
+}

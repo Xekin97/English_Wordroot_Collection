@@ -3,10 +3,10 @@ r_dffedf70e58c6f8c,ac,ac,"sharp, bitter, sour",root,Latin,"ac, acr, acer",acerbi
 r_91e3505e93fc4ae4,acer,acer,"sharp, bitter, sour",root,Latin,"ac, acr, acer",acerbic | acerbity
 r_d3624f00782fe234,acr,acr,"sharp, bitter, sour",root,Latin,"ac, acr, acer",acrid | acrimony
 r_ae75124729a12b87,acro,acro,"high, extremity, tip",root,Greek,acro,acrobat | acrobatics | acrogen | acromegaly | acronym | acrophobia | acropolis | acrostic
-r_9f635c08c6e50fcf,act,act,"do, drive",root,Latin,"act, ag",action | activate | active | actively | activist | activity | actor | actress | actual | enact | hyperactive | interact | interaction | interactive | radioactive | react | reaction | reactor | retroactive | transact | transaction
+r_9f635c08c6e50fcf,act,act,"do, drive",root,Latin,"act, ag",action | activate | active | actively | activist | activity | actor | actress | actual | enact | hyperactive | interact | interaction | interactive | radioactive | react | reaction | reactor | retroactive | transact | transaction | counteract | reactionary
 r_d340c791ec7579ce,-aemia,-aemia,blood; blood condition,root,Greek,"hem, hemo, hemat, hemato, hema, -emia, -aemia",anaemia
 r_57e614f4a597fe5c,aer,aer,"air, gas",root,Greek,"aer, aero",aerate | aerial | aerobatics | aerobe | aerobic | aerobics | aerobiology | aerodynamics | aeroembolism | aerolite | aerology | aeromechanics | aeronautics | aeropause | aerosol | aerospace | aerostat | aerostatics | anaerobe | anaerobic
-r_22e79fe7d2789aa9,aero,aero,"air, gas",root,Greek,"aer, aero",aerobatics | aerobe | aerobic | aerobics | aerobiology | aerodynamics | aeroembolism | aerolite | aerology | aeromechanics | aeronautics | aeropause | aerosol | aerospace | aerostat | aerostatics | anaerobe | anaerobic
+r_22e79fe7d2789aa9,aero,aero,"air, gas",root,Greek,"aer, aero",aerobatics | aerobe | aerobic | aerobics | aerobiology | aerodynamics | aeroembolism | aerolite | aerology | aeromechanics | aeronautics | aeropause | aerosol | aerospace | aerostat | aerostatics | anaerobe | anaerobic | aerodynamic | aeroplane
 r_2e46d4029a261403,aesthes,aesthes,"feeling, sensation, sense perception",root,Greek,"esthes, aesthes, esthet, aesthet",
 r_a2447f4fa0133ba9,aesthet,aesthet,"feeling, sensation, sense perception",root,Greek,"esthes, aesthes, esthet, aesthet",aesthete | aesthetic | aesthetics
 r_77bce479152d9233,aev,aev,"age, era",root,Latin,ev (aev),
@@ -37,7 +37,7 @@ r_7a05856742af2a0a,ambul,ambul,walk,root,Latin,"amb, ambl, ambul",ambulance | am
 r_3b99d809f0a090a7,amor,amor,"love, friendship",root,Latin,"am, ama, amor",amorous | enamor
 r_355c182961c31398,andr,andr,"man, male",root,Greek,"andr, andro",androecium | androgen | androgynous | android | androsterone | gynandromorph | monandry | polyandry
 r_606903eb61c88053,andro,andro,"man, male",root,Greek,"andr, andro",androecium | androgen | androgynous | android | androsterone | gynandromorph
-r_0c5542eb6b36fcfb,anim,anim,"mind, spirit, life",root,Latin,anim,animadvert | animal | animate | animation | inanimate | magnanimity | pusillanimous | unanimous
+r_0c5542eb6b36fcfb,anim,anim,"mind, spirit, life",root,Latin,anim,animadvert | animal | animate | animation | inanimate | magnanimity | pusillanimous | unanimous | magnanimous
 r_a65c705642564d12,ann,ann,"year, years",root,Latin,"ann, enn",annals | anniversary | annual | annuity | biannual | semiannual | superannuated
 r_5a4b72f91e813fe4,anth,anth,flower,root,Greek,"anth, antho",amaranth | anther | antheridium | anthology | anthozoan | chrysanthemum | dianthus | perianth | polyanthus
 r_f0020bcc04a7080e,antho,antho,flower,root,Greek,"anth, antho",anthology | anthozoan
@@ -91,8 +91,8 @@ r_aed9ee6be3227c38,brevi,brevi,short,root,Latin,brev,abbreviate | abbreviated | 
 r_67a08204e6c2df69,cad,cad,to fall,root,Latin,"cad, cas, cid2",cadaver | cadaverous | cadence | decadent
 r_3a312f0fea6b8bde,cap,cap1,"to take, catch",root,Latin,"cap1, cip, capt, cept, -ceive, -ceit",capability | capable | capacious | capacity | captive | capture | incapable
 r_8ad14917b0a5e4fb,cap,cap2,head,root,Latin,"cap2, capit, cipit",capital | capitalism | capitalist | capitalistic | capitalization | capitalize | capitally | capitation | capitulate | capitulation | capo | captain | decapitate | overcapitalize | recapitalize | recapitulate | recapitulation | undercapitalize
-r_8e1da1fc26d31ec0,capit,capit,head,root,Latin,"cap2, capit, cipit",capital | capitalism | capitalist | capitalistic | capitalization | capitalize | capitally | capitation | capitulate | capitulation | decapitate | overcapitalize | recapitalize | recapitulate | recapitulation | undercapitalize
-r_aaebaab6d2f347ab,capt,capt,"to take, catch",root,Latin,"cap1, cip, capt, cept, -ceive, -ceit",captive | capture
+r_8e1da1fc26d31ec0,capit,capit,head,root,Latin,"cap2, capit, cipit",capital | capitalism | capitalist | capitalistic | capitalization | capitalize | capitally | capitation | capitulate | capitulation | decapitate | overcapitalize | recapitalize | recapitulate | recapitulation | undercapitalize | decapitation
+r_aaebaab6d2f347ab,capt,capt,"to take, catch",root,Latin,"cap1, cip, capt, cept, -ceive, -ceit",captive | capture | captivate | captor
 r_7c1ba7399c738fe5,cardi,cardi,heart,root,Greek,"cardi, cardio",cardia | cardiac | cardiogram | cardiograph | cardiology | cardiovascular | endocarditis | epicardium | myocardiograph | myocardium | pericarditis | pericardium
 r_cc17c0381035b645,cardio,cardio,heart,root,Greek,"cardi, cardio",cardiogram | cardiograph | cardiology | cardiovascular | myocardiograph
 r_62d7a4d78857be8c,carn,carn,"flesh, body",root,Latin,"carn, carni",carnage | carnal | carnation | carnelian | carnival | carnivore | carnivorous | incarnadine | incarnate | incarnation | reincarnation
@@ -113,12 +113,12 @@ r_92c7c1a594a1468b,centr,centr,center,root,Greek,"centr, centri, centro",anthrop
 r_28f6b5d3b84e5041,centri,centri,center,root,Greek,"centr, centri, centro",anthropocentric | centric | centrifugal | centrifuge | centripetal | centrist | concentric | eccentric | egocentric | geocentric | heliocentric | polycentrism
 r_4c52f7d6030cd85c,centro,centro,center,root,Greek,"centr, centri, centro",centrosome
 r_ed69c803d389045a,cephal,cephal,"head, brain",root,Greek,"cephal, cephalo, encephal, encephalo",brachycephalic | cephalic | cephalopod | cephalothorax | dicephalous | dolichocephalic | hydrocephalus | macrocephaly | microcephaly | oxycephaly
-r_e91fe2659d2d120a,cephalo,cephalo,"head, brain",root,Greek,"cephal, cephalo, encephal, encephalo",cephalopod | cephalothorax | dicephalous
+r_e91fe2659d2d120a,cephalo,cephalo,"head, brain",root,Greek,"cephal, cephalo, encephal, encephalo",cephalopod | cephalothorax | dicephalous | electroencephalograph
 r_bedbca4b0b3e7f4c,cept,cept,"to take, catch",root,Latin,"cap1, cip, capt, cept, -ceive, -ceit",accept | acceptable | acceptance | concept | deception | deceptive | except | exception | intercept | perceptive | precept | reception | susceptible
 r_9533be069bf586c4,cerebr,cerebr,brain,root,Latin,"cerebr, cerebro",cerebral | cerebrate | cerebrospinal | cerebrum | decerebrate
 r_8227fe079fd2c729,cerebro,cerebro,brain,root,Latin,"cerebr, cerebro",cerebrospinal
 r_9867ef8804f6cc46,ces,ces,to go; to go back or yield,root,Latin,"ced, ces, -ceed, -cede, -cess",ancestry
-r_82e2d42620adceae,-cess,-cess,to go; to go back or yield,root,Latin,"ced, ces, -ceed, -cede, -cess",access | accessible | excess | process | procession | recession | success
+r_82e2d42620adceae,-cess,-cess,to go; to go back or yield,root,Latin,"ced, ces, -ceed, -cede, -cess",access | accessible | excess | process | procession | recession | success | concession
 r_a7bd17a9c02d3dbc,chlor,chlor,light green; containing chlorine,root,Greek,"chlor, chloro",chlorella | chloride | chlorinate | chlorine | chlorite | chloroform | chlorophyll | chloroplast | chlorosis
 r_7ce8ac257f974671,chloro,chloro,light green; containing chlorine,root,Greek,"chlor, chloro",chloroform | chlorophyll | chloroplast | chlorosis
 r_88768b2ed9c7cf19,chrom,chrom,"color, pigment; the element chromium or the substance chromatin",root,Greek,"chrom, chromo, chromato, -chrome",achromatic | achromic | bichromate | chroma | chromate | chromatic | chromatics | chromatin | chrome | chromic | chromium | chromolithograph | chromolithography | chromosome | chromosphere | chromous | dichromatic | dichromic | hemochromatosis | mercurochrome | monochromatic | monochrome | panchromatic | photochromic | polychrome
@@ -156,14 +156,14 @@ r_a51665dcafed5b42,corpor,corpor,body,root,Latin,"corp, corpo, corpor, corpus",c
 r_51394f99476b48cd,corpus,corpus,body,root,Latin,"corp, corpo, corpor, corpus",corpus | corpuscle
 r_e6242071c5e5e993,corr,corr,to run,root,Latin,"cur1, curr, cor1, corr, curs, cour1, cours",corral | corridor
 r_913292212d78d353,cosm,cosm,"universe, world, order",root,Greek,"cosm, cosmo",cosmetic | cosmic | cosmochemistry | cosmogony | cosmography | cosmology | cosmonaut | cosmopolitan | cosmos | macrocosm | microcosm
-r_033b0c460d3e77b9,cosmo,cosmo,"universe, world, order",root,Greek,"cosm, cosmo",cosmochemistry | cosmogony | cosmography | cosmology | cosmonaut | cosmopolitan | cosmos
+r_033b0c460d3e77b9,cosmo,cosmo,"universe, world, order",root,Greek,"cosm, cosmo",cosmochemistry | cosmogony | cosmography | cosmology | cosmonaut | cosmopolitan | cosmos | cosmopolite
 r_7abc03ab5218ccdb,cour,cour1,to run,root,Latin,"cur1, curr, cor1, corr, curs, cour1, cours",concourse | courier | course | courser | discourse | intercourse | recourse
 r_484ecca454ddc381,cour,cour2,heart,root,Latin,"cor2, cour2, cord",courage | discourage | encourage
 r_593e0c89be974cce,cours,cours,to run,root,Latin,"cur1, curr, cor1, corr, curs, cour1, cours",concourse | course | courser | discourse | intercourse | recourse
 r_32698446db53d309,-cracy,-cracy,"government, rule",root,Greek,"crat, -cracy",aristocracy | autocracy | bureaucracy | democracy | gerontocracy | meritocracy | mobocracy | ochlocracy | plutocracy | technocracy | theocracy
 r_f8aa2f1101c32aec,crani,crani,"skull, cranium",root,Greek,"crani, cranio",cranial | craniate | craniology | craniometry | craniotomy | cranium | pericranium
 r_f4863b071b4e6253,cranio,cranio,"skull, cranium",root,Greek,"crani, cranio",craniology | craniometry | craniotomy
-r_1ad39aad005a4ae9,crat,crat,"government, rule",root,Greek,"crat, -cracy",aristocrat | autocratic | democrat | democratic
+r_1ad39aad005a4ae9,crat,crat,"government, rule",root,Greek,"crat, -cracy",aristocrat | autocratic | democrat | democratic | autocrat | technocrat
 r_1439d82e6f4027c4,cred,cred,believe,root,Latin,"cred, credit",accredit | credence | credible | credit | creditable | creditor | credo | credulity | credulous | discredit | incredible | incredulity | incredulous
 r_47154a259b95d80b,credit,credit,believe,root,Latin,"cred, credit",accredit | credit | creditable | creditor | discredit
 r_14006f0aa43588a1,cryo,cryo,cold,root,Greek,cryo,cryogen | cryogenics | cryolite | cryometer | cryonics | cryophyte | cryoscopy | cryosurgery | cryotherapy
@@ -205,7 +205,7 @@ r_d302182fba34d035,dextr,dextr,on the righthand side; skilful,root,Latin,"dextr,
 r_e8a21c5a869af99e,dextro,dextro,on the righthand side; skilful,root,Latin,"dextr, dextro",ambidextrous | dextrorotatory | dextrorse | dextrose | dextrous
 r_7462ecd8692c4460,di,di,day,root,Latin,"di, diurn, journ",diary | diurnal
 r_f66725b40bd7c59d,dic,dic,"speak, declare",root,Latin,"dic, dict",abdicate | addict | addiction | benediction | contradict | contradiction | contradictory | contraindicate | dedicate | dictaphone | dictate | dictation | dictator | diction | dictionary | dictum | edict | indicate | indict | indictment | interdict | jurisdiction | malediction | predicate | predict | predictable | prediction | syndicate | valediction | valedictorian | verdict | veridical
-r_4a07d0b359052c7d,dict,dict,"speak, declare",root,Latin,"dic, dict",addict | addiction | benediction | contradict | contradiction | contradictory | dictaphone | dictate | dictation | dictator | diction | dictionary | dictum | edict | indict | indictment | interdict | jurisdiction | malediction | predict | predictable | prediction | valediction | valedictorian | verdict
+r_4a07d0b359052c7d,dict,dict,"speak, declare",root,Latin,"dic, dict",addict | addiction | benediction | contradict | contradiction | contradictory | dictaphone | dictate | dictation | dictator | diction | dictionary | dictum | edict | indict | indictment | interdict | jurisdiction | malediction | predict | predictable | prediction | valediction | valedictorian | verdict | dictatorial | interdiction
 r_0e4eac7231ef2dc6,diurn,diurn,day,root,Latin,"di, diurn, journ",diurnal
 r_4984d6096a0180cf,divid,divid,divide,root,Latin,"divid, divis",divide | dividend | individual | individualist | individuality | individualize | subdivide
 r_9edd485b1f77c993,divis,divis,divide,root,Latin,"divid, divis",divisible | division | divisive | indivisible
@@ -215,8 +215,8 @@ r_1aacb66450cd8cd4,dodeca,dodeca,"twelve, twelfth",root,Greek,dodeca,dodecagon |
 r_ff6a13c51974e34c,dogma,dogma,"opinion, belief",root,Greek,"dox, dogma",dogma | dogmatic | dogmatism
 r_11f5af00403a511e,dom,dom1,master,root,Latin,"dom1, domin",domain | dominant | dominate | domineer | dominion | indomitable | predominant | predominate | subdominant
 r_de1018ebd5ec304d,dom,dom2,house,root,Latin,dom2,condominium | domestic | domesticate | domicile
-r_ab8f5147e2607cdb,domin,domin,master,root,Latin,"dom1, domin",dominant | dominate | domineer | dominion | predominant | predominate | subdominant
-r_d9aa482a00774a77,don,don,give,root,Latin,"don, donat, dat",condone | donate | donation | donee | donor | pardon
+r_ab8f5147e2607cdb,domin,domin,master,root,Latin,"dom1, domin",dominant | dominate | domineer | dominion | predominant | predominate | subdominant | condominium | dominance | domination | predominance
+r_d9aa482a00774a77,don,don,give,root,Latin,"don, donat, dat",condone | donate | donation | donee | donor | pardon | donated
 r_c22e712834ee161a,donat,donat,give,root,Latin,"don, donat, dat",donate | donation
 r_0d525e701dd16d15,dont,dont,"tooth, teeth",root,Greek,"dont, odont, odonto, -odon",endodontics | odontology | orthodontics | orthodontist | periodontal | periodontics
 r_1305d5cd8b4292f2,dox,dox,"opinion, belief",root,Greek,"dox, dogma",doxology | heterodox | heterodoxy | orthodox | orthodoxy | paradox | unorthodox
@@ -246,7 +246,7 @@ r_24fbdb3013ca0643,equ,equ,equal,root,Latin,"equ, equi",adequate | equable | equ
 r_6b3afac78baa8166,equi,equi,equal,root,Latin,"equ, equi",equiangular | equidistant | equilateral | equilibrium | equinox | equipoise | equitable | equity | equivalent | equivocal | equivocate | inequity | unequivocal
 r_37c8df9fc1a2a6e3,erg,erg,work,root,Greek,"erg, ergo, urg",allergy | energetics | energy | erg | ergonomics | synergism | synergy
 r_5e9e3f75381acd12,ergo,ergo,work,root,Greek,"erg, ergo, urg",ergonomics
-r_b32aff0c72a2371a,err,err,"error, wander",root,Latin,err,aberrant | aberration | err | errand | erratic | erroneous | error | knight-errant
+r_b32aff0c72a2371a,err,err,"error, wander",root,Latin,err,aberrant | aberration | err | errand | erratic | erroneous | error | knight-errant | unerring
 r_3af69623e93897bf,erythr,erythr,red,root,Greek,"erythr, erythro",erythrocyte | erythromycin
 r_7d63f9bd8fb5af8c,erythro,erythro,red,root,Greek,"erythr, erythro",erythrocyte | erythromycin
 r_49a5cf9881f2b61f,esthes,esthes,"feeling, sensation, sense perception",root,Greek,"esthes, aesthes, esthet, aesthet",anesthesia | anesthesiologist | anesthesiology | esthesia | kinesthesia | paresthesia | synesthesia | telesthesia
@@ -254,13 +254,13 @@ r_7e84b4b5ac5aba87,esthet,esthet,"feeling, sensation, sense perception",root,Gre
 r_b0d90a34790e58ac,ethno,ethno,"race, culture, people",root,Greek,ethno,ethnobotany | ethnocentric | ethnology | ethnomusicology | paleethnology
 r_eb75d908b2fc19ea,ev,ev,"age, era",root,Latin,ev (aev),coeval | medieval | primeval
 r_90ad866145dc561b,fac,fac,"make, do",root,Latin,"fac, fic, fec, fact, fect",benefactor | fact | factory | malefactor | manufacture | satisfaction | satisfactory
-r_72f8a30d2e7a602f,fact,fact,"make, do",root,Latin,"fac, fic, fec, fact, fect",benefactor | fact | factory | malefactor | manufacture | satisfaction | satisfactory
+r_72f8a30d2e7a602f,fact,fact,"make, do",root,Latin,"fac, fic, fec, fact, fect",benefactor | fact | factory | malefactor | manufacture | satisfaction | satisfactory | benefaction | dissatisfaction | factious | factitious | factor | factual | liquefaction
 r_a74540c38e4d3e3b,fall,fall,to deceive,root,Latin,"fall, fals",fallacious | fallacy | infallible
 r_6ddd73f2c7d2a2d8,fals,fals,to deceive,root,Latin,"fall, fals",falsify
 r_765498906cbbf450,fec,fec,"make, do",root,Latin,"fac, fic, fec, fact, fect",affect | affection | confect | disaffect | effect | infect
-r_88ea0b02aad333d1,fect,fect,"make, do",root,Latin,"fac, fic, fec, fact, fect",affect | affection | confect | disaffect | effect | infect
+r_88ea0b02aad333d1,fect,fect,"make, do",root,Latin,"fac, fic, fec, fact, fect",affect | affection | confect | disaffect | effect | infect | affectation | confection | defect | defection | effective | effectual | effectuality | effectuate | infection | perfect | perfectibility | perfectible | perfection | prefect | prefectural | prefecture | refection | refectory
 r_b9f8f4dd541f49b2,fem,fem,"female, woman",root,Latin,"fem, femin",effeminate | female | feminine | feminism | feminist | feminize
-r_4bd685e20a78f276,femin,femin,"female, woman",root,Latin,"fem, femin",effeminate | feminine | feminism | feminist | feminize
+r_4bd685e20a78f276,femin,femin,"female, woman",root,Latin,"fem, femin",effeminate | feminine | feminism | feminist | feminize | femininity
 r_2b1338b566eebc88,fer,fer,"carry, bring",root,Latin,"fer, lat2, -late",afferent | aquifer | confer | conference | conifer | defer | differ | different | ferry | infer | offer | prefer | preferable | preference | proliferate | refer | rotifer | suffer | transfer
 r_d96ab84612ae3ff1,fic,fic,"make, do",root,Latin,"fac, fic, fec, fact, fect",artifice | artificial | beneficent | beneficial | deficient | efficient | fiction | fictitious | orifice | proficient | sacrifice | significant | sufficient
 r_7494d0744f11c4d4,fid,fid,"faith, trust",root,Latin,fid,confidant | confide | confidence | confident | fidelity | fiduciary | infidel | infidelity | perfidious | perfidy
@@ -272,13 +272,13 @@ r_4c0d44efac510069,firm,firm,make firm; support,root,Latin,firm,affirm | affirma
 r_dff09ab391f6a479,fix,fix,"fasten, attach",root,Latin,fix,affix | fixation | fixative | fixity | fixture | infix | prefix | suffix | transfix | unfix
 r_f2055306ebe65a72,flat,flat,"blow, puff",root,Latin,flat,afflatus | deflate | deflation | flatulent | inflate | inflation
 r_cd7ea539df4f800c,flect,flect,bend,root,Latin,"flect, flex",deflect | genuflect | inflect | reflect | reflection
-r_8993ea030884f3cd,flex,flex,bend,root,Latin,"flect, flex",flexible | flexion | flexor | flexuous | reflex
+r_8993ea030884f3cd,flex,flex,bend,root,Latin,"flect, flex",flexible | flexion | flexor | flexuous | reflex | circumflex
 r_8fc8da05bed93bba,flic,flic,strike,root,Latin,flic,afflict | affliction | conflict | inflict
 r_61b21a4e8ef73a40,flor,flor,flower,root,Latin,"flor, flori",effloresce | efflorescence | flora | floral | florescence | floret | floribunda | floriculture | florid | florida | floriferous | florin | florist | inflorescence | tubuliflorous
 r_9624568b632b041a,flori,flori,flower,root,Latin,"flor, flori",floribunda | floriculture | florid | florida | floriferous | florin | florist
 r_ee11d8fd8e2125a6,foil,foil,"leaf, page",root,Latin,"foli, foil",cinquefoil | foil | quatrefoil | trefoil
-r_27c7f5d6e1305392,foli,foli,"leaf, page",root,Latin,"foli, foil",defoliant | exfoliate | foliaceous | foliage | foliation | folio | portfolio
-r_62e224ef1e26826c,fore-,fore-,"before, in time or position",root,Old English,fore-,forearm | forecast | forecheck | forego | foregone | foreground | forehead | foreknow | forerun | foresail | foresee | foreshadow | foreshock | foretaste | foretell | forethought | forewarn
+r_27c7f5d6e1305392,foli,foli,"leaf, page",root,Latin,"foli, foil",defoliant | exfoliate | foliaceous | foliage | foliation | folio | portfolio | defoliate
+r_62e224ef1e26826c,fore-,fore-,"before, in time or position",root,Old English,fore-,forearm | forecast | forecheck | forego | foregone | foreground | forehead | foreknow | forerun | foresail | foresee | foreshadow | foreshock | foretaste | foretell | forethought | forewarn | foreman | foremost
 r_7cbebcc8fd2ae037,form,form,"shape, form",root,Latin,form,aliform | antiformalist | antireform | auriform | coliform | conform | conformable | conformal | conformance | conformation | conformity | cruciform | cubiform | cuneiform | deform | deformation | deformed | deformity | form | formal | formalism | formality | formalize | formally | format | formation | formative | formless | formula | formularize | formulary | formulate | formulize | fusiform | inform | informal | informality | informant | information | informed | informer | iodoform | malformation | malformed | misinform | multiform | napiform | oviform | piciform | piliform | reform | reformation | reformatory | reformed | reformer | reformist | reniform | semiformal | transform | transformation | transformer | unformed | uniform | uniformity | variform | vermiform
 r_4fd2ae4738027252,fort,fort1,"luck, chance",root,Latin,fort1,fortuitous | fortuity | fortunate | fortune | misfortune | unfortunate
 r_18c29aaab4bf7a55,fort,fort2,strong,root,Latin,fort2,effort | fortification | fortitude | fortress
@@ -291,12 +291,12 @@ r_6cd1c85b99e0a350,fug,fug,flee,root,Latin,"fug, -fuge",centrifugal | centrifuge
 r_5440e40b71dbea67,-fuge,-fuge,flee,root,Latin,"fug, -fuge",centrifuge | insectifuge | refuge | refugee | subterfuge
 r_8fe0884c3c17676a,funct,funct,perform,root,Latin,funct,dysfunction | function | functional | malfunction
 r_e2d12e1c99ed1379,fus,fus,"pour, melt",root,Latin,"fus, found2",circumfuse | confuse | confusion | diffuse | diffusive | effusive | infuse | infusion | interfuse | profuse | profusion | suffuse | transfuse
-r_8133ff5955424c2a,gam,gam,marriage,root,Greek,"gam, gamo, -gamy",allogamy | apogamy | autogamy | bigamy | gamete | heterogamous | monogamy | polygamy
+r_8133ff5955424c2a,gam,gam,marriage,root,Greek,"gam, gamo, -gamy",allogamy | apogamy | autogamy | bigamy | gamete | heterogamous | monogamy | polygamy | bigamous | endogamous | endogamy | exogamous | exogamy | monogamous | polygamist | polygamous
 r_401bea899570b1d1,gamo,gamo,marriage,root,Greek,"gam, gamo, -gamy",heterogamous
 r_7bae8a52e196ab0f,-gamy,-gamy,marriage,root,Greek,"gam, gamo, -gamy",allogamy | apogamy | autogamy | bigamy | monogamy | polygamy
-r_a70fe288c6124081,gen,gen,"birth, origin, race, kind",root,Latin and Greek,"gen, gener",abiogenesis | acrogen | androgen | anthropogenesis | congenital | degenerate | disingenuous | eugenics | gender | gene | genealogy | general | generalization | generate | generation | generator | generatrix | generic | generous | genesis | genetic | genius | genocide | genteel | gentleman | gentry | genuine | hydrogen | indigenous | ingenious | ontogeny | oxygen | polygenism | progeny
+r_a70fe288c6124081,gen,gen,"birth, origin, race, kind",root,Latin and Greek,"gen, gener",abiogenesis | acrogen | androgen | anthropogenesis | congenital | degenerate | disingenuous | eugenics | gender | gene | genealogy | general | generalization | generate | generation | generator | generatrix | generic | generous | genesis | genetic | genius | genocide | genteel | gentleman | gentry | genuine | hydrogen | indigenous | ingenious | ontogeny | oxygen | polygenism | progeny | endogenous | eugenic | heterogeneous | homogeneous
 r_cea94a60fd9870a5,gener,gener,"birth, origin, race, kind",root,Latin and Greek,"gen, gener",degenerate | general | generalization | generate | generation | generator | generatrix | generic | generous
-r_de86855e9bfcef0c,geo,geo,earth,root,Greek,geo,geocentric | geode | geodesic | geography | geology | geometry | geophagy
+r_de86855e9bfcef0c,geo,geo,earth,root,Greek,geo,geocentric | geode | geodesic | geography | geology | geometry | geophagy | geodetic | geophysics
 r_fd33e7eaf003220e,giga,giga,giant; billion,root,Greek,giga,gigahertz
 r_3eb1deaa73b15c11,gnom,gnom,"know, knowledge",root,Greek,"gnos, gnosis, gnom, -gnomy",gnome | gnomon | physiognomy
 r_f1c97ad520b7bd8e,-gnomy,-gnomy,"know, knowledge",root,Greek,"gnos, gnosis, gnom, -gnomy",physiognomy
@@ -309,10 +309,10 @@ r_781fd8c4123b6afe,-grade,-grade,"go, step, degree",root,Latin,"grad, -grade",ce
 r_fdbba88d5ccf8ade,gram,gram,write,root,Greek,gram,anagram | cardiogram | diagram | epigram | grammar | gramophone | hologram | monogram | program | telegram
 r_dc21d11f32778f92,graph,graph,"writing, drawing, recording",root,Greek,"graph, -graphy",anemograph | arteriography | autobiography | autograph | autoradiograph | barograph | bibliography | biogeography | biography | cacography | calligraphy | cardiograph | cartography | chirography | choreography | chromolithography | chronograph | cinematography | cosmography | cryptography | crystallography | dactylography | demography | digraph | discography | electrocardiograph | electroencephalograph | epigraph | epigraphy | ethnography | geography | graph | graphic | graphics | graphite | graphology | hagiography | holograph | homograph | hydrography | iconography | lexicography | lithography | meteorograph | micrograph | microphotograph | mimeograph | monograph | myocardiograph | oceanography | orthography | oscillograph | paleography | pantograph | paragraph | petrography | phonograph | phonography | photograph | photography | photomicrograph | physiography | pictograph | planography | polygraph | pyrography | radiograph | radiotelegraph | roentgenography | seismograph | spectrograph | spectroheliograph | stenography | technography | telegraph | telephotography | thermograph | tomography | topography | typography | xerography | zoography
 r_7205234065a3e70d,-graphy,-graphy,"writing, drawing, recording",root,Greek,"graph, -graphy",arteriography | autobiography | bibliography | biogeography | biography | cacography | calligraphy | cartography | chirography | choreography | chromolithography | cinematography | cosmography | cryptography | crystallography | dactylography | demography | discography | epigraphy | ethnography | geography | hagiography | hydrography | iconography | lexicography | lithography | oceanography | orthography | paleography | petrography | phonography | photography | physiography | planography | pyrography | roentgenography | stenography | technography | telephotography | tomography | topography | typography | xerography | zoography
-r_20627ab25730fdc6,grat,grat,pleasing,root,Latin,grat,congratulate | grateful | gratify | gratitude
+r_20627ab25730fdc6,grat,grat,pleasing,root,Latin,grat,congratulate | grateful | gratify | gratitude | gratification
 r_3d022fada4edcfd5,grav,grav,heavy,root,Latin,grav,aggravate | grave | gravimetric | gravitas | gravity
-r_9bb8338c117e7dd8,greg,greg,"flock, gathering",root,Latin,greg,aggregate | aggregation | congregate | congregation | egregious | gregarious | segregate | segregation
-r_70cfdb2938fbedd4,gress,gress,"to walk, go",root,Latin,gress,aggress | aggression | aggressive | congress | digress | digression | egress | ingress | progress | progression | regress | retrogress | transgress | transgression
+r_9bb8338c117e7dd8,greg,greg,"flock, gathering",root,Latin,greg,aggregate | aggregation | congregate | congregation | egregious | gregarious | segregate | segregation | congregational | desegregate | desegregation
+r_70cfdb2938fbedd4,gress,gress,"to walk, go",root,Latin,gress,aggress | aggression | aggressive | congress | digress | digression | egress | ingress | progress | progression | regress | retrogress | transgress | transgression | congressman | progressive
 r_0ecabffa1a9c39f9,gyn,gyn,"woman, female",root,Greek,"gyn, gyno, gyne, gynec, gyneco",androgynous | epigynous | gynandromorph | gynecocracy | gynecologist | gynecology | gynephobia | gyniatrics | gynoecium | gynophore | heterogynous | hypogynous | misogyny | perigynous | polygyny
 r_67faf63149a50b46,gyne,gyne,"woman, female",root,Greek,"gyn, gyno, gyne, gynec, gyneco",gynecocracy | gynecologist | gynecology | gynephobia
 r_502fb3d5afa8c7d7,gynec,gynec,"woman, female",root,Greek,"gyn, gyno, gyne, gynec, gyneco",gynecocracy | gynecologist | gynecology
@@ -339,7 +339,7 @@ r_432c8bba02e65fb8,hept,hept,seven,root,Greek,"hept, hepta",heptad | heptagon | 
 r_b7e30d1ef2ea4428,hepta,hepta,seven,root,Greek,"hept, hepta",heptad | heptagon | heptameter | heptarchy | heptastich | heptavalent
 r_13adf1edb8032caa,her,her,stick,root,Latin,"her, hes",adhere | adherent | cohere | coherent | inhere | inherent
 r_e8664396cf01bb3b,hes,hes,stick,root,Latin,"her, hes",adhesion | adhesive | cohesion | cohesive
-r_86022d13c06f3fa2,hetero,hetero,"different, other",root,Greek,hetero,heterocyclic | heterodox | heterodoxy | heterogamete | heterogamous | heterogeneous | heterogynous | heteronym | heteroplasty | heterosexual
+r_86022d13c06f3fa2,hetero,hetero,"different, other",root,Greek,hetero,heterocyclic | heterodox | heterodoxy | heterogamete | heterogamous | heterogeneous | heterogynous | heteronym | heteroplasty | heterosexual | heterogeneity | heterozygous
 r_f875cf8cbe1020f7,hex,hex,six,root,Greek,"hexa, hex",hexagon | hexagram | hexahedron | hexameter | hexapod
 r_1c5aadb16517dd35,hexa,hexa,six,root,Greek,"hexa, hex",hexagon | hexagram | hexahedron | hexameter | hexapod
 r_e4713c902807f415,hib,hib,"hold, have",root,Latin,"hab, hib",exhibit | inhibit | prohibit
@@ -352,7 +352,7 @@ r_240258472dc86c7f,hosp,hosp,"host, guest",root,Latin,"hosp, host1",hospice | ho
 r_81fdc7fa4703ddbb,host,host1,"host, guest",root,Latin,"hosp, host1",host | hostel | hostess
 r_3f4e6524c3e037ed,host,host2,"stranger, enemy",root,Latin,host2,hostage | hostile
 r_9deb4617f5a69bb7,hydr,hydr,"water, hydrogen, liquid",root,Greek,"hydr, hydro",anhydride | carbohydrate | dehydrate | dehydrogenate | hydra | hydrangea | hydrant | hydraulic | hydraulics | hydrazine | hydric | hydride | hydrocarbon | hydrocephalus | hydrodynamics | hydroelectric | hydrofoil | hydrogen | hydrography | hydroid | hydrolysis | hydrometer | hydropathy | hydrophobia | hydrophyte | hydroplane | hydroponics | hydrosphere | hydrostatics | hydrotherapeutics | hydrotherapy | hydrotropism | hydrous | hydroxide | hydrozoan | magnetohydrodynamics | oxyhydrogen
-r_49a56c47a6667775,hydro,hydro,"water, hydrogen, liquid",root,Greek,"hydr, hydro",dehydrogenate | hydrocarbon | hydrocephalus | hydrodynamics | hydroelectric | hydrofoil | hydrogen | hydrography | hydroid | hydrolysis | hydrometer | hydropathy | hydrophobia | hydrophyte | hydroplane | hydroponics | hydrosphere | hydrostatics | hydrotherapeutics | hydrotherapy | hydrotropism | hydrous | hydroxide | hydrozoan | magnetohydrodynamics | oxyhydrogen
+r_49a56c47a6667775,hydro,hydro,"water, hydrogen, liquid",root,Greek,"hydr, hydro",dehydrogenate | hydrocarbon | hydrocephalus | hydrodynamics | hydroelectric | hydrofoil | hydrogen | hydrography | hydroid | hydrolysis | hydrometer | hydropathy | hydrophobia | hydrophyte | hydroplane | hydroponics | hydrosphere | hydrostatics | hydrotherapeutics | hydrotherapy | hydrotropism | hydrous | hydroxide | hydrozoan | magnetohydrodynamics | oxyhydrogen | hydrophilic | hydrophobic | hydroponic | hydrostatic
 r_cc225a5205d37dd1,hypn,hypn,sleep,root,Greek,"hypn, hypno",hypnology | hypnosis | hypnotic | hypnotism
 r_45d9557548a39c9e,hypno,hypno,sleep,root,Greek,"hypn, hypno",hypnology | hypnosis | hypnotic | hypnotism
 r_036d29c7873ce9f8,iatr,iatr,"medical care, healing",root,Greek,"iatr, iatri, iatro, -iatry",bariatrics | geriatrics | gyniatrics | iatrogenic | neuropsychiatry | pediatrician | pediatrics | podiatry | psychiatry
@@ -403,15 +403,15 @@ r_93e3bcc730a9acb4,liber,liber2,"balance, weight",root,Latin,"libra, liber2",del
 r_c140a84cdb2fb04f,libr,libr,book,root,Latin,libr,librarian | library | libretto
 r_0dca006fc3ec2b06,libra,libra,"balance, weight",root,Latin,"libra, liber2",equilibrant | equilibrate
 r_e1cf31db131a7826,lig,lig,gather; choose; read,root,Latin,"leg2, lect1, lig",eligibility | eligible | ineligible
-r_57c278d8842f0862,lingu,lingu,"language, tongue",root,Latin,lingu,bilingual | lingual | linguine | linguist | linguistic | linguistics | monolingual | multilingual | psycholinguistics | trilingual
+r_57c278d8842f0862,lingu,lingu,"language, tongue",root,Latin,lingu,bilingual | lingual | linguine | linguist | linguistic | linguistics | monolingual | multilingual | psycholinguistics | trilingual | linguistically | nonlinguistic
 r_dd7e5f5e57a522d8,lip,lip,fat,root,Greek,"lip, lipo",lipase | lipid | lipoid
 r_f15b85f354df2b95,lipo,lipo,fat,root,Greek,"lip, lipo",lipoid
 r_25aa2024faf4705d,lit,lit,"letter, reading",root,Latin,"lit, litera",alliteration | illiteracy | illiterate | literacy | literal | literary | literate | literati | literature | transliterate
 r_814faa16c9c944b5,-lite,-lite,"mineral, rock, stone, fossil",root,Greek,"lith, litho, -lite, -lithic",aerolite | chrysolite | cryolite | oolite | phonolite | pisolite | rhodolite | rhyolite | stromatolite | zeolite
-r_efe991c6b9d1f7c4,litera,litera,"letter, reading",root,Latin,"lit, litera",alliteration | illiteracy | illiterate | literacy | literal | literary | literate | literati | literature | transliterate
+r_efe991c6b9d1f7c4,litera,litera,"letter, reading",root,Latin,"lit, litera",alliteration | illiteracy | illiterate | literacy | literal | literary | literate | literati | literature | transliterate | alliterative | transliteration
 r_4c44db2cb9b59713,lith,lith,"mineral, rock, stone, fossil",root,Greek,"lith, litho, -lite, -lithic",chromolithography | eolithic | granolith | laccolith | lithograph | lithography | lithology | lithosphere | lithotomy | megalith | mesolithic | monolith | monolithic | neolithic | paleolithic
 r_e6c719021f1b90ab,-lithic,-lithic,"mineral, rock, stone, fossil",root,Greek,"lith, litho, -lite, -lithic",eolithic | mesolithic | monolithic | neolithic | paleolithic
-r_07aae517f7990b27,litho,litho,"mineral, rock, stone, fossil",root,Greek,"lith, litho, -lite, -lithic",chromolithography | lithograph | lithography | lithology | lithosphere | lithotomy
+r_07aae517f7990b27,litho,litho,"mineral, rock, stone, fossil",root,Greek,"lith, litho, -lite, -lithic",chromolithography | lithograph | lithography | lithology | lithosphere | lithotomy | photolithography
 r_cf6afcfa02d2360d,loc,loc,place,root,Latin,loc,allocate | dislocate | local | locale | localize | locate | location | locus
 r_1eab372faa9d47d1,locu,locu,speak; speech,root,Latin,"loqu, locu",circumlocution | elocution | interlocutor | locution
 r_087875fe2f1999ff,log,log,"word, speech, written work",root,Greek,"log, logo, -logue",apologetics | apologia | apologue | catalogue | decalogue | dialogue | duologue | epilogue | horologe | illogic | logic | logical | logo | logogriph | logomachy | logorrhea | logotype | monologue | neologism | prologue | syllogism
@@ -880,3 +880,27 @@ r_f27643cc61f7bc22,zo,zo,"animal, life",root,Greek,"zo, zoo",anthozoan | archeoz
 r_b524e547a7f3253d,zoo,zoo,"animal, life",root,Greek,"zo, zoo",epizootic | spermatozoon | zoo | zoogeography | zoography | zooid | zoology | zoomorphic | zoonosis | zoophagous | zoophyte | zooplankton | zoospore
 r_351a8f6132137dc9,zyg,zyg,pair,root,Greek,"zyg, zygo",azygous | syzygy | zygospore | zygote
 r_41f5d40d2806cd58,zygo,zygo,pair,root,Greek,"zyg, zygo",azygous | zygospore | zygote
+r_7345969463e1dfcc,acid,acid,"acidic, sour",root,Latin,acid-,acidic | acidity
+r_9717f2db906b0912,art,art,"art, skill",root,Latin,art-,artist
+r_17a06faf99b050a1,calor,calor,heat,root,Latin,cal-,caloric | calorie | calorific | calorimeter
+r_e1aea7bffc964244,camp,camp,field,root,Latin,camp-,campsite | decamp | encamp | encampment
+r_57b6c357c46328c9,cant,cant,"sing, song",root,Latin,"can-, -cin-, cant-, -cent-",descant | incantation | recant | recantation
+r_5ac3d154d1626e07,cert,cert,"sure, settled",root,Latin,cert,certificate | certify
+r_555847441629215c,corn,corn,horn,root,Latin,corn-,unicorn
+r_bc74bf6c816a8d41,coron,coron,crown,root,Latin,coron-,coronation | coronet
+r_7f17f7cc4e3d180a,culp,culp,"blame, fault, crime",root,Latin,culp-,culpability | culpable | exculpate
+r_01f89e6b851e2be2,dorm,dorm,sleep,root,Latin,dorm-,dormant | dormitory
+r_037a42fe338ca44d,feder,feder,"treaty, agreement, contract, league, pact",root,Latin,feder-,confederacy | confederate | confederation | federal | federate | federation
+r_b2fbc22c4365c85e,ferv,ferv,"boil, glow",root,Latin,ferv-,fervent | fervor
+r_8b0e07cfdfd90b72,flict,flict,"strike, dash",root,Latin,"flig-, flict-",inflict
+r_2fdba02b4cc17408,flu,flu,"flow, river",root,Latin,"flu-, fluv-, flux-",confluence | fluency | fluent | fluently | influence | influenced | influencing | influential | mellifluous | superfluity | superfluous | uninfluenced
+r_a4ced39aeed55720,front,front,"forehead, face",root,Latin,front-,affront | confront | frontage | frontal
+r_69a15927aae8982a,gastr,gastr,stomach,root,Greek,gastr-,gastronomic | gastronomy
+r_6f8ff74c48e9446d,germ,germ,"sprout, vital part",root,Latin,germ-,germinal | germinate | germination
+r_6f2f233bf7dc313c,gloss,gloss,"tongue, speech, language",root,Greek,"gloss-, glot-",glossary
+r_1626fb15eccc3f84,glutin,glutin,glue,root,Latin,glutin-,agglutinate | agglutination | agglutinative | glutinous
+r_c6dd902d6d5d55b8,grand,grand,"grand, great, large",root,Latin,grand-,aggrandize | grandeur | grandiloquent | grandiose | grandstand
+r_8efc7709608cf85b,habit,habit,"have, dwell, live, abide",root,Latin,"hab, hib",cohabit | cohabitation | habitable | habitat | habitation | habitual | habituate | habitude | inhabit | inhabitable | inhabitant | inhabitation | inhabited | uninhabitable
+r_093a53d03f3c4557,hero,hero,hero,root,Greek,hero-,antihero | heroine | heroism
+r_770a4f503eafd9e2,hiero,hiero,"holy, sacred",root,Greek,hier-,hieroglyph | hieroglyphics
+r_ba40968b5b445817,ideo,ideo,"idea, thought",root,Greek,ide-,ideology

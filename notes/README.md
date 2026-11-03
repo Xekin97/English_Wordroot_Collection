@@ -14,4 +14,5 @@
 - [历史及非字面关系](related-only.json)：保留未直接放入主词表的关系及适用限制。
 - [排除记录](excluded.json)：保留原库中被排除的关系及原因。
 - [port、duc/duct、brev 跨库补充](batches/01-port-duc-brev.md)：本批新增例词、词根写法及逐条处理结果。
+- [词根及例词补充](batches/02-supported-additions.md)：来源、适用范围及已补充的对应关系。
 - [来源与许可说明](THIRD_PARTY_NOTICES.md)。

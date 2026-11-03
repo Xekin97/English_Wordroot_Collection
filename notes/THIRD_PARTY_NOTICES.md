@@ -13,3 +13,5 @@ Copyright © 2026 新舰同学roXz（Xekin97），适用于本项目中可受保
 参考项目用于辅助对照，部分词根与单词关系经分批整理后补入主表，具体来源见对应整理记录。未将其完整数据集直接合并或重新分发；继承的上游材料继续保留原有许可。
 
 67 条词根关系核实及跨库补充参考 Etymonline、Merriam-Webster、The Century Dictionary、Collins、Affixes.org 等词源资料；具体页面链接保留在相应记录中。说明为本项目的简短整理，不包含第三方词典全文。
+
+词根及例词补充时另参考 [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en) 的构词标注，原数据采用 [CC BY-NC-SA 4.0](https://github.com/hugomailhot/MorphoLex-en/blob/master/LICENSE.md)。本项目未分发其标注语料；各来源材料仍适用各自的许可。
