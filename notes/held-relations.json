@@ -1,0 +1,3291 @@
+{
+  "scope": "Previously published example relations conservatively held for a specific unresolved question; pending is not a finding that the relation is false. Historical source-scoped acceptances remain visible where located.",
+  "relations": [
+    {
+      "root_id": "r_0221f697b46a2160",
+      "root": "op",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "exophthalmos",
+      "status": "pending",
+      "reason": "Exophthalmos contains ophthalmos eye, not an independently isolated op segment; the source groups historical eye forms and an op lookup requires an alias decision.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/exophthalmos"
+      ]
+    },
+    {
+      "root_id": "r_0221f697b46a2160",
+      "root": "op",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "ophthalmia",
+      "status": "pending",
+      "reason": "Ophthalmia contains ophthalm- eye; no demonstrated independent op segment, but shared historical eye-family lookup is not conclusively excluded.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ophthalmia"
+      ]
+    },
+    {
+      "root_id": "r_0221f697b46a2160",
+      "root": "op",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "ophthalmic",
+      "status": "pending",
+      "reason": "Ophthalmic uses ophthalm- eye; source groups op with ophthalm, and the old boundary objection does not establish unrelated ancestry.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ophthalmic"
+      ]
+    },
+    {
+      "root_id": "r_0221f697b46a2160",
+      "root": "op",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "ophthalmology",
+      "status": "pending",
+      "reason": "Ophthalmology has ophthalm- plus -logy; op as historical alias rather than literal component remains a policy question.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ophthalmo"
+      ]
+    },
+    {
+      "root_id": "r_0221f697b46a2160",
+      "root": "op",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "ophthalmoscope",
+      "status": "pending",
+      "reason": "Ophthalmoscope has ophthalm- eye and scope; the shorter op alias is not independently demonstrated, yet its historical coverage has not been settled.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ophthalmoscope"
+      ]
+    },
+    {
+      "root_id": "r_02b7d1897e08c15a",
+      "root": "luna",
+      "meaning": "moon",
+      "word": "luna",
+      "status": "pending",
+      "reason": "词典有历史小写 luna“月亮”义，正合该 Latin moon 目标；当前普通用法、专名大写和整词资格不由词源单独决定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/luna"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_4f9d2c3b1e1df29eb7fe",
+          "source_entry_ids": [
+            "s_d80926857517979fbd99"
+          ],
+          "evidence_urls": [
+            "https://classic.net.bible.org/lexicon.php?word=luna",
+            "https://www.collinsdictionary.com/us/dictionary/english/luna",
+            "https://www.etymonline.com/word/luna",
+            "https://www.merriam-webster.com/dictionary/Luna"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_087875fe2f1999ff",
+      "root": "log",
+      "meaning": "word, speech, written work",
+      "word": "decalogue",
+      "status": "pending",
+      "reason": "原来源为大写 Decalogue，现存小写词可能有另一个普通名词义；不能将专名暂缓直接套到现存边。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/decalogue"
+      ]
+    },
+    {
+      "root_id": "r_0881724d0069bf47",
+      "root": "photo",
+      "meaning": "light",
+      "word": "photopia",
+      "status": "pending",
+      "reason": "Photopia contains phot- plus -opia; the apparent photo overlaps -opia. Whether photo may serve as historical alias is unresolved.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/photopia",
+        "https://www.merriam-webster.com/dictionary/photo-"
+      ]
+    },
+    {
+      "root_id": "r_0d7dbaa2984af3e6",
+      "root": "pos",
+      "meaning": "put, place",
+      "word": "appose",
+      "status": "pending",
+      "reason": "Appose has competing French poser and Latin apponere histories; the exact put/place connection and source path require resolution.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/appose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_0d7dbaa2984af3e6",
+      "root": "pos",
+      "meaning": "put, place",
+      "word": "juxtapose",
+      "status": "pending",
+      "reason": "Juxtapose may be back-formed from juxtaposition or borrowed from French; these pathways have not resolved the pos lookup question.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/juxtapose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_0d7dbaa2984af3e6",
+      "root": "pos",
+      "meaning": "put, place",
+      "word": "predispose",
+      "status": "pending",
+      "reason": "Predispose has disputed immediate formation via predisposition or French predisposer; the historical pos family alone does not resolve this exact alias.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/predispose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_0d7dbaa2984af3e6",
+      "root": "pos",
+      "meaning": "put, place",
+      "word": "repose",
+      "status": "pending",
+      "reason": "Repose has a rest sense from repauser and a separate put/place sense with competing accounts; an unrestricted entry cannot be resolved without sense restriction.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/repose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_2083e9fbc4fd2ad5",
+      "root": "nom",
+      "meaning": "name",
+      "word": "binomial",
+      "status": "pending",
+      "reason": "来源 nom1/nomin/nomen name 与目标一致；词源词典 binomial 指向 nomen，但数学术语其他资料列 Greek nomos 或法语 nom，仍须对历史义区分。 数学 -nomial 的较早来源在词典间有分歧，词条不附目标义项，需另证语义和历史来源。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/binomial",
+        "https://en.wiktionary.org/wiki/binomial"
+      ]
+    },
+    {
+      "root_id": "r_2083e9fbc4fd2ad5",
+      "root": "nom",
+      "meaning": "name",
+      "word": "monomial",
+      "status": "pending",
+      "reason": "来源 nom1/nomin/nomen name 与目标一致；monomial 属于 -nomial 系列但系列起源不同词典有争议，不能仅凭拼写断定 name 关系。 数学 -nomial 的较早来源在词典间有分歧，词条不附目标义项，需另证语义和历史来源。",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=monomial",
+        "https://en.wiktionary.org/wiki/binomial"
+      ]
+    },
+    {
+      "root_id": "r_2083e9fbc4fd2ad5",
+      "root": "nom",
+      "meaning": "name",
+      "word": "polynomial",
+      "status": "pending",
+      "reason": "Oxford derives mathematical binomial from Greek nomos, whereas Etymonline and the Académie française derive the nomial family or French polynôme from Latin nomen. Source s_8db993e6f41b0710227f matches the published Latin name target, but the algebraic etymology is disputed; do not turn one account into a definite ruling.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/binomial_2",
+        "https://www.etymonline.com/word/polynomial",
+        "https://www.dictionnaire-academie.fr/article/A9P3261",
+        "https://www.etymonline.com/word/binomial",
+        "https://en.wiktionary.org/wiki/binomial",
+        "https://en.wiktionary.org/wiki/polynomial"
+      ]
+    },
+    {
+      "root_id": "r_2083e9fbc4fd2ad5",
+      "root": "nom",
+      "meaning": "name",
+      "word": "trinomial",
+      "status": "pending",
+      "reason": "ECDICT source s_8db993e6f41b0710227f exactly matches the Latin name target. Oxford gives Greek nomos for binomial, while Etymonline gives nomen; trinomial’s analogous mathematical formation needs an individually supported resolution.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/binomial_2",
+        "https://www.etymonline.com/word/binomial",
+        "https://en.wiktionary.org/wiki/binomial",
+        "https://en.wiktionary.org/wiki/polynomial",
+        "https://www.etymonline.com/word/polynomial"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "alliteration",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：alliteration 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/alliteration",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "illiteracy",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：illiteracy 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/illiteracy",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "illiterate",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：illiterate 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/illiterate",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "literacy",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：literacy 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literacy",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "literal",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：literal 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literal",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "literary",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：literary 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literary",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "literate",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：literate 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literate",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "literati",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：literati 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literati",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "literature",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：literature 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literature",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "word": "transliterate",
+      "status": "pending",
+      "reason": "已查词典词头及其 literate/letter 家族：transliterate 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/transliterate",
+        "https://www.etymonline.com/word/letter"
+      ]
+    },
+    {
+      "root_id": "r_26415edf950d9919",
+      "root": "ophthalmo",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "exophthalmos",
+      "status": "pending",
+      "reason": "Exophthalmos descends from ophthalmos, with final o belonging to Greek -os rather than a separable combining vowel; whether ophthalmo covers the historical stem remains unresolved.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/exophthalmos"
+      ]
+    },
+    {
+      "root_id": "r_26ea90825802a1ad",
+      "root": "pedi",
+      "meaning": "foot, feet",
+      "word": "cypripedium",
+      "status": "pending",
+      "reason": "Cypripedium contains Greek pedilon sandal according to American Heritage, whereas the target claims Latin pedi foot; a competing Latin analysis and historical alias scope remain unresolved.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=cypripedium"
+      ]
+    },
+    {
+      "root_id": "r_26ea90825802a1ad",
+      "root": "pedi",
+      "meaning": "foot, feet",
+      "word": "pedigree",
+      "status": "pending",
+      "reason": "Pedigree comes via Anglo-French pe de gru crane foot; Latin foot ancestry does not independently establish English pedi as a component. Historical alias policy is unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pedigree"
+      ]
+    },
+    {
+      "root_id": "r_26ea90825802a1ad",
+      "root": "pedi",
+      "meaning": "foot, feet",
+      "word": "pediment",
+      "status": "pending",
+      "reason": "Pediment origin is unknown and later base sense was influenced by Latin pedem foot. Evidence does not establish pedi as the original component or rule out all senses.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pediment"
+      ]
+    },
+    {
+      "root_id": "r_2c8b9908a404080e",
+      "root": "patho",
+      "meaning": "suffer, feel; disease",
+      "word": "pathos",
+      "status": "pending",
+      "reason": "Pathos is the Greek ancestor of patho- and its final o is not a separately demonstrated combining vowel. The published historical lookup scope remains unsettled.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pathos"
+      ]
+    },
+    {
+      "root_id": "r_2d51a8acfebc3563",
+      "root": "opt",
+      "meaning": "best",
+      "word": "optimal",
+      "status": "pending",
+      "reason": "Optimal derives from optimus best; opt is a truncation of optim- here, not the optare choosing root. Best is the exact target, but short historical alias eligibility is unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/optimum"
+      ]
+    },
+    {
+      "root_id": "r_2d51a8acfebc3563",
+      "root": "opt",
+      "meaning": "best",
+      "word": "optimist",
+      "status": "pending",
+      "reason": "Optimist descends through optimum/optimus best; target sense matches but opt as short historical lookup remains unproven.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/optimum"
+      ]
+    },
+    {
+      "root_id": "r_2d51a8acfebc3563",
+      "root": "opt",
+      "meaning": "best",
+      "word": "optimum",
+      "status": "pending",
+      "reason": "Optimum derives from optimus best; deleting opt requires an alias boundary rule, not a judgment that the best family is unrelated.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/optimum"
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "kleptomaniac",
+      "status": "pending",
+      "reason": "kleptomaniac 有 kleptomania 的明确历史链，但辞书将后者界定为不可抗拒的偷窃冲动，甚至注明可无个人欲望；不能把冲动简单等同 published excessive desire。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/kleptomaniac",
+        "https://www.etymonline.com/word/mania",
+        "https://www.merriam-webster.com/dictionary/kleptomania"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_91d7914ab17b97446e5e",
+          "source_entry_ids": [
+            "s_3b3930a87faaa595238b"
+          ],
+          "evidence_urls": [
+            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+            "https://www.etymonline.com/word/monomania",
+            "https://www.etymonline.com/word/pyromania"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "mania",
+      "status": "pending",
+      "reason": "来源 mania excessive desire 与目标一致；词典称 mania 为独立名词，词根同形例词政策未定且其原义可能不同。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mania"
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "maniac",
+      "status": "pending",
+      "reason": "原源 excessive desire 与目标一致，另有 madness 来源；词典把 maniac 追溯至 Greek mania，历史词源关联明确，目标作整词或结合形式时的形式和义项需分开。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/maniac"
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "maniacal",
+      "status": "pending",
+      "reason": "maniacal 经 maniac ← Greek maniakos ← mania；词典列疯狂、狂热义而非必然的过度欲望，目标释义是否覆盖须复核。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/maniacal",
+        "https://www.etymonline.com/word/mania",
+        "https://www.merriam-webster.com/dictionary/maniacal"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_3f357a79c52ddb2e859b",
+          "source_entry_ids": [
+            "s_3b3930a87faaa595238b"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=MANIA",
+            "https://ahdictionary.com/word/search.html?q=maniac",
+            "https://www.collinsdictionary.com/us/dictionary/english/maniacal"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "megalomaniac",
+      "status": "pending",
+      "reason": "megalomaniac 经 megalomania ← mania；词典主要列宏大妄想与夸大自我，不能一概归入 excessive desire。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/megalomaniac",
+        "https://www.etymonline.com/word/mania",
+        "https://www.merriam-webster.com/dictionary/megalomaniac"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_5c0ef6534354a1c0bfdb",
+          "source_entry_ids": [
+            "s_3b3930a87faaa595238b"
+          ],
+          "evidence_urls": [
+            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+            "https://www.etymonline.com/word/monomania",
+            "https://www.etymonline.com/word/pyromania"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "monomaniac",
+      "status": "pending",
+      "reason": "monomaniac 经 monomania ← mania；词典列妄想或单一事物过度专注，是否符合 excessive desire 的狭义目标未确证。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/monomaniac",
+        "https://www.etymonline.com/word/mania",
+        "https://www.merriam-webster.com/dictionary/monomania"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_b5ad86c7044f21f263da",
+          "source_entry_ids": [
+            "s_3b3930a87faaa595238b"
+          ],
+          "evidence_urls": [
+            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+            "https://www.etymonline.com/word/monomania",
+            "https://www.etymonline.com/word/pyromania"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "root": "mania",
+      "meaning": "excessive desire",
+      "word": "pyromaniac",
+      "status": "pending",
+      "reason": "pyromaniac ← pyromania ← mania，词典释为不可抗拒的纵火冲动；冲动与目标 excessive desire 是否同义并非自动成立。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pyromaniac",
+        "https://www.etymonline.com/word/mania",
+        "https://www.merriam-webster.com/dictionary/pyromania"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_1583f23fd2e5ac564259",
+          "source_entry_ids": [
+            "s_3b3930a87faaa595238b"
+          ],
+          "evidence_urls": [
+            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+            "https://www.etymonline.com/word/monomania",
+            "https://www.etymonline.com/word/pyromania"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3452cb8a24e56cd0",
+      "root": "petr",
+      "meaning": "rock, stone",
+      "word": "petrolize",
+      "status": "pending",
+      "reason": "Wiktionary 记录 petrolize 从 petrol + -ize，petrol 经 petroleum 含 petra 岩石；目标历史义匹配，但另一条专业历史词典网页本次超时，尚未独立核实罕见动词的拼写、义项及派生。",
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/petrolize",
+        "https://www.dictionary.com/browse/petrol",
+        "https://www.etymonline.com/word/petroleum"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_ebccae1a30521fb6436f",
+          "source_entry_ids": [
+            "s_02ee523548fd53f2ec26"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=petroleum",
+            "https://en.wiktionary.org/wiki/petrolize",
+            "https://temporalraeweb.rae.es/dhle/petrolear",
+            "https://www.dictionary.com/browse/petrol"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3529b47171632c16",
+      "root": "psych",
+      "meaning": "mind, soul, mental process",
+      "word": "psycho",
+      "status": "pending",
+      "reason": "Unhyphenated psycho can mean a clipped noun/adjective or the combining form; the source does not specify a sense, and whole-word eligibility is unsettled.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/psycho"
+      ]
+    },
+    {
+      "root_id": "r_367793a75ee86b87",
+      "root": "orb",
+      "meaning": "wheel, circle",
+      "word": "exorbitant",
+      "status": "pending",
+      "reason": "exorbitant traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/exorbitant",
+        "https://www.etymonline.com/word/orbit",
+        "https://www.etymonline.com/word/orb"
+      ]
+    },
+    {
+      "root_id": "r_367793a75ee86b87",
+      "root": "orb",
+      "meaning": "wheel, circle",
+      "word": "orbit",
+      "status": "pending",
+      "reason": "orbit traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/exorbitant",
+        "https://www.etymonline.com/word/orbit",
+        "https://www.etymonline.com/word/orb"
+      ]
+    },
+    {
+      "root_id": "r_367793a75ee86b87",
+      "root": "orb",
+      "meaning": "wheel, circle",
+      "word": "suborbital",
+      "status": "pending",
+      "reason": "suborbital traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/exorbitant",
+        "https://www.etymonline.com/word/orbit",
+        "https://www.etymonline.com/word/orb"
+      ]
+    },
+    {
+      "root_id": "r_37c8df9fc1a2a6e3",
+      "root": "erg",
+      "meaning": "work",
+      "word": "erg",
+      "status": "pending",
+      "reason": "来源及目标 work 对应；词典 erg 为 work 相关单位，也有同形沙丘义，词本身作为词根例词的政策未定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/erg"
+      ]
+    },
+    {
+      "root_id": "r_3ca5bbbce79e82d1",
+      "root": "noun",
+      "meaning": "declare",
+      "word": "announce",
+      "status": "pending",
+      "reason": "announce belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/announce"
+      ]
+    },
+    {
+      "root_id": "r_3ca5bbbce79e82d1",
+      "root": "noun",
+      "meaning": "declare",
+      "word": "announcement",
+      "status": "pending",
+      "reason": "announcement belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/announce"
+      ]
+    },
+    {
+      "root_id": "r_3ca5bbbce79e82d1",
+      "root": "noun",
+      "meaning": "declare",
+      "word": "denounce",
+      "status": "pending",
+      "reason": "denounce belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/denounce",
+        "https://www.etymonline.com/word/announce"
+      ]
+    },
+    {
+      "root_id": "r_3ca5bbbce79e82d1",
+      "root": "noun",
+      "meaning": "declare",
+      "word": "pronounce",
+      "status": "pending",
+      "reason": "pronounce belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pronounce",
+        "https://www.etymonline.com/word/announce"
+      ]
+    },
+    {
+      "root_id": "r_3ca5bbbce79e82d1",
+      "root": "noun",
+      "meaning": "declare",
+      "word": "pronouncement",
+      "status": "pending",
+      "reason": "pronouncement belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pronounce",
+        "https://www.etymonline.com/word/announce"
+      ]
+    },
+    {
+      "root_id": "r_3e92903cf28d6a9f",
+      "root": "public",
+      "meaning": "people, public",
+      "word": "publication",
+      "status": "pending",
+      "reason": "publication ← publicatio ← publicare ← publicus；publicus 源自 Old Latin poplicus ← populus people，与目标 people/public 同源。同源记录的完整 English public 作 root 资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/publication",
+        "https://www.etymonline.com/word/public"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_2b2af7b1775c59a01739",
+          "source_entry_ids": [
+            "s_ff423cb8e0b7721747a4"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/publication"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3e92903cf28d6a9f",
+      "root": "public",
+      "meaning": "people, public",
+      "word": "publicity",
+      "status": "pending",
+      "reason": "publicity ← French publicité ← Latin publicitas ← publicus；publicus 源自 Old Latin poplicus ← populus people，与目标 people/public 同源。同源记录的完整 English public 作 root 资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/publicity",
+        "https://www.etymonline.com/word/public"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_177d91bf6e300d0f8332",
+          "source_entry_ids": [
+            "s_ff423cb8e0b7721747a4"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/publicity"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3e92903cf28d6a9f",
+      "root": "public",
+      "meaning": "people, public",
+      "word": "publicize",
+      "status": "pending",
+      "reason": "publicize = English public + -ize，public ← Latin publicus；publicus 源自 Old Latin poplicus ← populus people，与目标 people/public 同源。同源记录的完整 English public 作 root 资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/publicize",
+        "https://www.etymonline.com/word/public"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_5d101c540fc1062ab077",
+          "source_entry_ids": [
+            "s_ff423cb8e0b7721747a4"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/publicize"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_3f2bd68314b071af",
+      "root": "penta",
+      "meaning": "five",
+      "word": "pentacle",
+      "status": "pending",
+      "reason": "Etymonline offers Greek pente five for Medieval Latin pentaculum while also describing French pentacol amulet worn at the neck; the cited conflicting account and historical origin require further reconciliation. Do not infer five from the spelling alone.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pentacle",
+        "https://en.wiktionary.org/wiki/pentacle"
+      ]
+    },
+    {
+      "root_id": "r_3f2bd68314b071af",
+      "root": "penta",
+      "meaning": "five",
+      "word": "pentad",
+      "status": "pending",
+      "reason": "Pentad comes from Greek pentas/pentados five; penta is not independently a combining prefix here. Historical alias eligibility is unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pentad"
+      ]
+    },
+    {
+      "root_id": "r_40eb164e603c7172",
+      "root": "melan",
+      "meaning": "black",
+      "word": "melanesian",
+      "status": "pending",
+      "reason": "来源 melan, melano black 与目标一致，但源例词是 Melanesian，冻结及现存小写 melanesian 的专名大小写和收录资格需单独决定。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/Melanesian"
+      ]
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "root": "nomad",
+      "meaning": "those who let pasture herds",
+      "word": "nomad",
+      "status": "pending",
+      "reason": "nomad 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/nomad"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_0ea3b72338f1b84c447a",
+          "source_entry_ids": [
+            "s_b772c7f210458fbd4999"
+          ],
+          "evidence_urls": [
+            "https://www.merriam-webster.com/dictionary/nomad"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "root": "nomad",
+      "meaning": "those who let pasture herds",
+      "word": "nomadic",
+      "status": "pending",
+      "reason": "nomadic 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/nomad"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_9dbf530ca4e4e1f21a28",
+          "source_entry_ids": [
+            "s_b772c7f210458fbd4999"
+          ],
+          "evidence_urls": [
+            "https://en.wiktionary.org/wiki/nomadic",
+            "https://logeion.org/%CE%BD%CE%BF%CE%BC%CE%AC%CF%82"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "root": "nomad",
+      "meaning": "those who let pasture herds",
+      "word": "nomadism",
+      "status": "pending",
+      "reason": "nomadism 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/nomad"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_d43f3c4d5b2bcab0370b",
+          "source_entry_ids": [
+            "s_b772c7f210458fbd4999"
+          ],
+          "evidence_urls": [
+            "https://doi.org/10.1007/978-3-031-92524-5_230",
+            "https://www.etymonline.com/word/nomad"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "root": "nomad",
+      "meaning": "those who let pasture herds",
+      "word": "nomadize",
+      "status": "pending",
+      "reason": "nomadize 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/nomad",
+        "https://www.merriam-webster.com/dictionary/nomadize"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_7576b5f48ea787dc526c",
+          "source_entry_ids": [
+            "s_b772c7f210458fbd4999"
+          ],
+          "evidence_urls": [
+            "https://en.wiktionary.org/wiki/nomadize",
+            "https://www.etymonline.com/word/nomad"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_45bf53952bb0b668",
+      "root": "-nomy",
+      "meaning": "law, system of laws",
+      "word": "deuteronomy",
+      "status": "pending",
+      "reason": "原源为大写 Deuteronomy，目标为 lowercase；词典核实该书名从 Greek second + law 而来，专名收录与大小写需明确，现存边无义项。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Deuteronomy"
+      ]
+    },
+    {
+      "root_id": "r_50147610fd04c8f6",
+      "root": "plu",
+      "meaning": "more",
+      "word": "plural",
+      "status": "pending",
+      "reason": "plural belongs to Latin plus/pluris more; the old related-only decision questions the shortened plu rather than its family. Whether that short historical lookup is valid remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pluralism"
+      ]
+    },
+    {
+      "root_id": "r_50147610fd04c8f6",
+      "root": "plu",
+      "meaning": "more",
+      "word": "pluralism",
+      "status": "pending",
+      "reason": "pluralism belongs to Latin plus/pluris more; the old related-only decision questions the shortened plu rather than its family. Whether that short historical lookup is valid remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pluralism"
+      ]
+    },
+    {
+      "root_id": "r_50147610fd04c8f6",
+      "root": "plu",
+      "meaning": "more",
+      "word": "pluralistic",
+      "status": "pending",
+      "reason": "pluralistic belongs to Latin plus/pluris more; the old related-only decision questions the shortened plu rather than its family. Whether that short historical lookup is valid remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pluralism"
+      ]
+    },
+    {
+      "root_id": "r_50147610fd04c8f6",
+      "root": "plu",
+      "meaning": "more",
+      "word": "plurality",
+      "status": "pending",
+      "reason": "plurality belongs to Latin plus/pluris more; the old related-only decision questions the shortened plu rather than its family. Whether that short historical lookup is valid remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pluralism"
+      ]
+    },
+    {
+      "root_id": "r_50147610fd04c8f6",
+      "root": "plu",
+      "meaning": "more",
+      "word": "plus",
+      "status": "pending",
+      "reason": "plus belongs to Latin plus/pluris more; the old related-only decision questions the shortened plu rather than its family. Whether that short historical lookup is valid remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/plus"
+      ]
+    },
+    {
+      "root_id": "r_50147610fd04c8f6",
+      "root": "plu",
+      "meaning": "more",
+      "word": "surplus",
+      "status": "pending",
+      "reason": "surplus belongs to Latin plus/pluris more; the old related-only decision questions the shortened plu rather than its family. Whether that short historical lookup is valid remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/plus"
+      ]
+    },
+    {
+      "root_id": "r_55452530d5cfe304",
+      "root": "ped",
+      "meaning": "foot, feet",
+      "word": "cypripedium",
+      "status": "pending",
+      "reason": "American Heritage gives Greek pedilon sandal; World Flora offers Latin foot analysis. Deeper kinship alone does not establish direct Latin ped, and competing analyses leave this unresolved.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=cypripedium",
+        "https://www.worldfloraonline.org/taxon/wfo-4000010482"
+      ]
+    },
+    {
+      "root_id": "r_55452530d5cfe304",
+      "root": "ped",
+      "meaning": "foot, feet",
+      "word": "pediment",
+      "status": "pending",
+      "reason": "Pediment has uncertain origin; Etymonline notes alternative foot influence on a later sense. A global exclusion would overstate the evidence.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pediment"
+      ]
+    },
+    {
+      "root_id": "r_57b1c0268510d883",
+      "root": "psycho",
+      "meaning": "mind, soul, mental process",
+      "word": "psycho",
+      "status": "pending",
+      "reason": "Psycho as unhyphenated self-edge is ambiguous between a clipped whole word and a combining form. Published psycho root does not resolve the example sense.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/psycho"
+      ]
+    },
+    {
+      "root_id": "r_59bf1eaa7281fcae",
+      "root": "min",
+      "meaning": "small; make smaller",
+      "word": "mince",
+      "status": "pending",
+      "reason": "来源 min small 与目标一致；牛津及词源词典支持 Old French mincier 经 Latin minutus，但另一历史词典主张 Old English minsian；来源路径仍有争议。 复查 Merriam-Webster 和牛津采用 Latin minutia 路线，而 Wiktionary 同时记 Old English 和日耳曼来源，范围未统一，不能把一种路线说成唯一确定。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mince",
+        "https://en.wiktionary.org/wiki/mince"
+      ]
+    },
+    {
+      "root_id": "r_60aef9c0d583ea5e",
+      "root": "aqua",
+      "meaning": "water",
+      "word": "aquarius",
+      "status": "pending",
+      "reason": "两个原始例词均为 Aquarius；词典确认天文学名称源于 Latin 水，当前 lowercase aquarius 不能仅据此替换，专名政策和另一个小写义仍需厘清。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/Aquarius",
+        "https://www.etymonline.com/word/Aquarius"
+      ]
+    },
+    {
+      "root_id": "r_6605a98f456af6f0",
+      "root": "octa",
+      "meaning": "eight",
+      "word": "octane",
+      "status": "pending",
+      "reason": "Octane contains oct- eight plus -ane; whether Greek octa is an acceptable historical alias across the ending is unresolved, not a proven unrelated etymology.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/octane"
+      ]
+    },
+    {
+      "root_id": "r_6605a98f456af6f0",
+      "root": "octa",
+      "meaning": "eight",
+      "word": "octant",
+      "status": "pending",
+      "reason": "Octant derives from Latin octans eighth, while published origin is Greek octa; whether this common eight-family alias covers the Latin stem remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/octant"
+      ]
+    },
+    {
+      "root_id": "r_6605a98f456af6f0",
+      "root": "octa",
+      "meaning": "eight",
+      "word": "octave",
+      "status": "pending",
+      "reason": "Octave derives from Latin octava, not directly Greek octa; the appropriateness of the shared eight-family historical alias remains unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/octave"
+      ]
+    },
+    {
+      "root_id": "r_6605a98f456af6f0",
+      "root": "octa",
+      "meaning": "eight",
+      "word": "octavo",
+      "status": "pending",
+      "reason": "Octavo comes from Latin octavus via the ablative; Greek octa lookup and Latin ordinal stem require explicit alias policy.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/octave"
+      ]
+    },
+    {
+      "root_id": "r_665b9d9f11533af8",
+      "root": "pent",
+      "meaning": "five",
+      "word": "pentacle",
+      "status": "pending",
+      "reason": "Etymonline offers Greek pente five for Medieval Latin pentaculum while also describing French pentacol amulet worn at the neck; the cited conflicting account and historical origin require further reconciliation. Do not infer five from the spelling alone.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pentacle",
+        "https://en.wiktionary.org/wiki/pentacle"
+      ]
+    },
+    {
+      "root_id": "r_7301951ff76a56ee",
+      "root": "philo",
+      "meaning": "love, fondness",
+      "word": "anemophilous",
+      "status": "pending",
+      "reason": "Anemophilous uses -philous; philo reaches into the ending rather than the philo- prefix. Historical alias eligibility is not resolved by that modern parse.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/anemophilous",
+        "https://www.etymonline.com/word/philo-"
+      ]
+    },
+    {
+      "root_id": "r_7301951ff76a56ee",
+      "root": "philo",
+      "meaning": "love, fondness",
+      "word": "xerophilous",
+      "status": "pending",
+      "reason": "Xerophilous uses -philous; philo overlaps -ous. The boundary objection alone does not settle whether a historical love-family alias is allowed.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/xerophilous",
+        "https://www.etymonline.com/word/philo-"
+      ]
+    },
+    {
+      "root_id": "r_752ea74333c797a4",
+      "root": "kilo",
+      "meaning": "thousand",
+      "word": "kilo",
+      "status": "pending",
+      "reason": "来源 kilo thousand 与目标一致；词典 kilo 是 kilogram 的截短形式，完整英语词本身作例词待政策决定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/kilo"
+      ]
+    },
+    {
+      "root_id": "r_781fd8c4123b6afe",
+      "root": "-grade",
+      "meaning": "go, step, degree",
+      "word": "grade",
+      "status": "pending",
+      "reason": "来源及目标均为 grad, -grade；词典明确 grade 源自 gradus，例词与词根同形及自由词与后缀的收录政策未决。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/grade",
+        "https://www.merriam-webster.com/dictionary/-grade"
+      ]
+    },
+    {
+      "root_id": "r_89baecef5dde870b",
+      "root": "icon",
+      "meaning": "image",
+      "word": "icon",
+      "status": "pending",
+      "reason": "来源 icon, icono 的 image 义与目标一致；词典将 icon 追溯 Greek eikon，但完整词本身当例词的收录政策未定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/icon"
+      ]
+    },
+    {
+      "root_id": "r_8ad887e4f72991fd",
+      "root": "ment",
+      "meaning": "mind",
+      "word": "aforementioned",
+      "status": "pending",
+      "reason": "aforementioned 经 mention ← Latin mentio ← minisci“想”；词典只说 mentio 与 mens/mentis“mind”同源，未证明它继承了目标 Latin ment- 的同一形态边界。接受记录和 related_only 都涉及相同 Engra 源，不能以共同 PIE 根证明相同拉丁词干。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mention"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_4ab6dd63b6a02bd0f593",
+          "source_entry_ids": [
+            "s_1c1c9b5a6e73f08ca8bc"
+          ],
+          "evidence_urls": [
+            "https://dcc.dickinson.edu/grammar/latin/derived-stems-and-suffixes",
+            "https://www.dictionary.com/browse/aforementioned",
+            "https://www.etymonline.com/word/mention"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_8ad887e4f72991fd",
+      "root": "ment",
+      "meaning": "mind",
+      "word": "mention",
+      "status": "pending",
+      "reason": "来源 ment mind 与目标一致；词典将 mention 追溯 mentio 与 minisci think，称其与 mens 相关，不足确认现存 ment 为此词独立 mind 词干。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mention"
+      ]
+    },
+    {
+      "root_id": "r_8ad887e4f72991fd",
+      "root": "ment",
+      "meaning": "mind",
+      "word": "mentionable",
+      "status": "pending",
+      "reason": "mentionable 经 mention ← Latin mentio ← minisci“想”；词典只说 mentio 与 mens/mentis“mind”同源，未证明它继承了目标 Latin ment- 的同一形态边界。接受记录和 related_only 都涉及相同 Engra 源，不能以共同 PIE 根证明相同拉丁词干。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mention"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_ec820b3a751170010428",
+          "source_entry_ids": [
+            "s_1c1c9b5a6e73f08ca8bc"
+          ],
+          "evidence_urls": [
+            "https://dcc.dickinson.edu/grammar/latin/derived-stems-and-suffixes",
+            "https://www.etymonline.com/word/mention",
+            "https://www.etymonline.com/word/mentionable"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_8ad887e4f72991fd",
+      "root": "ment",
+      "meaning": "mind",
+      "word": "mentioner",
+      "status": "pending",
+      "reason": "mentioner 经 mention ← Latin mentio ← minisci“想”；词典只说 mentio 与 mens/mentis“mind”同源，未证明它继承了目标 Latin ment- 的同一形态边界。接受记录和 related_only 都涉及相同 Engra 源，不能以共同 PIE 根证明相同拉丁词干。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mention"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_883dc5174fc6ccb60271",
+          "source_entry_ids": [
+            "s_1c1c9b5a6e73f08ca8bc"
+          ],
+          "evidence_urls": [
+            "https://deriv.nls.uk/dcn23/8078/80789163.23.pdf",
+            "https://www.etymonline.com/word/mention"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_8ad887e4f72991fd",
+      "root": "ment",
+      "meaning": "mind",
+      "word": "unmentioned",
+      "status": "pending",
+      "reason": "unmentioned 经 mention ← Latin mentio ← minisci“想”；词典只说 mentio 与 mens/mentis“mind”同源，未证明它继承了目标 Latin ment- 的同一形态边界。接受记录和 related_only 都涉及相同 Engra 源，不能以共同 PIE 根证明相同拉丁词干。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mention"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_0e6a25c83e8487d7cc6a",
+          "source_entry_ids": [
+            "s_1c1c9b5a6e73f08ca8bc"
+          ],
+          "evidence_urls": [
+            "https://dcc.dickinson.edu/grammar/latin/derived-stems-and-suffixes",
+            "https://www.dictionary.com/browse/unmentioned",
+            "https://www.etymonline.com/word/mention"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_8d33ade40e69fb6b",
+      "root": "pac",
+      "meaning": "peace",
+      "word": "compact",
+      "status": "pending",
+      "reason": "compact 协定义的 compacisci/pacisci 与 pax 同根；Corominas 将 pactum 通过 pacisci 与 pax 词根联系，紧密义则经 compingere。已接受限制协定义，但此同根是否达到当前 Latin peace 义索引的阈值需进一步裁定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/compact",
+        "https://bibliamedieval.es/bibliateca.es/corominas/DATA/HTML/paz.html"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_70ac24f7d330c036ed66",
+          "source_entry_ids": [
+            "s_544814062671b0a48c8f",
+            "s_b543672aba12153a07c1"
+          ],
+          "evidence_urls": [
+            "https://www.collinsdictionary.com/dictionary/english/compact",
+            "https://www.etymonline.com/word/compact"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_8d33ade40e69fb6b",
+      "root": "pac",
+      "meaning": "peace",
+      "word": "pact",
+      "status": "pending",
+      "reason": "Pact from pacisci/pactum is historically related to pax peace, but not a direct pax-stem derivation. Shared historical-family alias policy must be decided.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pact"
+      ]
+    },
+    {
+      "root_id": "r_8f5f6e7d3de5b020",
+      "root": "it",
+      "meaning": "journey, road",
+      "word": "itinerant",
+      "status": "pending",
+      "reason": "来源 it, itiner journey 与目标一致，词典将 itinerant 经 itinerare 追溯至 iter/itineris；是否将 it 作为较长词干检索别名仍待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/itinerant",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=iter"
+      ]
+    },
+    {
+      "root_id": "r_8f5f6e7d3de5b020",
+      "root": "it",
+      "meaning": "journey, road",
+      "word": "itinerary",
+      "status": "pending",
+      "reason": "来源 it, itiner journey 与目标一致，词典将 itinerary 追溯 itineris；另一源 it/go 不可自动并同，短 it 是否可作为该长词干别名待核。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/itinerary",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=iter"
+      ]
+    },
+    {
+      "root_id": "r_9032e18fd087c6f2",
+      "root": "-phobic",
+      "meaning": "fear, dread",
+      "word": "phobic",
+      "status": "pending",
+      "reason": "原始 phobia, -phobe, -phobic fear 与发布目标一致；词典称 phobic 源于 phobia + -ic，作为其自身例词的资格依自由词政策。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/phobic"
+      ]
+    },
+    {
+      "root_id": "r_91c14b8865666516",
+      "root": "-odon",
+      "meaning": "tooth, teeth",
+      "word": "endodontics",
+      "status": "pending",
+      "reason": "endodontics contains odont-/odonto- tooth rather than an independently established -odon animal-name suffix. This is a related historical family; whether this alias crosses the longer stem requires policy resolution.",
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/endodontics",
+        "https://www.merriam-webster.com/dictionary/odont-"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": null,
+          "source_entry_ids": [],
+          "evidence_urls": [
+            "https://www.merriam-webster.com/dictionary/endodontics"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_91c14b8865666516",
+      "root": "-odon",
+      "meaning": "tooth, teeth",
+      "word": "odontology",
+      "status": "pending",
+      "reason": "odontology contains odont-/odonto- tooth rather than an independently established -odon animal-name suffix. This is a related historical family; whether this alias crosses the longer stem requires policy resolution.",
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/odontology"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": null,
+          "source_entry_ids": [],
+          "evidence_urls": [
+            "https://www.affixes.org/odonto-.html",
+            "https://www.collinsdictionary.com/dictionary/english/odontology"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_91c14b8865666516",
+      "root": "-odon",
+      "meaning": "tooth, teeth",
+      "word": "orthodontics",
+      "status": "pending",
+      "reason": "orthodontics contains odont-/odonto- tooth rather than an independently established -odon animal-name suffix. This is a related historical family; whether this alias crosses the longer stem requires policy resolution.",
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/orthodontic",
+        "https://www.merriam-webster.com/dictionary/odont-"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": null,
+          "source_entry_ids": [],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/orthodontia",
+            "https://www.etymonline.com/word/orthodontic",
+            "https://www.etymonline.com/word/orthodontics"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_91c14b8865666516",
+      "root": "-odon",
+      "meaning": "tooth, teeth",
+      "word": "orthodontist",
+      "status": "pending",
+      "reason": "orthodontist contains odont-/odonto- tooth rather than an independently established -odon animal-name suffix. This is a related historical family; whether this alias crosses the longer stem requires policy resolution.",
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/orthodontic",
+        "https://www.merriam-webster.com/dictionary/odont-"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": null,
+          "source_entry_ids": [],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/orthodontia",
+            "https://www.etymonline.com/word/orthodontist"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_91c14b8865666516",
+      "root": "-odon",
+      "meaning": "tooth, teeth",
+      "word": "periodontal",
+      "status": "pending",
+      "reason": "periodontal contains odont-/odonto- tooth rather than an independently established -odon animal-name suffix. This is a related historical family; whether this alias crosses the longer stem requires policy resolution.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/periodontal",
+        "https://www.merriam-webster.com/dictionary/odont-"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": null,
+          "source_entry_ids": [],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/periodontal"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_91c14b8865666516",
+      "root": "-odon",
+      "meaning": "tooth, teeth",
+      "word": "periodontics",
+      "status": "pending",
+      "reason": "periodontics contains odont-/odonto- tooth rather than an independently established -odon animal-name suffix. This is a related historical family; whether this alias crosses the longer stem requires policy resolution.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/periodontal",
+        "https://www.merriam-webster.com/dictionary/odont-"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": null,
+          "source_entry_ids": [],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/periodontal",
+            "https://www.etymonline.com/word/periodontics"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "intermix",
+      "status": "pending",
+      "reason": "intermix 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_a517c62bab7f7f974b79",
+          "source_entry_ids": [
+            "s_9c1a634df754c6c39fb1",
+            "s_e82f16d98fcba8fdad8e"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/mix"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "mix",
+      "status": "pending",
+      "reason": "mix 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_d96d7d409053db2db0e5",
+          "source_entry_ids": [
+            "s_9c1a634df754c6c39fb1",
+            "s_e82f16d98fcba8fdad8e"
+          ],
+          "evidence_urls": [
+            "https://www.ahdictionary.com/word/search.html?q=mix",
+            "https://www.etymonline.com/word/mix",
+            "https://www.merriam-webster.com/dictionary/mix",
+            "https://www.oxfordlearnersdictionaries.com/definition/english/mix_1"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "mixing",
+      "status": "pending",
+      "reason": "mixing 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_f7c23c3ce277705d50d8",
+          "source_entry_ids": [
+            "s_9c1a634df754c6c39fb1"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/mix"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "postmix",
+      "status": "pending",
+      "reason": "postmix 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_02805c0e13fa71de9ec9",
+          "source_entry_ids": [
+            "s_e82f16d98fcba8fdad8e"
+          ],
+          "evidence_urls": [
+            "https://en.wiktionary.org/wiki/postmix",
+            "https://www.etymonline.com/word/mix"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "premix",
+      "status": "pending",
+      "reason": "premix 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_4a1a834ef47ffc2eabc8",
+          "source_entry_ids": [
+            "s_e82f16d98fcba8fdad8e"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/mix"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "remix",
+      "status": "pending",
+      "reason": "remix 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_cfab3819f7d6861f820f",
+          "source_entry_ids": [
+            "s_9c1a634df754c6c39fb1",
+            "s_e82f16d98fcba8fdad8e"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/mix",
+            "https://www.merriam-webster.com/dictionary/remix"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_926ba89c5158d180",
+      "root": "mix",
+      "meaning": "mix",
+      "word": "unmixed",
+      "status": "pending",
+      "reason": "unmixed 属于源树中的 mix 及其构词/屈折，词典追溯 mix ← Anglo-French mixte ← Latin mixtus ← miscere“混合”；确有已接受的精确目标，但相同来源仍有整词 root 资格待核，词源成立不撤销该限制。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mix"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_155e12c9f7a660d23b4a",
+          "source_entry_ids": [
+            "s_9c1a634df754c6c39fb1"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/mix"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_93a88804387907a7",
+      "root": "-pose",
+      "meaning": "put, place",
+      "word": "appose",
+      "status": "pending",
+      "reason": "来源和目标都是 put/place；词典给出法语 apposer 与英语从 Latin apponere 类推两个路径，-pose 是现代后缀还是历史别名需进一步判断。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/appose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_93a88804387907a7",
+      "root": "-pose",
+      "meaning": "put, place",
+      "word": "juxtapose",
+      "status": "pending",
+      "reason": "来源和目标都是 put/place；词典给出 juxtaposition 逆构与法语借词两条路径，不能断言现代 -pose 的独立成分。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/juxtapose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_93a88804387907a7",
+      "root": "-pose",
+      "meaning": "put, place",
+      "word": "predispose",
+      "status": "pending",
+      "reason": "来源和目标都是 put/place；词典给出 predisposition 逆构与法语来源两条路径，不能断言现代 -pose 的独立成分。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/predispose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_93a88804387907a7",
+      "root": "-pose",
+      "meaning": "put, place",
+      "word": "repose",
+      "status": "pending",
+      "reason": "来源和目标都是 put/place；词典区分 rest 的 repausare 和 put/place 义，例词没有义项限定，需处理同形义项。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/repose",
+        "https://www.etymonline.com/word/pose"
+      ]
+    },
+    {
+      "root_id": "r_943984bd5338d498",
+      "root": "mal",
+      "meaning": "bad, evil, ill",
+      "word": "malinger",
+      "status": "pending",
+      "reason": "来源 mal, male bad/ill 与目标一致；词典称法语 malingre 来源不确定，可能混合 malade，但尚不足以证明或排除 Latin mal。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/malinger"
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "displaced",
+      "status": "pending",
+      "reason": "displaced 属 displace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/displace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_324947ba0ff943ea78bd",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/displace",
+            "https://www.merriam-webster.com/dictionary/displace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "displacement",
+      "status": "pending",
+      "reason": "displacement 属 displace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/displace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_abbbb677769530d4b8fb",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/displace",
+            "https://www.merriam-webster.com/dictionary/displacement"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "irreplaceable",
+      "status": "pending",
+      "reason": "irreplaceable 属 replace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_a4cfca3af338d0a56c38",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.dictionary.com/browse/irreplaceable",
+            "https://www.etymonline.com/word/replace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "misplace",
+      "status": "pending",
+      "reason": "misplace 属 misplace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_7db17e4c19e835d3165f",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/misplace",
+            "https://www.merriam-webster.com/dictionary/misplace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "misplacement",
+      "status": "pending",
+      "reason": "misplacement 属 misplace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_db863e9dcfaf2e132191",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/misplace",
+            "https://www.merriam-webster.com/dictionary/misplace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "replace",
+      "status": "pending",
+      "reason": "replace 属 replace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_0ce6f496701b13beada9",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/replace",
+            "https://www.merriam-webster.com/dictionary/replace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "replaceable",
+      "status": "pending",
+      "reason": "replaceable 属 replace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_39c2835f7b55ecd6a1a1",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/replace",
+            "https://www.merriam-webster.com/dictionary/replace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "replaced",
+      "status": "pending",
+      "reason": "replaced 属 replace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_7c638861a9481080afd8",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/replace",
+            "https://www.merriam-webster.com/dictionary/replace"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_97c016f2928634d0",
+      "root": "plac",
+      "meaning": "an open space",
+      "word": "replacement",
+      "status": "pending",
+      "reason": "replacement 属 replace ← place 家族；place 经 French place/Medieval Latin placea ← Latin platea“空地”。现存 plac 是英语/法语历史检索形式，不能冒称原始拉丁词干如此分段；整词/别名资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_625c7f4c2944a0c53e22",
+          "source_entry_ids": [
+            "s_49b6bf0d775d9251807e"
+          ],
+          "evidence_urls": [
+            "https://ahdictionary.com/word/search.html?q=PLACE",
+            "https://www.etymonline.com/word/replace",
+            "https://www.merriam-webster.com/dictionary/replacement"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_9827c8c2206e31b1",
+      "root": "mod",
+      "meaning": "manner, measure, way",
+      "word": "immoderate",
+      "status": "pending",
+      "reason": "immoderate 属 moderari“设定限度/量度”家族，符合目标 measure 意义。Partridge《Origins》明确提出 modus → moderari，而另一词典分析两者源自同一更早词根而非前者直接派生；保留有条件的历史同族支持，不把有争议的直接派生写成既定事实。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/moderate",
+        "https://ocw.ui.ac.id/pluginfile.php?file=%2F1102%2Fmod_folder%2Fcontent%2F0%2FOrigins+-+An+Etymological+Dictionary+of+Modern+English.pdf&forcedownload=1",
+        "https://en.wiktionary.org/wiki/moderor"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_d0795ede89096b3ad254",
+          "source_entry_ids": [
+            "s_2df6ee2b23966eb9b88b"
+          ],
+          "evidence_urls": [
+            "https://www.ahdictionary.com/word/indoeurop.html",
+            "https://www.ahdictionary.com/word/search.html?q=immoderate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_9827c8c2206e31b1",
+      "root": "mod",
+      "meaning": "manner, measure, way",
+      "word": "immoderately",
+      "status": "pending",
+      "reason": "immoderately 属 moderari“设定限度/量度”家族，符合目标 measure 意义。Partridge《Origins》明确提出 modus → moderari，而另一词典分析两者源自同一更早词根而非前者直接派生；保留有条件的历史同族支持，不把有争议的直接派生写成既定事实。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/moderate",
+        "https://ocw.ui.ac.id/pluginfile.php?file=%2F1102%2Fmod_folder%2Fcontent%2F0%2FOrigins+-+An+Etymological+Dictionary+of+Modern+English.pdf&forcedownload=1",
+        "https://en.wiktionary.org/wiki/moderor"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_0035a99d70354ff92ea5",
+          "source_entry_ids": [
+            "s_2df6ee2b23966eb9b88b"
+          ],
+          "evidence_urls": [
+            "https://www.ahdictionary.com/word/indoeurop.html",
+            "https://www.ahdictionary.com/word/search.html?q=immoderate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_9827c8c2206e31b1",
+      "root": "mod",
+      "meaning": "manner, measure, way",
+      "word": "moderately",
+      "status": "pending",
+      "reason": "moderately 属 moderari“设定限度/量度”家族，符合目标 measure 意义。Partridge《Origins》明确提出 modus → moderari，而另一词典分析两者源自同一更早词根而非前者直接派生；保留有条件的历史同族支持，不把有争议的直接派生写成既定事实。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/moderate",
+        "https://ocw.ui.ac.id/pluginfile.php?file=%2F1102%2Fmod_folder%2Fcontent%2F0%2FOrigins+-+An+Etymological+Dictionary+of+Modern+English.pdf&forcedownload=1",
+        "https://en.wiktionary.org/wiki/moderor"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_489692adb1fd9c335b0e",
+          "source_entry_ids": [
+            "s_2df6ee2b23966eb9b88b"
+          ],
+          "evidence_urls": [
+            "https://www.ahdictionary.com/word/indoeurop.html",
+            "https://www.ahdictionary.com/word/search.html?q=moderate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_9827c8c2206e31b1",
+      "root": "mod",
+      "meaning": "manner, measure, way",
+      "word": "moderating",
+      "status": "pending",
+      "reason": "moderating 属 moderari“设定限度/量度”家族，符合目标 measure 意义。Partridge《Origins》明确提出 modus → moderari，而另一词典分析两者源自同一更早词根而非前者直接派生；保留有条件的历史同族支持，不把有争议的直接派生写成既定事实。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/moderate",
+        "https://ocw.ui.ac.id/pluginfile.php?file=%2F1102%2Fmod_folder%2Fcontent%2F0%2FOrigins+-+An+Etymological+Dictionary+of+Modern+English.pdf&forcedownload=1",
+        "https://en.wiktionary.org/wiki/moderor"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_bba547de9252789f4543",
+          "source_entry_ids": [
+            "s_2df6ee2b23966eb9b88b"
+          ],
+          "evidence_urls": [
+            "https://www.ahdictionary.com/word/indoeurop.html",
+            "https://www.ahdictionary.com/word/search.html?q=moderate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_9fd963e23cb4d070",
+      "root": "-phone",
+      "meaning": "sound, voice",
+      "word": "dictaphone",
+      "status": "pending",
+      "reason": "原始 Dictaphone 出自同一 sound 来源，词典称品牌名来自 dictation + -phone；现为小写边，品牌专名和大小写政策未定。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/dictaphone",
+        "https://www.etymonline.com/word/Dictaphone"
+      ]
+    },
+    {
+      "root_id": "r_9fd963e23cb4d070",
+      "root": "-phone",
+      "meaning": "sound, voice",
+      "word": "phone",
+      "status": "pending",
+      "reason": "来源和目标 sound 一致；词典区分 phone 通话和语言学语音义，独立词与结合形式同形收录资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/phone"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quinquagenarian",
+      "status": "pending",
+      "reason": "quinquagenarian descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quinquennial"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quinquagesima",
+      "status": "pending",
+      "reason": "quinquagesima descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quinquennial"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quinquennial",
+      "status": "pending",
+      "reason": "quinquennial descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quinquennial"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quinquevalent",
+      "status": "pending",
+      "reason": "quinquevalent descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quinquennial"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quintessence",
+      "status": "pending",
+      "reason": "quintessence descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quintet"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quintet",
+      "status": "pending",
+      "reason": "quintet descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quintet"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quintillion",
+      "status": "pending",
+      "reason": "quintillion descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quintet"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quintuple",
+      "status": "pending",
+      "reason": "quintuple is historically linked to Latin quintus fifth; the dictionary gives quintuplex for quintuple and says the ending of quintuplet comes from triplet. This corrects the oversimplified quintuplus/-et claims, but does not establish the shorter quin as a historical stem.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quintuple",
+        "https://www.etymonline.com/word/quintuplet",
+        "https://www.etymonline.com/word/quintet"
+      ]
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "root": "quin",
+      "meaning": "five, fifth",
+      "word": "quintuplet",
+      "status": "pending",
+      "reason": "quintuplet is historically linked to Latin quintus fifth; the dictionary gives quintuplex for quintuple and says the ending of quintuplet comes from triplet. This corrects the oversimplified quintuplus/-et claims, but does not establish the shorter quin as a historical stem.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/quintuple",
+        "https://www.etymonline.com/word/quintuplet",
+        "https://www.etymonline.com/word/quintet"
+      ]
+    },
+    {
+      "root_id": "r_be9a644ff1438c60",
+      "root": "mani",
+      "meaning": "hand",
+      "word": "manifest",
+      "status": "pending",
+      "reason": "来源 man, mani, manu, main hand 与目标一致；词典将 manifestus 与 manus 的关联称为可能，仍属不确定词源。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/manifest"
+      ]
+    },
+    {
+      "root_id": "r_c134650af524e955",
+      "root": "-meter",
+      "meaning": "measure",
+      "word": "meter",
+      "status": "pending",
+      "reason": "原源与目标 measure 对应；meter 存在长度单位及其他同形词义，历史分项限长度义；词条与词根同形的收录政策未定。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/meter",
+        "https://www.etymonline.com/word/meter"
+      ]
+    },
+    {
+      "root_id": "r_c2a3c8b3e9582ba0",
+      "root": "nihil",
+      "meaning": "nothing",
+      "word": "nihil",
+      "status": "pending",
+      "reason": "nihil 在拉丁及英文法律、辞书记录中表示 nothing，与目标一致；但该完整词而非前缀实例能否作为例词仍受独立资格政策约束。",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/nihil",
+        "https://www.law.cornell.edu/wex/nihil"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_65aaa80de9a812c6d02b",
+          "source_entry_ids": [
+            "s_8a588a09753e3f5e4bda"
+          ],
+          "evidence_urls": [
+            "https://www.collinsdictionary.com/dictionary/english/nihil",
+            "https://www.dictionary.com/browse/nihil",
+            "https://www.law.cornell.edu/wex/nihil"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_c83dc89e2a074419",
+      "root": "ops",
+      "meaning": "eye, visual condition, vision, sight, inspection",
+      "word": "coreopsis",
+      "status": "pending",
+      "reason": "Coreopsis derives from Greek bug plus opsis appearance; the target includes sight and inspection but not explicitly resemblance. The sense relationship and alias scope need a specific decision.",
+      "evidence_urls": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=108000"
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "deregulate",
+      "status": "pending",
+      "reason": "deregulate：regulate 经 Latin regulare、regula“规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/管理。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regulate"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_d68d71ab21eabbfa5d5d",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regulate",
+            "https://www.merriam-webster.com/dictionary/deregulate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "irregularity",
+      "status": "pending",
+      "reason": "irregularity：regular、irregular 经 regula“尺、规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/直线。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regular"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_8af7b06c1c36775ceb2c",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/irregularity",
+            "https://www.etymonline.com/word/rule"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "irregularly",
+      "status": "pending",
+      "reason": "irregularly：regular、irregular 经 regula“尺、规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/直线。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regular"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_e6c7d9c8dbf68afbf2cb",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/irregularly",
+            "https://www.etymonline.com/word/irregular"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regally",
+      "status": "pending",
+      "reason": "regally：regally 为 regal 的副词；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 rex/regis 王权。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regal"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_1a783773051de38fc7ed",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/regally",
+            "https://www.etymonline.com/word/regal"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regency",
+      "status": "pending",
+      "reason": "regency：regency 由 regent / regere 家族来，目标的 king-only 来源不得自动扩展；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 统治。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regency"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_e6a1b09840337460c1de",
+          "source_entry_ids": [
+            "s_3377751ed2882372b013",
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regency",
+            "https://www.oxfordlearnersdictionaries.com/us/definition/english/regency_1"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regimental",
+      "status": "pending",
+      "reason": "regimental：regiment 旧义 government、rule 源自 Latin regimentum / regere；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 管理/统领。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regiment"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_44ae01f6c0439688610f",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regiment"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regimentation",
+      "status": "pending",
+      "reason": "regimentation：regiment 旧义 government、rule 源自 Latin regimentum / regere；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 管理/统领。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regiment"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_31edff5c9e36e5a5f9a1",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/regimentation",
+            "https://www.etymonline.com/word/regiment"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regimented",
+      "status": "pending",
+      "reason": "regimented：regiment 旧义 government、rule 源自 Latin regimentum / regere；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 管理/统领。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regiment"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_1f4a5b057c476ff5fdc7",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://dictionary.cambridge.org/us/dictionary/english/regimented",
+            "https://www.dictionary.com/browse/regiment",
+            "https://www.etymonline.com/word/regiment"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regional",
+      "status": "pending",
+      "reason": "regional：region 源自 regio“方向、界线、地区”，由 regere“引导”产生，不应强行套用王权义；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 指引/划界。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/region"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_bbbab5d899d1f45e9bc0",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://dsl.ac.uk/entry/dost/regioune",
+            "https://en.wiktionary.org/wiki/regional"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regionalism",
+      "status": "pending",
+      "reason": "regionalism：region 源自 regio“方向、界线、地区”，由 regere“引导”产生，不应强行套用王权义；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 指引/划界。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/region"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_630704b27f499ef48ffc",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/regionalism",
+            "https://www.etymonline.com/word/region"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regionalist",
+      "status": "pending",
+      "reason": "regionalist：region 源自 regio“方向、界线、地区”，由 regere“引导”产生，不应强行套用王权义；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 指引/划界。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/region"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_a2955bb45fe847202885",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://ptabdata.blob.core.windows.net/files/2016/CBM2016-00099/v6_EX1006%20%5BWebster%5D.pdf",
+            "https://www.etymonline.com/word/region"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regionalize",
+      "status": "pending",
+      "reason": "regionalize：region 源自 regio“方向、界线、地区”，由 regere“引导”产生，不应强行套用王权义；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 指引/划界。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/region"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_7710c51205809ffc052e",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://files.znu.edu.ua/files/Bibliobooks/Kushynova/0033892.pdf",
+            "https://www.dictionary.com/browse/regionalize",
+            "https://www.etymonline.com/word/region"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regionally",
+      "status": "pending",
+      "reason": "regionally：region 源自 regio“方向、界线、地区”，由 regere“引导”产生，不应强行套用王权义；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 指引/划界。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/region"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_0d99ac181013e70c7424",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/regionally",
+            "https://www.etymonline.com/word/region"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regularity",
+      "status": "pending",
+      "reason": "regularity：regular、irregular 经 regula“尺、规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/直线。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regular"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_150710ce09d4db20faca",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regularity",
+            "https://www.etymonline.com/word/rule"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regularize",
+      "status": "pending",
+      "reason": "regularize：regular、irregular 经 regula“尺、规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/直线。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regular"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_d608d4108832fa34c9dd",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://ghcl.ub.edu/diccaxv/dictionary/ViewLema/17638",
+            "https://www.etymonline.com/word/regularize"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regularly",
+      "status": "pending",
+      "reason": "regularly：regular、irregular 经 regula“尺、规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/直线。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regular"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_1c161afc66bad45f74b4",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/regularly",
+            "https://www.etymonline.com/word/regular"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regulated",
+      "status": "pending",
+      "reason": "regulated：regulate 经 Latin regulare、regula“规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/管理。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regulate"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_abb16a63a448ec4d79d0",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regulate",
+            "https://www.merriam-webster.com/dictionary/regulate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regulating",
+      "status": "pending",
+      "reason": "regulating：regulate 经 Latin regulare、regula“规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/管理。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regulate"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_52f0836c634f99cd695b",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regulate",
+            "https://www.merriam-webster.com/dictionary/regulate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regulative",
+      "status": "pending",
+      "reason": "regulative：regulate 经 Latin regulare、regula“规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/管理。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regulate"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_50e44477191669b9c7be",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://en.wiktionary.org/wiki/regulative",
+            "https://www.etymonline.com/word/regulate"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regulator",
+      "status": "pending",
+      "reason": "regulator：regulate 经 Latin regulare、regula“规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/管理。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regulate"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_63224fc41ec9499d8056",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regulate",
+            "https://www.merriam-webster.com/dictionary/regulator"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "regulatory",
+      "status": "pending",
+      "reason": "regulatory：regulate 经 Latin regulare、regula“规则”；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regula 规则/管理。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/regulate"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_587840bab13c5b63bbca",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/regulate",
+            "https://www.merriam-webster.com/dictionary/regulatory"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ceb7e695fd56de97",
+      "root": "reg",
+      "meaning": "king, rule, guide; straight",
+      "word": "subregion",
+      "status": "pending",
+      "reason": "subregion：region 源自 regio“方向、界线、地区”，由 regere“引导”产生，不应强行套用王权义；已有精确来源接受与待核 scoped accept 均可支持当前合并目标里的 regere 指引/划界。后续是否拆分 rex/regis 与 regere 及如何分配公开 ID 仍未解决，不能把本条当作已决定未来目标。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/region"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_3e320833a47ab95392a1",
+          "source_entry_ids": [
+            "s_f566d14a82a3629353ad"
+          ],
+          "evidence_urls": [
+            "https://en.wiktionary.org/wiki/subregion",
+            "https://files.znu.edu.ua/files/Bibliobooks/Kushynova/0033892.pdf",
+            "https://www.etymonline.com/word/region"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d3312ca743a34514",
+      "root": "phon",
+      "meaning": "sound, voice",
+      "word": "dictaphone",
+      "status": "pending",
+      "reason": "Dictaphone is a trademark coined with -phone; the sound family is supported, while lowercase trademark and name eligibility remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Dictaphone",
+        "https://www.etymonline.com/word/-phone"
+      ]
+    },
+    {
+      "root_id": "r_d3312ca743a34514",
+      "root": "phon",
+      "meaning": "sound, voice",
+      "word": "phon",
+      "status": "pending",
+      "reason": "Phon is an acoustic unit ultimately related to Greek sound; whole-word eligibility remains unresolved.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/phon",
+        "https://www.etymonline.com/word/phono-"
+      ]
+    },
+    {
+      "root_id": "r_d3312ca743a34514",
+      "root": "phon",
+      "meaning": "sound, voice",
+      "word": "phone",
+      "status": "pending",
+      "reason": "Phone has clipped telephone and speech-sound senses; both have sound-family connections, but the whole-word edge and sense restrictions remain unsettled.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/phone",
+        "https://www.etymonline.com/word/-phone"
+      ]
+    },
+    {
+      "root_id": "r_d3c6c444be8c8d51",
+      "root": "plane",
+      "meaning": "flat",
+      "word": "aquaplane",
+      "status": "pending",
+      "reason": "aquaplane 是平面装置，历史联系平面义；平面家族历史与 Latin planus flat 相容，但整词 root 发布资格尚未决定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/plane",
+        "https://www.ahdictionary.com/word/search.html?q=aquaplane"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_fb3be84d7480cd85bb8d",
+          "source_entry_ids": [
+            "s_c7de811c3ae91d908695"
+          ],
+          "evidence_urls": [
+            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+            "https://www.ahdictionary.com/word/search.html?q=aquaplane",
+            "https://www.etymonline.com/word/plane"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d3c6c444be8c8d51",
+      "root": "plane",
+      "meaning": "flat",
+      "word": "deplane",
+      "status": "pending",
+      "reason": "deplane 来自飞机义 plane ← aeroplane，并非直接指平面；平面家族历史与 Latin planus flat 相容，但整词 root 发布资格尚未决定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/plane",
+        "https://www.etymonline.com/word/deplane",
+        "https://www.etymonline.com/word/aeroplane"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_a2970bc450d49444f14f",
+          "source_entry_ids": [
+            "s_c7de811c3ae91d908695"
+          ],
+          "evidence_urls": [
+            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+            "https://www.etymonline.com/word/aeroplane",
+            "https://www.etymonline.com/word/deplane"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d3c6c444be8c8d51",
+      "root": "plane",
+      "meaning": "flat",
+      "word": "plane",
+      "status": "pending",
+      "reason": "plane 可指平面/飞机/刨具，同形树名源系须排除；平面家族历史与 Latin planus flat 相容，但整词 root 发布资格尚未决定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/plane"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_334edfc9b4afd11b124b",
+          "source_entry_ids": [
+            "s_c7de811c3ae91d908695"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/plane",
+            "https://www.merriam-webster.com/dictionary/plane"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d86796af32bccd8c",
+      "root": "palm",
+      "meaning": "palm",
+      "word": "palm",
+      "status": "pending",
+      "reason": "palm 手掌义来自 Latin palma；树义亦与同源叶形有关；历史根义与目标一致，但同源的整词 root 发布资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/palm"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_8fba067899c3611bd736",
+          "source_entry_ids": [
+            "s_d40872b62bf5c72aca9d"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/palm",
+            "https://www.merriam-webster.com/dictionary/palm"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d86796af32bccd8c",
+      "root": "palm",
+      "meaning": "palm",
+      "word": "palmette",
+      "status": "pending",
+      "reason": "palmette 从法语 palme 的派生形式进入英语，不需假称英语 palm 直接构词；历史根义与目标一致，但同源的整词 root 发布资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/palm",
+        "https://www.merriam-webster.com/dictionary/palmette"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_583795894f411b80bca8",
+          "source_entry_ids": [
+            "s_d40872b62bf5c72aca9d"
+          ],
+          "evidence_urls": [
+            "https://www.etymonline.com/word/palm",
+            "https://www.merriam-webster.com/dictionary/palmette"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d86796af32bccd8c",
+      "root": "palm",
+      "meaning": "palm",
+      "word": "palmful",
+      "status": "pending",
+      "reason": "palmful 是手掌可容纳量；历史根义与目标一致，但同源的整词 root 发布资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/palm"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_8cba3b28af773ba12081",
+          "source_entry_ids": [
+            "s_d40872b62bf5c72aca9d"
+          ],
+          "evidence_urls": [
+            "https://www.merriam-webster.com/dictionary/palm",
+            "https://www.merriam-webster.com/dictionary/palmful"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d86796af32bccd8c",
+      "root": "palm",
+      "meaning": "palm",
+      "word": "palmistry",
+      "status": "pending",
+      "reason": "palmistry 由 palm 加未明后部构成，palmist 是后来的回构，原来源树先后顺序不可靠；历史根义与目标一致，但同源的整词 root 发布资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/palm",
+        "https://www.etymonline.com/word/palmistry"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_30305497e9b7d27bc1fe",
+          "source_entry_ids": [
+            "s_d40872b62bf5c72aca9d"
+          ],
+          "evidence_urls": [
+            "https://www.merriam-webster.com/dictionary/palm",
+            "https://www.merriam-webster.com/dictionary/palmistry"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d86796af32bccd8c",
+      "root": "palm",
+      "meaning": "palm",
+      "word": "palmtop",
+      "status": "pending",
+      "reason": "palmtop 的 palm 指手掌而非树；历史根义与目标一致，但同源的整词 root 发布资格待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/palm"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_f261e925dcda93d28f04",
+          "source_entry_ids": [
+            "s_d40872b62bf5c72aca9d"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/palmtop",
+            "https://www.duden.de/rechtschreibung/Palmtop"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_d88cefb843e4d13d",
+      "root": "-logue",
+      "meaning": "word, speech, written work",
+      "word": "decalogue",
+      "status": "pending",
+      "reason": "原源为大写 Decalogue；词典还记录 lowercase 普通名词，因现存词条无例词词义，无法把应大写的源义直接套给现存小写边；专名政策另待定。",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/decalogue"
+      ]
+    },
+    {
+      "root_id": "r_dc21d11f32778f92",
+      "root": "graph",
+      "meaning": "writing, drawing, recording",
+      "word": "graph",
+      "status": "pending",
+      "reason": "目标与 graph, -graphy 来源对应；词典称 graph 缩略自 graphic formula，整词自身做例词是否允许待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/graph"
+      ]
+    },
+    {
+      "root_id": "r_dc50ac1f7ac812b4",
+      "root": "nona",
+      "meaning": "nine",
+      "word": "nonagon",
+      "status": "pending",
+      "reason": "Nonagon is a hybrid based on Latin nonus ninth and the ending of pentagon. The explicit related-only target is exact, but the source groups non and nona and does not establish whether nona is an acceptable alias for nonus; do not call the word linguistically unrelated.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/nonagon",
+        "https://www.etymonline.com/word/nona-"
+      ]
+    },
+    {
+      "root_id": "r_dcdd50d7dae46a06",
+      "root": "phil",
+      "meaning": "love, fondness",
+      "word": "drosophila",
+      "status": "pending",
+      "reason": "Drosophila from Greek loving is linguistically aligned; lowercase scientific genus eligibility remains unresolved, which does not establish linguistic exclusion.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/drosophila",
+        "https://www.etymonline.com/word/-phile"
+      ]
+    },
+    {
+      "root_id": "r_dcdd50d7dae46a06",
+      "root": "phil",
+      "meaning": "love, fondness",
+      "word": "gypsophila",
+      "status": "pending",
+      "reason": "Gypsophila from Greek gypsum and loving is linguistically aligned; scientific genus capitalization and eligibility remain unresolved.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/gypsophila",
+        "https://www.etymonline.com/word/-phile"
+      ]
+    },
+    {
+      "root_id": "r_e52342b48120bb1f",
+      "root": "palp",
+      "meaning": "touch",
+      "word": "palp",
+      "status": "pending",
+      "reason": "American Heritage derives palp from Latin palpus a touching, and Etymonline relates it to palpare to touch; the touch sense is supported. Whether an English whole-word self-edge qualifies remains unresolved.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=palp",
+        "https://www.etymonline.com/word/palp"
+      ]
+    },
+    {
+      "root_id": "r_ebb66b49617d9352",
+      "root": "olig",
+      "meaning": "few; deficiency",
+      "word": "oligocene",
+      "status": "pending",
+      "reason": "Oligocene 由 oligo- few 加 -cene 构成；源条目原始大写，冻结及发布为小写 oligocene。字源明晰，大小写和地质专名的收录资格仍待裁定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/oligo-",
+        "https://www.dictionary.com/browse/oligocene"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_e4a593b48c88ad6a29a9",
+          "source_entry_ids": [
+            "s_90e3bbea929023aaa582"
+          ],
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/oligocene",
+            "https://www.merriam-webster.com/dictionary/oligo-"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_ed4bdae3dfd6d39a",
+      "root": "nom",
+      "meaning": "law, system of laws",
+      "word": "deuteronomy",
+      "status": "pending",
+      "reason": "来源 nom2 law 与目标一致；原文 Deuteronomy 为专名，词典从 Greek deuteros + nomos 解释；小写现存边与专名政策待核。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Deuteronomy"
+      ]
+    },
+    {
+      "root_id": "r_ede4a99793721f9b",
+      "root": "pol",
+      "meaning": "city, citizen",
+      "word": "indianapolis",
+      "status": "pending",
+      "reason": "Indianapolis = Indiana + Greek -polis“城市”，明确匹配目标 city；冻结/发布小写 indianapolis 与标准专名 Indianapolis 有别，专名资格及大小写待定。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Indianapolis"
+      ],
+      "historical_accept_claims": [
+        {
+          "relation_id": "e_dc985b28e8602d49e8fa",
+          "source_entry_ids": [
+            "s_83d5fe50d29738d64b6e"
+          ],
+          "evidence_urls": [
+            "https://indyencyclopedia.org/slogans-and-nicknames/",
+            "https://www.etymonline.com/word/Indianapolis"
+          ]
+        }
+      ]
+    },
+    {
+      "root_id": "r_f7876574995b57d8",
+      "root": "phobia",
+      "meaning": "fear, dread",
+      "word": "phobia",
+      "status": "pending",
+      "reason": "American Heritage gives English phobia from the suffix -phobia and distinguishes noun and suffix. Fear lineage and sense match, but whole-English-word self-edge eligibility remains pending.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=phobia",
+        "https://www.etymonline.com/word/phobia",
+        "https://www.etymonline.com/word/-phobia"
+      ]
+    },
+    {
+      "root_id": "r_f97e1b2b770d1d67",
+      "root": "mut",
+      "meaning": "change, interchange",
+      "word": "mutual",
+      "status": "pending",
+      "reason": "mut change/interchange 来源与目标一致；词典将 mutual 追溯 Latin mutuus，是否与 mutare 构成直接词干关系有争议；不得扩展不同来源的 motion 义。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mutual"
+      ]
+    },
+    {
+      "root_id": "r_ffcb1fac8f3177f8",
+      "root": "rhodo",
+      "meaning": "red",
+      "word": "rhodopsin",
+      "status": "pending",
+      "reason": "Rhodopsin parses rhod- plus opsis and -in; rhodo overlaps opsis. That does not by itself determine a historical red-family alias policy.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/rhodopsin",
+        "https://www.dictionary.com/browse/rhodo"
+      ]
+    }
+  ],
+  "resolved_after_hold": [
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punish",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punish 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punishable",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punishable 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punished",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punished 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punisher",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punisher 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punishing",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punishing 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punishment",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punishment 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punitive",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punitive 路径属 Latin punitivus ← punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punitively",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "punitively 路径属 Latin punitivus ← punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "unpunished",
+      "resolution": "accept_historical_lookup_alias",
+      "original_reason": "unpunished 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    }
+  ],
+  "roots_sha256": "55840b84e17ec51cb61b6908f93e54939b34e1b5c34b7d562695d2fd3907a8af",
+  "sources": {
+    "s_d80926857517979fbd99": {
+      "project": "morphemes",
+      "entry": "lun-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Latin",
+      "class": ""
+    },
+    "s_3b3930a87faaa595238b": {
+      "project": "morphemes",
+      "entry": "mania",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "",
+      "class": ""
+    },
+    "s_e82f16d98fcba8fdad8e": {
+      "project": "morphemes",
+      "entry": "misc-, mixt-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Latin",
+      "class": ""
+    },
+    "s_8a588a09753e3f5e4bda": {
+      "project": "morphemes",
+      "entry": "nihil-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Latin",
+      "class": ""
+    },
+    "s_b772c7f210458fbd4999": {
+      "project": "morphemes",
+      "entry": "nomad-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Greek",
+      "class": ""
+    },
+    "s_90e3bbea929023aaa582": {
+      "project": "morphemes",
+      "entry": "olig-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Greek",
+      "class": ""
+    },
+    "s_544814062671b0a48c8f": {
+      "project": "morphemes",
+      "entry": "pac-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Latin",
+      "class": ""
+    },
+    "s_c7de811c3ae91d908695": {
+      "project": "morphemes",
+      "entry": "plan-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Latin",
+      "class": ""
+    },
+    "s_83d5fe50d29738d64b6e": {
+      "project": "morphemes",
+      "entry": "polis",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "greek",
+      "class": ""
+    },
+    "s_ff423cb8e0b7721747a4": {
+      "project": "morphemes",
+      "entry": "public-",
+      "url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+      "origin": "Latin",
+      "class": ""
+    },
+    "s_b543672aba12153a07c1": {
+      "project": "generated-roots",
+      "entry": "pac",
+      "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+      "origin": "",
+      "class": ""
+    },
+    "s_3377751ed2882372b013": {
+      "project": "generated-roots",
+      "entry": "reg",
+      "url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+      "origin": "",
+      "class": ""
+    },
+    "s_1c1c9b5a6e73f08ca8bc": {
+      "project": "engra",
+      "entry": "ment",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/ment.yml",
+      "origin": "",
+      "class": ""
+    },
+    "s_9c1a634df754c6c39fb1": {
+      "project": "engra",
+      "entry": "mix",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/mix.yml",
+      "origin": "",
+      "class": ""
+    },
+    "s_2df6ee2b23966eb9b88b": {
+      "project": "engra",
+      "entry": "mod",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/mod.yml",
+      "origin": "",
+      "class": ""
+    },
+    "s_d40872b62bf5c72aca9d": {
+      "project": "engra",
+      "entry": "palm",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/palm.yml",
+      "origin": "",
+      "class": ""
+    },
+    "s_02ee523548fd53f2ec26": {
+      "project": "engra",
+      "entry": "petr",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/petr.yml",
+      "origin": "",
+      "class": ""
+    },
+    "s_49b6bf0d775d9251807e": {
+      "project": "engra",
+      "entry": "plac",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+      "origin": "",
+      "class": ""
+    },
+    "s_f566d14a82a3629353ad": {
+      "project": "engra",
+      "entry": "reg",
+      "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/reg.yml",
+      "origin": "",
+      "class": ""
+    }
+  }
+}

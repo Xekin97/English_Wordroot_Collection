@@ -1,0 +1,1177 @@
+{
+  "corrections": [
+    {
+      "id": "r_f912dfc24bbd94b8",
+      "field": "meaning",
+      "before": "to cut",
+      "after": "create opening",
+      "reason": "Source confused -stomy with -tomy. The earlier source and exclusion are preserved.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=-STOMY",
+        "https://www.merriam-webster.com/dictionary/colostomy",
+        "https://www.etymonline.com/word/colostomy"
+      ]
+    },
+    {
+      "id": "r_a6fbd12efdd62661",
+      "field": "origin,class,family",
+      "before": "Greek; root; separate family",
+      "after": "Italian; prefix; linked to the existing Italian defensive prefix",
+      "canonical_id": "r_fe645c69bbd70009",
+      "reason": "Preserve the original source label separately; Greek para meaning beside is a distinct entry.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=parachute",
+        "https://www.ahdictionary.com/word/search.html?q=parasol"
+      ]
+    },
+    {
+      "id": "r_f5e062c4272cca03",
+      "field": "class",
+      "before": "root",
+      "after": "lookup_alias",
+      "reason": "Source-attested lookup form for the Latin-derived punishment family; not a claim of an independent classical morpheme.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punitive",
+        "https://www.ahdictionary.com/word/search.html?q=punish"
+      ]
+    },
+    {
+      "id": "r_665b9d9f11533af8",
+      "field": "example",
+      "before": "pentateuch",
+      "after": "Pentateuch",
+      "word_kind": "proper_name",
+      "reason": "Correct casing of the named text; historical lowercase holds remain as historical exclusions.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=Pentateuch"
+      ]
+    },
+    {
+      "id": "r_3f2bd68314b071af",
+      "field": "example",
+      "before": "pentateuch",
+      "after": "Pentateuch",
+      "word_kind": "proper_name",
+      "reason": "Correct casing of the named text; historical lowercase holds remain as historical exclusions.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=Pentateuch"
+      ]
+    },
+    {
+      "id": "r_32fca0699d60690f",
+      "field": "meaning",
+      "before": "full of",
+      "after": "resembling; of the nature of",
+      "reason": "Use the sense and examples stated for this suffix by the cited dictionary.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/-eous"
+      ]
+    },
+    {
+      "id": "r_59bf1eaa7281fcae",
+      "field": "example",
+      "before": "miniature",
+      "after": null,
+      "reason": "同一 ECDICT 来源条目 min、small; make smaller 与目标完全相同；miniature 来自 minium 红铅，并非词源上来自 Latin minus；小义可能受类似小词形影响。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/miniature"
+      ],
+      "frozen_relation_id": "e_5ece6fabe0e55470fcdc"
+    },
+    {
+      "id": "r_59bf1eaa7281fcae",
+      "field": "example",
+      "before": "minion",
+      "after": null,
+      "reason": "同一 ECDICT 来源条目 min、small; make smaller 与目标完全相同；minion 来自 French mignon，词源不确定，未确立 Latin minus 关系。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/minion"
+      ],
+      "frozen_relation_id": "e_3f0e834014d2d292d946"
+    },
+    {
+      "id": "r_7cee7b310c6b3948",
+      "field": "example",
+      "before": "paronymous",
+      "after": null,
+      "reason": "来源 par1、Latin equal 与目标完全相同，且 source_scoped_decisions 明确给出该目标 ID；paronymous 来自 Greek para- 加 onyma。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/paronym"
+      ],
+      "frozen_relation_id": "e_41104adc63e81bf86bef"
+    },
+    {
+      "id": "r_acd841440014c76a",
+      "field": "example",
+      "before": "rasp",
+      "after": null,
+      "reason": "来源 ras, rad, raz、Latin scrape 与目标完全相同；rasp 追溯西日耳曼语，与 Latin radere 不同。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/rasp"
+      ],
+      "frozen_relation_id": "e_c1703e94645b20678fe9"
+    },
+    {
+      "id": "r_99add5a7e1c59038",
+      "field": "example",
+      "before": "impound",
+      "after": null,
+      "reason": "唯一来源 pos, -pose, pon, -pone, -pound 及 put, place 与目标完全对应；impound 源自 in- 与动物围栏 pound，而非 put/place 的 Latin ponere。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/impound"
+      ],
+      "frozen_relation_id": "e_f6c6f7896f1ad71192f4"
+    },
+    {
+      "id": "r_59bf1eaa7281fcae",
+      "field": "example",
+      "before": "mini",
+      "after": null,
+      "reason": "mini is from mini-, shortened from miniature, whose minium red-lead origin is distinct from the small root; small-sense influence is possible and remains uncertain.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mini",
+        "https://www.etymonline.com/word/mini-"
+      ],
+      "frozen_relation_id": "e_1004511166cb5325f40f"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "milliampere",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milliampere",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_bf27e1fe45a39e896956",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "milliampere",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milliampere",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_003fa4c66791f91383bf",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "millibar",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millibar",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_275159ee653786e99565",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "millibar",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millibar",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_8782c00761b14e8c8319",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "milligram",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milligram",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_8568a4587fb46ac963dd",
+      "source_entry_ids": [
+        "s_2fd74d362eca60e1edc7",
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "milligram",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milligram",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_54c81bd514e70f961e2d",
+      "source_entry_ids": [
+        "s_2fd74d362eca60e1edc7",
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "milliliter",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milliliter",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_b7e0b595f3199203149b",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "milliliter",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milliliter",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_e921d0d2135a6132c9a7",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "millimeter",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millimeter",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_d22bc2e25541529d0dba",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "millimeter",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millimeter",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_40e85f15d6e3f31f7468",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "millimicron",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/millimicron",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_3203f439b35437c34540",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "millimicron",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/millimicron",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_e5150a3cf4d8dc7e580c",
+      "source_entry_ids": [
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "millisecond",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millisecond",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_40861f3f34d1386bec02",
+      "source_entry_ids": [
+        "s_2fd74d362eca60e1edc7",
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "millisecond",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millisecond",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_c93cf997186565ef6988",
+      "source_entry_ids": [
+        "s_2fd74d362eca60e1edc7",
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_9198f9d660e50624",
+      "field": "example",
+      "before": "millivolt",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millivolt",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_f3c0c8014cf7c8dc5432",
+      "source_entry_ids": [
+        "s_2fd74d362eca60e1edc7",
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_4ccd60ec0265bc56",
+      "field": "example",
+      "before": "millivolt",
+      "after": null,
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millivolt",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ],
+      "frozen_relation_id": "e_ac89d7a65ba30a9bde22",
+      "source_entry_ids": [
+        "s_2fd74d362eca60e1edc7",
+        "s_4c75f1fbdd75e29af606"
+      ],
+      "retained_under_root_id": "r_db6c68e0e614a32a"
+    },
+    {
+      "id": "r_1401d40dd547f90e",
+      "field": "class",
+      "before": "root",
+      "after": "lookup_alias",
+      "reason": "A word-root thesaurus explicitly indexes cautery under caut; Greek kauter- is a historical stem, so caut is an instructional lookup alias.",
+      "evidence_urls": [
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf",
+        "https://ahdictionary.com/word/search.html?q=cautery"
+      ]
+    },
+    {
+      "id": "r_71434d93b927b17c",
+      "field": "meaning,family",
+      "before": "distance, end",
+      "after": "distance",
+      "reason": "Separate the Greek far and end etyma; former root IDs retain one sense, and per-word redirects record moved edges.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=tele-",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ]
+    },
+    {
+      "id": "r_82053e1beb5a4289",
+      "field": "meaning,family",
+      "before": "distance, end",
+      "after": "distance",
+      "reason": "Separate the Greek far and end etyma; former root IDs retain one sense, and per-word redirects record moved edges.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=tele-",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ]
+    },
+    {
+      "id": "r_c399b7f5a52b4105",
+      "field": "meaning,family",
+      "before": "distance, end",
+      "after": "end",
+      "reason": "Separate the Greek far and end etyma; former root IDs retain one sense, and per-word redirects record moved edges.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=tele-",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ]
+    },
+    {
+      "id": "r_71434d93b927b17c",
+      "field": "example",
+      "before": "telencephalon",
+      "after": null,
+      "reason": "Greek telos end plus encephalon brain: Merriam-Webster gives telo- plus encephalon, with final vowel elided before the following vowel. Literal tele crosses the tel/encephalon boundary.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/telencephalon",
+        "https://openmd.com/define/telencephalon",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ],
+      "frozen_relation_id": "e_a40e9def4475d28a3695",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_1b1303ae6c525dc5"
+    },
+    {
+      "id": "r_82053e1beb5a4289",
+      "field": "example",
+      "before": "telencephalon",
+      "after": null,
+      "reason": "Greek telos end plus encephalon brain: Merriam-Webster gives telo- plus encephalon, with final vowel elided before the following vowel. Literal tele crosses the tel/encephalon boundary.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/telencephalon",
+        "https://openmd.com/define/telencephalon",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ],
+      "frozen_relation_id": "e_4e8374b05fc2c098b551",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "hold_pending_alias",
+      "target_root_id": "r_236411dec09f9507"
+    },
+    {
+      "id": "r_71434d93b927b17c",
+      "field": "example",
+      "before": "teleology",
+      "after": null,
+      "reason": "Modern Latin teleologia comes from Greek teleos/telos end, completion, goal and -logia.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/teleology",
+        "https://wehd.com/93/Teleology.html"
+      ],
+      "frozen_relation_id": "e_fd8cbfbe5b87238a0949",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_1b1303ae6c525dc5"
+    },
+    {
+      "id": "r_82053e1beb5a4289",
+      "field": "example",
+      "before": "teleology",
+      "after": null,
+      "reason": "Modern Latin teleologia comes from Greek teleos/telos end, completion, goal and -logia.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/teleology",
+        "https://wehd.com/93/Teleology.html"
+      ],
+      "frozen_relation_id": "e_0ecb049ae77de79972df",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_236411dec09f9507"
+    },
+    {
+      "id": "r_71434d93b927b17c",
+      "field": "example",
+      "before": "telesis",
+      "after": null,
+      "reason": "From Greek telesis completion/accomplishment, in the telos end family.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telesis",
+        "https://www.merriam-webster.com/dictionary/telesis"
+      ],
+      "frozen_relation_id": "e_e4456f618becf8d8e6c9",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_1b1303ae6c525dc5"
+    },
+    {
+      "id": "r_82053e1beb5a4289",
+      "field": "example",
+      "before": "telesis",
+      "after": null,
+      "reason": "From Greek telesis completion/accomplishment, in the telos end family.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telesis",
+        "https://www.merriam-webster.com/dictionary/telesis"
+      ],
+      "frozen_relation_id": "e_c0dc58a1d15290b8c84b",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_236411dec09f9507"
+    },
+    {
+      "id": "r_71434d93b927b17c",
+      "field": "example",
+      "before": "telestich",
+      "after": null,
+      "reason": "Dictionary.com identifies tele- end/complete plus stich; a poem spells with the ends of lines.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telestich",
+        "https://www.dictionary.com/browse/tele"
+      ],
+      "frozen_relation_id": "e_f08b95941b6eac65f67f",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_1b1303ae6c525dc5"
+    },
+    {
+      "id": "r_82053e1beb5a4289",
+      "field": "example",
+      "before": "telestich",
+      "after": null,
+      "reason": "Dictionary.com identifies tele- end/complete plus stich; a poem spells with the ends of lines.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telestich",
+        "https://www.dictionary.com/browse/tele"
+      ],
+      "frozen_relation_id": "e_4a7d4b5e07b3f9c3bde4",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ],
+      "outcome": "move",
+      "target_root_id": "r_236411dec09f9507"
+    }
+  ],
+  "supplemental_relations": [
+    {
+      "root_id": "r_f912dfc24bbd94b8",
+      "word": "colostomy",
+      "reason": "Opening sense; see scoped resolution of original frozen relation.",
+      "frozen_relation_id": "e_1222f1282e24cc7019b8",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=-STOMY",
+        "https://www.merriam-webster.com/dictionary/colostomy",
+        "https://www.etymonline.com/word/colostomy"
+      ]
+    },
+    {
+      "root_id": "r_32fca0699d60690f",
+      "word": "aqueous",
+      "reason": "Example of this suffix in the referenced dictionary.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/-eous"
+      ]
+    },
+    {
+      "root_id": "r_32fca0699d60690f",
+      "word": "vitreous",
+      "reason": "Example of this suffix in the referenced dictionary.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/-eous"
+      ]
+    },
+    {
+      "root_id": "r_5b9aef31d3a2aa20",
+      "word": "airport",
+      "reason": "The airport sense of port is harbor; the nautical porthole sense is a separate question.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/airport"
+      ],
+      "word_sense": "place where aircraft land and take off"
+    },
+    {
+      "root_id": "r_15699186a9c61d89",
+      "word": "snobbery",
+      "reason": "Dictionary explicitly gives snobbery for characteristics or qualities of; snob + -ery.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=-ery"
+      ]
+    },
+    {
+      "root_id": "r_fa0ab6234395835a",
+      "word": "ashes",
+      "reason": "Dictionary explicitly gives ashes as plural formed by -es; ash + es. Inflected English form, not a proper name.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=-s"
+      ]
+    },
+    {
+      "root_id": "r_129b70f653a66960",
+      "word": "Taiwanese",
+      "reason": "Dictionary explicitly gives Taiwanese for a native or inhabitant. Capitalization is standard for a demonym; select the common-noun person sense.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=ese"
+      ],
+      "word_kind": "demonym"
+    },
+    {
+      "root_id": "r_64355c62838b472b",
+      "word": "doeth",
+      "reason": "Dictionary explicitly gives doeth, third-person singular present of irregular do; do + eth. Archaic spelling, distinct from doth with -th.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/eth",
+        "https://www.dictionary.com/browse/doeth"
+      ],
+      "word_kind": "archaic"
+    },
+    {
+      "root_id": "r_7d7a290cbfea28d6",
+      "word": "psychopathic",
+      "reason": "Medical dictionary explicitly gives psychopathic under affected by a disease; this is the disease sense of -pathic.",
+      "evidence_urls": [
+        "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/736380/all/_pathic"
+      ]
+    },
+    {
+      "root_id": "r_10fdc92906e60ee1",
+      "word": "octopus",
+      "reason": "Lowercase octopus is a common English noun, not the New Latin genus name Octopus. Greek pous foot appears as final -pus via New Latin; historical combining form, not a claim about modern segmentation.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=octopus",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=pus"
+      ]
+    },
+    {
+      "root_id": "r_2e46d4029a261403",
+      "word": "anaesthesia",
+      "reason": "British anaesthesia is an explicitly listed alternate spelling. Greek an- + aisthesis feeling; the historical stem aesthes is a lookup alias, not a claim that English retains Greek inflection boundaries.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=anesthesia"
+      ]
+    },
+    {
+      "root_id": "r_77bce479152d9233",
+      "word": "mediaeval",
+      "reason": "Mediaeval is an explicitly listed English spelling variant of medieval; from medium aevum, middle age. Preserve ae spelling.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=Medieval"
+      ]
+    },
+    {
+      "root_id": "r_16d5794f5fb050cb",
+      "word": "Eurocentric",
+      "reason": "English adjective meaning centered on Europe/Europeans. Euro- denotes Europe, not the currency; the capitalized adjective is not itself a proper-name entry.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/eurocentric",
+        "https://www.etymonline.com/word/Eurocentric"
+      ]
+    },
+    {
+      "root_id": "r_12618f36b6c6e9d4",
+      "word": "exteroceptive",
+      "reason": "Dictionary derives exteroceptive from extero- exterior plus (re)ceptive; select perception of outside stimuli.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/exteroceptive"
+      ]
+    },
+    {
+      "root_id": "r_c2ff54f328343d2b",
+      "word": "glottology",
+      "reason": "Dictionary directly analyzes glotto- + -logy and defines the word as linguistics. Obsolete but attested English common noun.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/glottology"
+      ]
+    },
+    {
+      "root_id": "r_66f05446fdb9fd61",
+      "word": "hecatomb",
+      "reason": "The English common noun comes from Greek hekaton hundred + bous ox; the Greek compound has the nasal assimilated before b. Hecato is a historical lookup alias, not an assertion of transparent modern English segmentation.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=hecatomb",
+        "https://www.nzdr.ru/data/media/biblio/kolxoz/L/Short%20E.%2C%20George%20A.%20A%20primer%20of%20botanical%20Latin%20with%20vocabulary%20%28draft%2C%20CUP%2C%202013%29%28ISBN%209781107693753%29%28O%29%28355s%29_L_.pdf"
+      ]
+    },
+    {
+      "root_id": "r_01e98d01e2162a2e",
+      "word": "oryzivorous",
+      "reason": "Century Dictionary records English adjective oryzivorous, feeding on rice, from Greek rice and Latin devour; spelling bee source confirms exact spelling and meaning. Rare technical word, not the proper genus Oryza.",
+      "evidence_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictipt1500whituoft%29.pdf",
+        "https://spellingbee.com/sites/default/files/inline-files/2019_Round_Two_Study_Guide-FINAL.pdf"
+      ]
+    },
+    {
+      "root_id": "r_b1af2adf4ca2002b",
+      "word": "pyknocyte",
+      "reason": "Taber identifies pykno- compact/dense; the hematology source explicitly identifies pykno in pyknocyte as condensed and defines the cell. Exact k spelling, not pycno-.",
+      "evidence_urls": [
+        "https://fadavispt.mhmedical.com/content.aspx?bookid=2132&sectionid=174152181",
+        "https://www.mmhimages.com/production/Creative/1OldBackup/fetch_Backup/CVC_KC_2017_proceedings_proof/data/PDFs/KC17PDFs/Expert2/Red_cell_cadavers_part1.pdf"
+      ]
+    },
+    {
+      "root_id": "r_77eadb4c40a2b630",
+      "word": "diarrhoea",
+      "reason": "Collins explicitly gives British diarrhoea for -rrhoea flow/discharge. Retain the oe spelling, not US diarrhea.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/rrhoea"
+      ]
+    },
+    {
+      "root_id": "r_b580668140934f3a",
+      "word": "obsequious",
+      "reason": "Dictionary traces obsequious through Latin obsequium and obsequi to sequi follow. Sequi is the historically attested Latin stem lookup, not necessarily an independently segmented English morpheme.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=obsequious"
+      ]
+    },
+    {
+      "root_id": "r_e642b909362d3608",
+      "word": "spirometer",
+      "reason": "Dictionary directly gives spirometer for spiro- respiration from Latin spirare breathe; exclude unrelated Greek spiro- spiral.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=spiro"
+      ]
+    },
+    {
+      "root_id": "r_c0c9dcc26a2a77de",
+      "word": "sporiferous",
+      "reason": "Collins gives spori- as a sporo- variant before Latin elements and explicitly illustrates sporiferous, spore-bearing. Dictionary.com alternatively analyzes spor- + -i- + -ferous; this is a documented lookup variant, not a unique morphological segmentation.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/spori",
+        "https://www.dictionary.com/browse/sporiferous"
+      ]
+    },
+    {
+      "root_id": "r_c399b7f5a52b4105",
+      "word": "telophase",
+      "reason": "Dictionary directly gives telophase under telo- end, from Greek telos. This supports only end; distance belongs to separate Greek tele-, so the combined distance gloss remains unresolved.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=telo-",
+        "https://ahdictionary.com/word/search.html?q=telophase"
+      ],
+      "root_sense": "end"
+    },
+    {
+      "root_id": "r_30a30ee641c55cb1",
+      "word": "xeriscape",
+      "reason": "AHD analyzes xeriscape as xeri(c) + (land)scape; xeri is a clipped form of xeric, not claimed to be an independently productive classical prefix. Lowercase common noun is dictionary-attested.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=Xeriscape",
+        "https://www.ahdictionary.com/word/search.html?q=xeric"
+      ]
+    },
+    {
+      "root_id": "r_1401d40dd547f90e",
+      "word": "cautery",
+      "reason": "A word-root thesaurus explicitly indexes cautery under caut; Greek kauter- is a historical stem, so caut is an instructional lookup alias.",
+      "evidence_urls": [
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf",
+        "https://ahdictionary.com/word/search.html?q=cautery"
+      ],
+      "frozen_relation_id": "e_0169e8d4177df27e633a",
+      "root_sense": "burn"
+    },
+    {
+      "root_id": "r_01bf21b1bdc60d5c",
+      "word": "nefarious",
+      "reason": "Latin nefarious derives through nefarius and nefas from fas (divine law); far is a historical variant, not the literal spelling fas.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=nefarious"
+      ],
+      "root_sense": "divine law",
+      "relation_kind": "historical_variant"
+    },
+    {
+      "root_id": "r_1b1303ae6c525dc5",
+      "word": "telencephalon",
+      "root_sense": "end",
+      "reason": "Greek telos end plus encephalon brain: Merriam-Webster gives telo- plus encephalon, with final vowel elided before the following vowel. Literal tele crosses the tel/encephalon boundary.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/telencephalon",
+        "https://openmd.com/define/telencephalon",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ],
+      "previous_root_id": "r_71434d93b927b17c",
+      "frozen_relation_id": "e_a40e9def4475d28a3695",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ]
+    },
+    {
+      "root_id": "r_1b1303ae6c525dc5",
+      "word": "teleology",
+      "root_sense": "end",
+      "reason": "Modern Latin teleologia comes from Greek teleos/telos end, completion, goal and -logia.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/teleology",
+        "https://wehd.com/93/Teleology.html"
+      ],
+      "previous_root_id": "r_71434d93b927b17c",
+      "frozen_relation_id": "e_fd8cbfbe5b87238a0949",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ]
+    },
+    {
+      "root_id": "r_236411dec09f9507",
+      "word": "teleology",
+      "root_sense": "end",
+      "reason": "Modern Latin teleologia comes from Greek teleos/telos end, completion, goal and -logia.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/teleology",
+        "https://wehd.com/93/Teleology.html"
+      ],
+      "previous_root_id": "r_82053e1beb5a4289",
+      "frozen_relation_id": "e_0ecb049ae77de79972df",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ]
+    },
+    {
+      "root_id": "r_1b1303ae6c525dc5",
+      "word": "telesis",
+      "root_sense": "end",
+      "reason": "From Greek telesis completion/accomplishment, in the telos end family.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telesis",
+        "https://www.merriam-webster.com/dictionary/telesis"
+      ],
+      "previous_root_id": "r_71434d93b927b17c",
+      "frozen_relation_id": "e_e4456f618becf8d8e6c9",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ]
+    },
+    {
+      "root_id": "r_236411dec09f9507",
+      "word": "telesis",
+      "root_sense": "end",
+      "reason": "From Greek telesis completion/accomplishment, in the telos end family.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telesis",
+        "https://www.merriam-webster.com/dictionary/telesis"
+      ],
+      "previous_root_id": "r_82053e1beb5a4289",
+      "frozen_relation_id": "e_c0dc58a1d15290b8c84b",
+      "source_entry_ids": [
+        "s_163d84b5c130811f11c8",
+        "s_2f19a1a8d248b4908c11"
+      ]
+    },
+    {
+      "root_id": "r_1b1303ae6c525dc5",
+      "word": "telestich",
+      "root_sense": "end",
+      "reason": "Dictionary.com identifies tele- end/complete plus stich; a poem spells with the ends of lines.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telestich",
+        "https://www.dictionary.com/browse/tele"
+      ],
+      "previous_root_id": "r_71434d93b927b17c",
+      "frozen_relation_id": "e_f08b95941b6eac65f67f",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ]
+    },
+    {
+      "root_id": "r_236411dec09f9507",
+      "word": "telestich",
+      "root_sense": "end",
+      "reason": "Dictionary.com identifies tele- end/complete plus stich; a poem spells with the ends of lines.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/telestich",
+        "https://www.dictionary.com/browse/tele"
+      ],
+      "previous_root_id": "r_82053e1beb5a4289",
+      "frozen_relation_id": "e_4a7d4b5e07b3f9c3bde4",
+      "source_entry_ids": [
+        "s_2f19a1a8d248b4908c11"
+      ]
+    }
+  ],
+  "porter_senses": [
+    {
+      "root_id": "r_aa2a268fecf56ccf",
+      "word": "porter",
+      "sense": "person who carries goods"
+    },
+    {
+      "root_id": "r_b0d25d07e93df27f",
+      "word": "porter",
+      "sense": "gatekeeper"
+    }
+  ],
+  "porter_source": "https://www.ahdictionary.com/word/search.html?q=porter",
+  "retained_edge_evidence": [
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "milliampere",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milliampere",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "millibar",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millibar",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "milligram",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milligram",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "milliliter",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/milliliter",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "millimeter",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millimeter",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "millimicron",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/millimicron",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "millisecond",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millisecond",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    },
+    {
+      "root_id": "r_db6c68e0e614a32a",
+      "word": "millivolt",
+      "root_sense": "thousandth",
+      "reason": "The occurrence in this word uses milli- as one thousandth of the named base unit. Historical derivation from Latin mille thousand is retained as provenance and does not make the modern prefix mean one thousand.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/millivolt",
+        "https://www.bipm.org/en/measurement-units/si-prefixes/",
+        "https://www.nist.gov/pml/owm/metric-si-prefixes",
+        "https://www.merriam-webster.com/dictionary/milli-"
+      ]
+    }
+  ],
+  "pending_aliases": [
+    {
+      "root_id": "r_236411dec09f9507",
+      "word": "telencephalon",
+      "reason": "The e starts encephalon after tel-; although tele is an independently attested telos-family variant, its application as a lookup here crosses the observed boundary and needs explicit alias adjudication.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/telencephalon",
+        "https://openmd.com/define/telencephalon",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ]
+    }
+  ],
+  "quarantined_existing_relations": {
+    "count": 185,
+    "path": "notes/held-relations.json"
+  },
+  "resolved_scoped_edges": [
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punish",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punishable",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punished",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punisher",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punishing",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punishment",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punitive",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "punitively",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    },
+    {
+      "root_id": "r_f5e062c4272cca03",
+      "word": "unpunished",
+      "reason": "The former root-level hold was resolved by classifying source-attested -pun- as a historical lookup alias, not an independently attested Latin stem. This word belongs to the cited punish/punitive family.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=punish",
+        "https://www.ahdictionary.com/word/search.html?q=punitive"
+      ]
+    }
+  ],
+  "roots_sha256": "55840b84e17ec51cb61b6908f93e54939b34e1b5c34b7d562695d2fd3907a8af",
+  "canonical_root_aliases": [
+    {
+      "alias_id": "r_a6fbd12efdd62661",
+      "canonical_id": "r_fe645c69bbd70009",
+      "scope": "Italian protective para only; Greek beside is a different meaning."
+    }
+  ]
+}

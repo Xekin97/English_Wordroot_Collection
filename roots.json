@@ -939,10 +939,13 @@
     "id": "r_32fca0699d60690f",
     "root": "-eous",
     "source_form": "-eous",
-    "meaning": "full of",
+    "meaning": "resembling; of the nature of",
     "class": "suffix",
     "origin": "Latin and French adjective endings",
-    "example": [],
+    "example": [
+      "aqueous",
+      "vitreous"
+    ],
     "family_id": "g_32fca0699d60690f",
     "related_root_ids": [],
     "source_entry": "-eous",
@@ -1070,7 +1073,9 @@
     "meaning": "quality",
     "class": "suffix",
     "origin": "Middle English, French, Latin",
-    "example": [],
+    "example": [
+      "snobbery"
+    ],
     "family_id": "g_15699186a9c61d89",
     "related_root_ids": [],
     "source_entry": "-ery",
@@ -1083,7 +1088,9 @@
     "meaning": "plural",
     "class": "suffix",
     "origin": "English",
-    "example": [],
+    "example": [
+      "ashes"
+    ],
     "family_id": "g_fa0ab6234395835a",
     "related_root_ids": [],
     "source_entry": "-es",
@@ -1183,7 +1190,9 @@
     "meaning": "a native of",
     "class": "suffix",
     "origin": "Latin via Old French",
-    "example": [],
+    "example": [
+      "Taiwanese"
+    ],
     "family_id": "g_129b70f653a66960",
     "related_root_ids": [],
     "source_entry": "-ese",
@@ -1316,7 +1325,9 @@
     "meaning": "third person singular of some irregular verbs",
     "class": "suffix",
     "origin": "Old English",
-    "example": [],
+    "example": [
+      "doeth"
+    ],
     "family_id": "g_64355c62838b472b",
     "related_root_ids": [],
     "source_entry": "-eth",
@@ -2129,7 +2140,6 @@
       "centigrade",
       "degrade",
       "downgrade",
-      "grade",
       "multigrade",
       "plantigrade",
       "prograde",
@@ -2722,7 +2732,7 @@
     "root": "-ics",
     "source_form": "-ics",
     "meaning": "science, study, or practice of; properties of; practices pertaining to",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "Greek and Latin via English",
     "example": [
       "acoustics",
@@ -2850,7 +2860,7 @@
     "root": "-id",
     "source_form": "-id",
     "meaning": "binary chemical compound",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "French and German",
     "example": [
       "bromide",
@@ -2868,7 +2878,7 @@
     "root": "-ide",
     "source_form": "-ide",
     "meaning": "binary chemical compound",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "French and German",
     "example": [
       "bromide",
@@ -2886,7 +2896,7 @@
     "root": "-idium",
     "source_form": "-idium",
     "meaning": "small one",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "Greek via New Latin",
     "example": [
       "antheridium",
@@ -2907,7 +2917,7 @@
     "root": "-ie",
     "source_form": "-ie",
     "meaning": "little",
-    "class": "diminutive suffix",
+    "class": "suffix",
     "origin": "English",
     "example": [
       "beanie",
@@ -2924,7 +2934,7 @@
     "root": "-ied",
     "source_form": "-ied",
     "meaning": "past tense",
-    "class": "orthographic suffix variant",
+    "class": "suffix",
     "origin": "English",
     "example": [
       "married"
@@ -2939,7 +2949,7 @@
     "root": "-ient",
     "source_form": "-ient",
     "meaning": "kind of agent",
-    "class": "adjective- and noun-forming suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "ambient",
@@ -2965,7 +2975,7 @@
     "root": "-ier",
     "source_form": "-ier",
     "meaning": "agent",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "Middle English, Old French, ultimately Latin",
     "example": [
       "cashier"
@@ -2980,7 +2990,7 @@
     "root": "-ies",
     "source_form": "-ies",
     "meaning": "3rd person singular present",
-    "class": "orthographic suffix variant",
+    "class": "suffix",
     "origin": "English",
     "example": [
       "fries"
@@ -2995,7 +3005,7 @@
     "root": "-iferous",
     "source_form": "-iferous",
     "meaning": "producing, bearing, carrying",
-    "class": "adjective-forming suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "argentiferous",
@@ -3022,7 +3032,7 @@
     "root": "-iff",
     "source_form": "-iff",
     "meaning": "inclined to",
-    "class": "historical adjectival suffix, later noun-forming",
+    "class": "suffix",
     "origin": "Latin via French",
     "example": [
       "bailiff",
@@ -3039,7 +3049,7 @@
     "root": "-ific",
     "source_form": "-ific",
     "meaning": "making, producing",
-    "class": "adjective-forming suffix",
+    "class": "suffix",
     "origin": "Latin via French",
     "example": [
       "prolific",
@@ -3066,7 +3076,7 @@
     "root": "-ification",
     "source_form": "-ification",
     "meaning": "act or process of making or becoming",
-    "class": "noun-forming suffix",
+    "class": "suffix",
     "origin": "Latin via French",
     "example": [
       "ammonification",
@@ -3095,7 +3105,7 @@
     "root": "-ify",
     "source_form": "-ify",
     "meaning": "make, cause to be, become",
-    "class": "verb-forming suffix",
+    "class": "suffix",
     "origin": "Latin via French",
     "example": [
       "beautify",
@@ -3135,7 +3145,7 @@
     "root": "-il",
     "source_form": "-il",
     "meaning": "capable of being or undergoing; pertaining to",
-    "class": "adjective-forming suffix",
+    "class": "suffix",
     "origin": "Latin via French",
     "example": [
       "civil",
@@ -3153,7 +3163,7 @@
     "root": "-ile",
     "source_form": "-ile",
     "meaning": "capable of being or undergoing; pertaining to",
-    "class": "adjective-forming suffix",
+    "class": "suffix",
     "origin": "Latin via French",
     "example": [
       "agile",
@@ -3182,7 +3192,7 @@
     "root": "-illa",
     "source_form": "-illa",
     "meaning": "small; diminutive ending",
-    "class": "historical diminutive suffix",
+    "class": "suffix",
     "origin": "Spanish and Latin",
     "example": [
       "banderilla",
@@ -3250,7 +3260,7 @@
     "root": "-illus",
     "source_form": "-illus",
     "meaning": "little",
-    "class": "Latin diminutive suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "bacillus",
@@ -3269,7 +3279,7 @@
     "root": "-in",
     "source_form": "-in",
     "meaning": "gathering of people, protest",
-    "class": "noun-forming suffix",
+    "class": "suffix",
     "origin": "English, extracted from sit-in",
     "example": [
       "love-in",
@@ -4833,7 +4843,6 @@
     "example": [
       "apologue",
       "catalogue",
-      "decalogue",
       "dialogue",
       "duologue",
       "epilogue",
@@ -5055,7 +5064,7 @@
     "root": "-ly",
     "source_form": "-ly",
     "meaning": "like; every (when attached to times)",
-    "class": "adjective-forming suffix",
+    "class": "suffix",
     "origin": "Old English",
     "example": [
       "bodily",
@@ -5096,7 +5105,7 @@
     "root": "-ly",
     "source_form": "-ly",
     "meaning": "in such a way or manner",
-    "class": "adverb-forming suffix",
+    "class": "suffix",
     "origin": "Old English",
     "example": [
       "actively",
@@ -5474,7 +5483,6 @@
       "lysimeter",
       "magnetometer",
       "manometer",
-      "meter",
       "micrometer",
       "nanometer",
       "odometer",
@@ -5777,7 +5785,6 @@
       "antinomy",
       "astronomy",
       "autonomy",
-      "deuteronomy",
       "economy",
       "gastronomy",
       "taxonomy"
@@ -5855,14 +5862,8 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "endodontics",
       "iguanodon",
-      "mastodon",
-      "odontology",
-      "orthodontics",
-      "orthodontist",
-      "periodontal",
-      "periodontics"
+      "mastodon"
     ],
     "family_id": "g_0064d203c2d279c9",
     "related_root_ids": [
@@ -6362,7 +6363,7 @@
     "root": "-ory",
     "source_form": "-ory",
     "meaning": "serving to, pertaining to",
-    "class": "adjective suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "accusatory",
@@ -6403,7 +6404,7 @@
     "root": "-ory",
     "source_form": "-ory",
     "meaning": "place where",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "dormitory"
@@ -6418,7 +6419,7 @@
     "root": "-ose",
     "source_form": "-ose",
     "meaning": "having many or much of; tending toward",
-    "class": "adjective suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "adipose",
@@ -6445,7 +6446,7 @@
     "root": "-ose",
     "source_form": "-ose",
     "meaning": "carbohydrate, esp. sugar",
-    "class": "noun suffix",
+    "class": "suffix",
     "origin": "French",
     "example": [
       "cellulose",
@@ -6544,7 +6545,9 @@
       "vasovasostomy"
     ],
     "family_id": "g_a94f04061852c0c4",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_f912dfc24bbd94b8"
+    ],
     "source_entry": "-ostomy",
     "pending_family_examples": 0
   },
@@ -6748,7 +6751,9 @@
     "meaning": "suffer, feel; disease",
     "class": "root",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "psychopathic"
+    ],
     "family_id": "g_8551f63f8e7fccb5",
     "related_root_ids": [
       "r_2c8b9908a404080e",
@@ -7029,7 +7034,6 @@
     "origin": "Greek",
     "example": [
       "hydrophobic",
-      "phobic",
       "xenophobic"
     ],
     "family_id": "g_b234b02ba6e9bf7a",
@@ -7050,7 +7054,6 @@
     "example": [
       "allophone",
       "archiphoneme",
-      "dictaphone",
       "geophone",
       "homophone",
       "hypophonesis",
@@ -7060,7 +7063,6 @@
       "logophonetic",
       "megaphone",
       "microphone",
-      "phone",
       "phoneme",
       "phonemic",
       "phonemics",
@@ -7352,7 +7354,6 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "appose",
       "composed",
       "decompose",
       "discompose",
@@ -7361,12 +7362,9 @@
       "impose",
       "indisposed",
       "interpose",
-      "juxtapose",
       "oppose",
       "overexpose",
       "photocompose",
-      "predispose",
-      "repose",
       "suppose"
     ],
     "family_id": "g_1ddf3b67db8cbafd",
@@ -7390,7 +7388,6 @@
     "example": [
       "compound",
       "expound",
-      "impound",
       "propound"
     ],
     "family_id": "g_1ddf3b67db8cbafd",
@@ -7557,7 +7554,9 @@
     "meaning": "foot",
     "class": "combining_form",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "octopus"
+    ],
     "family_id": "g_4384ee8b5e466141",
     "related_root_ids": [
       "r_5e05d553d699ef55",
@@ -7721,15 +7720,15 @@
     "id": "r_f912dfc24bbd94b8",
     "root": "-stomy",
     "source_form": "-stomy",
-    "meaning": "to cut",
-    "class": "root",
+    "meaning": "create opening",
+    "class": "suffix",
     "origin": "Greek",
-    "example": [],
-    "family_id": "g_8406f0a0f0b93177",
+    "example": [
+      "colostomy"
+    ],
+    "family_id": "g_a94f04061852c0c4",
     "related_root_ids": [
-      "r_19fee83b0e8ac734",
-      "r_a75f63c40e270577",
-      "r_bf5779e4af097ae6"
+      "r_a94f04061852c0c4"
     ],
     "source_entry": "tom, -tome, -tomy, -stomy",
     "pending_family_examples": 0
@@ -7748,8 +7747,7 @@
     "family_id": "g_8406f0a0f0b93177",
     "related_root_ids": [
       "r_a75f63c40e270577",
-      "r_bf5779e4af097ae6",
-      "r_f912dfc24bbd94b8"
+      "r_bf5779e4af097ae6"
     ],
     "source_entry": "tom, -tome, -tomy, -stomy",
     "pending_family_examples": 0
@@ -7789,8 +7787,7 @@
     "family_id": "g_8406f0a0f0b93177",
     "related_root_ids": [
       "r_19fee83b0e8ac734",
-      "r_a75f63c40e270577",
-      "r_f912dfc24bbd94b8"
+      "r_a75f63c40e270577"
     ],
     "source_entry": "tom, -tome, -tomy, -stomy",
     "pending_family_examples": 0
@@ -8509,7 +8506,9 @@
     "meaning": "feeling, sensation, sense perception",
     "class": "root",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "anaesthesia"
+    ],
     "family_id": "g_bfc61c7bf1ddbfd4",
     "related_root_ids": [
       "r_1357ac871f1f06b2",
@@ -8558,7 +8557,9 @@
     "meaning": "age, era",
     "class": "root",
     "origin": "Latin",
-    "example": [],
+    "example": [
+      "mediaeval"
+    ],
     "family_id": "g_b2ac87760c2a5dcd",
     "related_root_ids": [
       "r_eb75d908b2fc19ea"
@@ -9934,7 +9935,6 @@
       "aquarelle",
       "aquarist",
       "aquarium",
-      "aquarius",
       "aquatic",
       "aquatile",
       "aquatint",
@@ -12433,9 +12433,11 @@
     "root": "caut",
     "source_form": "caut",
     "meaning": "burn",
-    "class": "root",
+    "class": "lookup_alias",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "cautery"
+    ],
     "family_id": "g_ca3c3898bc2ff93a",
     "related_root_ids": [
       "r_a25997900a40ba8b"
@@ -18996,7 +18998,6 @@
       "energize",
       "energized",
       "energy",
-      "erg",
       "ergate",
       "ergatocracy",
       "ergodic",
@@ -19521,7 +19522,9 @@
     "meaning": "European",
     "class": "combining_form",
     "origin": "English",
-    "example": [],
+    "example": [
+      "Eurocentric"
+    ],
     "family_id": "g_16d5794f5fb050cb",
     "related_root_ids": [],
     "source_entry": "Euro",
@@ -19678,7 +19681,9 @@
     "meaning": "outside of",
     "class": "combining_form",
     "origin": "Latin exterus",
-    "example": [],
+    "example": [
+      "exteroceptive"
+    ],
     "family_id": "g_12618f36b6c6e9d4",
     "related_root_ids": [],
     "source_entry": "extra",
@@ -20236,7 +20241,9 @@
     "meaning": "law",
     "class": "root",
     "origin": "Latin",
-    "example": [],
+    "example": [
+      "nefarious"
+    ],
     "family_id": "g_01bf21b1bdc60d5c",
     "related_root_ids": [],
     "source_entry": "fas",
@@ -24817,7 +24824,9 @@
     "meaning": "tongue, speech, language",
     "class": "combining_form",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "glottology"
+    ],
     "family_id": "g_3934933198fe2d04",
     "related_root_ids": [
       "r_240ca2383e6e59b4",
@@ -25745,7 +25754,6 @@
       "epigraphy",
       "ethnography",
       "geography",
-      "graph",
       "grapheme",
       "graphemics",
       "graphene",
@@ -27014,7 +27022,7 @@
     "root": "hapl",
     "source_form": "hapl-",
     "meaning": "simple",
-    "class": "",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "haplochromine",
@@ -27042,7 +27050,7 @@
     "root": "haplo",
     "source_form": "haplo-",
     "meaning": "simple",
-    "class": "",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "haplochromine",
@@ -27070,7 +27078,7 @@
     "root": "hapt",
     "source_form": "hapt-",
     "meaning": "touch",
-    "class": "",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hapten",
@@ -27087,7 +27095,7 @@
     "root": "harm",
     "source_form": "harm-",
     "meaning": "a joining",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Greek",
     "example": [
       "harmonic",
@@ -27105,7 +27113,7 @@
     "root": "haur",
     "source_form": "haur-",
     "meaning": "draw",
-    "class": "",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "hauriant",
@@ -27123,7 +27131,7 @@
     "root": "haust",
     "source_form": "haust-",
     "meaning": "draw",
-    "class": "",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "exhaust",
@@ -27199,7 +27207,9 @@
     "meaning": "hundred",
     "class": "combining_form",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "hecatomb"
+    ],
     "family_id": "g_bbbd3526c0c9c495",
     "related_root_ids": [
       "r_403c074fdb7d8c10",
@@ -27957,7 +27967,7 @@
     "root": "here",
     "source_form": "here-",
     "meaning": "cling",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Latin",
     "example": [
       "adhere",
@@ -28005,7 +28015,7 @@
     "root": "heret",
     "source_form": "heret-",
     "meaning": "choose",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Greek",
     "example": [
       "heretic",
@@ -28021,7 +28031,7 @@
     "root": "herit",
     "source_form": "herit-",
     "meaning": "heir",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Latin",
     "example": [
       "heritability",
@@ -28081,7 +28091,7 @@
     "root": "herpet",
     "source_form": "-herpet-",
     "meaning": "creep",
-    "class": "",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "herpetology"
@@ -28165,7 +28175,7 @@
     "root": "heur",
     "source_form": "heur-",
     "meaning": "find",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Greek",
     "example": [
       "heuristic",
@@ -28242,7 +28252,7 @@
     "root": "hi",
     "source_form": "hi-",
     "meaning": "gape",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Latin",
     "example": [
       "dehisce",
@@ -28308,7 +28318,7 @@
     "root": "hibit",
     "source_form": "hibit",
     "meaning": "have",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "",
     "example": [
       "disinhibition",
@@ -28349,7 +28359,7 @@
     "root": "hidrot",
     "source_form": "hidrot-",
     "meaning": "sweat",
-    "class": "",
+    "class": "lookup_alias",
     "origin": "Greek",
     "example": [
       "dyshidrotic",
@@ -28365,7 +28375,7 @@
     "root": "hiem",
     "source_form": "hiem-",
     "meaning": "winter",
-    "class": "",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "hiemal"
@@ -28382,7 +28392,7 @@
     "root": "hier",
     "source_form": "hier-",
     "meaning": "holy",
-    "class": "",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hierarch",
@@ -29446,7 +29456,7 @@
     "root": "hydro",
     "source_form": "hydro-",
     "meaning": "hydrogen",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek via modern chemistry",
     "example": [
       "hydrocarbon",
@@ -29483,7 +29493,7 @@
     "root": "hygro",
     "source_form": "hygro-",
     "meaning": "wet",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hygroma",
@@ -29499,7 +29509,7 @@
     "root": "hylo",
     "source_form": "hylo-",
     "meaning": "wood",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hylophagous"
@@ -29514,7 +29524,7 @@
     "root": "hylo",
     "source_form": "hylo-",
     "meaning": "matter",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hylomorphism",
@@ -29555,7 +29565,7 @@
     "root": "hymeno",
     "source_form": "hymeno-",
     "meaning": "skin; membrane",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hymenomycete",
@@ -29576,7 +29586,7 @@
     "root": "hyo",
     "source_form": "hyo-",
     "meaning": "hyoid bone",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hyostyly"
@@ -29745,7 +29755,7 @@
     "root": "hypso",
     "source_form": "hypso-",
     "meaning": "height",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hypsography",
@@ -29816,7 +29826,7 @@
     "root": "hystero",
     "source_form": "hystero-",
     "meaning": "hysteria",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hysterocatalepsy",
@@ -29834,7 +29844,7 @@
     "root": "hystero",
     "source_form": "hystero-",
     "meaning": "womb",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hysteroscopy",
@@ -29891,7 +29901,7 @@
     "root": "ial",
     "source_form": "-ial",
     "meaning": "pertaining to",
-    "class": "adjective-forming suffix",
+    "class": "suffix",
     "origin": "Latin",
     "example": [
       "artificial",
@@ -30042,7 +30052,6 @@
     "origin": "Greek",
     "example": [
       "emoticon",
-      "icon",
       "iconoclast",
       "iconography",
       "iconology"
@@ -30078,7 +30087,7 @@
     "root": "icos",
     "source_form": "icos",
     "meaning": "twenty",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "hemi-icosahedron",
@@ -30095,7 +30104,7 @@
     "root": "icter",
     "source_form": "icter",
     "meaning": "jaundice",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "icteric",
@@ -30115,7 +30124,7 @@
     "root": "id",
     "source_form": "id",
     "meaning": "shape",
-    "class": "historical Greek root and variant",
+    "class": "root",
     "origin": "Greek",
     "example": [
       "eidetic",
@@ -30164,7 +30173,7 @@
     "root": "idi",
     "source_form": "idi",
     "meaning": "own",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "idiolect",
@@ -30219,7 +30228,7 @@
     "root": "ig",
     "source_form": "ig-",
     "meaning": "not, without",
-    "class": "reanalyzed prefix",
+    "class": "prefix",
     "origin": "English, from Latin negative in-",
     "example": [
       "ignoble"
@@ -30238,7 +30247,7 @@
     "root": "ig",
     "source_form": "-ig-",
     "meaning": "do, go, move",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "ambiguous",
@@ -30456,7 +30465,7 @@
     "root": "imagin",
     "source_form": "imagin",
     "meaning": "likeness",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "imagine"
@@ -30473,7 +30482,7 @@
     "root": "imbr",
     "source_form": "imbr",
     "meaning": "heavy rain",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "ignimbrite",
@@ -30492,7 +30501,7 @@
     "root": "imit",
     "source_form": "imit",
     "meaning": "to copy, portray",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "imitable",
@@ -30512,7 +30521,7 @@
     "root": "imper",
     "source_form": "imper",
     "meaning": "to command",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "imperatival",
@@ -30529,7 +30538,7 @@
     "root": "impet",
     "source_form": "impet",
     "meaning": "impulse, attack",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "impetigo",
@@ -30548,7 +30557,7 @@
     "root": "in",
     "source_form": "in-",
     "meaning": "sinew",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Greek",
     "example": [
       "inion",
@@ -30732,7 +30741,7 @@
     "root": "inan",
     "source_form": "inan",
     "meaning": "empty, vain",
-    "class": "historical stem",
+    "class": "historical_stem",
     "origin": "Latin",
     "example": [
       "inane",
@@ -30749,7 +30758,7 @@
     "root": "indi",
     "source_form": "indi-",
     "meaning": "chemical substance related to indigo or an indole",
-    "class": "chemical combining form",
+    "class": "combining_form",
     "origin": "English shortening of indigo",
     "example": [
       "indirubin"
@@ -31268,8 +31277,6 @@
       "circuit",
       "circuitous",
       "exit",
-      "itinerant",
-      "itinerary",
       "sedition",
       "transit"
     ],
@@ -32071,7 +32078,6 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "kilo",
       "kilobar",
       "kilobyte",
       "kilocycle",
@@ -33414,7 +33420,7 @@
     "root": "leio",
     "source_form": "leio-",
     "meaning": "smooth",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "leiomyoma",
@@ -34457,18 +34463,7 @@
     "meaning": "letter, reading",
     "class": "root",
     "origin": "Latin",
-    "example": [
-      "alliteration",
-      "illiteracy",
-      "illiterate",
-      "literacy",
-      "literal",
-      "literary",
-      "literate",
-      "literati",
-      "literature",
-      "transliterate"
-    ],
+    "example": [],
     "family_id": "g_261203def0f951e6",
     "related_root_ids": [
       "r_efe991c6b9d1f7c4"
@@ -34808,7 +34803,6 @@
       "cataloger",
       "cataloging",
       "catalogue",
-      "decalogue",
       "dialog",
       "dialogic",
       "dialogical",
@@ -35388,7 +35382,6 @@
     "example": [
       "circumlunar",
       "cislunar",
-      "luna",
       "lunacy",
       "lunar",
       "lunate",
@@ -35944,7 +35937,6 @@
       "malign",
       "malignancy",
       "malignant",
-      "malinger",
       "malnourished",
       "malnutrition",
       "malocclusion",
@@ -36222,7 +36214,6 @@
     "origin": "Latin",
     "example": [
       "manicure",
-      "manifest",
       "maniform",
       "maniple",
       "manipulate",
@@ -36255,19 +36246,12 @@
       "egomania",
       "erotomania",
       "kleptomania",
-      "kleptomaniac",
-      "mania",
-      "maniac",
-      "maniacal",
       "megalomania",
-      "megalomaniac",
       "monomania",
-      "monomaniac",
       "mythomania",
       "nymphomania",
       "nymphomaniac",
-      "pyromania",
-      "pyromaniac"
+      "pyromania"
     ],
     "family_id": "g_e7c2864bd80e1061",
     "related_root_ids": [],
@@ -36952,7 +36936,6 @@
       "melancholia",
       "melancholic",
       "melancholy",
-      "melanesian",
       "melanin",
       "melanism",
       "melanoblastoma",
@@ -37343,7 +37326,6 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "aforementioned",
       "ament",
       "amentia",
       "dement",
@@ -37355,11 +37337,7 @@
       "mentalist",
       "mentality",
       "mentally",
-      "mentation",
-      "mention",
-      "mentionable",
-      "mentioner",
-      "unmentioned"
+      "mentation"
     ],
     "family_id": "g_b46058c848516763",
     "related_root_ids": [],
@@ -38104,17 +38082,9 @@
     "example": [
       "millennium",
       "millepede",
-      "milliampere",
-      "millibar",
       "millieme",
-      "milligram",
-      "milliliter",
-      "millimeter",
-      "millimicron",
       "million",
       "millipede",
-      "millisecond",
-      "millivolt",
       "postmillennial"
     ],
     "family_id": "g_6d257b1d182b999f",
@@ -38133,19 +38103,11 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "milliampere",
-      "millibar",
       "millieme",
-      "milligram",
-      "milliliter",
-      "millimeter",
-      "millimicron",
       "million",
       "millionaire",
       "millionth",
-      "millipede",
-      "millisecond",
-      "millivolt"
+      "millipede"
     ],
     "family_id": "g_6d257b1d182b999f",
     "related_root_ids": [
@@ -38219,15 +38181,11 @@
       "diminutive",
       "maladminister",
       "maladministration",
-      "mince",
       "minestrone",
-      "mini",
-      "miniature",
       "minim",
       "minimal",
       "minimize",
       "minimum",
-      "minion",
       "minister",
       "ministerial",
       "ministrant",
@@ -38862,18 +38820,11 @@
       "commixture",
       "immix",
       "immixture",
-      "intermix",
       "intermixture",
-      "mix",
       "mixed",
-      "mixing",
       "mixture",
       "permix",
-      "permixtion",
-      "postmix",
-      "premix",
-      "remix",
-      "unmixed"
+      "permixtion"
     ],
     "family_id": "g_74d74393dfaa6637",
     "related_root_ids": [
@@ -39031,8 +38982,6 @@
       "demodulate",
       "demodulation",
       "demodulator",
-      "immoderate",
-      "immoderately",
       "immodest",
       "immodestly",
       "immodesty",
@@ -39045,8 +38994,6 @@
       "modeled",
       "modeler",
       "modeling",
-      "moderately",
-      "moderating",
       "modern",
       "modernism",
       "modernist",
@@ -40140,7 +40087,6 @@
       "mutate",
       "mutated",
       "mutation",
-      "mutual",
       "mutualist",
       "mutuality",
       "permutable",
@@ -41555,7 +41501,6 @@
       "annihilate",
       "annihilation",
       "annihilator",
-      "nihil",
       "nihilism",
       "nihilist",
       "nihilistic",
@@ -41770,18 +41715,14 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "binomial",
       "cognomen",
       "denomination",
       "ignominy",
       "innominate",
       "misnomer",
-      "monomial",
       "nomenclature",
       "nominal",
-      "nominate",
-      "polynomial",
-      "trinomial"
+      "nominate"
     ],
     "family_id": "g_652f8d17d4993deb",
     "related_root_ids": [
@@ -41812,7 +41753,6 @@
       "autonomously",
       "autonomy",
       "bionomics",
-      "deuteronomy",
       "econometrics",
       "economics",
       "economist",
@@ -41844,12 +41784,7 @@
     "meaning": "those who let pasture herds",
     "class": "root",
     "origin": "Greek",
-    "example": [
-      "nomad",
-      "nomadic",
-      "nomadism",
-      "nomadize"
-    ],
+    "example": [],
     "family_id": "g_11ae37a59ce4f75c",
     "related_root_ids": [],
     "source_entry": "nomad-",
@@ -42004,8 +41939,7 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "nonagenarian",
-      "nonagon"
+      "nonagenarian"
     ],
     "family_id": "g_a28e15c9bd45e6ec",
     "related_root_ids": [
@@ -42244,13 +42178,7 @@
     "meaning": "declare",
     "class": "root",
     "origin": "Latin",
-    "example": [
-      "announce",
-      "announcement",
-      "denounce",
-      "pronounce",
-      "pronouncement"
-    ],
+    "example": [],
     "family_id": "g_6074a8102510a746",
     "related_root_ids": [
       "r_1e1de0a3eb90e114",
@@ -43031,11 +42959,7 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "octagon",
-      "octane",
-      "octant",
-      "octave",
-      "octavo"
+      "octagon"
     ],
     "family_id": "g_1400b3762e8a23e5",
     "related_root_ids": [
@@ -43525,7 +43449,6 @@
     "origin": "Greek",
     "example": [
       "oligarchy",
-      "oligocene",
       "oligopoly",
       "oligopsony",
       "oligosaccharide"
@@ -44123,17 +44046,12 @@
       "coreopsis",
       "cyclops",
       "diopter",
-      "exophthalmos",
       "hemeralopia",
       "hypermetropia",
       "hyperopia",
       "metopic",
       "myopia",
       "nyctalopia",
-      "ophthalmia",
-      "ophthalmic",
-      "ophthalmology",
-      "ophthalmoscope",
       "optic",
       "optical",
       "optician",
@@ -44388,7 +44306,6 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "exophthalmos",
       "ophthalmologic",
       "ophthalmologist",
       "ophthalmology",
@@ -44442,7 +44359,6 @@
     "example": [
       "autopsy",
       "biopsy",
-      "coreopsis",
       "cyclops",
       "hemianopsia",
       "opsoclonus",
@@ -44500,11 +44416,7 @@
     "meaning": "best",
     "class": "root",
     "origin": "Latin",
-    "example": [
-      "optimal",
-      "optimist",
-      "optimum"
-    ],
+    "example": [],
     "family_id": "g_ae6e7b9e0ea45419",
     "related_root_ids": [],
     "source_entry": "opt1",
@@ -44735,12 +44647,9 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "exorbitant",
       "orb",
       "orbed",
-      "orbicular",
-      "orbit",
-      "suborbital"
+      "orbicular"
     ],
     "family_id": "g_8597d34ca4c425f5",
     "related_root_ids": [],
@@ -45063,7 +44972,7 @@
     "root": "orth",
     "source_form": "orth",
     "meaning": "straight",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "orthocenter",
@@ -45134,7 +45043,9 @@
     "meaning": "rice",
     "class": "root",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "oryzivorous"
+    ],
     "family_id": "g_e6b1ea92923e8a01",
     "related_root_ids": [],
     "source_entry": "oryz-",
@@ -45341,7 +45252,7 @@
     "root": "osto",
     "source_form": "osto",
     "meaning": "bone",
-    "class": "historical root alias",
+    "class": "lookup_alias",
     "origin": "Greek",
     "example": [
       "dysostosis",
@@ -45380,7 +45291,7 @@
     "root": "ostre",
     "source_form": "ostre",
     "meaning": "oyster",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "ostreophagist"
@@ -45693,13 +45604,11 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "compact",
       "pacific",
       "pacifier",
       "pacifism",
       "pacifist",
-      "pacify",
-      "pact"
+      "pacify"
     ],
     "family_id": "g_eade1e1268e28e35",
     "related_root_ids": [],
@@ -46071,12 +45980,7 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "palm",
-      "palmate",
-      "palmette",
-      "palmful",
-      "palmistry",
-      "palmtop"
+      "palmate"
     ],
     "family_id": "g_5175ddc0cbc5a9c6",
     "related_root_ids": [],
@@ -46092,7 +45996,6 @@
     "origin": "Latin",
     "example": [
       "impalpable",
-      "palp",
       "palpable",
       "palpate",
       "palpation",
@@ -46272,8 +46175,7 @@
       "disparity",
       "incomparable",
       "parimutuel",
-      "parity",
-      "paronymous"
+      "parity"
     ],
     "family_id": "g_a1c74e7194087b3a",
     "related_root_ids": [],
@@ -46437,15 +46339,17 @@
     "root": "para",
     "source_form": "para",
     "meaning": "defense against",
-    "class": "root",
-    "origin": "Greek",
+    "class": "prefix",
+    "origin": "Italian",
     "example": [
       "parachute",
       "parapet",
       "parasol"
     ],
-    "family_id": "g_a1453f380fa9f1a0",
-    "related_root_ids": [],
+    "family_id": "g_fe645c69bbd70009",
+    "related_root_ids": [
+      "r_fe645c69bbd70009"
+    ],
     "source_entry": "para",
     "pending_family_examples": 0
   },
@@ -46462,7 +46366,9 @@
       "parasol"
     ],
     "family_id": "g_fe645c69bbd70009",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_a6fbd12efdd62661"
+    ],
     "source_entry": "para",
     "pending_family_examples": 0
   },
@@ -46913,8 +46819,7 @@
       "pathogenesis",
       "pathogenic",
       "pathologist",
-      "pathology",
-      "pathos"
+      "pathology"
     ],
     "family_id": "g_8551f63f8e7fccb5",
     "related_root_ids": [
@@ -47184,7 +47089,6 @@
       "bipedalism",
       "centipedal",
       "centipede",
-      "cypripedium",
       "decempedal",
       "expedience",
       "expediency",
@@ -47228,7 +47132,6 @@
       "pedigerous",
       "pedigree",
       "pedigreed",
-      "pediment",
       "pedipalp",
       "pedometer",
       "peduncle",
@@ -47293,7 +47196,6 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "cypripedium",
       "expediency",
       "expedient",
       "expeditate",
@@ -47312,8 +47214,6 @@
       "pedicure",
       "pediform",
       "pedigerous",
-      "pedigree",
-      "pediment",
       "pedipalp"
     ],
     "family_id": "g_5698c3c2be1c91b6",
@@ -47685,7 +47585,6 @@
     "origin": "Greek",
     "example": [
       "diapente",
-      "pentacle",
       "pentad",
       "pentagon",
       "pentagram",
@@ -47693,7 +47592,7 @@
       "pentalpha",
       "pentameter",
       "pentapolis",
-      "pentateuch",
+      "Pentateuch",
       "pentathlon",
       "pentatonic",
       "pentatope",
@@ -47718,12 +47617,10 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "pentacle",
-      "pentad",
       "pentagon",
       "pentahedron",
       "pentameter",
-      "pentateuch",
+      "Pentateuch",
       "pentathlon",
       "pentavalent"
     ],
@@ -47739,7 +47636,7 @@
     "root": "pentacosi",
     "source_form": "pentacosi",
     "meaning": "five hundred",
-    "class": "combining form",
+    "class": "combining_form",
     "origin": "Greek",
     "example": [
       "pentacosiomedimni"
@@ -48131,7 +48028,6 @@
       "petroleum",
       "petrolic",
       "petroliferous",
-      "petrolize",
       "petrology",
       "petrosomatoglyph",
       "petrous"
@@ -48612,9 +48508,7 @@
       "bibliophilism",
       "bibliophilist",
       "discophile",
-      "drosophila",
       "francophile",
-      "gypsophila",
       "hemophilia",
       "heterophil",
       "hippophile",
@@ -48675,7 +48569,6 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "anemophilous",
       "philodendron",
       "philogyny",
       "philology",
@@ -48683,8 +48576,7 @@
       "philosophe",
       "philosopher",
       "philosophical",
-      "philosophy",
-      "xerophilous"
+      "philosophy"
     ],
     "family_id": "g_f3f157124658838e",
     "related_root_ids": [
@@ -48848,7 +48740,6 @@
       "homophobia",
       "hydrophobia",
       "nyctophobia",
-      "phobia",
       "phobophobia",
       "photophobia",
       "triskaidekaphobia",
@@ -48883,7 +48774,6 @@
       "cacophony",
       "cellphone",
       "diaphony",
-      "dictaphone",
       "diplophonia",
       "dysphonia",
       "electrophone",
@@ -48911,11 +48801,9 @@
       "monophony",
       "morphophonology",
       "otophone",
-      "phon",
       "phonaesthesia",
       "phonaesthetics",
       "phonate",
-      "phone",
       "phoneme",
       "phonemic",
       "phonemics",
@@ -49143,7 +49031,6 @@
       "photomicrograph",
       "photon",
       "photophobia",
-      "photopia",
       "photoreceptor",
       "photosensitive",
       "photosphere",
@@ -49893,21 +49780,12 @@
       "birthplace",
       "commonplace",
       "displace",
-      "displaced",
-      "displacement",
       "homeplace",
-      "irreplaceable",
       "marketplace",
-      "misplace",
-      "misplacement",
       "place",
       "placeless",
       "placement",
       "placer",
-      "replace",
-      "replaceable",
-      "replaced",
-      "replacement",
       "someplace",
       "workplace"
     ],
@@ -50048,11 +49926,7 @@
     "meaning": "flat",
     "class": "root",
     "origin": "Latin",
-    "example": [
-      "aquaplane",
-      "deplane",
-      "plane"
-    ],
+    "example": [],
     "family_id": "g_0965ba4bd7945c46",
     "related_root_ids": [
       "r_3694f60f3577a4ad"
@@ -50933,13 +50807,7 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "pluperfect",
-      "plural",
-      "pluralism",
-      "pluralistic",
-      "plurality",
-      "plus",
-      "surplus"
+      "pluperfect"
     ],
     "family_id": "g_85d5a1c5a2028a94",
     "related_root_ids": [
@@ -51456,7 +51324,6 @@
       "apolitical",
       "cosmopolitan",
       "impolitic",
-      "indianapolis",
       "megalopolis",
       "metropolis",
       "metropolitan",
@@ -51925,6 +51792,7 @@
     "class": "root",
     "origin": "Latin",
     "example": [
+      "airport",
       "port"
     ],
     "family_id": "g_5b9aef31d3a2aa20",
@@ -52079,7 +51947,6 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "appose",
       "apposite",
       "apposition",
       "appositive",
@@ -52124,7 +51991,6 @@
       "indisposition",
       "interpose",
       "interposition",
-      "juxtapose",
       "juxtaposition",
       "opposable",
       "oppose",
@@ -52142,7 +52008,6 @@
       "positivism",
       "postpone",
       "posture",
-      "predispose",
       "predisposition",
       "preposition",
       "presupposed",
@@ -52151,7 +52016,6 @@
       "propositional",
       "recomposition",
       "reimposition",
-      "repose",
       "reposit",
       "reposition",
       "repository",
@@ -53783,7 +53647,6 @@
       "psychic",
       "psychical",
       "psychically",
-      "psycho",
       "psychoactive",
       "psychoanalysis",
       "psychobiology",
@@ -53832,7 +53695,6 @@
     "example": [
       "metempsychosis",
       "parapsychology",
-      "psycho",
       "psychoactive",
       "psychoanalysis",
       "psychobiology",
@@ -54197,9 +54059,6 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "publication",
-      "publicity",
-      "publicize",
       "republic"
     ],
     "family_id": "g_e2fbf27091ff00ad",
@@ -54427,7 +54286,7 @@
     "root": "pun",
     "source_form": "-pun-",
     "meaning": "punish",
-    "class": "root",
+    "class": "lookup_alias",
     "origin": "Latin",
     "example": [
       "punish",
@@ -54832,7 +54691,9 @@
     "meaning": "compact",
     "class": "combining_form",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "pyknocyte"
+    ],
     "family_id": "g_2c3d7db75396af4f",
     "related_root_ids": [
       "r_4b42add1fe90bc4b",
@@ -55378,15 +55239,6 @@
       "biquintile",
       "quinary",
       "quinate",
-      "quinquagenarian",
-      "quinquagesima",
-      "quinquennial",
-      "quinquevalent",
-      "quintessence",
-      "quintet",
-      "quintillion",
-      "quintuple",
-      "quintuplet",
       "semiquintile"
     ],
     "family_id": "g_5a6b5d3e92440f3e",
@@ -56011,7 +55863,6 @@
       "nonabrasive",
       "rase",
       "rasorial",
-      "rasp",
       "rasure"
     ],
     "family_id": "g_780601e90abbd62e",
@@ -56316,40 +56167,18 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "deregulate",
       "irregular",
-      "irregularity",
-      "irregularly",
       "regal",
       "regalia",
-      "regally",
-      "regency",
       "regent",
       "regicide",
       "regime",
       "regimen",
       "regiment",
-      "regimental",
-      "regimentation",
-      "regimented",
       "region",
-      "regional",
-      "regionalism",
-      "regionalist",
-      "regionalize",
-      "regionally",
       "regular",
-      "regularity",
-      "regularize",
-      "regularly",
       "regulate",
-      "regulated",
-      "regulating",
-      "regulation",
-      "regulative",
-      "regulator",
-      "regulatory",
-      "subregion"
+      "regulation"
     ],
     "family_id": "g_94b5521cbde3a52b",
     "related_root_ids": [
@@ -56799,8 +56628,7 @@
     "example": [
       "rhododendron",
       "rhodolite",
-      "rhodophyte",
-      "rhodopsin"
+      "rhodophyte"
     ],
     "family_id": "g_8dcbe44a39c6196e",
     "related_root_ids": [
@@ -57165,7 +56993,9 @@
     "meaning": "flow, gush, discharge",
     "class": "root",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "diarrhoea"
+    ],
     "family_id": "g_0340c4b4b454e253",
     "related_root_ids": [
       "r_44c42ea0f4518308",
@@ -58514,7 +58344,9 @@
     "meaning": "to follow",
     "class": "root",
     "origin": "Latin",
-    "example": [],
+    "example": [
+      "obsequious"
+    ],
     "family_id": "g_8cbeb3a7f8fa2f9b",
     "related_root_ids": [
       "r_1d6221787b118601",
@@ -59865,7 +59697,9 @@
     "meaning": "breathe",
     "class": "root",
     "origin": "Latin",
-    "example": [],
+    "example": [
+      "spirometer"
+    ],
     "family_id": "g_edd2968a9707e869",
     "related_root_ids": [
       "r_6971ecd79ab6860d"
@@ -59958,7 +59792,9 @@
     "meaning": "sowing; seed",
     "class": "root",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "sporiferous"
+    ],
     "family_id": "g_c4291e8a29af7487",
     "related_root_ids": [
       "r_0a233232a85895d0",
@@ -60943,10 +60779,31 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_1b1303ae6c525dc5",
+    "root": "tel",
+    "source_form": "tel",
+    "meaning": "end",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "telencephalon",
+      "teleology",
+      "telesis",
+      "telestich"
+    ],
+    "family_id": "g_2fe8031f4f3b860a",
+    "related_root_ids": [
+      "r_c399b7f5a52b4105",
+      "r_236411dec09f9507"
+    ],
+    "source_entry": "tele, tel, telo",
+    "pending_family_examples": 1
+  },
+  {
     "id": "r_71434d93b927b17c",
     "root": "tel",
     "source_form": "tel",
-    "meaning": "distance, end",
+    "meaning": "distance",
     "class": "root",
     "origin": "Greek",
     "example": [
@@ -60957,32 +60814,47 @@
       "telegraph",
       "telekinesis",
       "telemetry",
-      "telencephalon",
-      "teleology",
       "telepathy",
       "telephone",
       "telephoto",
       "telephotography",
       "telescope",
-      "telesis",
       "telesthesia",
-      "telestich",
       "teletypewriter",
       "television"
     ],
     "family_id": "g_69f7bf9188fe4f19",
     "related_root_ids": [
-      "r_82053e1beb5a4289",
-      "r_c399b7f5a52b4105"
+      "r_82053e1beb5a4289"
     ],
     "source_entry": "tele, tel, telo",
     "pending_family_examples": 0
   },
   {
+    "id": "r_236411dec09f9507",
+    "root": "tele",
+    "source_form": "tele",
+    "meaning": "end",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "teleology",
+      "telesis",
+      "telestich"
+    ],
+    "family_id": "g_2fe8031f4f3b860a",
+    "related_root_ids": [
+      "r_c399b7f5a52b4105",
+      "r_1b1303ae6c525dc5"
+    ],
+    "source_entry": "tele, tel, telo",
+    "pending_family_examples": 1
+  },
+  {
     "id": "r_82053e1beb5a4289",
     "root": "tele",
     "source_form": "tele",
-    "meaning": "distance, end",
+    "meaning": "distance",
     "class": "root",
     "origin": "Greek",
     "example": [
@@ -61001,8 +60873,6 @@
       "telekinesis",
       "telemeter",
       "telemetry",
-      "telencephalon",
-      "teleology",
       "telepathy",
       "telephone",
       "telephoto",
@@ -61014,9 +60884,7 @@
       "telescopically",
       "telescoping",
       "telescript",
-      "telesis",
       "telesthesia",
-      "telestich",
       "teleswitch",
       "teletype",
       "teletypewriter",
@@ -61028,8 +60896,7 @@
     ],
     "family_id": "g_69f7bf9188fe4f19",
     "related_root_ids": [
-      "r_71434d93b927b17c",
-      "r_c399b7f5a52b4105"
+      "r_71434d93b927b17c"
     ],
     "source_entry": "tele, tel, telo",
     "pending_family_examples": 0
@@ -61038,17 +60905,19 @@
     "id": "r_c399b7f5a52b4105",
     "root": "telo",
     "source_form": "telo",
-    "meaning": "distance, end",
+    "meaning": "end",
     "class": "root",
     "origin": "Greek",
-    "example": [],
-    "family_id": "g_69f7bf9188fe4f19",
+    "example": [
+      "telophase"
+    ],
+    "family_id": "g_2fe8031f4f3b860a",
     "related_root_ids": [
-      "r_71434d93b927b17c",
-      "r_82053e1beb5a4289"
+      "r_1b1303ae6c525dc5",
+      "r_236411dec09f9507"
     ],
     "source_entry": "tele, tel, telo",
-    "pending_family_examples": 0
+    "pending_family_examples": 1
   },
   {
     "id": "r_7e09d0e7987dd9dd",
@@ -62061,8 +61930,7 @@
     "family_id": "g_8406f0a0f0b93177",
     "related_root_ids": [
       "r_19fee83b0e8ac734",
-      "r_bf5779e4af097ae6",
-      "r_f912dfc24bbd94b8"
+      "r_bf5779e4af097ae6"
     ],
     "source_entry": "tom, -tome, -tomy, -stomy",
     "pending_family_examples": 0
@@ -65346,7 +65214,9 @@
     "meaning": "dry",
     "class": "root",
     "origin": "Greek",
-    "example": [],
+    "example": [
+      "xeriscape"
+    ],
     "family_id": "g_8848365a27e7e7cf",
     "related_root_ids": [
       "r_4ad8c016c5478444",

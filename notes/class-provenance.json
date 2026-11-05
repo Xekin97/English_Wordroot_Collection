@@ -1,0 +1,618 @@
+{
+  "schema_version": "1.0",
+  "normalization": {
+    "": {
+      "normalized_class": "unknown",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "count": 16
+    },
+    "root": {
+      "normalized_class": "root",
+      "qualifiers": [],
+      "count": 2089
+    },
+    "suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [],
+      "count": 191
+    },
+    "combining_form": {
+      "normalized_class": "combining_form",
+      "qualifiers": [],
+      "count": 62
+    },
+    "combining form": {
+      "normalized_class": "combining_form",
+      "qualifiers": [],
+      "count": 16
+    },
+    "prefix": {
+      "normalized_class": "prefix",
+      "qualifiers": [],
+      "count": 97
+    },
+    "noun suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "noun"
+      ],
+      "count": 7
+    },
+    "diminutive suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "diminutive"
+      ],
+      "count": 1
+    },
+    "orthographic suffix variant": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "orthographic_variant"
+      ],
+      "count": 2
+    },
+    "adjective- and noun-forming suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "adjective_forming",
+        "noun_forming"
+      ],
+      "count": 1
+    },
+    "adjective-forming suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ],
+      "count": 6
+    },
+    "historical adjectival suffix, later noun-forming": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "historical_adjectival",
+        "later_noun_forming"
+      ],
+      "count": 1
+    },
+    "noun-forming suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "noun_forming"
+      ],
+      "count": 2
+    },
+    "verb-forming suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "verb_forming"
+      ],
+      "count": 1
+    },
+    "historical diminutive suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "historical",
+        "diminutive"
+      ],
+      "count": 1
+    },
+    "Latin diminutive suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "Latin",
+        "diminutive"
+      ],
+      "count": 1
+    },
+    "adverb-forming suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "adverb_forming"
+      ],
+      "count": 1
+    },
+    "adjective suffix": {
+      "normalized_class": "suffix",
+      "qualifiers": [
+        "adjective"
+      ],
+      "count": 2
+    },
+    "historical Greek root and variant": {
+      "normalized_class": "root",
+      "qualifiers": [
+        "historical",
+        "Greek",
+        "variant"
+      ],
+      "count": 1
+    },
+    "reanalyzed prefix": {
+      "normalized_class": "prefix",
+      "qualifiers": [
+        "reanalyzed"
+      ],
+      "count": 1
+    },
+    "historical stem": {
+      "normalized_class": "historical_stem",
+      "qualifiers": [
+        "historical"
+      ],
+      "count": 8
+    },
+    "chemical combining form": {
+      "normalized_class": "combining_form",
+      "qualifiers": [
+        "chemical"
+      ],
+      "count": 1
+    },
+    "historical root alias": {
+      "normalized_class": "lookup_alias",
+      "qualifiers": [
+        "historical",
+        "root_alias"
+      ],
+      "count": 1
+    }
+  },
+  "entries": {
+    "r_861ad986902a77b7": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_248e12d7d3969479": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_c3fd1c1ca6989738": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_4b2d6999594f6873": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_5c0088ae738e75c2": {
+      "source_class": "diminutive suffix",
+      "qualifiers": [
+        "diminutive"
+      ]
+    },
+    "r_21060b8674cd862a": {
+      "source_class": "orthographic suffix variant",
+      "qualifiers": [
+        "orthographic_variant"
+      ]
+    },
+    "r_fa970fe4dbac61c8": {
+      "source_class": "adjective- and noun-forming suffix",
+      "qualifiers": [
+        "adjective_forming",
+        "noun_forming"
+      ]
+    },
+    "r_7c6b0dd0b13e5d0e": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_4d732a0940433ae2": {
+      "source_class": "orthographic suffix variant",
+      "qualifiers": [
+        "orthographic_variant"
+      ]
+    },
+    "r_900d61afc334bea6": {
+      "source_class": "adjective-forming suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ]
+    },
+    "r_7eaaf33c71e16472": {
+      "source_class": "historical adjectival suffix, later noun-forming",
+      "qualifiers": [
+        "historical_adjectival",
+        "later_noun_forming"
+      ]
+    },
+    "r_d2b30a7aa64ac857": {
+      "source_class": "adjective-forming suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ]
+    },
+    "r_876c64dd25db83b9": {
+      "source_class": "noun-forming suffix",
+      "qualifiers": [
+        "noun_forming"
+      ]
+    },
+    "r_e73301ea7cb774ae": {
+      "source_class": "verb-forming suffix",
+      "qualifiers": [
+        "verb_forming"
+      ]
+    },
+    "r_68b738e80cb22148": {
+      "source_class": "adjective-forming suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ]
+    },
+    "r_79b86753d2c36a97": {
+      "source_class": "adjective-forming suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ]
+    },
+    "r_82f248b0b3bd718e": {
+      "source_class": "historical diminutive suffix",
+      "qualifiers": [
+        "historical",
+        "diminutive"
+      ]
+    },
+    "r_041c571ff58ce524": {
+      "source_class": "Latin diminutive suffix",
+      "qualifiers": [
+        "Latin",
+        "diminutive"
+      ]
+    },
+    "r_87ec16a08bf3b95e": {
+      "source_class": "noun-forming suffix",
+      "qualifiers": [
+        "noun_forming"
+      ]
+    },
+    "r_cd23793d581ce734": {
+      "source_class": "adjective-forming suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ]
+    },
+    "r_e87e5c07dddcb6d7": {
+      "source_class": "adverb-forming suffix",
+      "qualifiers": [
+        "adverb_forming"
+      ]
+    },
+    "r_045cbb537e0b33bb": {
+      "source_class": "adjective suffix",
+      "qualifiers": [
+        "adjective"
+      ]
+    },
+    "r_906eef4b2f26527d": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_40e8a75a0a5fc2ff": {
+      "source_class": "adjective suffix",
+      "qualifiers": [
+        "adjective"
+      ]
+    },
+    "r_951c584a04b7caa2": {
+      "source_class": "noun suffix",
+      "qualifiers": [
+        "noun"
+      ]
+    },
+    "r_ee40eb758760fe5e": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hapl-"
+      ]
+    },
+    "r_4be4a76e73260798": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hapl-"
+      ]
+    },
+    "r_b0d793e32e5231c4": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hapt-",
+        "https://www.merriam-webster.com/dictionary/haptic"
+      ]
+    },
+    "r_4407c3e80410134e": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/harmony"
+      ]
+    },
+    "r_78bcb151887efccd": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hauriant"
+      ]
+    },
+    "r_da5ec9b771c751d1": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://logeion.uchicago.edu/morpho/haustus",
+        "https://www.merriam-webster.com/dictionary/exhaust"
+      ]
+    },
+    "r_1c087163df17f846": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/adhere"
+      ]
+    },
+    "r_b5582c5f8ea62fc9": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/heretic"
+      ]
+    },
+    "r_105b2acb2e8ea2d4": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/inherit",
+        "https://www.merriam-webster.com/dictionary/heritage"
+      ]
+    },
+    "r_9f4cc74f6e987403": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/herpet-",
+        "https://www.merriam-webster.com/dictionary/herpetology"
+      ]
+    },
+    "r_6fe0216630656af1": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/heuristic"
+      ]
+    },
+    "r_72bab16bcf76219b": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hiatus"
+      ]
+    },
+    "r_81c0d353a9cb143c": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/inhibit",
+        "https://dlib.hust.edu.vn/bitstream/HUST/23092/1/OER000002255.pdf"
+      ]
+    },
+    "r_5081e1f99aec8fc4": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/hidrotic",
+        "https://www.merriam-webster.com/dictionary/hidr-",
+        "https://en.wiktionary.org/wiki/hidrotic"
+      ]
+    },
+    "r_a37cd9b80d3f4cc7": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hiemal"
+      ]
+    },
+    "r_de7643bd2fe1a212": {
+      "source_class": "",
+      "qualifiers": [
+        "missing_source_class"
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/hier-"
+      ]
+    },
+    "r_7a6bd076e885a3f2": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_678df8a4ff12f9b1": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_f15a87ad25ef3b56": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_f835a43c2e981864": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_93067add99844324": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_657e67aaf721bd00": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_0ecdadcf0c7ea227": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_510f4920953150a6": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_867734edb387e391": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_b2ee881c071dfaa1": {
+      "source_class": "adjective-forming suffix",
+      "qualifiers": [
+        "adjective_forming"
+      ]
+    },
+    "r_e24d88f2fa47537b": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_75cb64823c5305a8": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_f8b804fa9c585e72": {
+      "source_class": "historical Greek root and variant",
+      "qualifiers": [
+        "historical",
+        "Greek",
+        "variant"
+      ]
+    },
+    "r_498e51db39e86855": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_3d6cc4c1f591a11c": {
+      "source_class": "reanalyzed prefix",
+      "qualifiers": [
+        "reanalyzed"
+      ]
+    },
+    "r_a2b36dbd89680224": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_2bb9abe1e706fcdc": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_50604230e19142a7": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_1f8eada0ff22f896": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_161d2448942cfee9": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_4e2087f6772f0ec2": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_0a9ce7174f11052d": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_0a22db9faeb8213d": {
+      "source_class": "historical stem",
+      "qualifiers": [
+        "historical"
+      ]
+    },
+    "r_1112f172c4c2b5a7": {
+      "source_class": "chemical combining form",
+      "qualifiers": [
+        "chemical"
+      ]
+    },
+    "r_f17a81f1c8b425da": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_be9ea9f0bf47b8e7": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_c84742a6d91e646e": {
+      "source_class": "historical root alias",
+      "qualifiers": [
+        "historical",
+        "root_alias"
+      ]
+    },
+    "r_886432aac5b80edb": {
+      "source_class": "combining form",
+      "qualifiers": []
+    },
+    "r_05d2071ab7e70858": {
+      "source_class": "combining form",
+      "qualifiers": []
+    }
+  },
+  "roots_sha256": "55840b84e17ec51cb61b6908f93e54939b34e1b5c34b7d562695d2fd3907a8af",
+  "normalization_counts_scope": "Counts describe the source labels in the original 2,509-entry baseline, before manual corrections and new sense records.",
+  "manual_overrides": "See curation-corrections.json for later per-entry corrections, including para, caut, pun and -stomy."
+}

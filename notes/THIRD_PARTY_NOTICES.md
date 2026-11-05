@@ -1,16 +1,15 @@
 # 来源与许可说明
 
-Copyright © 2026 新舰同学roXz（Xekin97），适用于本项目中可受保护的原创整理贡献，采用 [CC BY-NC 4.0](../LICENSE)。
+Copyright © 2026 新舰同学roXz（Xekin97）：本项目可受保护的原创整理贡献采用 [CC BY-NC 4.0](../LICENSE)。这一许可只涉及本项目有权许可的贡献；它不取代上游材料的许可，也不改变适用的版权例外或公共领域材料的状态。单独复用上游材料时，请参阅其原始许可；复用本项目原创贡献时，请参阅本项目许可。
 
-基础数据来自 [ECDICT](https://github.com/skywind3000/ECDICT) 的 [wordroot.txt](https://github.com/skywind3000/ECDICT/blob/master/wordroot.txt)。原词根、英文 meaning、例词等继承内容保留其 MIT 授权及版权声明：Copyright (c) 2025 Linwei。许可证副本见 [ECDICT-LICENSE](ECDICT-LICENSE)。本项目的非商业许可不改变这些上游材料原有的授权，也不对通用事实或公共领域材料另设限制。
+本项目将来源中的部分词根写法、英文含义及例词关系拆分、对照和整理；同一条关系可能在多个来源中出现。词源事实、原有文字表达与资料的选择和编排可能涉及不同的权利问题，来源标注本身不判断单条材料是否受保护，亦不表示所有来源彼此独立。
 
-对照参考项目：
+- [ECDICT](https://github.com/skywind3000/ECDICT) 的 [wordroot.txt](https://github.com/skywind3000/ECDICT/blob/master/wordroot.txt)：基础词根和例词来源。上游仓库声明 MIT，Copyright (c) 2025 Linwei；[许可证副本](ECDICT-LICENSE)。
+- [morphemes](https://github.com/colingoldberg/morphemes) 的 [morphemes.json](https://github.com/colingoldberg/morphemes/blob/master/data/morphemes.json)：词根、词缀、含义和例词的对照来源。上游仓库声明 MIT，Copyright (c) 2019 Colin Goldberg；[许可证副本](MORPHEMES-LICENSE)。
+- [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list) 的 [生成词根表](https://github.com/WithEnglishWeCan/generated-english-roots-list/blob/bf26e3842137d8f7bbc6e69ef39c05b43e3a22a6/english.roots.list.build.json)：词根、含义和例词的对照来源。该仓库 [README](https://github.com/WithEnglishWeCan/generated-english-roots-list/blob/bf26e3842137d8f7bbc6e69ef39c05b43e3a22a6/README.md#license) 声明“Licensed under MIT.”；所检查的仓库版本没有单独的许可证文件，也未在该 README 中找到版权人姓名。MIT 标准许可文本见 [Open Source Initiative](https://opensource.org/license/mit)；此项目未列明的版权人不作推测。
+- [engra](https://github.com/eslsoft/engra) 的 [词根数据](https://github.com/eslsoft/engra/tree/master/dict/roots)：词根及派生词关系的对照来源。上游仓库声明 MIT，Copyright © 2023 Ambor；[许可证副本](ENGRA-LICENSE)。engra 的 [README](https://github.com/eslsoft/engra#参考) 另列若干参考资料并描述从公开渠道补充数据；这些资料的具体权利及其与个别条目的关系需分别核实。
 
-- [morphemes](https://github.com/colingoldberg/morphemes)：MIT，Copyright (c) 2019 Colin Goldberg；[许可证副本](MORPHEMES-LICENSE)。
-- [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)
-- [engra](https://github.com/eslsoft/engra)：MIT，Copyright © 2023 Ambor；[许可证副本](ENGRA-LICENSE)。
-
-这四个项目的词根、英文含义和例词经对照整理后，部分条目和关系补入主表。未将其完整数据集直接重新分发；继承的上游材料继续保留原有许可。
+上述来源中的部分条目和关系已纳入主表，并非将各来源完整数据集直接重新分发。MIT 许可文本要求在其规定的副本或实质部分中保留版权与许可声明；参见各项目原许可。各项目的许可声明仅能说明其声明的许可，不能据此确定任何项目对其所有上游资料享有何种权利。
 
 67 条词根关系核实及跨库补充参考 Etymonline、Merriam-Webster、The Century Dictionary、Collins、Affixes.org 等词源资料；部分具体页面链接保留在相应记录中。说明为本项目的简短整理，不包含第三方词典全文。
 
