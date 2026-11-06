@@ -1067,18 +1067,7 @@
       ]
     }
   ],
-  "pending_aliases": [
-    {
-      "root_id": "r_236411dec09f9507",
-      "word": "telencephalon",
-      "reason": "The e starts encephalon after tel-; although tele is an independently attested telos-family variant, its application as a lookup here crosses the observed boundary and needs explicit alias adjudication.",
-      "evidence_urls": [
-        "https://www.merriam-webster.com/dictionary/telencephalon",
-        "https://openmd.com/define/telencephalon",
-        "https://www.ahdictionary.com/word/search.html?q=telo-"
-      ]
-    }
-  ],
+  "pending_aliases": [],
   "quarantined_existing_relations": {
     "count": 185,
     "path": "notes/held-relations.json"
@@ -1166,12 +1155,702 @@
       ]
     }
   ],
-  "roots_sha256": "55840b84e17ec51cb61b6908f93e54939b34e1b5c34b7d562695d2fd3907a8af",
+  "roots_sha256": "b2ab350d114bb7b7e4e7d9f054e729dd96f58bffd793e332f6a0aafcc339465f",
   "canonical_root_aliases": [
     {
       "alias_id": "r_a6fbd12efdd62661",
       "canonical_id": "r_fe645c69bbd70009",
       "scope": "Italian protective para only; Greek beside is a different meaning."
     }
-  ]
+  ],
+  "resolved_aliases_after_previous_snapshot": [
+    {
+      "root_id": "r_236411dec09f9507",
+      "word": "telencephalon",
+      "reason": "The e starts encephalon after tel-; although tele is an independently attested telos-family variant, its application as a lookup here crosses the observed boundary and needs explicit alias adjudication.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/telencephalon",
+        "https://openmd.com/define/telencephalon",
+        "https://www.ahdictionary.com/word/search.html?q=telo-"
+      ],
+      "resolution": "Included following a later historical-family review."
+    }
+  ],
+  "subsequent_changes": {
+    "metadata_changes": [
+      {
+        "id": "r_c8b7ce87d7356a84",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/dictionary/english/phobe",
+          "https://www.merriam-webster.com/dictionary/-phobe"
+        ]
+      },
+      {
+        "id": "r_9032e18fd087c6f2",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/us/dictionary/english/phobic"
+        ]
+      },
+      {
+        "id": "r_91c14b8865666516",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "evidence_urls": [
+          "https://lrc.la.utexas.edu/lex/master/0441",
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%20and%20Combining%20Forms.pdf"
+        ]
+      },
+      {
+        "id": "r_9e4dd92c17d2d574",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-opia"
+        ]
+      },
+      {
+        "id": "r_0950324d26c99c33",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "reason": "The source form and medical dictionaries identify -emia as a suffix; all existing examples contain it as their final word ending.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-emia"
+        ]
+      },
+      {
+        "id": "r_62e224ef1e26826c",
+        "field": "class",
+        "before": "root",
+        "after": "prefix",
+        "reason": "Sources and dictionary document bound fore- before/in front as a prefix; all existing examples start with fore, including documented historical lookup variants.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/fore-",
+          "https://www.etymonline.com/word/fore-"
+        ]
+      },
+      {
+        "id": "r_b00dfa108bfe74b3",
+        "field": "meaning",
+        "before": "man",
+        "after": "human being; humanity",
+        "reason": "Latin humanus and modern English human refer to people in general; clarify the formerly ambiguous generic man gloss for multilingual use.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/human",
+          "https://www.etymonline.com/word/human"
+        ]
+      },
+      {
+        "id": "r_442bf0f637420de6",
+        "field": "meaning",
+        "before": "those who let pasture herds",
+        "after": "nomadic wandering; a person who moves from place to place, historically a pastoral wanderer",
+        "reason": "English nomad and derivatives include non-pastoral uses; retain the historically pastoral meaning without implying that all modern uses involve herds.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/nomadic",
+          "https://www.merriam-webster.com/dictionary/nomadize",
+          "https://ahdictionary.com/word/search.html?q=nomadic"
+        ]
+      },
+      {
+        "id": "r_1fe27d6f57e9f683",
+        "field": "meaning",
+        "before": "order",
+        "after": "order; entrust; commit",
+        "reason": "Latin mandare/commendare also means entrust or commit, the specific sense in commendam.",
+        "evidence_urls": [
+          "https://www.newadvent.org/cathen/07719a.htm",
+          "https://wehd.com/18/Commend_v.html"
+        ]
+      },
+      {
+        "id": "r_59bf1eaa7281fcae",
+        "field": "meaning",
+        "before": "small; make smaller",
+        "after": "small; less; lower in rank",
+        "reason": "Latin minister is historically from minus/minor less in rank; the sense is necessary for historical family examples.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/minister"
+        ]
+      },
+      {
+        "id": "r_35ef84194d92c595",
+        "field": "meaning",
+        "before": "air, breath, wind",
+        "after": "air; breath; wind; spirit",
+        "reason": "Greek pneuma denotes breath and spirit; pneumatology has a theological spirit sense, not an assertion about lungs.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/us/dictionary/english/pneumato",
+          "https://oekumene.uni-graz.at/en/research/pneumatology/"
+        ]
+      },
+      {
+        "id": "r_3d16c01006a50050",
+        "field": "meaning",
+        "before": "to turn over, move by rotating or form into a cylinder",
+        "after": "to turn over, move by rotating or form into a cylinder; a rolled document or register",
+        "reason": "Historical roll as a rolled document or register is independently documented and is the sense involved in enroll and control.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/enroll",
+          "https://www.cnrtl.fr/definition/dmf/contr%C3%B4le",
+          "https://www.etymonline.com/word/control"
+        ]
+      },
+      {
+        "id": "r_a5920994c55726da",
+        "field": "meaning",
+        "before": "to view, to observe",
+        "after": "instrument for viewing or observing",
+        "reason": "The documented combining form has this specific sense; distinguish instrument from examination.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/horoscope",
+          "https://www.merriam-webster.com/dictionary/-scope"
+        ]
+      },
+      {
+        "id": "r_a5920994c55726da",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "reason": "The documented form is a word-final combining form; all retained examples end with it.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/horoscope",
+          "https://www.merriam-webster.com/dictionary/-scope"
+        ]
+      },
+      {
+        "id": "r_40a110f4a37d4cfc",
+        "field": "meaning",
+        "before": "to view, to observe",
+        "after": "observation or examination; process of viewing",
+        "reason": "The documented combining form has this specific sense; distinguish instrument from examination.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/horoscope",
+          "https://www.merriam-webster.com/dictionary/-scope"
+        ]
+      },
+      {
+        "id": "r_40a110f4a37d4cfc",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "reason": "The documented form is a word-final combining form; all retained examples end with it.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/horoscope",
+          "https://www.merriam-webster.com/dictionary/-scope"
+        ]
+      },
+      {
+        "id": "r_2e137f712337aa64",
+        "field": "meaning",
+        "before": "be",
+        "after": "being; historical present participial stem of Latin esse",
+        "reason": "Latin praesent- and absent- preserve the participial stem of esse; it is not the bare verb root and must remain distinct from sentire feel.",
+        "evidence_urls": [
+          "https://dcc.dickinson.edu/grammar/latin/sum",
+          "https://courses.cit.cornell.edu/medvl6201/participles.pdf",
+          "https://ikribl.com/wp-content/uploads/2024/12/inskrypcje-1-24-druk.pdf"
+        ]
+      },
+      {
+        "id": "r_2e137f712337aa64",
+        "field": "class",
+        "before": "root",
+        "after": "combining_form",
+        "reason": "This is an attested historical participial combining stem, rather than the independent Latin verb root.",
+        "evidence_urls": [
+          "https://dcc.dickinson.edu/grammar/latin/sum",
+          "https://courses.cit.cornell.edu/medvl6201/participles.pdf",
+          "https://ikribl.com/wp-content/uploads/2024/12/inskrypcje-1-24-druk.pdf"
+        ]
+      },
+      {
+        "id": "r_7a2466556d02feb1",
+        "field": "class",
+        "before": "combining form",
+        "after": "combining_form",
+        "reason": "Normalize the class spelling to the established dataset value without changing the word-forming meaning.",
+        "evidence_urls": [
+          "https://www.dictionary.com/browse/kinetic",
+          "https://www.affixes.org/-kinesis.html"
+        ]
+      },
+      {
+        "id": "r_0aa1506922caca24",
+        "field": "meaning",
+        "before": "stand, standing, stabilize",
+        "after": "standing; historical oblique stem of Greek stasis",
+        "reason": "A Greek medical-word morphology reference identifies stas- as the genitive stem of stasis; it is a historical noun stem rather than the smallest bare verb root.",
+        "evidence_urls": [
+          "https://is.muni.cz/el/med/jaro2016/aZLLT0222c/um/05_GREEK_COMPOUND_WORDS1.pdf",
+          "https://www.dictionary.com/browse/stasis"
+        ]
+      },
+      {
+        "id": "r_0aa1506922caca24",
+        "field": "class",
+        "before": "root",
+        "after": "historical_stem",
+        "reason": "The form is documented as the oblique noun stem of Greek stasis and participates in historical compounds.",
+        "evidence_urls": [
+          "https://is.muni.cz/el/med/jaro2016/aZLLT0222c/um/05_GREEK_COMPOUND_WORDS1.pdf",
+          "https://www.dictionary.com/browse/stasis"
+        ]
+      },
+      {
+        "id": "r_7e9e513967416ed8",
+        "field": "meaning",
+        "before": "of or relating to a position or state; inhibiting the growth of",
+        "after": "relating to a state or position; stopping or controlling a process",
+        "reason": "The documented combining form also describes stopping or controlling blood flow, as in hemostatic; retain state and position senses.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/hemostatic",
+          "https://s3.amazonaws.com/Careertec/Manuals%20and%20Texts/Medical/Medical%20Terminology%203e%20Text%20by%20Chapter/Medical%20Terminology%20Part%201%20-%20Chapter%202-210552.pdf",
+          "https://www.sabm.org/assets/pdfs/SABM-Glossary-of-Terms-Revised-2019.pdf"
+        ]
+      },
+      {
+        "id": "r_f1888bf759de4150",
+        "field": "meaning",
+        "before": "touch",
+        "after": "touch; the act of tasting or sampling; flavor",
+        "reason": "OED documents Middle English tast as both touch and taste; current meaning touch is incomplete for flavor examples. Preserve existing lookup alias status and examples, expand meaning only after separate integration review.",
+        "evidence_urls": [
+          "https://www.sjsu.edu/faculty/harris/Rom_Travel/Handouts/taste.pdf",
+          "https://www.etymonline.com/word/taste"
+        ]
+      },
+      {
+        "id": "r_acec945877874223",
+        "field": "origin",
+        "before": "Latin",
+        "after": "Latin and Greek",
+        "reason": "American Heritage explicitly records the English combining form tri- as inherited from both Latin and Greek; Greek-derived entries must not be attributed solely to Latin.",
+        "evidence_urls": [
+          "https://www.ahdictionary.com/word/search.html?q=TRI-"
+        ]
+      },
+      {
+        "id": "r_d7bb3a968244e816",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "reason": "The form -trophy is a documented noun-forming suffix; every current example ends in the form, and it denotes nourishment or growth.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-trophy",
+          "https://medlineplus.gov/appendixa.html"
+        ]
+      }
+    ],
+    "withdrawn_relations": [
+      {
+        "published_root_id": "r_a5920994c55726da",
+        "word": "horoscope",
+        "reason": "Horoscope derives from Greek hōroskopos, an observer of the hour; it is not an observing instrument and is retained under the broader scop family.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/horoscope",
+          "https://www.merriam-webster.com/dictionary/-scope"
+        ]
+      },
+      {
+        "published_root_id": "r_2689996d560595a4",
+        "word": "contention",
+        "reason": "Published ten hold example contention is from Latin contendere / tendere stretch, not tenere hold. These verbs share a deeper reconstructed ancestor but are not the same Latin sense or immediate word family. Retain source/history; target existing tent stretch r_81af32d722709ad3 and add tend stretch r_15decca3bc391700.",
+        "evidence_urls": [
+          "https://wehd.com/19/Contend.html",
+          "https://thelifeofwords.uwaterloo.ca/contending-pretending/"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "appendectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "hepatectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "hysterectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "laryngectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "mastectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "nephrectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "oophorectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "ovariectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "salpingectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "thyroidectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "tonsillectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_bf5779e4af097ae6",
+        "word": "vasectomy",
+        "reason": "The modern medical suffix -ectomy denotes excision or removal, while -tomy denotes incision; matching the ending tomy inside ectomy must not imply that a removal is an incision-only procedure. The etymological root tom cut remains a separate documented family relationship.",
+        "evidence_urls": [
+          "https://medlineplus.gov/appendixa.html",
+          "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      }
+    ],
+    "root_id_migrations": [
+      {
+        "retired_id": "r_8016f14285997fdb",
+        "canonical_id": "r_44c42ea0f4518308",
+        "reason": "Both refer to the same Greek discharge/flow suffix and have identical examples. The older unmarked root was classified generically; the dictionary and all listed examples establish suffix position.",
+        "evidence_urls": [
+          "https://nursing.unboundmedicine.com/nursingcentral/view/Tabers-Dictionary/755903/all/_rrhea___rhea",
+          "https://www.affixes.org/-rrhoea.html"
+        ]
+      },
+      {
+        "retired_id": "r_00094cd8b8ee9340",
+        "canonical_id": "r_352b658ab56d41ce",
+        "reason": "Same Latin sanitas-derived historical stem and identical examples; health and healthy are compatible senses.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/sanitary",
+          "https://www.etymonline.com/word/sanity"
+        ]
+      },
+      {
+        "retired_id": "r_9b3bfbbde64e7f52",
+        "canonical_id": "r_e6d92dddcfc472fc",
+        "reason": "Both are initial sarco- from Greek sark- flesh. Dictionary classifies it as a combining form. Sarcodinian is historically related via Greek sarkodes and the taxon Sarcodina, rather than necessarily showing a modern morpheme segmentation.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/sarc-",
+          "https://www.dictionary.com/browse/sarcodinian"
+        ]
+      },
+      {
+        "retired_id": "r_74f2222ac36b9d26",
+        "canonical_id": "r_181d02568a15dc21",
+        "reason": "Identical historical Latin-derived sati- stem, same examples and synonymous glosses; maintain family links to satis and satur.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/satiate",
+          "https://www.etymonline.com/word/satiety"
+        ]
+      },
+      {
+        "retired_id": "r_7f69d8a4fa6bae2f",
+        "canonical_id": "r_c04b3447c86f3c4f",
+        "reason": "Identical Latin satis form, identical examples and synonymous glosses; maintain family links to sati and satur.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/satisfy"
+        ]
+      },
+      {
+        "retired_id": "r_bd9c4130c7639dd8",
+        "canonical_id": "r_4f0a8954c27f6d09",
+        "reason": "Same initial Greek combining form, compatible hollow/boat senses, and identical examples. Dictionary supports boat and the initial combining-form class. Preserve published gloss terms and family ID.",
+        "evidence_urls": [
+          "https://www.dictionary.com/browse/scapho",
+          "https://www.ahdictionary.com/word/search.html?q=scaphopod",
+          "https://www.etymonline.com/word/scaphoid"
+        ]
+      },
+      {
+        "retired_id": "r_643ad97b0a757a61",
+        "canonical_id": "r_026a4799197c1b93",
+        "reason": "Both records describe the Latin scrutari search/examine stem; hyphen indicates bound form, not a distinct position. Keep the published source form and meaning.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/scrutiny"
+        ]
+      },
+      {
+        "retired_id": "r_88dc01aa27a250f7",
+        "canonical_id": "r_2072f1bd37e93d43",
+        "reason": "The same Latin sebum tallow stem and identical source form and examples. Retain root as an etymological stem, not a claim that seb- is an independently attested combining-form entry.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/sebaceous",
+          "https://www.merriam-webster.com/dictionary/sebum"
+        ]
+      },
+      {
+        "retired_id": "r_e301daf1a031d331",
+        "canonical_id": "r_69246a88daa0409c",
+        "reason": "Both records refer to the Greek seismos component. Collins labels seism- a pre-vowel variant of combining form seismo-; Greek seiein supplies the historical shake sense. Listed examples can also contain the standalone noun or terminal form; the class labels the indexed component, not each segmentation.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/dictionary/english/seismo",
+          "https://www.merriam-webster.com/dictionary/seismic",
+          "https://www.merriam-webster.com/dictionary/seism"
+        ]
+      },
+      {
+        "retired_id": "r_0a016891a61f10ef",
+        "canonical_id": "r_551fd27c1bdcf537",
+        "reason": "Both records denote the same initial Greek combining form. MW defines earthquake and vibration and traces it to seismos; retain the published historical gloss shake. The added examples are inherited relations, with seismonasty supported by its headword.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/seismo-",
+          "https://www.merriam-webster.com/dictionary/seismic",
+          "https://www.merriam-webster.com/dictionary/seismonasty"
+        ]
+      },
+      {
+        "retired_id": "r_961a9f592c93ca62",
+        "canonical_id": "r_fd6b175b6da777a7",
+        "reason": "Both records refer to Latin serpere creep. Hyphenation in source notation does not establish a distinct morpheme or position. Preserve the published reptile gloss, although the dictionary supports reptile as a meaning of derivative serpent, not literally of serpere.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/serpent"
+        ]
+      },
+      {
+        "retired_id": "r_baf8940252077f9f",
+        "canonical_id": "r_6aab23087b20a7b2",
+        "reason": "Both denote the Latin serra saw stem; the hyphen marks a bound form. Biserrate is bi- plus serrate and can be added to the merged examples.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/serrate",
+          "https://www.merriam-webster.com/dictionary/biserrate"
+        ]
+      },
+      {
+        "retired_id": "r_b17defc809346a91",
+        "canonical_id": "r_53e4d7e576f8b416",
+        "reason": "Both target the same Latin sit/settle historical stem, not independent modern English segmentation. Preside is traced to Latin praesidere from sedere. The union contains inherited relations via verified bases and inflection; preserve existing linked sed/sess family.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/preside",
+          "https://www.merriam-webster.com/dictionary/reside",
+          "https://www.etymonline.com/word/reside"
+        ]
+      },
+      {
+        "retired_id": "r_4dcd0601ed647a64",
+        "canonical_id": "r_dd7918b87c0a6ef9",
+        "reason": "Both entries have identical meaning, class, origin and examples after the documented metadata reconciliation; retain the established public ID and archive the unpublished duplicate.",
+        "evidence_urls": [
+          "https://www.ahdictionary.com/word/search.html?q=sapphire",
+          "https://www.etymonline.com/word/sapphirine"
+        ]
+      }
+    ],
+    "root_holds": [
+      {
+        "original": {
+          "id": "r_25aa2024faf4705d",
+          "root": "lit",
+          "source_form": "lit",
+          "meaning": "letter, reading",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_261203def0f951e6",
+          "related_root_ids": [
+            "r_efe991c6b9d1f7c4"
+          ],
+          "source_entry": "lit, litera",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_25aa2024faf4705d",
+        "root": "lit",
+        "meaning": "letter, reading",
+        "reason": "Latin litera/littera and stems liter/litter are attested; bare lit as a distinct letter stem is not independently established. Its occurrence at the beginning of a longer stem is insufficient.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/literate",
+          "https://www.etymonline.com/word/alliteration"
+        ]
+      },
+      {
+        "original": {
+          "id": "r_3ca5bbbce79e82d1",
+          "root": "noun",
+          "source_form": "noun",
+          "meaning": "declare",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_6074a8102510a746",
+          "related_root_ids": [
+            "r_1e1de0a3eb90e114",
+            "r_8fbe52de083cc26d",
+            "r_98e8a338873c7e4c"
+          ],
+          "source_entry": "noun, nunc",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_3ca5bbbce79e82d1",
+        "root": "noun",
+        "meaning": "declare",
+        "reason": "In pronounce and announce the supported historical base is Latin nuntiare and French -nonc-; bare noun is not documented here as an independent declare-form. English noun and pronoun derive from Latin nomen name, a different sense and family.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/announce",
+          "https://www.etymonline.com/word/pronounce",
+          "https://www.etymonline.com/word/pronoun"
+        ]
+      },
+      {
+        "original": {
+          "id": "r_2d51a8acfebc3563",
+          "root": "opt",
+          "source_form": "opt1",
+          "meaning": "best",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_ae6e7b9e0ea45419",
+          "related_root_ids": [],
+          "source_entry": "opt1",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_2d51a8acfebc3563",
+        "root": "opt",
+        "meaning": "best",
+        "reason": "Optimal/optimum are from Latin optimus best, whose historical decomposition has competing analyses; an independent opt stem meaning best is not established by these sources. Existing optim best is better supported.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/optimum",
+          "https://www.etymonline.com/word/optimal",
+          "https://www.etymonline.com/word/opt"
+        ]
+      },
+      {
+        "original": {
+          "id": "r_3f7f70d231ce61fa",
+          "root": "scen",
+          "source_form": "scen",
+          "meaning": "climb",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_0773264b3244883c",
+          "related_root_ids": [
+            "r_106b4c05acc2af08"
+          ],
+          "source_entry": "scen, scend",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_3f7f70d231ce61fa",
+        "root": "scen",
+        "meaning": "climb",
+        "withdrawn_examples": [
+          "ascend",
+          "ascent",
+          "descend",
+          "descendent",
+          "descent",
+          "transcend",
+          "transcendent"
+        ],
+        "reason": "Wordsmyth lists scen as a teaching lookup alongside scend, but historical dictionaries document scend/scens rather than an independently attested scen morpheme. Hold this truncated lookup under the independent word-formation policy; retain the separate Greek scen booth entry.",
+        "evidence_urls": [
+          "https://www.wordsmyth.net/?am=page&mode=wpar&offset=3&page=26",
+          "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Ascensus",
+          "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3873/"
+        ]
+      },
+      {
+        "original": {
+          "id": "r_db02655e84f293cd",
+          "root": "surr",
+          "source_form": "surr",
+          "meaning": "rise",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_0c0dbdc8cf059e8a",
+          "related_root_ids": [
+            "r_22afb38fe53b9943",
+            "r_e04c5c03380bc087"
+          ],
+          "source_entry": "surg, surr",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_db02655e84f293cd",
+        "root": "surr",
+        "meaning": "rise",
+        "withdrawn_examples": [
+          "insurrection",
+          "resurrect"
+        ],
+        "reason": "The sequence surr crosses the Latin assimilated prefix sub- and the following regere-derived stem; it is not established as an independent root. The complete documented historical stem surrect is retained.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/surge",
+          "https://www.etymonline.com/word/insurrection",
+          "https://www.etymonline.com/word/resurrection"
+        ]
+      }
+    ]
+  }
 }

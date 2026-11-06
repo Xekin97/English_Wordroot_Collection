@@ -1,5 +1,5 @@
 {
-  "scope": "Previously published example relations conservatively held for a specific unresolved question; pending is not a finding that the relation is false. Historical source-scoped acceptances remain visible where located.",
+  "scope": "Previously published example relations currently withheld or under source-scoped quality review; withholding is not a finding that the relation is false.",
   "relations": [
     {
       "root_id": "r_0221f697b46a2160",
@@ -90,18 +90,6 @@
       "reason": "原来源为大写 Decalogue，现存小写词可能有另一个普通名词义；不能将专名暂缓直接套到现存边。",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/decalogue"
-      ]
-    },
-    {
-      "root_id": "r_0881724d0069bf47",
-      "root": "photo",
-      "meaning": "light",
-      "word": "photopia",
-      "status": "pending",
-      "reason": "Photopia contains phot- plus -opia; the apparent photo overlaps -opia. Whether photo may serve as historical alias is unresolved.",
-      "evidence_urls": [
-        "https://www.merriam-webster.com/dictionary/photopia",
-        "https://www.merriam-webster.com/dictionary/photo-"
       ]
     },
     {
@@ -208,137 +196,6 @@
       ]
     },
     {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "alliteration",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：alliteration 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/alliteration",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "illiteracy",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：illiteracy 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/illiteracy",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "illiterate",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：illiterate 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/illiterate",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "literacy",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：literacy 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/literacy",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "literal",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：literal 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/literal",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "literary",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：literary 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/literary",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "literate",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：literate 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/literate",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "literati",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：literati 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/literati",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "literature",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：literature 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/literature",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_25aa2024faf4705d",
-      "root": "lit",
-      "meaning": "letter, reading",
-      "word": "transliterate",
-      "status": "pending",
-      "reason": "已查词典词头及其 literate/letter 家族：transliterate 关联 Latin litera/littera 字母；来源与目标均为 lit, litera letter，但短 lit 是否有可支持的历史形式而非截短尚未解决。 已逐词核对并比对 Latin litera，尚未查到独立 lit 同词根形式；不能仅靠前三个字母建立别名。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/transliterate",
-        "https://www.etymonline.com/word/letter"
-      ]
-    },
-    {
-      "root_id": "r_26415edf950d9919",
-      "root": "ophthalmo",
-      "meaning": "eye, visual condition, vision, sight, inspection",
-      "word": "exophthalmos",
-      "status": "pending",
-      "reason": "Exophthalmos descends from ophthalmos, with final o belonging to Greek -os rather than a separable combining vowel; whether ophthalmo covers the historical stem remains unresolved.",
-      "evidence_urls": [
-        "https://www.dictionary.com/browse/exophthalmos"
-      ]
-    },
-    {
       "root_id": "r_26ea90825802a1ad",
       "root": "pedi",
       "meaning": "foot, feet",
@@ -372,50 +229,6 @@
       ]
     },
     {
-      "root_id": "r_2c8b9908a404080e",
-      "root": "patho",
-      "meaning": "suffer, feel; disease",
-      "word": "pathos",
-      "status": "pending",
-      "reason": "Pathos is the Greek ancestor of patho- and its final o is not a separately demonstrated combining vowel. The published historical lookup scope remains unsettled.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/pathos"
-      ]
-    },
-    {
-      "root_id": "r_2d51a8acfebc3563",
-      "root": "opt",
-      "meaning": "best",
-      "word": "optimal",
-      "status": "pending",
-      "reason": "Optimal derives from optimus best; opt is a truncation of optim- here, not the optare choosing root. Best is the exact target, but short historical alias eligibility is unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/optimum"
-      ]
-    },
-    {
-      "root_id": "r_2d51a8acfebc3563",
-      "root": "opt",
-      "meaning": "best",
-      "word": "optimist",
-      "status": "pending",
-      "reason": "Optimist descends through optimum/optimus best; target sense matches but opt as short historical lookup remains unproven.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/optimum"
-      ]
-    },
-    {
-      "root_id": "r_2d51a8acfebc3563",
-      "root": "opt",
-      "meaning": "best",
-      "word": "optimum",
-      "status": "pending",
-      "reason": "Optimum derives from optimus best; deleting opt requires an alias boundary rule, not a judgment that the best family is unrelated.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/optimum"
-      ]
-    },
-    {
       "root_id": "r_3386ea5b4bfd9672",
       "root": "mania",
       "meaning": "excessive desire",
@@ -439,28 +252,6 @@
             "https://www.etymonline.com/word/pyromania"
           ]
         }
-      ]
-    },
-    {
-      "root_id": "r_3386ea5b4bfd9672",
-      "root": "mania",
-      "meaning": "excessive desire",
-      "word": "mania",
-      "status": "pending",
-      "reason": "来源 mania excessive desire 与目标一致；词典称 mania 为独立名词，词根同形例词政策未定且其原义可能不同。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/mania"
-      ]
-    },
-    {
-      "root_id": "r_3386ea5b4bfd9672",
-      "root": "mania",
-      "meaning": "excessive desire",
-      "word": "maniac",
-      "status": "pending",
-      "reason": "原源 excessive desire 与目标一致，另有 madness 来源；词典把 maniac 追溯至 Greek mania，历史词源关联明确，目标作整词或结合形式时的形式和义项需分开。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/maniac"
       ]
     },
     {
@@ -606,45 +397,6 @@
       ]
     },
     {
-      "root_id": "r_367793a75ee86b87",
-      "root": "orb",
-      "meaning": "wheel, circle",
-      "word": "exorbitant",
-      "status": "pending",
-      "reason": "exorbitant traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/exorbitant",
-        "https://www.etymonline.com/word/orbit",
-        "https://www.etymonline.com/word/orb"
-      ]
-    },
-    {
-      "root_id": "r_367793a75ee86b87",
-      "root": "orb",
-      "meaning": "wheel, circle",
-      "word": "orbit",
-      "status": "pending",
-      "reason": "orbit traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/exorbitant",
-        "https://www.etymonline.com/word/orbit",
-        "https://www.etymonline.com/word/orb"
-      ]
-    },
-    {
-      "root_id": "r_367793a75ee86b87",
-      "root": "orb",
-      "meaning": "wheel, circle",
-      "word": "suborbital",
-      "status": "pending",
-      "reason": "suborbital traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/exorbitant",
-        "https://www.etymonline.com/word/orbit",
-        "https://www.etymonline.com/word/orb"
-      ]
-    },
-    {
       "root_id": "r_37c8df9fc1a2a6e3",
       "root": "erg",
       "meaning": "work",
@@ -653,64 +405,6 @@
       "reason": "来源及目标 work 对应；词典 erg 为 work 相关单位，也有同形沙丘义，词本身作为词根例词的政策未定。",
       "evidence_urls": [
         "https://www.etymonline.com/word/erg"
-      ]
-    },
-    {
-      "root_id": "r_3ca5bbbce79e82d1",
-      "root": "noun",
-      "meaning": "declare",
-      "word": "announce",
-      "status": "pending",
-      "reason": "announce belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/announce"
-      ]
-    },
-    {
-      "root_id": "r_3ca5bbbce79e82d1",
-      "root": "noun",
-      "meaning": "declare",
-      "word": "announcement",
-      "status": "pending",
-      "reason": "announcement belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/announce"
-      ]
-    },
-    {
-      "root_id": "r_3ca5bbbce79e82d1",
-      "root": "noun",
-      "meaning": "declare",
-      "word": "denounce",
-      "status": "pending",
-      "reason": "denounce belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/denounce",
-        "https://www.etymonline.com/word/announce"
-      ]
-    },
-    {
-      "root_id": "r_3ca5bbbce79e82d1",
-      "root": "noun",
-      "meaning": "declare",
-      "word": "pronounce",
-      "status": "pending",
-      "reason": "pronounce belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/pronounce",
-        "https://www.etymonline.com/word/announce"
-      ]
-    },
-    {
-      "root_id": "r_3ca5bbbce79e82d1",
-      "root": "noun",
-      "meaning": "declare",
-      "word": "pronouncement",
-      "status": "pending",
-      "reason": "pronouncement belongs to the Latin nuntiare declare lineage, verified in the headword or the verified base. The exact published source lists noun and nunc together, but documentation has not established noun itself as an independent historical stem; the alias question remains open.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/pronounce",
-        "https://www.etymonline.com/word/announce"
       ]
     },
     {
@@ -795,17 +489,6 @@
       ]
     },
     {
-      "root_id": "r_3f2bd68314b071af",
-      "root": "penta",
-      "meaning": "five",
-      "word": "pentad",
-      "status": "pending",
-      "reason": "Pentad comes from Greek pentas/pentados five; penta is not independently a combining prefix here. Historical alias eligibility is unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/pentad"
-      ]
-    },
-    {
       "root_id": "r_40eb164e603c7172",
       "root": "melan",
       "meaning": "black",
@@ -814,98 +497,6 @@
       "reason": "来源 melan, melano black 与目标一致，但源例词是 Melanesian，冻结及现存小写 melanesian 的专名大小写和收录资格需单独决定。",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/Melanesian"
-      ]
-    },
-    {
-      "root_id": "r_442bf0f637420de6",
-      "root": "nomad",
-      "meaning": "those who let pasture herds",
-      "word": "nomad",
-      "status": "pending",
-      "reason": "nomad 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/nomad"
-      ],
-      "historical_accept_claims": [
-        {
-          "relation_id": "e_0ea3b72338f1b84c447a",
-          "source_entry_ids": [
-            "s_b772c7f210458fbd4999"
-          ],
-          "evidence_urls": [
-            "https://www.merriam-webster.com/dictionary/nomad"
-          ]
-        }
-      ]
-    },
-    {
-      "root_id": "r_442bf0f637420de6",
-      "root": "nomad",
-      "meaning": "those who let pasture herds",
-      "word": "nomadic",
-      "status": "pending",
-      "reason": "nomadic 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/nomad"
-      ],
-      "historical_accept_claims": [
-        {
-          "relation_id": "e_9dbf530ca4e4e1f21a28",
-          "source_entry_ids": [
-            "s_b772c7f210458fbd4999"
-          ],
-          "evidence_urls": [
-            "https://en.wiktionary.org/wiki/nomadic",
-            "https://logeion.org/%CE%BD%CE%BF%CE%BC%CE%AC%CF%82"
-          ]
-        }
-      ]
-    },
-    {
-      "root_id": "r_442bf0f637420de6",
-      "root": "nomad",
-      "meaning": "those who let pasture herds",
-      "word": "nomadism",
-      "status": "pending",
-      "reason": "nomadism 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/nomad"
-      ],
-      "historical_accept_claims": [
-        {
-          "relation_id": "e_d43f3c4d5b2bcab0370b",
-          "source_entry_ids": [
-            "s_b772c7f210458fbd4999"
-          ],
-          "evidence_urls": [
-            "https://doi.org/10.1007/978-3-031-92524-5_230",
-            "https://www.etymonline.com/word/nomad"
-          ]
-        }
-      ]
-    },
-    {
-      "root_id": "r_442bf0f637420de6",
-      "root": "nomad",
-      "meaning": "those who let pasture herds",
-      "word": "nomadize",
-      "status": "pending",
-      "reason": "nomadize 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/nomad",
-        "https://www.merriam-webster.com/dictionary/nomadize"
-      ],
-      "historical_accept_claims": [
-        {
-          "relation_id": "e_7576b5f48ea787dc526c",
-          "source_entry_ids": [
-            "s_b772c7f210458fbd4999"
-          ],
-          "evidence_urls": [
-            "https://en.wiktionary.org/wiki/nomadize",
-            "https://www.etymonline.com/word/nomad"
-          ]
-        }
       ]
     },
     {
@@ -1047,17 +638,6 @@
       "root_id": "r_6605a98f456af6f0",
       "root": "octa",
       "meaning": "eight",
-      "word": "octane",
-      "status": "pending",
-      "reason": "Octane contains oct- eight plus -ane; whether Greek octa is an acceptable historical alias across the ending is unresolved, not a proven unrelated etymology.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/octane"
-      ]
-    },
-    {
-      "root_id": "r_6605a98f456af6f0",
-      "root": "octa",
-      "meaning": "eight",
       "word": "octant",
       "status": "pending",
       "reason": "Octant derives from Latin octans eighth, while published origin is Greek octa; whether this common eight-family alias covers the Latin stem remains unresolved.",
@@ -1100,30 +680,6 @@
       ]
     },
     {
-      "root_id": "r_7301951ff76a56ee",
-      "root": "philo",
-      "meaning": "love, fondness",
-      "word": "anemophilous",
-      "status": "pending",
-      "reason": "Anemophilous uses -philous; philo reaches into the ending rather than the philo- prefix. Historical alias eligibility is not resolved by that modern parse.",
-      "evidence_urls": [
-        "https://www.dictionary.com/browse/anemophilous",
-        "https://www.etymonline.com/word/philo-"
-      ]
-    },
-    {
-      "root_id": "r_7301951ff76a56ee",
-      "root": "philo",
-      "meaning": "love, fondness",
-      "word": "xerophilous",
-      "status": "pending",
-      "reason": "Xerophilous uses -philous; philo overlaps -ous. The boundary objection alone does not settle whether a historical love-family alias is allowed.",
-      "evidence_urls": [
-        "https://www.dictionary.com/browse/xerophilous",
-        "https://www.etymonline.com/word/philo-"
-      ]
-    },
-    {
       "root_id": "r_752ea74333c797a4",
       "root": "kilo",
       "meaning": "thousand",
@@ -1144,17 +700,6 @@
       "evidence_urls": [
         "https://www.etymonline.com/word/grade",
         "https://www.merriam-webster.com/dictionary/-grade"
-      ]
-    },
-    {
-      "root_id": "r_89baecef5dde870b",
-      "root": "icon",
-      "meaning": "image",
-      "word": "icon",
-      "status": "pending",
-      "reason": "来源 icon, icono 的 image 义与目标一致；词典将 icon 追溯 Greek eikon，但完整词本身当例词的收录政策未定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/icon"
       ]
     },
     {
@@ -2037,42 +1582,9 @@
       "root_id": "r_a4081bfd6630b82d",
       "root": "quin",
       "meaning": "five, fifth",
-      "word": "quinquagenarian",
-      "status": "pending",
-      "reason": "quinquagenarian descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quinquennial"
-      ]
-    },
-    {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
       "word": "quinquagesima",
       "status": "pending",
       "reason": "quinquagesima descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quinquennial"
-      ]
-    },
-    {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
-      "word": "quinquennial",
-      "status": "pending",
-      "reason": "quinquennial descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quinquennial"
-      ]
-    },
-    {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
-      "word": "quinquevalent",
-      "status": "pending",
-      "reason": "quinquevalent descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
       "evidence_urls": [
         "https://www.etymonline.com/word/quinquennial"
       ]
@@ -2092,47 +1604,10 @@
       "root_id": "r_a4081bfd6630b82d",
       "root": "quin",
       "meaning": "five, fifth",
-      "word": "quintet",
-      "status": "pending",
-      "reason": "quintet descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quintet"
-      ]
-    },
-    {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
       "word": "quintillion",
       "status": "pending",
       "reason": "quintillion descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
       "evidence_urls": [
-        "https://www.etymonline.com/word/quintet"
-      ]
-    },
-    {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
-      "word": "quintuple",
-      "status": "pending",
-      "reason": "quintuple is historically linked to Latin quintus fifth; the dictionary gives quintuplex for quintuple and says the ending of quintuplet comes from triplet. This corrects the oversimplified quintuplus/-et claims, but does not establish the shorter quin as a historical stem.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quintuple",
-        "https://www.etymonline.com/word/quintuplet",
-        "https://www.etymonline.com/word/quintet"
-      ]
-    },
-    {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
-      "word": "quintuplet",
-      "status": "pending",
-      "reason": "quintuplet is historically linked to Latin quintus fifth; the dictionary gives quintuplex for quintuple and says the ending of quintuplet comes from triplet. This corrects the oversimplified quintuplus/-et claims, but does not establish the shorter quin as a historical stem.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quintuple",
-        "https://www.etymonline.com/word/quintuplet",
         "https://www.etymonline.com/word/quintet"
       ]
     },
@@ -2717,55 +2192,6 @@
       ]
     },
     {
-      "root_id": "r_d3312ca743a34514",
-      "root": "phon",
-      "meaning": "sound, voice",
-      "word": "phon",
-      "status": "pending",
-      "reason": "Phon is an acoustic unit ultimately related to Greek sound; whole-word eligibility remains unresolved.",
-      "evidence_urls": [
-        "https://www.collinsdictionary.com/dictionary/english/phon",
-        "https://www.etymonline.com/word/phono-"
-      ]
-    },
-    {
-      "root_id": "r_d3312ca743a34514",
-      "root": "phon",
-      "meaning": "sound, voice",
-      "word": "phone",
-      "status": "pending",
-      "reason": "Phone has clipped telephone and speech-sound senses; both have sound-family connections, but the whole-word edge and sense restrictions remain unsettled.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/phone",
-        "https://www.etymonline.com/word/-phone"
-      ]
-    },
-    {
-      "root_id": "r_d3c6c444be8c8d51",
-      "root": "plane",
-      "meaning": "flat",
-      "word": "aquaplane",
-      "status": "pending",
-      "reason": "aquaplane 是平面装置，历史联系平面义；平面家族历史与 Latin planus flat 相容，但整词 root 发布资格尚未决定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/plane",
-        "https://www.ahdictionary.com/word/search.html?q=aquaplane"
-      ],
-      "historical_accept_claims": [
-        {
-          "relation_id": "e_fb3be84d7480cd85bb8d",
-          "source_entry_ids": [
-            "s_c7de811c3ae91d908695"
-          ],
-          "evidence_urls": [
-            "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
-            "https://www.ahdictionary.com/word/search.html?q=aquaplane",
-            "https://www.etymonline.com/word/plane"
-          ]
-        }
-      ]
-    },
-    {
       "root_id": "r_d3c6c444be8c8d51",
       "root": "plane",
       "meaning": "flat",
@@ -2943,53 +2369,6 @@
       ]
     },
     {
-      "root_id": "r_dc21d11f32778f92",
-      "root": "graph",
-      "meaning": "writing, drawing, recording",
-      "word": "graph",
-      "status": "pending",
-      "reason": "目标与 graph, -graphy 来源对应；词典称 graph 缩略自 graphic formula，整词自身做例词是否允许待定。",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/graph"
-      ]
-    },
-    {
-      "root_id": "r_dc50ac1f7ac812b4",
-      "root": "nona",
-      "meaning": "nine",
-      "word": "nonagon",
-      "status": "pending",
-      "reason": "Nonagon is a hybrid based on Latin nonus ninth and the ending of pentagon. The explicit related-only target is exact, but the source groups non and nona and does not establish whether nona is an acceptable alias for nonus; do not call the word linguistically unrelated.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/nonagon",
-        "https://www.etymonline.com/word/nona-"
-      ]
-    },
-    {
-      "root_id": "r_dcdd50d7dae46a06",
-      "root": "phil",
-      "meaning": "love, fondness",
-      "word": "drosophila",
-      "status": "pending",
-      "reason": "Drosophila from Greek loving is linguistically aligned; lowercase scientific genus eligibility remains unresolved, which does not establish linguistic exclusion.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/drosophila",
-        "https://www.etymonline.com/word/-phile"
-      ]
-    },
-    {
-      "root_id": "r_dcdd50d7dae46a06",
-      "root": "phil",
-      "meaning": "love, fondness",
-      "word": "gypsophila",
-      "status": "pending",
-      "reason": "Gypsophila from Greek gypsum and loving is linguistically aligned; scientific genus capitalization and eligibility remain unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/gypsophila",
-        "https://www.etymonline.com/word/-phile"
-      ]
-    },
-    {
       "root_id": "r_e52342b48120bb1f",
       "root": "palp",
       "meaning": "touch",
@@ -3060,19 +2439,6 @@
       ]
     },
     {
-      "root_id": "r_f7876574995b57d8",
-      "root": "phobia",
-      "meaning": "fear, dread",
-      "word": "phobia",
-      "status": "pending",
-      "reason": "American Heritage gives English phobia from the suffix -phobia and distinguishes noun and suffix. Fear lineage and sense match, but whole-English-word self-edge eligibility remains pending.",
-      "evidence_urls": [
-        "https://ahdictionary.com/word/search.html?q=phobia",
-        "https://www.etymonline.com/word/phobia",
-        "https://www.etymonline.com/word/-phobia"
-      ]
-    },
-    {
       "root_id": "r_f97e1b2b770d1d67",
       "root": "mut",
       "meaning": "change, interchange",
@@ -3093,6 +2459,353 @@
       "evidence_urls": [
         "https://www.dictionary.com/browse/rhodopsin",
         "https://www.dictionary.com/browse/rhodo"
+      ]
+    },
+    {
+      "root_id": "r_7e686d59a4485e21",
+      "root": "prot",
+      "meaning": "first, original, primitive",
+      "word": "proterozoic",
+      "status": "pending",
+      "reason": "Sources trace Proterozoic to Greek proteros former/earlier, not directly to protos first. Preserve the frozen relation as related_only pending; a distinct proter form is separately pending, including capitalization and geological-name handling.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Proterozoic",
+        "https://www.ahdictionary.com/word/search.html?q=Proterozoic"
+      ]
+    },
+    {
+      "root_id": "r_5791aa2e5d116eb2",
+      "root": "ptero",
+      "meaning": "wing, fin",
+      "word": "apterous",
+      "status": "pending",
+      "reason": "Greek apteros from a- plus pteron wing; the negation means lacking wings, not a contradictory root sense. The o is part of the documented -pterous ending; do not use that shared letter as proof of a separately segmented ptero- component. Retain only the pter family relationship.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/apterous",
+        "https://www.merriam-webster.com/dictionary/-pterous"
+      ]
+    },
+    {
+      "root_id": "r_5791aa2e5d116eb2",
+      "root": "ptero",
+      "meaning": "wing, fin",
+      "word": "homopterous",
+      "status": "pending",
+      "reason": "The lower-case English insect adjective belongs to Homoptera, from Greek homos same + pteron wing; retain both listed source scopes. The o is part of the documented -pterous ending; do not use that shared letter as proof of a separately segmented ptero- component. Retain only the pter family relationship.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/homopterous",
+        "https://www.merriam-webster.com/dictionary/-pterous"
+      ]
+    },
+    {
+      "root_id": "r_5791aa2e5d116eb2",
+      "root": "ptero",
+      "meaning": "wing, fin",
+      "word": "neuropterous",
+      "status": "pending",
+      "reason": "The lowercase adjective is associated with Neuroptera; NC State documents neuron sinew + ptera wings for the order. The o is part of the documented -pterous ending; do not use that shared letter as proof of a separately segmented ptero- component. Retain only the pter family relationship.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/neuropterous",
+        "https://genent.cals.ncsu.edu/insect-identification/order-neuroptera/",
+        "https://www.merriam-webster.com/dictionary/-pterous"
+      ]
+    },
+    {
+      "root_id": "r_72d80e8e8c16cea7",
+      "root": "pyr",
+      "meaning": "fire, heat, fever",
+      "word": "pyrex",
+      "status": "pending",
+      "reason": "Source is a trademark; dictionary records arbitrary pie-based coinage and disputed fire association. Existing baseline inclusion does not establish this source relation. Preserve the original trademark capitalization and hold the supposed fire-root connection pending evidence.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/pyro",
+        "https://www.etymonline.com/word/Pyrex"
+      ]
+    },
+    {
+      "root_id": "r_b32aff0c72a2371a",
+      "root": "err",
+      "meaning": "error, wander",
+      "word": "errand",
+      "status": "pending",
+      "reason": "Old English ærende, Germanic of uncertain origin, unrelated to Latin errare. Existing baseline edge needs correction.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/errand"
+      ]
+    },
+    {
+      "root_id": "r_b32aff0c72a2371a",
+      "root": "err",
+      "meaning": "error, wander",
+      "word": "err",
+      "status": "pending",
+      "reason": "Whole-word self relation remains pending under the user policy; the independently established Latin err root and other supported examples remain.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/errant",
+        "https://www.dictionnaire-academie.fr/article/A9E2501"
+      ]
+    },
+    {
+      "root_id": "r_b32aff0c72a2371a",
+      "root": "err",
+      "meaning": "error, wander",
+      "word": "knight-errant",
+      "status": "pending",
+      "reason": "The knight-travel sense derives from Old French errer to travel, traced to Latin iterare; it was later conflated with errare. Hold the direct errare mapping for this specific phrase.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/errant",
+        "https://www.dictionnaire-academie.fr/article/A9E2501"
+      ]
+    },
+    {
+      "root_id": "r_d96ab84612ae3ff1",
+      "root": "fic",
+      "meaning": "make, do",
+      "word": "fiction",
+      "status": "pending",
+      "reason": "The word derives from Latin fingere/fictus (shape, form), not facere (make, do). Preserve the independently supported fict relationship; do not assign this word to the fic make/do sense.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fiction",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/fictitious"
+      ]
+    },
+    {
+      "root_id": "r_d96ab84612ae3ff1",
+      "root": "fic",
+      "meaning": "make, do",
+      "word": "fictitious",
+      "status": "pending",
+      "reason": "The word derives from Latin fingere/fictus (shape, form), not facere (make, do). Preserve the independently supported fict relationship; do not assign this word to the fic make/do sense.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fiction",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/fictitious"
+      ]
+    },
+    {
+      "root_id": "r_7cbebcc8fd2ae037",
+      "root": "form",
+      "meaning": "shape, form",
+      "word": "iodoform",
+      "status": "pending",
+      "reason": "Iodoform is iodo- + formyl, named in the chemical formic-acid family, not Latin forma meaning shape. Retain the source and exclude the shape relationship.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/iodoform",
+        "https://www.etymonline.com/word/formic"
+      ]
+    },
+    {
+      "root_id": "r_541749d3229dded0",
+      "root": "gyno",
+      "meaning": "woman, female",
+      "word": "androgynous",
+      "status": "pending",
+      "reason": "andro- male + -gynous female; combining male and female traits; gyn- family is genuine but the matched gyno spelling crosses or obscures the relevant component boundary.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/gyneco-",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=gynaec-",
+        "https://www.digitalatlasofancientlife.org/learn/embryophytes/botanical-terminology/",
+        "https://www.dictionary.com/browse/gyny",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=-gyne",
+        "https://www.ahdictionary.com/word/search.html?q=gynoecium",
+        "https://medicine.en-academic.com/83101/gynoid"
+      ]
+    },
+    {
+      "root_id": "r_541749d3229dded0",
+      "root": "gyno",
+      "meaning": "woman, female",
+      "word": "epigynous",
+      "status": "pending",
+      "reason": "epi- above + -gynous female organ; flower parts above ovary; gyn- family is genuine but the matched gyno spelling crosses or obscures the relevant component boundary.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/gyneco-",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=gynaec-",
+        "https://www.digitalatlasofancientlife.org/learn/embryophytes/botanical-terminology/",
+        "https://www.dictionary.com/browse/gyny",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=-gyne",
+        "https://www.ahdictionary.com/word/search.html?q=gynoecium",
+        "https://medicine.en-academic.com/83101/gynoid"
+      ]
+    },
+    {
+      "root_id": "r_541749d3229dded0",
+      "root": "gyno",
+      "meaning": "woman, female",
+      "word": "heterogynous",
+      "status": "pending",
+      "reason": "hetero- different + -gynous; having distinct female forms; gyn- family is genuine but the matched gyno spelling crosses or obscures the relevant component boundary.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/gyneco-",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=gynaec-",
+        "https://www.digitalatlasofancientlife.org/learn/embryophytes/botanical-terminology/",
+        "https://www.dictionary.com/browse/gyny",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=-gyne",
+        "https://www.ahdictionary.com/word/search.html?q=gynoecium",
+        "https://medicine.en-academic.com/83101/gynoid"
+      ]
+    },
+    {
+      "root_id": "r_541749d3229dded0",
+      "root": "gyno",
+      "meaning": "woman, female",
+      "word": "hypogynous",
+      "status": "pending",
+      "reason": "hypo- below + -gynous; flower parts inserted below ovary; gyn- family is genuine but the matched gyno spelling crosses or obscures the relevant component boundary.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/gyneco-",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=gynaec-",
+        "https://www.digitalatlasofancientlife.org/learn/embryophytes/botanical-terminology/",
+        "https://www.dictionary.com/browse/gyny",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=-gyne",
+        "https://www.ahdictionary.com/word/search.html?q=gynoecium",
+        "https://medicine.en-academic.com/83101/gynoid"
+      ]
+    },
+    {
+      "root_id": "r_541749d3229dded0",
+      "root": "gyno",
+      "meaning": "woman, female",
+      "word": "perigynous",
+      "status": "pending",
+      "reason": "peri- around + -gynous, parts borne around the ovary; gyn- family is genuine but the matched gyno spelling crosses or obscures the relevant component boundary.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/gyneco-",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=gynaec-",
+        "https://www.digitalatlasofancientlife.org/learn/embryophytes/botanical-terminology/",
+        "https://www.dictionary.com/browse/gyny",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=-gyne",
+        "https://www.ahdictionary.com/word/search.html?q=gynoecium",
+        "https://medicine.en-academic.com/83101/gynoid"
+      ]
+    },
+    {
+      "root_id": "r_3f4e6524c3e037ed",
+      "root": "host",
+      "meaning": "stranger, enemy",
+      "word": "hostage",
+      "status": "pending",
+      "reason": "The English hostage is not established as a descendant of Latin hostis enemy. Sources discuss Latin obses and possible influence from hospes/hoste guest; preserve the uncertainty and the original source scopes.",
+      "evidence_urls": [
+        "https://dspace.library.uvic.ca/bitstream/handle/1828/8577/GRS_1_Latin_FINAL%20July%2010.pdf",
+        "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/irrc_857_palmieri.pdf"
+      ]
+    },
+    {
+      "root_id": "r_59bf1eaa7281fcae",
+      "root": "min",
+      "meaning": "small; make smaller",
+      "word": "miniature",
+      "status": "pending",
+      "reason": "同一 ECDICT 来源条目 min、small; make smaller 与目标完全相同；miniature 来自 minium 红铅，并非词源上来自 Latin minus；小义可能受类似小词形影响。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/miniature"
+      ]
+    },
+    {
+      "root_id": "r_59bf1eaa7281fcae",
+      "root": "min",
+      "meaning": "small; make smaller",
+      "word": "minion",
+      "status": "pending",
+      "reason": "同一 ECDICT 来源条目 min、small; make smaller 与目标完全相同；minion 来自 French mignon，词源不确定，未确立 Latin minus 关系。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/minion"
+      ]
+    },
+    {
+      "root_id": "r_7cee7b310c6b3948",
+      "root": "par",
+      "meaning": "equal",
+      "word": "paronymous",
+      "status": "pending",
+      "reason": "来源 par1、Latin equal 与目标完全相同，且 source_scoped_decisions 明确给出该目标 ID；paronymous 来自 Greek para- 加 onyma。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/paronym"
+      ]
+    },
+    {
+      "root_id": "r_acd841440014c76a",
+      "root": "ras",
+      "meaning": "scrape",
+      "word": "rasp",
+      "status": "pending",
+      "reason": "来源 ras, rad, raz、Latin scrape 与目标完全相同；rasp 追溯西日耳曼语，与 Latin radere 不同。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/rasp"
+      ]
+    },
+    {
+      "root_id": "r_99add5a7e1c59038",
+      "root": "-pound",
+      "meaning": "put, place",
+      "word": "impound",
+      "status": "pending",
+      "reason": "唯一来源 pos, -pose, pon, -pone, -pound 及 put, place 与目标完全对应；impound 源自 in- 与动物围栏 pound，而非 put/place 的 Latin ponere。",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/impound"
+      ]
+    },
+    {
+      "root_id": "r_59bf1eaa7281fcae",
+      "root": "min",
+      "meaning": "small; make smaller",
+      "word": "mini",
+      "status": "pending",
+      "reason": "mini is from mini-, shortened from miniature, whose minium red-lead origin is distinct from the small root; small-sense influence is possible and remains uncertain.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mini",
+        "https://www.etymonline.com/word/mini-"
+      ]
+    },
+    {
+      "root_id": "r_5a9e20bee0b26f79",
+      "root": "leg",
+      "meaning": "gather; choose; read",
+      "word": "legume",
+      "status": "pending",
+      "reason": "Oxford states a derivation from Latin legere, while Etymonline considers the origin of Latin legumen unknown and that derivation conjectural. Remove the unqualified example from selectable data and retain this unresolved source relation.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/legume",
+        "https://www.etymonline.com/word/legume"
+      ]
+    },
+    {
+      "root_id": "r_c8aea32514e2d66a",
+      "root": "sta",
+      "meaning": "stand, standing, stabilize",
+      "word": "stagnant",
+      "status": "pending",
+      "reason": "Stagnant is from Latin stagnum pond, but the deeper derivation from stare stand conflicts with a drip-root analysis. Remove the unqualified sta edge while keeping the original relation pending.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/stagnant",
+        "https://www.littre.org/definition/stagnant",
+        "https://www.dictionnaire-academie.fr/article/A9S2758"
+      ]
+    },
+    {
+      "root_id": "r_cfa3e1877beafec6",
+      "root": "tort",
+      "meaning": "twist",
+      "word": "tortoise",
+      "status": "pending",
+      "reason": "Major etymological dictionaries report competing medieval origins, so a direct link to Latin tortus twisted is not settled. Preserve the original relation pending independent resolution.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/tortoise",
+        "https://www.ahdictionary.com/word/search.html?q=tortoise",
+        "https://ocw.ui.ac.id/pluginfile.php?file=%2F1102%2Fmod_folder%2Fcontent%2F0%2FOrigins+-+An+Etymological+Dictionary+of+Modern+English.pdf&forcedownload=1"
+      ]
+    },
+    {
+      "root_id": "r_abd53251bc0ee5b4",
+      "root": "trib",
+      "meaning": "rub, wear down",
+      "word": "tribulation",
+      "status": "pending",
+      "reason": "Oxford etymological scholarship traces tribulation through Latin tribulāre and tribulum to terere; other sources have proposed Greek tribolos. A direct Greek trib assignment is disputed and the original accepted record is retained on hold.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/tribulation",
+        "https://files.znu.edu.ua/files/Bibliobooks/Kushynova/0033892.pdf",
+        "https://www.littre.org/definition/tribulation"
       ]
     }
   ],
@@ -3150,9 +2863,195 @@
       "word": "unpunished",
       "resolution": "accept_historical_lookup_alias",
       "original_reason": "unpunished 路径属 English punish ← French puniss- ← Latin punire，与 Latin punish 目标相合；来源待核称目标存在质量/资格问题，而单凭这些记录未能精确判定其是否已经解除。保留历史接受，不以词源支持自动撤销待核。"
+    },
+    {
+      "root_id": "r_0881724d0069bf47",
+      "word": "photopia",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Photopia contains phot- plus -opia; the apparent photo overlaps -opia. Whether photo may serve as historical alias is unresolved."
+    },
+    {
+      "root_id": "r_26415edf950d9919",
+      "word": "exophthalmos",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Exophthalmos descends from ophthalmos, with final o belonging to Greek -os rather than a separable combining vowel; whether ophthalmo covers the historical stem remains unresolved."
+    },
+    {
+      "root_id": "r_2c8b9908a404080e",
+      "word": "pathos",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Pathos is the Greek ancestor of patho- and its final o is not a separately demonstrated combining vowel. The published historical lookup scope remains unsettled."
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "word": "mania",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "来源 mania excessive desire 与目标一致；词典称 mania 为独立名词，词根同形例词政策未定且其原义可能不同。"
+    },
+    {
+      "root_id": "r_3386ea5b4bfd9672",
+      "word": "maniac",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "原源 excessive desire 与目标一致，另有 madness 来源；词典把 maniac 追溯至 Greek mania，历史词源关联明确，目标作整词或结合形式时的形式和义项需分开。"
+    },
+    {
+      "root_id": "r_367793a75ee86b87",
+      "word": "exorbitant",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "exorbitant traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved."
+    },
+    {
+      "root_id": "r_367793a75ee86b87",
+      "word": "orbit",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "orbit traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved."
+    },
+    {
+      "root_id": "r_367793a75ee86b87",
+      "word": "suborbital",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "suborbital traces to Latin orbita wheel-track, while orbis circle is only probably related. The published root includes both wheel and circle, but a wheel-track gloss alone does not establish that orb is an independent historical component of orbita; keep the target unresolved."
+    },
+    {
+      "root_id": "r_3f2bd68314b071af",
+      "word": "pentad",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Pentad comes from Greek pentas/pentados five; penta is not independently a combining prefix here. Historical alias eligibility is unresolved."
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "word": "nomad",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "nomad 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。"
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "word": "nomadic",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "nomadic 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。"
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "word": "nomadism",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "nomadism 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。"
+    },
+    {
+      "root_id": "r_442bf0f637420de6",
+      "word": "nomadize",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "nomadize 的词源及来源树通向 Greek nomas/nomados，原有为牧群找草地而迁徙的意义，符合 published pastoral 目标；现代游牧可包括非放牧者，不应限制全部现代词义。该组完整 English base 的发布资格仍待定。"
+    },
+    {
+      "root_id": "r_6605a98f456af6f0",
+      "word": "octane",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Octane contains oct- eight plus -ane; whether Greek octa is an acceptable historical alias across the ending is unresolved, not a proven unrelated etymology."
+    },
+    {
+      "root_id": "r_7301951ff76a56ee",
+      "word": "anemophilous",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Anemophilous uses -philous; philo reaches into the ending rather than the philo- prefix. Historical alias eligibility is not resolved by that modern parse."
+    },
+    {
+      "root_id": "r_7301951ff76a56ee",
+      "word": "xerophilous",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Xerophilous uses -philous; philo overlaps -ous. The boundary objection alone does not settle whether a historical love-family alias is allowed."
+    },
+    {
+      "root_id": "r_89baecef5dde870b",
+      "word": "icon",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "来源 icon, icono 的 image 义与目标一致；词典将 icon 追溯 Greek eikon，但完整词本身当例词的收录政策未定。"
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quinquagenarian",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quinquagenarian descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved."
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quinquennial",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quinquennial descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved."
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quinquevalent",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quinquevalent descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved."
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quintet",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quintet descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved."
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quintuple",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quintuple is historically linked to Latin quintus fifth; the dictionary gives quintuplex for quintuple and says the ending of quintuplet comes from triplet. This corrects the oversimplified quintuplus/-et claims, but does not establish the shorter quin as a historical stem."
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quintuplet",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quintuplet is historically linked to Latin quintus fifth; the dictionary gives quintuplex for quintuple and says the ending of quintuplet comes from triplet. This corrects the oversimplified quintuplus/-et claims, but does not establish the shorter quin as a historical stem."
+    },
+    {
+      "root_id": "r_d3312ca743a34514",
+      "word": "phon",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Phon is an acoustic unit ultimately related to Greek sound; whole-word eligibility remains unresolved."
+    },
+    {
+      "root_id": "r_d3312ca743a34514",
+      "word": "phone",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Phone has clipped telephone and speech-sound senses; both have sound-family connections, but the whole-word edge and sense restrictions remain unsettled."
+    },
+    {
+      "root_id": "r_d3c6c444be8c8d51",
+      "word": "aquaplane",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "aquaplane 是平面装置，历史联系平面义；平面家族历史与 Latin planus flat 相容，但整词 root 发布资格尚未决定。"
+    },
+    {
+      "root_id": "r_dc21d11f32778f92",
+      "word": "graph",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "目标与 graph, -graphy 来源对应；词典称 graph 缩略自 graphic formula，整词自身做例词是否允许待定。"
+    },
+    {
+      "root_id": "r_dc50ac1f7ac812b4",
+      "word": "nonagon",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Nonagon is a hybrid based on Latin nonus ninth and the ending of pentagon. The explicit related-only target is exact, but the source groups non and nona and does not establish whether nona is an acceptable alias for nonus; do not call the word linguistically unrelated."
+    },
+    {
+      "root_id": "r_dcdd50d7dae46a06",
+      "word": "drosophila",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Drosophila from Greek loving is linguistically aligned; lowercase scientific genus eligibility remains unresolved, which does not establish linguistic exclusion."
+    },
+    {
+      "root_id": "r_dcdd50d7dae46a06",
+      "word": "gypsophila",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Gypsophila from Greek gypsum and loving is linguistically aligned; scientific genus capitalization and eligibility remain unresolved."
+    },
+    {
+      "root_id": "r_f7876574995b57d8",
+      "word": "phobia",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "American Heritage gives English phobia from the suffix -phobia and distinguishes noun and suffix. Fear lineage and sense match, but whole-English-word self-edge eligibility remains pending."
     }
   ],
-  "roots_sha256": "55840b84e17ec51cb61b6908f93e54939b34e1b5c34b7d562695d2fd3907a8af",
+  "roots_sha256": "b2ab350d114bb7b7e4e7d9f054e729dd96f58bffd793e332f6a0aafcc339465f",
   "sources": {
     "s_d80926857517979fbd99": {
       "project": "morphemes",
@@ -3287,5 +3186,886 @@
       "origin": "",
       "class": ""
     }
-  }
+  },
+  "root_quality_holds": [
+    {
+      "original": {
+        "id": "r_25aa2024faf4705d",
+        "root": "lit",
+        "source_form": "lit",
+        "meaning": "letter, reading",
+        "class": "root",
+        "origin": "Latin",
+        "example": [],
+        "family_id": "g_261203def0f951e6",
+        "related_root_ids": [
+          "r_efe991c6b9d1f7c4"
+        ],
+        "source_entry": "lit, litera",
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_25aa2024faf4705d",
+      "root": "lit",
+      "meaning": "letter, reading",
+      "reason": "Latin litera/littera and stems liter/litter are attested; bare lit as a distinct letter stem is not independently established. Its occurrence at the beginning of a longer stem is insufficient.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/literate",
+        "https://www.etymonline.com/word/alliteration"
+      ]
+    },
+    {
+      "original": {
+        "id": "r_3ca5bbbce79e82d1",
+        "root": "noun",
+        "source_form": "noun",
+        "meaning": "declare",
+        "class": "root",
+        "origin": "Latin",
+        "example": [],
+        "family_id": "g_6074a8102510a746",
+        "related_root_ids": [
+          "r_1e1de0a3eb90e114",
+          "r_8fbe52de083cc26d",
+          "r_98e8a338873c7e4c"
+        ],
+        "source_entry": "noun, nunc",
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_3ca5bbbce79e82d1",
+      "root": "noun",
+      "meaning": "declare",
+      "reason": "In pronounce and announce the supported historical base is Latin nuntiare and French -nonc-; bare noun is not documented here as an independent declare-form. English noun and pronoun derive from Latin nomen name, a different sense and family.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/announce",
+        "https://www.etymonline.com/word/pronounce",
+        "https://www.etymonline.com/word/pronoun"
+      ]
+    },
+    {
+      "original": {
+        "id": "r_2d51a8acfebc3563",
+        "root": "opt",
+        "source_form": "opt1",
+        "meaning": "best",
+        "class": "root",
+        "origin": "Latin",
+        "example": [],
+        "family_id": "g_ae6e7b9e0ea45419",
+        "related_root_ids": [],
+        "source_entry": "opt1",
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_2d51a8acfebc3563",
+      "root": "opt",
+      "meaning": "best",
+      "reason": "Optimal/optimum are from Latin optimus best, whose historical decomposition has competing analyses; an independent opt stem meaning best is not established by these sources. Existing optim best is better supported.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/optimum",
+        "https://www.etymonline.com/word/optimal",
+        "https://www.etymonline.com/word/opt"
+      ]
+    },
+    {
+      "original": {
+        "id": "r_3f7f70d231ce61fa",
+        "root": "scen",
+        "source_form": "scen",
+        "meaning": "climb",
+        "class": "root",
+        "origin": "Latin",
+        "example": [],
+        "family_id": "g_0773264b3244883c",
+        "related_root_ids": [
+          "r_106b4c05acc2af08"
+        ],
+        "source_entry": "scen, scend",
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_3f7f70d231ce61fa",
+      "root": "scen",
+      "meaning": "climb",
+      "withdrawn_examples": [
+        "ascend",
+        "ascent",
+        "descend",
+        "descendent",
+        "descent",
+        "transcend",
+        "transcendent"
+      ],
+      "reason": "Wordsmyth lists scen as a teaching lookup alongside scend, but historical dictionaries document scend/scens rather than an independently attested scen morpheme. Hold this truncated lookup under the independent word-formation policy; retain the separate Greek scen booth entry.",
+      "evidence_urls": [
+        "https://www.wordsmyth.net/?am=page&mode=wpar&offset=3&page=26",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Ascensus",
+        "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3873/"
+      ]
+    },
+    {
+      "original": {
+        "id": "r_db02655e84f293cd",
+        "root": "surr",
+        "source_form": "surr",
+        "meaning": "rise",
+        "class": "root",
+        "origin": "Latin",
+        "example": [],
+        "family_id": "g_0c0dbdc8cf059e8a",
+        "related_root_ids": [
+          "r_22afb38fe53b9943",
+          "r_e04c5c03380bc087"
+        ],
+        "source_entry": "surg, surr",
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_db02655e84f293cd",
+      "root": "surr",
+      "meaning": "rise",
+      "withdrawn_examples": [
+        "insurrection",
+        "resurrect"
+      ],
+      "reason": "The sequence surr crosses the Latin assimilated prefix sub- and the following regere-derived stem; it is not established as an independent root. The complete documented historical stem surrect is retained.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/surge",
+        "https://www.etymonline.com/word/insurrection",
+        "https://www.etymonline.com/word/resurrection"
+      ]
+    }
+  ],
+  "source_specific_quality_holds": [
+    {
+      "relation_id": "e_99e279f8dbd3b26df3e6",
+      "frozen_root_id": "r_15152e5a69166f0958db",
+      "root": "cure",
+      "word": "manicure",
+      "reason": "Independent quality review held the root form: The words have a real care element, but cure is also a complete English word; the source classifies cure- as an initial form while the two cited French compounds have final -cure. The checked dictionary etymologies identify Latin cura, not an independently established initial cure- combining form. Do not infer positional identity or productive root status solely from spelling. A final historical compound element is plausible, but the class and source_form require editorial review.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=manicure",
+        "https://ahdictionary.com/word/search.html?q=pedicure"
+      ]
+    },
+    {
+      "relation_id": "e_b07e2d7da22b46e2faac",
+      "frozen_root_id": "r_15152e5a69166f0958db",
+      "root": "cure",
+      "word": "pedicure",
+      "reason": "Independent quality review held the root form: The words have a real care element, but cure is also a complete English word; the source classifies cure- as an initial form while the two cited French compounds have final -cure. The checked dictionary etymologies identify Latin cura, not an independently established initial cure- combining form. Do not infer positional identity or productive root status solely from spelling. A final historical compound element is plausible, but the class and source_form require editorial review.",
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=manicure",
+        "https://ahdictionary.com/word/search.html?q=pedicure"
+      ]
+    },
+    {
+      "relation_id": "e_7a529cdac57f6ba1c7fb",
+      "frozen_root_id": "r_7afa604cccaa08c252d5",
+      "root": "clast",
+      "word": "iconoclast",
+      "reason": "Independent quality review held the root form: Greek klastos “broken” and klastēs “breaker” derive from the same verb but are distinct formations; the source form clast- suggests initial position, while iconoclast uses a final agent element. Hold sense and positional classification for editorial review; a shared ancestor is real.",
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=iconoclast",
+        "https://www.merriam-webster.com/dictionary/clastic"
+      ]
+    },
+    {
+      "relation_id": "e_134a6926eb6892122e93",
+      "frozen_root_id": "r_56ccc4dcfc96534b06fc",
+      "root": "please",
+      "word": "displease",
+      "reason": "Please is a free English verb borrowed through French from Latin placere; -please should not be presented as a suffix. Source group is plac-, plea-; the specific source_form -please is not the original notation. Meanings in the source belong to the broad group; scope of calm and soothe for modern please is not established.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/displease",
+        "https://www.etymonline.com/word/please",
+        "https://www.etymonline.com/word/displeasure"
+      ]
+    },
+    {
+      "relation_id": "e_7199d0f1c812ef9d4183",
+      "frozen_root_id": "r_9a370ebd95136e8b2036",
+      "root": "mob",
+      "word": "mob",
+      "reason": "English mob is a clipping of English mobile / mobility in the crowd sense, from Latin mobile vulgus fickle common people; ultimately mobilis from movere. It is an English lexical clipping, not a free Latin root meaning move. Its sole candidate source gloss is crowd. The current English base mob is an independent crowd noun produced by clipping; historical ancestry through mobilis does not itself prove mob- is the Latin movement stem.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mob",
+        "https://blog.oup.com/2007/08/mob/"
+      ]
+    },
+    {
+      "relation_id": "e_3ddc1c9365aa9eaa5272",
+      "frozen_root_id": "r_9a370ebd95136e8b2036",
+      "root": "mob",
+      "word": "mobbish",
+      "reason": "Merriam-Webster derives mob + -ish; English mob is a clipped crowd noun historically from mobile vulgus. The sole candidate source gloss is crowd, and the modern derivational base is the English noun rather than a Latin move root. The current English base mob is an independent crowd noun produced by clipping; historical ancestry through mobilis does not itself prove mob- is the Latin movement stem.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mobbish",
+        "https://www.etymonline.com/word/mob"
+      ]
+    },
+    {
+      "relation_id": "e_a038a3bbef7ea58c3e4f",
+      "frozen_root_id": "r_9a370ebd95136e8b2036",
+      "root": "mob",
+      "word": "mobocracy",
+      "reason": "Etymonline gives mob + -cracy; English mob is a clipped crowd noun historically from mobile vulgus. The only source gloss is crowd, and the contemporary component is the English noun. The current English base mob is an independent crowd noun produced by clipping; historical ancestry through mobilis does not itself prove mob- is the Latin movement stem.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/mobocracy",
+        "https://www.etymonline.com/word/mob"
+      ]
+    },
+    {
+      "relation_id": "e_3abe634bc556dad4589c",
+      "frozen_root_id": "r_7160f8688035138fcbc9",
+      "root": "pos",
+      "word": "pose",
+      "reason": "quarantine unqualified relation; exclude posture/present sense, investigate puzzle sense; English pose¹ < Old French poser < Latin pausare (rest); French placement sense shows influence from ponere but this is not descent from positus. American Heritage traces both shortened appose (alteration of oppose) and French poser; Etymonline says probably French poser with English appose/oppose in some cases. Analyze this mixed chain before accepting the Latin put relation.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.etymonline.com/word/poser",
+        "https://www.etymonline.com/word/poseur",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ]
+    },
+    {
+      "relation_id": "e_19daa143c95d65575ac8",
+      "frozen_root_id": "r_7160f8688035138fcbc9",
+      "root": "pos",
+      "word": "poser",
+      "reason": "quarantine unqualified relation; exclude affected-person sense, investigate puzzle sense; Agent noun of pose¹; its base derives via French poser from pausare, not Latin positus. Etymonline gives pose² or apposer as source, with pose² itself involving competing French poser and appose/oppose histories. Do not infer direct Latin positus descent.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.etymonline.com/word/poser",
+        "https://www.etymonline.com/word/poseur",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ]
+    },
+    {
+      "relation_id": "e_3723b89bf8860c2a5c0d",
+      "frozen_root_id": "r_7160f8688035138fcbc9",
+      "root": "pos",
+      "word": "poseur",
+      "reason": "remove existing relation after quality review; preserve source provenance; Borrowed French poseur from poser, itself ultimately from Latin pausare; no evidenced inherited positus morpheme.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.etymonline.com/word/poser",
+        "https://www.etymonline.com/word/poseur",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ]
+    },
+    {
+      "relation_id": "e_7be43f59314233004c41",
+      "frozen_root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "-pose",
+      "word": "pose",
+      "reason": "quarantine unqualified relation; exclude posture/present sense, investigate puzzle sense; English pose¹ < Old French poser < Latin pausare (rest); French placement sense shows influence from ponere but this is not descent from positus. American Heritage traces both shortened appose (alteration of oppose) and French poser; Etymonline says probably French poser with English appose/oppose in some cases. Analyze this mixed chain before accepting the Latin put relation.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.etymonline.com/word/poser",
+        "https://www.etymonline.com/word/poseur",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ]
+    },
+    {
+      "relation_id": "e_d06f216d815223e9df12",
+      "frozen_root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "-pose",
+      "word": "poser",
+      "reason": "quarantine unqualified relation; exclude affected-person sense, investigate puzzle sense; Agent noun of pose¹; its base derives via French poser from pausare, not Latin positus. Etymonline gives pose² or apposer as source, with pose² itself involving competing French poser and appose/oppose histories. Do not infer direct Latin positus descent.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.etymonline.com/word/poser",
+        "https://www.etymonline.com/word/poseur",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ]
+    },
+    {
+      "relation_id": "e_1ca8d9d94a13364d08cd",
+      "frozen_root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "-pose",
+      "word": "poseur",
+      "reason": "remove existing relation after quality review; preserve source provenance; Borrowed French poseur from poser, itself ultimately from Latin pausare; no evidenced inherited positus morpheme.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.etymonline.com/word/poser",
+        "https://www.etymonline.com/word/poseur",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ]
+    },
+    {
+      "relation_id": "e_80b17853980664fcb5a4",
+      "frozen_root_id": "r_b217fbe72009b7227a81",
+      "root": "vict",
+      "word": "victim",
+      "reason": "Existing association with conquer lacks established evidence: Latin victima has uncertain deeper origin; hold for independent review.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/victim",
+        "https://www.etymonline.com/word/victim",
+        "https://repository.tilburguniversity.edu/bitstreams/e632062c-9191-4b17-85bd-367e10270816/download"
+      ]
+    },
+    {
+      "relation_id": "e_c7085f64a5fa7cf60453",
+      "frozen_root_id": "r_f6f8057c7a9964f94fdd",
+      "root": "dic",
+      "word": "syndicate",
+      "reason": "Existing association with conquer lacks established evidence: Latin syndicatea has uncertain deeper origin; hold for independent review.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/syndicate",
+        "https://www.merriam-webster.com/dictionary/syndic",
+        "https://www.etymonline.com/word/syndicate",
+        "https://www.merriam-webster.com/dictionary/diction"
+      ]
+    },
+    {
+      "relation_id": "e_03a796082f3374fce0a9",
+      "frozen_root_id": "r_2afe5e26e9c8cbec2eab",
+      "root": "cad",
+      "word": "cadaver",
+      "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/cadaver",
+        "https://www.ahdictionary.com/word/search.html?q=cadaver",
+        "https://www.etymonline.com/word/cadaver",
+        "https://wehd.com/13/Cadaver.html",
+        "https://accademiadellacrusca.it/it/consulenza/qualche-dubbio-sul-cadavere/1726"
+      ]
+    },
+    {
+      "relation_id": "e_fb8c6485dd50949f59ca",
+      "frozen_root_id": "r_2afe5e26e9c8cbec2eab",
+      "root": "cad",
+      "word": "cadaveric",
+      "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/cadaveric",
+        "https://www.ahdictionary.com/word/search.html?q=cadaver",
+        "https://www.etymonline.com/word/cadaver",
+        "https://wehd.com/13/Cadaver.html"
+      ]
+    },
+    {
+      "relation_id": "e_da2811c42c9f04662160",
+      "frozen_root_id": "r_2afe5e26e9c8cbec2eab",
+      "root": "cad",
+      "word": "cadaverous",
+      "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/cadaverous",
+        "https://wehd.com/13/Cadaverous.html",
+        "https://www.etymonline.com/word/cadaver",
+        "https://wehd.com/13/Cadaver.html"
+      ]
+    },
+    {
+      "relation_id": "e_5e57c405251edf12813e",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "appendectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/appendectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_d4f6b0b0877c33bb0f86",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "ectopic",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ectopic",
+        "https://www.dictionary.com/browse/ectopia",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://kstatelibraries.pressbooks.pub/medical-terminology/chapter/chapter-1-introduction-and-first-materials/",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_0c4c771e5957d11efd30",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "hepatectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/hepatectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_f51f1c63eb34e4567976",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "hysterectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/hysterectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_df813a7c299dbdc3b996",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "laryngectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/laryngectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_07f7b6f855bd5a8b3066",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "mastectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/mastectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_4a790b5f5bc661c7d1e0",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "nephrectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/nephrectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_df8aaa4288c60dc086e0",
+      "frozen_root_id": "r_34531594cf2ead01befa",
+      "root": "ecto",
+      "word": "ovariectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ovariectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_f7007d761450ddba79b8",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "appendectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/appendectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_79180e27b80b50bd8b5c",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "ectopic",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ectopia",
+        "https://www.dictionary.com/browse/ectopic",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_0313a36bfebc2aaaa0ef",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "hepatectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/hepatectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_c7a3b3d27d4ec79751b5",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "hysterectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/hysterectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_ae0deded1d96785cd92c",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "laryngectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/laryngectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_27b5103bc706623e73c8",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "mastectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/mastectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_dc29386822dd9e727c6d",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "nephrectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/nephrectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_bb40b15713febb14b5f8",
+      "frozen_root_id": "r_2fdc47fcb84133270819",
+      "root": "ect",
+      "word": "ovariectomy",
+      "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
+      "evidence_urls": [
+        "https://www.dictionary.com/browse/ovariectomy",
+        "https://www.dictionary.com/browse/ectomy",
+        "https://www.collinsdictionary.com/us/dictionary/english/ecto",
+        "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_326a70fe04f171f5072f",
+      "frozen_root_id": "r_192471705e8574f0dbbf",
+      "root": "denti",
+      "word": "dentine",
+      "reason": "Oxford derives dentine from Latin dens, dent- and -ine. The i is part of the suffix, not the combining form denti. Dentin is its North American variant and receives the same analysis. Keep the historical family relation and existing dent edge.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/dentine",
+        "https://www.etymonline.com/word/dentin"
+      ]
+    },
+    {
+      "relation_id": "e_d1529c7716504713f16a",
+      "frozen_root_id": "r_192471705e8574f0dbbf",
+      "root": "denti",
+      "word": "dentist",
+      "reason": "English dentist was borrowed from French dentiste, formed from French dent tooth plus -iste; its i begins the agent suffix. The spelling denti spans the base and suffix, though the word belongs to the dent family.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/dentist",
+        "https://usito.usherbrooke.ca/d%C3%A9finitions/dentiste",
+        "https://www.dictionnaire-academie.fr/article/A9D1408"
+      ]
+    },
+    {
+      "relation_id": "e_3b05b2abc074af3d3606",
+      "frozen_root_id": "r_192471705e8574f0dbbf",
+      "root": "denti",
+      "word": "dentistry",
+      "reason": "Etymonline derives dentistry from dentist plus -ry, and dentist from French dentiste, dent plus -iste. Consequently the i in denti is inherited from the agent suffix, not a tooth combining form.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/dentist",
+        "https://usito.usherbrooke.ca/d%C3%A9finitions/dentiste"
+      ]
+    },
+    {
+      "relation_id": "e_c87db4ce2513b07e214a",
+      "frozen_root_id": "r_010077aec054f061c7f6",
+      "root": "anth",
+      "word": "amaranth",
+      "reason": "Greek amarantos means unfading, from a- plus marainein; the spelling was later influenced by anthos flower. This is folk-etymological influence, not an inherited flower component. Existing target already lists this word: flag for review, do not silently remove.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/amaranth",
+        "https://wehd.com/3/Amaranth.html"
+      ]
+    },
+    {
+      "relation_id": "e_4389c0c96dc4bc8e7207",
+      "frozen_root_id": "r_ab0b179946024f2dedc5",
+      "root": "psycho",
+      "word": "psychosis",
+      "reason": "Independent review found competing dictionary analyses: some describe psycho- plus -osis, while others trace psyche and -osis or the Greek verb. The single written o cannot independently establish both forms without further analysis. Retain prior approvals and references, but hold this psycho direct edge; psych family associations remain.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/psychosis",
+        "https://www.etymonline.com/word/psychosis",
+        "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/766130/all/psychosis"
+      ]
+    },
+    {
+      "relation_id": "e_ea6faf81726778700b2e",
+      "frozen_root_id": "r_ab0b179946024f2dedc5",
+      "root": "psycho",
+      "word": "psychotic",
+      "reason": "Independent review found competing dictionary analyses: some describe psycho- plus -osis, while others trace psyche and -osis or the Greek verb. The single written o cannot independently establish both forms without further analysis. Retain prior approvals and references, but hold this psycho direct edge; psych family associations remain.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/psychosis",
+        "https://www.etymonline.com/word/psychosis",
+        "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/766130/all/psychosis"
+      ]
+    },
+    {
+      "relation_id": "e_e52060002139e368e674",
+      "frozen_root_id": "r_ab0b179946024f2dedc5",
+      "root": "psycho",
+      "word": "psychoticism",
+      "reason": "Independent review found competing dictionary analyses: some describe psycho- plus -osis, while others trace psyche and -osis or the Greek verb. The single written o cannot independently establish both forms without further analysis. Retain prior approvals and references, but hold this psycho direct edge; psych family associations remain.",
+      "evidence_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/psychosis",
+        "https://www.etymonline.com/word/psychosis",
+        "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/766130/all/psychosis"
+      ]
+    },
+    {
+      "relation_id": "e_b92223b54dba4e773d76",
+      "frozen_root_id": "r_f2b04c04ab8d920ba06a",
+      "root": "pter",
+      "word": "chiroptera",
+      "reason": "Taxonomic Chiroptera is capitalized in source and reference; the frozen lowercase candidate does not preserve the attested taxon name. Hold the existing lowercase association pending treatment of scientific names and corrected capitalization; preserve the earlier accepted source review.",
+      "evidence_urls": [
+        "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000159668",
+        "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=179985"
+      ]
+    },
+    {
+      "relation_id": "e_8363416c68dc5a510371",
+      "frozen_root_id": "r_287d9ae3d795bf3ff13f",
+      "root": "ptero",
+      "word": "tetrapterous",
+      "reason": "Collins gives Greek tetrapteros from tetra- plus pteron wing and defines four wings or winglike structures. This is the wing sense, not source fern. The adjacent -pterous suffix is legitimate but this relation concerns the existing pter root. Preserve wave288 acceptance as historical evidence. Current related_only proposal applies stricter boundary: -pterous includes o within the suffix, so the shared substring does not by itself establish ptero- as an independent component.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/tetrapterous",
+        "https://www.collinsdictionary.com/dictionary/english/tetrapterous",
+        "https://www.dictionary.com/browse/tetrapterous",
+        "https://www.merriam-webster.com/dictionary/pter-"
+      ]
+    },
+    {
+      "relation_id": "e_fa772b2124e711515348",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aesthete",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_8fb7e9ef3d7a78b56cc6",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aesthetic",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_811e0875b24030671a05",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aesthetically",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_45571256a0d0bfd3ffdf",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aesthetician",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_99b0fc17ca6ffdbc7630",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aestheticism",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_6b4c627946b83e11cd20",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aestheticist",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_ec91fa61b4315b76bb8d",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aestheticize",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_2e12fd2fcfdcfa3c0b90",
+      "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "root": "esthet",
+      "word": "aesthetics",
+      "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/aesthetics",
+        "https://www.etymonline.com/word/ethic",
+        "https://www.merriam-webster.com/dictionary/ether"
+      ]
+    },
+    {
+      "relation_id": "e_4d8961bae35f7d10de02",
+      "frozen_root_id": "r_316a6a23f59a19452fc7",
+      "root": "fec",
+      "word": "feckless",
+      "reason": "Scots feck comes from effeck, a form of effect; the changed spelling feck is historically related but fec is not an established exact form here.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/feckless"
+      ]
+    },
+    {
+      "relation_id": "e_8217fa27a7cfc7156d05",
+      "frozen_root_id": "r_2ecbd613111342530a35",
+      "root": "fer",
+      "word": "ferry",
+      "reason": "Ferry comes from Old English ferian, Germanic *farjan, PIE *per-; not Latin ferre despite shared letters and meaning. Existing baseline edge needs reconciliation.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/differentiate",
+        "https://www.etymonline.com/word/efferent",
+        "https://www.etymonline.com/word/fertile",
+        "https://www.etymonline.com/word/ferry",
+        "https://www.merriam-webster.com/dictionary/floriferous"
+      ]
+    },
+    {
+      "relation_id": "e_cbf9eb1ddbaf61b538db",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "root": "fact",
+      "word": "counterfactual",
+      "reason": "This Engra source uses the independent English fact in the sense of a truth; counterfactual is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fact"
+      ]
+    },
+    {
+      "relation_id": "e_4e3c9185f918da96d23e",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "root": "fact",
+      "word": "factoid",
+      "reason": "This Engra source uses the independent English fact in the sense of a truth; factoid is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fact"
+      ]
+    },
+    {
+      "relation_id": "e_efef46c1dd8ff2758967",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "root": "fact",
+      "word": "factuality",
+      "reason": "This Engra source uses the independent English fact in the sense of a truth; factuality is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fact"
+      ]
+    },
+    {
+      "relation_id": "e_10a555bf0a42276fcd07",
+      "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "root": "fact",
+      "word": "factually",
+      "reason": "This Engra source uses the independent English fact in the sense of a truth; factually is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fact"
+      ]
+    },
+    {
+      "relation_id": "e_345d26efeffbd8ac25a4",
+      "frozen_root_id": "r_92f75a33d5898073e05d",
+      "root": "flu",
+      "word": "flu",
+      "reason": "English disease word flu is a clipping of influenza, from Italian influenza (astrological influence) and Latin influere flow; related historically but clipping is not a freestanding flow morpheme. Baseline contains flu: flag for integration review.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fluent",
+        "https://www.etymonline.com/word/circumfluent",
+        "https://www.etymonline.com/word/affluent",
+        "https://www.etymonline.com/word/confluence",
+        "https://www.etymonline.com/word/effluent",
+        "https://www.etymonline.com/word/flu",
+        "https://www.etymonline.com/word/influenza",
+        "https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566f9cf20e4c117c7c65281b/1450155250361/1900_Jackson_A%2BGlossary%2Bof%2BBotanic%2BTerms.pdf"
+      ]
+    },
+    {
+      "relation_id": "e_130083339938e98a259a",
+      "frozen_root_id": "r_970633fe52e5134a8c9e",
+      "root": "pent",
+      "word": "pentateuch",
+      "reason": "The accepted frozen lowercase spelling names the biblical Pentateuch. Merriam-Webster and Collins use capitalized Pentateuch; the existing lowercase baseline edge is retained but held, and the corrected proper-name eligibility remains undecided. Earlier source-scope acceptance is superseded by this quality hold.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/Pentateuch",
+        "https://www.collinsdictionary.com/dictionary/english/pentateuch"
+      ]
+    },
+    {
+      "relation_id": "e_47b5651487f19abcbef8",
+      "frozen_root_id": "r_14a145de224bfce394f8",
+      "root": "penta",
+      "word": "pentateuch",
+      "reason": "The accepted frozen lowercase spelling names the biblical Pentateuch. Merriam-Webster and Collins use capitalized Pentateuch; the existing lowercase baseline edge is retained but held, and the corrected proper-name eligibility remains undecided. Earlier source-scope acceptance is superseded by this quality hold.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/Pentateuch",
+        "https://www.collinsdictionary.com/dictionary/english/pentateuch"
+      ]
+    }
+  ]
 }
