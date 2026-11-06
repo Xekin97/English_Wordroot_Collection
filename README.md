@@ -38,11 +38,13 @@
 
 这些资料用于对照与核实，词形相似或出现在同一资料中并不自动证明词根关系。各来源的许可说明见 [notes/THIRD_PARTY_NOTICES.md](notes/THIRD_PARTY_NOTICES.md)。
 
-数据文件：[JSON](roots.json) · [CSV](roots.csv)。CSV 已从当前 JSON 生成并核对，提供 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example` 八个常用字段；例词以 ` | ` 分隔。同族关联和待处理计数请使用 JSON。
+数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根和 ID 排序，分别以 `roots-001` 至 `roots-005` 编号；每个文件最多 1,000 条，最后一份有 314 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
+
+JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example` 八个常用字段；例词以 ` | ` 分隔。同族关联和待处理计数请使用 JSON。文件路径已由原来的 `roots.json`、`roots.csv` 改为分片目录，使用旧路径的程序需要更新。
 
 ## JSON 字段说明
 
-`roots.json` 的顶层是数组，每个对象代表一个独立的词根写法。
+每个 JSON 分片的顶层都是数组，每个对象代表一个独立的词根写法。
 
 | 字段 | 类型 | 说明 |
 | --- | --- | --- |
@@ -62,7 +64,7 @@
 
 ## 审核状态与已知限制
 
-- [词根与例词审核状态](notes/edge-audit.json)与 `roots.json` 的 SHA-256 绑定，以词根 `id` 和例词为键。`supported_scoped` 表示指定词义或来源范围有依据；`historical_accept_scoped` 表示找到该范围的历史接受记录，不能视为对所有义项的保证；未列出或标记 `untraced` 表示尚未找到对应的逐条审核记录，并不等于错误。`related_pending_candidate` 表示有待核的相关来源候选，不自动代表当前关系有误。若同一条记录含 `later_resolution`，以后者说明为准。
+- [词根与例词审核状态索引](notes/edge-audit.json)按词根 `id` 和例词记录审核状态，审核关系及来源分别拆分到 `notes/json/`。索引中的 `roots_sha256` 绑定按编号拼接后的完整数据快照。`supported_scoped` 表示指定词义或来源范围有依据；`historical_accept_scoped` 表示找到该范围的历史接受记录，不能视为对所有义项的保证；未列出或标记 `untraced` 表示尚未找到对应的逐条审核记录，并不等于错误。`related_pending_candidate` 表示有待核的相关来源候选，不自动代表当前关系有误。若同一条记录含 `later_resolution`，以后者说明为准。
 - [待确认关系](notes/held-relations.json)记录了 **163 条目前从主表暂缓的例词关系**，并单独记录来源范围待核和整体暂缓的词根；暂缓不等于判定关系错误。其中保留原因和参考资料。另有 **2,364 条主表关系**未找到精确对应的逐条审核记录，不宜视为已逐条核实。
 - 本次将旧条目 `lit`、`noun`、`opt`、`scen`（攀登义）和 `surr`（上升义）整体暂缓；原 ID 和原因保存在[待确认关系](notes/held-relations.json)。若已引用这些 ID，请先核对该记录。
 - [修正与义项记录](notes/curation-corrections.json)包含来源错误修正、历史形式和同形词的适用范围、已迁移关系以及防护义 `para` 的重复条目对应。`porter` 的搬运工与守门人义项分别连接不同词根；`airport` 的机场义连接港口义 `port`。`tel` / `tele` 的远与终点已按义项拆分：原 ID 保留其中一个义项，引用旧例词关系时应查看迁移记录。
@@ -77,7 +79,7 @@
 - [ ] 检查现有条目中沿用自来源的例词及英文 `meaning`，修正发现的问题；当前数据尚未全部逐词核实。
 - [ ] 继续处理[待确认关系](notes/held-relations.json)和尚未关联到逐条审核记录的主表关系；不同来源的同形条目需要按词义与来源分别判断。
 - [ ] 仅收录有独立构词依据的词根、前后缀及词基，继续处理没有例词的条目；按产品需要筛选专名、古词和不同词形。
-- [ ] 后续发布时继续以 JSON 为准生成 CSV，并核对两个文件的一致性。
+- [ ] 后续发布时继续以 JSON 为准生成 CSV，按每份最多 1,000 条分片，并核对两种格式的一致性。
 
 当前为整理中的阶段性数据；主 JSON 和 CSV 的例词字段不内嵌审核状态，使用时请同时参考上述状态文件。
 
