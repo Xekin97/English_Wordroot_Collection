@@ -1,0 +1,5664 @@
+[
+  {
+    "id": "r_9e2c37d3fb477eb0",
+    "root": "vast",
+    "source_form": "vast",
+    "meaning": "lay waste",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "devastate",
+      "devastated",
+      "devastating",
+      "devastatingly",
+      "devastation"
+    ],
+    "family_id": "g_b9dd9f2edcb721cb",
+    "related_root_ids": [
+      "r_237ffdf073c53474",
+      "r_a6153ad834d9ea53",
+      "r_e591eb983cb5ee21"
+    ],
+    "source_entry": "vast",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_91bb7c7dc70220c3",
+    "root": "vault",
+    "source_form": "vault",
+    "meaning": "arch; arched roof",
+    "class": "root",
+    "origin": "English from French, ultimately Latin volvere",
+    "source_entry": "vault",
+    "family_id": "g_7e6ff8ae5391deac",
+    "example": [
+      "vaulted"
+    ],
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6483ac0f37e3cc57",
+      "r_6996df0696c34702",
+      "r_91bc202eee97cb4b",
+      "r_b4d5e4e263dceb9a",
+      "r_df31d70f56252f7f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_df31d70f56252f7f",
+    "root": "vault",
+    "source_form": "vault",
+    "meaning": "leap; jump",
+    "class": "root",
+    "origin": "English from French and Italian, ultimately Latin volvere",
+    "source_entry": "vault",
+    "family_id": "g_7e6ff8ae5391deac",
+    "example": [
+      "vaulted",
+      "vaulter"
+    ],
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6483ac0f37e3cc57",
+      "r_6996df0696c34702",
+      "r_91bb7c7dc70220c3",
+      "r_91bc202eee97cb4b",
+      "r_b4d5e4e263dceb9a"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0bed206af2bde05a",
+    "root": "vect",
+    "source_form": "vect",
+    "meaning": "carry; convey",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "invective",
+      "vector"
+    ],
+    "family_id": "g_7ddb29974398203a",
+    "related_root_ids": [
+      "r_7ddb29974398203a"
+    ],
+    "source_entry": "veh-, vect-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0403ebb62246f632",
+    "root": "veg",
+    "source_form": "veg",
+    "meaning": "be lively; grow",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vegetable",
+      "vegetal",
+      "vegetarian",
+      "vegetarianism",
+      "vegetate",
+      "vegetated",
+      "vegetation",
+      "vegetative"
+    ],
+    "family_id": "g_0403ebb62246f632",
+    "related_root_ids": [],
+    "source_entry": "veg",
+    "pending_family_examples": 3
+  },
+  {
+    "id": "r_7ddb29974398203a",
+    "root": "veh",
+    "source_form": "veh",
+    "meaning": "carry; convey",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vehicle"
+    ],
+    "family_id": "g_7ddb29974398203a",
+    "related_root_ids": [
+      "r_0bed206af2bde05a"
+    ],
+    "source_entry": "veh-, vect-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_1994a4a0402e61b0",
+    "root": "veil",
+    "source_form": "veil",
+    "meaning": "a covering; to cover or conceal",
+    "class": "root",
+    "origin": "English, from French and Latin",
+    "source_entry": "veil",
+    "family_id": "g_e4b34f4f4113ede7",
+    "example": [
+      "enveil",
+      "unveil",
+      "unveiled",
+      "unveiling",
+      "veil",
+      "veiled",
+      "veiling"
+    ],
+    "related_root_ids": [
+      "r_1f9d2540597ec822",
+      "r_e4b34f4f4113ede7"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_589a98e256215c28",
+    "root": "vein",
+    "source_form": "vein",
+    "meaning": "blood vessel; a similar streak or channel",
+    "class": "root",
+    "origin": "English, from French and Latin",
+    "source_entry": "vein",
+    "family_id": "g_d3e50bee05718e8e",
+    "example": [
+      "vein",
+      "veined",
+      "veiny"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e4b34f4f4113ede7",
+    "root": "vel",
+    "source_form": "vel",
+    "meaning": "cover, veil",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "revelation",
+      "revelator",
+      "velate"
+    ],
+    "family_id": "g_e4b34f4f4113ede7",
+    "related_root_ids": [
+      "r_1994a4a0402e61b0",
+      "r_1f9d2540597ec822"
+    ],
+    "source_entry": "vel-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1f9d2540597ec822",
+    "root": "vela",
+    "source_form": "vela",
+    "meaning": "cover, veil",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "revelation",
+      "revelator",
+      "velate"
+    ],
+    "family_id": "g_e4b34f4f4113ede7",
+    "related_root_ids": [
+      "r_1994a4a0402e61b0",
+      "r_e4b34f4f4113ede7"
+    ],
+    "source_entry": "vel-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_742ac3c9b28246fa",
+    "root": "veloc",
+    "source_form": "veloc-",
+    "meaning": "quick",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "velocipede",
+      "velocity"
+    ],
+    "family_id": "g_9108ef84d8aad0b0",
+    "related_root_ids": [],
+    "source_entry": "veloc-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fa3f8a7107539faa",
+    "root": "velop",
+    "source_form": "velop",
+    "meaning": "wrap, enclose, cover",
+    "class": "historical_stem",
+    "origin": "Old French; deeper origin uncertain",
+    "source_entry": "velop",
+    "family_id": "g_6b90d7ff0e60353c",
+    "example": [
+      "developing",
+      "development",
+      "developmental",
+      "developmentally",
+      "envelop",
+      "envelope",
+      "enveloping",
+      "envelopment",
+      "overdevelop",
+      "overdeveloped",
+      "redevelop",
+      "redevelopment",
+      "underdevelop",
+      "underdeveloped",
+      "underdevelopment",
+      "undeveloped",
+      "develop",
+      "developable",
+      "developed",
+      "developer"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6071a2461d59522d",
+    "root": "velvet",
+    "source_form": "velvet",
+    "meaning": "velvet fabric",
+    "class": "root",
+    "origin": "English velvet, from Old French velvet",
+    "source_entry": "velvet",
+    "family_id": "g_6ed8fddf6523c2f5",
+    "example": [
+      "velvet",
+      "velveteen",
+      "velvety"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_08b9787882d332b4",
+    "root": "ven",
+    "source_form": "ven",
+    "meaning": "to come",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "advent",
+      "avenue",
+      "circumvent",
+      "circumventer",
+      "contravene",
+      "convene",
+      "convener",
+      "convenience",
+      "convenient",
+      "conveniently",
+      "convent",
+      "convention",
+      "conventional",
+      "conventionalism",
+      "conventionality",
+      "conventionalize",
+      "conventionally",
+      "conventioneer",
+      "covenant",
+      "covenantal",
+      "covenantee",
+      "covenanter",
+      "covenantor",
+      "event",
+      "eventful",
+      "eventual",
+      "inconvenient",
+      "intervene",
+      "intervener",
+      "intervening",
+      "intervenor",
+      "intervention",
+      "interventionism",
+      "interventionist",
+      "invent",
+      "prevent",
+      "preventive",
+      "reconvene",
+      "revenue",
+      "revenuer",
+      "souvenir",
+      "supervene",
+      "unconventional",
+      "unconventionality",
+      "unconventionally",
+      "venue",
+      "circumvention",
+      "contravention",
+      "conventionalized",
+      "inconveniently",
+      "intervenient",
+      "prevention",
+      "supervention",
+      "venture"
+    ],
+    "family_id": "g_0fe6bcef7e4afd46",
+    "related_root_ids": [
+      "r_bfd249cbe6760d6c",
+      "r_c10f4887c07b7a34",
+      "r_f795e573ddf15bbc"
+    ],
+    "source_entry": "veni, vent, ven, -vene",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_62b4c0e330a9d6a8",
+    "root": "vend",
+    "source_form": "vend-",
+    "meaning": "sell",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vend",
+      "vendor"
+    ],
+    "family_id": "g_a978e3aac2a81e6d",
+    "related_root_ids": [],
+    "source_entry": "vend-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_00acbd80a42b220c",
+    "root": "vener",
+    "source_form": "vener-",
+    "meaning": "sexual love, desire; Venus",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "source_entry": "vener",
+    "family_id": "g_77db0c8351c4aba0",
+    "example": [
+      "venereal"
+    ],
+    "related_root_ids": [
+      "r_4a157cab9418f204"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4a157cab9418f204",
+    "root": "vener",
+    "source_form": "vener-",
+    "meaning": "respectful",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "venerable",
+      "veneration"
+    ],
+    "family_id": "g_77db0c8351c4aba0",
+    "related_root_ids": [
+      "r_00acbd80a42b220c"
+    ],
+    "source_entry": "vener-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_323ed4de045b4cb6",
+    "root": "veng",
+    "source_form": "veng-",
+    "meaning": "avenge, take revenge",
+    "class": "historical_stem",
+    "origin": "Old French",
+    "source_entry": "veng",
+    "family_id": "g_4d3fe99beb37d207",
+    "example": [
+      "avenge",
+      "avenger",
+      "avenging",
+      "revenge",
+      "revengeful",
+      "revengefully",
+      "unrevenged"
+    ],
+    "related_root_ids": [
+      "r_964c0fcea062c739"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_964c0fcea062c739",
+    "root": "venge",
+    "source_form": "venge",
+    "meaning": "avenge, take revenge",
+    "class": "root",
+    "origin": "Middle English, from Old French",
+    "source_entry": "venge",
+    "family_id": "g_4d3fe99beb37d207",
+    "example": [
+      "avenger",
+      "revenge",
+      "revengeful",
+      "revengefully"
+    ],
+    "related_root_ids": [
+      "r_323ed4de045b4cb6"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f795e573ddf15bbc",
+    "root": "veni",
+    "source_form": "veni",
+    "meaning": "to come",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convenient",
+      "souvenir"
+    ],
+    "family_id": "g_0fe6bcef7e4afd46",
+    "related_root_ids": [
+      "r_08b9787882d332b4",
+      "r_bfd249cbe6760d6c",
+      "r_c10f4887c07b7a34"
+    ],
+    "source_entry": "veni, vent, ven, -vene",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_35ce63c0e1bf261a",
+    "root": "vent",
+    "source_form": "vent",
+    "meaning": "wind",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "ventilation",
+      "ventilator"
+    ],
+    "family_id": "g_35ce63c0e1bf261a",
+    "related_root_ids": [],
+    "source_entry": "vent-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_bfd249cbe6760d6c",
+    "root": "vent",
+    "source_form": "vent",
+    "meaning": "to come",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "advent",
+      "adventure",
+      "adventurer",
+      "adventuresome",
+      "adventuress",
+      "adventurism",
+      "adventurous",
+      "circumvent",
+      "convent",
+      "convention",
+      "conventional",
+      "event",
+      "eventful",
+      "eventual",
+      "eventuality",
+      "eventually",
+      "eventuate",
+      "intervention",
+      "invent",
+      "invented",
+      "invention",
+      "inventive",
+      "inventively",
+      "inventiveness",
+      "inventor",
+      "misadventure",
+      "prevent",
+      "preventable",
+      "preventative",
+      "preventer",
+      "prevention",
+      "preventive",
+      "reinvent",
+      "reinvention",
+      "uneventful",
+      "uneventfully",
+      "venture",
+      "adventurousness",
+      "unadventurous"
+    ],
+    "family_id": "g_0fe6bcef7e4afd46",
+    "related_root_ids": [
+      "r_08b9787882d332b4",
+      "r_c10f4887c07b7a34",
+      "r_f795e573ddf15bbc"
+    ],
+    "source_entry": "veni, vent, ven, -vene",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_079ecb2f569dd49a",
+    "root": "ventr",
+    "source_form": "ventr",
+    "meaning": "belly",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "ventral"
+    ],
+    "family_id": "g_079ecb2f569dd49a",
+    "related_root_ids": [],
+    "source_entry": "ventr-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e845b002bbb79794",
+    "root": "ventricular",
+    "source_form": "-ventricular",
+    "meaning": "relating to a ventricle",
+    "class": "root",
+    "origin": "English ventricular, from ventricle + -ar",
+    "source_entry": "ventricular",
+    "family_id": "g_3ae174e5de0f4da1",
+    "example": [
+      "atrioventricular",
+      "auriculoventricular",
+      "intraventricular"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_7e7f32039a841cd8",
+    "root": "ver",
+    "source_form": "ver",
+    "meaning": "truth",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "aver",
+      "inveracity",
+      "veracious",
+      "veracity",
+      "verdict",
+      "veridical",
+      "verifiable",
+      "verifier",
+      "verify",
+      "verily",
+      "verisimilar",
+      "verisimilitude",
+      "veritable",
+      "verity",
+      "very"
+    ],
+    "family_id": "g_cf542ada135ee3ed",
+    "related_root_ids": [
+      "r_2883a534f65fb49c",
+      "r_e553c624ac7adc0c"
+    ],
+    "source_entry": "ver",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e553c624ac7adc0c",
+    "root": "verac",
+    "source_form": "verac",
+    "meaning": "truthful; according to truth",
+    "class": "root",
+    "origin": "Latin",
+    "source_entry": "verac",
+    "family_id": "g_cf542ada135ee3ed",
+    "example": [
+      "veracious"
+    ],
+    "related_root_ids": [
+      "r_2883a534f65fb49c",
+      "r_7e7f32039a841cd8"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_52cf2bebffb1284c",
+    "root": "verb",
+    "source_form": "verb",
+    "meaning": "word",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "adverb",
+      "adverbial",
+      "nonverbal",
+      "nonverbally",
+      "proverb",
+      "proverbial",
+      "proverbially",
+      "verb",
+      "verbal",
+      "verbalism",
+      "verbalist",
+      "verbalization",
+      "verbalize",
+      "verbalized",
+      "verbally",
+      "verbatim",
+      "verbiage",
+      "verbose",
+      "verbosity"
+    ],
+    "family_id": "g_6806f86a17f0ae04",
+    "related_root_ids": [],
+    "source_entry": "verb",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2d138d41bcaa2041",
+    "root": "verber",
+    "source_form": "verber",
+    "meaning": "whip, strike",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "reverberation"
+    ],
+    "family_id": "g_2d138d41bcaa2041",
+    "related_root_ids": [],
+    "source_entry": "verber-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fbcadaa7b01ed327",
+    "root": "verd",
+    "source_form": "verd",
+    "meaning": "green",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "verdant",
+      "verdigris",
+      "verdure"
+    ],
+    "family_id": "g_f4f31f245a2771ab",
+    "related_root_ids": [],
+    "source_entry": "verd",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_929090da116cd985",
+    "root": "verg",
+    "source_form": "verg",
+    "meaning": "to turn",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "converge",
+      "convergence",
+      "convergent",
+      "converging",
+      "diverge",
+      "divergence",
+      "divergent",
+      "diverging"
+    ],
+    "family_id": "g_63e53dc9f2105e26",
+    "related_root_ids": [],
+    "source_entry": "verg",
+    "pending_family_examples": 3
+  },
+  {
+    "id": "r_2883a534f65fb49c",
+    "root": "veri",
+    "source_form": "veri-",
+    "meaning": "true",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "verifiable",
+      "verify",
+      "verifying",
+      "verisimilar",
+      "verisimilitude",
+      "verificatory",
+      "verity"
+    ],
+    "family_id": "g_cf542ada135ee3ed",
+    "related_root_ids": [
+      "r_7e7f32039a841cd8",
+      "r_e553c624ac7adc0c"
+    ],
+    "source_entry": "ver",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_382857dde3c9643e",
+    "root": "verm",
+    "source_form": "verm",
+    "meaning": "worm",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vermicelli",
+      "vermicular",
+      "vermiculate",
+      "vermiform",
+      "vermin",
+      "vermicide"
+    ],
+    "family_id": "g_07d611f92ed56767",
+    "related_root_ids": [
+      "r_995b5abb1ce55ff4"
+    ],
+    "source_entry": "verm-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_995b5abb1ce55ff4",
+    "root": "vermi",
+    "source_form": "vermi",
+    "meaning": "worm",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vermicular",
+      "vermiculate",
+      "vermiform"
+    ],
+    "family_id": "g_07d611f92ed56767",
+    "related_root_ids": [
+      "r_382857dde3c9643e"
+    ],
+    "source_entry": "verm-",
+    "pending_family_examples": 3
+  },
+  {
+    "id": "r_dfeddb965a0b082f",
+    "root": "vern",
+    "source_form": "vern",
+    "meaning": "spring",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "vernal"
+    ],
+    "family_id": "g_dfeddb965a0b082f",
+    "related_root_ids": [],
+    "source_entry": "vern-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_589e43645f497332",
+    "root": "verruc",
+    "source_form": "verruc",
+    "meaning": "wart",
+    "class": "root",
+    "origin": "Latin",
+    "source_entry": "verruc",
+    "family_id": "g_e899d8bd059a3771",
+    "example": [
+      "verrucose"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2227333b503c7300",
+    "root": "vers",
+    "source_form": "vers",
+    "meaning": "to turn; to be occupied with",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "adversarial",
+      "adversary",
+      "adversative",
+      "adverse",
+      "adversely",
+      "adverseness",
+      "adversity",
+      "animadversion",
+      "anniversary",
+      "averse",
+      "aversion",
+      "biodiverse",
+      "controversial",
+      "controversy",
+      "conversable",
+      "conversant",
+      "conversation",
+      "conversational",
+      "converse",
+      "conversely",
+      "divers",
+      "diverse",
+      "diversely",
+      "diversification",
+      "diversified",
+      "diversiform",
+      "diversify",
+      "diversion",
+      "diversity",
+      "eversion",
+      "extraversion",
+      "extroversion",
+      "introversion",
+      "inverse",
+      "inversely",
+      "inversion",
+      "irreversibility",
+      "irreversible",
+      "irreversibly",
+      "malversation",
+      "obverse",
+      "perverse",
+      "perversely",
+      "perversion",
+      "perversity",
+      "revers",
+      "reversal",
+      "reverse",
+      "reversed",
+      "reverser",
+      "reversibility",
+      "reversible",
+      "reversing",
+      "reversion",
+      "subversion",
+      "tergiversate",
+      "transversal",
+      "transverse",
+      "traversal",
+      "traverse",
+      "universal",
+      "universalism",
+      "universalist",
+      "universality",
+      "universalize",
+      "universally",
+      "universe",
+      "university",
+      "versatile",
+      "versatility",
+      "verse",
+      "versicle",
+      "versify",
+      "version",
+      "verso",
+      "versus",
+      "conversion",
+      "diversionary",
+      "inversive",
+      "retroversion",
+      "subversive",
+      "subversively",
+      "conversationalist",
+      "conversationally",
+      "universalistic",
+      "universalization",
+      "universalized",
+      "universalizing",
+      "versification",
+      "versifier"
+    ],
+    "family_id": "g_b39f2a791645bb98",
+    "related_root_ids": [
+      "r_406191b94a292de1",
+      "r_89db3780898d872e"
+    ],
+    "source_entry": "vers, vert",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_406191b94a292de1",
+    "root": "verse",
+    "source_form": "verse",
+    "meaning": "turn; line of verse",
+    "class": "root",
+    "origin": "Latin through French and English",
+    "source_entry": "verse",
+    "family_id": "g_b39f2a791645bb98",
+    "example": [
+      "inverse",
+      "perverse",
+      "reverse",
+      "transverse",
+      "universe",
+      "verse"
+    ],
+    "related_root_ids": [
+      "r_2227333b503c7300",
+      "r_89db3780898d872e"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_89db3780898d872e",
+    "root": "vert",
+    "source_form": "vert",
+    "meaning": "to turn; to be occupied with",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "advert",
+      "advertent",
+      "advertise",
+      "advertised",
+      "advertisement",
+      "advertiser",
+      "advertising",
+      "animadvert",
+      "avert",
+      "averted",
+      "controvert",
+      "convert",
+      "converted",
+      "converter",
+      "convertibility",
+      "convertible",
+      "divert",
+      "diverted",
+      "diverting",
+      "evert",
+      "extrovert",
+      "inadvertence",
+      "inadvertent",
+      "intervertebral",
+      "introvert",
+      "invert",
+      "invertebrate",
+      "inverted",
+      "inverter",
+      "inverting",
+      "pervert",
+      "reconvert",
+      "revert",
+      "revertant",
+      "reverted",
+      "revertible",
+      "reverting",
+      "subvert",
+      "subverted",
+      "unconverted",
+      "vertebra",
+      "vertebral",
+      "vertebrate",
+      "vertex",
+      "vertical",
+      "verticil",
+      "vertiginous",
+      "vertigo",
+      "retrovert"
+    ],
+    "family_id": "g_b39f2a791645bb98",
+    "related_root_ids": [
+      "r_2227333b503c7300",
+      "r_406191b94a292de1"
+    ],
+    "source_entry": "vers, vert",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_940e31eaefe6329f",
+    "root": "vesic",
+    "source_form": "vesic",
+    "meaning": "bladder",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "vesical"
+    ],
+    "family_id": "g_940e31eaefe6329f",
+    "related_root_ids": [],
+    "source_entry": "vesic-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_28b21f00495c6eb8",
+    "root": "vesper",
+    "source_form": "vesper",
+    "meaning": "evening; west",
+    "class": "root",
+    "origin": "Latin",
+    "source_entry": "vesper",
+    "family_id": "g_6958d6ccc517c956",
+    "example": [
+      "vesperal"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_44d68adcf8c76b29",
+    "root": "vest",
+    "source_form": "vest",
+    "meaning": "clothe; clothing",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "disinvest",
+      "disinvestment",
+      "divest",
+      "divested",
+      "divestiture",
+      "invest",
+      "invested",
+      "investing",
+      "investitive",
+      "investiture",
+      "investment",
+      "investor",
+      "reinvest",
+      "reinvestment",
+      "transvestite",
+      "travesty",
+      "vest",
+      "vested",
+      "vestiary",
+      "vesting",
+      "vestment",
+      "vestry"
+    ],
+    "family_id": "g_72dd029baa651351",
+    "related_root_ids": [],
+    "source_entry": "vest",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_086dc958a085cf02",
+    "root": "vestibule",
+    "source_form": "vestibule",
+    "meaning": "an entrance hall; an anatomical entrance cavity",
+    "class": "root",
+    "origin": "English vestibule, from Latin vestibulum entrance court; earlier origin uncertain",
+    "source_entry": "vestibule",
+    "family_id": "g_6c579bc2ade3d591",
+    "example": [
+      "vestibular",
+      "vestibule"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_99ce63644531990e",
+    "root": "vestig",
+    "source_form": "vestig",
+    "meaning": "footprint, trace",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "investigable",
+      "investigate",
+      "investigated",
+      "investigating",
+      "investigation",
+      "investigational",
+      "investigative",
+      "investigator",
+      "investigatory",
+      "reinvestigate",
+      "reinvestigation",
+      "uninvestigated",
+      "vestige",
+      "vestigial"
+    ],
+    "family_id": "g_e699610394e0065b",
+    "related_root_ids": [],
+    "source_entry": "vestig",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_92aacfa7733b8a89",
+    "root": "vet",
+    "source_form": "vet",
+    "meaning": "forbid",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "veto"
+    ],
+    "family_id": "g_92aacfa7733b8a89",
+    "related_root_ids": [],
+    "source_entry": "vet-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2f0b72109473f15b",
+    "root": "veter",
+    "source_form": "veter",
+    "meaning": "old",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "inveterate",
+      "veteran"
+    ],
+    "family_id": "g_c565a3b3532309bd",
+    "related_root_ids": [],
+    "source_entry": "veter-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1df26170f20770b6",
+    "root": "vex",
+    "source_form": "vex-",
+    "meaning": "annoy",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vexatious",
+      "vexed",
+      "vexing"
+    ],
+    "family_id": "g_bd6f1b00b6999bb1",
+    "related_root_ids": [],
+    "source_entry": "s_2f019636c91cdaaab72a",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_afda7653a373e7c3",
+    "root": "vi",
+    "source_form": "vi-",
+    "meaning": "road, way",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "source_entry": "vi",
+    "family_id": "g_4d327af41f96c23c",
+    "example": [
+      "deviance",
+      "deviancy",
+      "deviant",
+      "deviate",
+      "deviated",
+      "deviation",
+      "deviationist",
+      "devious",
+      "deviously",
+      "impervious",
+      "obviate",
+      "obvious",
+      "obviously",
+      "obviousness",
+      "previous",
+      "previously",
+      "trivial",
+      "triviality"
+    ],
+    "related_root_ids": [
+      "r_26c0b08ce4f88e77",
+      "r_be9226c26c71d3c8",
+      "r_d8fb3bd2c90ddf6f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d8fb3bd2c90ddf6f",
+    "root": "via",
+    "source_form": "via",
+    "meaning": "way",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "deviation",
+      "trivial",
+      "triviality",
+      "trivialize",
+      "trivially",
+      "via",
+      "viaduct",
+      "viameter",
+      "viatic",
+      "deviate",
+      "nontrivial",
+      "obviate",
+      "trivia",
+      "trivialization"
+    ],
+    "family_id": "g_4d327af41f96c23c",
+    "related_root_ids": [
+      "r_26c0b08ce4f88e77",
+      "r_afda7653a373e7c3",
+      "r_be9226c26c71d3c8"
+    ],
+    "source_entry": "via",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_cf5da685fbe86f0c",
+    "root": "vibr",
+    "source_form": "vibr",
+    "meaning": "set in tremulous motion, move quickly to and fro, quiver, tremble, shake",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vibrance",
+      "vibrancy",
+      "vibrant",
+      "vibrantly",
+      "vibrate",
+      "vibratile",
+      "vibratility",
+      "vibrating",
+      "vibration",
+      "vibrational",
+      "vibrator",
+      "vibratory"
+    ],
+    "family_id": "g_5001c1c796e0c136",
+    "related_root_ids": [],
+    "source_entry": "vibr",
+    "pending_family_examples": 7
+  },
+  {
+    "id": "r_18b7491ad143a1f2",
+    "root": "vic",
+    "source_form": "vic-",
+    "meaning": "fault, defect, moral vice",
+    "class": "historical_stem",
+    "origin": "Medieval Latin and Old French",
+    "source_entry": "vic",
+    "family_id": "g_0ac32f0c6c39e37a",
+    "example": [
+      "vice",
+      "vicious",
+      "viciously",
+      "viciousness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6310506a9974fd45",
+    "root": "vic",
+    "source_form": "vic",
+    "meaning": "in place of",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vicar",
+      "vicarious",
+      "viceroy"
+    ],
+    "family_id": "g_866d116d21281a3a",
+    "related_root_ids": [
+      "r_7730a2f99601e337",
+      "r_80c31ec0cfeadfc4"
+    ],
+    "source_entry": "vic",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_80c31ec0cfeadfc4",
+    "root": "vic",
+    "source_form": "vic",
+    "meaning": "change, alternation",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "vicissitude"
+    ],
+    "family_id": "g_866d116d21281a3a",
+    "related_root_ids": [
+      "r_6310506a9974fd45",
+      "r_7730a2f99601e337"
+    ],
+    "source_entry": "vic-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_8447fbb1f78c7575",
+    "root": "vicar",
+    "source_form": "vicar",
+    "meaning": "substitute, deputy; a parish cleric",
+    "class": "root",
+    "origin": "Latin through French",
+    "source_entry": "vicar",
+    "family_id": "g_a87e765519c43b7f",
+    "example": [
+      "vicar",
+      "vicarious"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_7730a2f99601e337",
+    "root": "vice",
+    "source_form": "vice-",
+    "meaning": "deputy, in place of",
+    "class": "prefix",
+    "origin": "Latin via French",
+    "example": [
+      "vice-admiral",
+      "vice-president",
+      "vice-principal"
+    ],
+    "family_id": "g_866d116d21281a3a",
+    "related_root_ids": [
+      "r_6310506a9974fd45",
+      "r_80c31ec0cfeadfc4"
+    ],
+    "source_entry": "vice",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c5d42da05b42216d",
+    "root": "vict",
+    "source_form": "vict",
+    "meaning": "conquer",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convict",
+      "conviction",
+      "evict",
+      "evicted",
+      "eviction",
+      "victor",
+      "victorious",
+      "victoriously",
+      "victory"
+    ],
+    "family_id": "g_0714540064cad504",
+    "related_root_ids": [
+      "r_c518e2cb3880e9ed",
+      "r_ff716f8c65bd0152"
+    ],
+    "source_entry": "vinc, vict, vanq",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_17f99ea03f2246da",
+    "root": "victim",
+    "source_form": "victim",
+    "meaning": "a person harmed or injured",
+    "class": "root",
+    "origin": "English victim, from Latin victima sacrifice; earlier origin uncertain",
+    "source_entry": "victim",
+    "family_id": "g_12467a1808e4df9f",
+    "example": [
+      "victimless",
+      "victimize"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_656fc1e550321019",
+    "root": "vid",
+    "source_form": "vid",
+    "meaning": "see",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "evidence",
+      "evident",
+      "evidential",
+      "evidentiality",
+      "evidentiary",
+      "evidently",
+      "invidious",
+      "provide",
+      "provided",
+      "providence",
+      "provider",
+      "providing",
+      "video",
+      "videocamera",
+      "videocast",
+      "videodisc",
+      "videophone",
+      "videotape",
+      "videotaping",
+      "improvident",
+      "provident",
+      "providential",
+      "videlicet",
+      "videocam"
+    ],
+    "family_id": "g_2c9fd37d7fcf3f0a",
+    "related_root_ids": [
+      "r_913b580b0e6b6568",
+      "r_e39f021dc3815312"
+    ],
+    "source_entry": "vid, vis, -vise",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e121991d7c1b2aed",
+    "root": "view",
+    "source_form": "view",
+    "meaning": "see; look at; inspect; sight or opinion",
+    "class": "root",
+    "origin": "English via French and Latin",
+    "source_entry": "view",
+    "family_id": "g_caba07fa4451e45e",
+    "example": [
+      "interview",
+      "interviewee",
+      "interviewer",
+      "overview",
+      "preview",
+      "purview",
+      "rearview",
+      "review",
+      "reviewable",
+      "reviewer",
+      "reviewing",
+      "view",
+      "viewable",
+      "viewer",
+      "viewing",
+      "viewpoint",
+      "worldview"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a3fb3a1916320cf1",
+    "root": "vig",
+    "source_form": "vig-",
+    "meaning": "awake, watchful, vigilant",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "source_entry": "vig",
+    "family_id": "g_bf67c12646eb565c",
+    "example": [
+      "vigilance",
+      "vigilant",
+      "vigilante",
+      "vigilantism",
+      "vigilantly"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f1c47dcad981f602",
+    "root": "vig",
+    "source_form": "vig",
+    "meaning": "lively, vigor",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "invigorate",
+      "invigorated",
+      "invigorating",
+      "invigoration",
+      "invigorative",
+      "invigorator",
+      "reinvigorate",
+      "reinvigorated",
+      "reinvigoration",
+      "vigor",
+      "vigorous",
+      "vigorously",
+      "vigil"
+    ],
+    "family_id": "g_cb362fd34be32f28",
+    "related_root_ids": [
+      "r_b4d59c9571d2d2f1"
+    ],
+    "source_entry": "vig",
+    "pending_family_examples": 6
+  },
+  {
+    "id": "r_b4d59c9571d2d2f1",
+    "root": "vigil",
+    "source_form": "vigil-",
+    "meaning": "lively, vigor, watchful",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "invigilate",
+      "vigil",
+      "vigilance",
+      "vigilant",
+      "vigilante"
+    ],
+    "family_id": "g_cb362fd34be32f28",
+    "related_root_ids": [
+      "r_f1c47dcad981f602"
+    ],
+    "source_entry": "vigil-",
+    "pending_family_examples": 3
+  },
+  {
+    "id": "r_6099a530ea213601",
+    "root": "vil",
+    "source_form": "vil",
+    "meaning": "base, mean",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "revile",
+      "vile",
+      "vileness",
+      "vilification",
+      "vilified",
+      "vilifier",
+      "vilify"
+    ],
+    "family_id": "g_1e9dab9f5aad58b1",
+    "related_root_ids": [],
+    "source_entry": "vil-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e31cd9d0bda2c6b1",
+    "root": "vill",
+    "source_form": "vill-",
+    "meaning": "shaggy hair",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "intervillous",
+      "villiform",
+      "villose",
+      "villosity",
+      "villous",
+      "villus"
+    ],
+    "family_id": "g_a9bae82692e37b42",
+    "related_root_ids": [],
+    "source_entry": "vill-",
+    "pending_family_examples": 4
+  },
+  {
+    "id": "r_dcbf2515b5b66570",
+    "root": "villa",
+    "source_form": "villa",
+    "meaning": "country house, farm, estate",
+    "class": "root",
+    "origin": "Latin via French and English",
+    "source_entry": "villa",
+    "family_id": "g_82390b74e7eaab15",
+    "example": [
+      "villa",
+      "village",
+      "villager",
+      "villagery",
+      "villain",
+      "villainess",
+      "villainous",
+      "villainously",
+      "villainy",
+      "villatic"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c5613527820fc2ce",
+    "root": "vin",
+    "source_form": "vin",
+    "meaning": "wine",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "grapevine",
+      "vinaceous",
+      "vinaigrette",
+      "vine",
+      "vineal",
+      "vinegar",
+      "vinegary",
+      "vinery",
+      "vineyard",
+      "viniculture",
+      "vinifera",
+      "viniferous",
+      "vinification",
+      "vinosity",
+      "vinous",
+      "vintage",
+      "vintager",
+      "vintner"
+    ],
+    "family_id": "g_38420f53961c1295",
+    "related_root_ids": [
+      "r_4292feebb54f8ed2",
+      "r_fa3f91bf8345e5df"
+    ],
+    "source_entry": "vin, vini, vint",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ff716f8c65bd0152",
+    "root": "vinc",
+    "source_form": "vinc",
+    "meaning": "conquer",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convince",
+      "convinced",
+      "convincing",
+      "convincingly",
+      "evince",
+      "evincible",
+      "invincible",
+      "unconvinced",
+      "unconvincing",
+      "unconvincingly"
+    ],
+    "family_id": "g_0714540064cad504",
+    "related_root_ids": [
+      "r_c518e2cb3880e9ed",
+      "r_c5d42da05b42216d"
+    ],
+    "source_entry": "vinc, vict, vanq",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_4292feebb54f8ed2",
+    "root": "vini",
+    "source_form": "vini",
+    "meaning": "wine",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "viniculture",
+      "vinifera",
+      "vinification"
+    ],
+    "family_id": "g_38420f53961c1295",
+    "related_root_ids": [
+      "r_c5613527820fc2ce",
+      "r_fa3f91bf8345e5df"
+    ],
+    "source_entry": "vin, vini, vint",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fa3f91bf8345e5df",
+    "root": "vint",
+    "source_form": "vint",
+    "meaning": "wine",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vintage",
+      "vintner"
+    ],
+    "family_id": "g_38420f53961c1295",
+    "related_root_ids": [
+      "r_4292feebb54f8ed2",
+      "r_c5613527820fc2ce"
+    ],
+    "source_entry": "vin, vini, vint",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ae0ab223c8d4612b",
+    "root": "viol",
+    "source_form": "viol",
+    "meaning": "use force; violate",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "inviolability",
+      "inviolable",
+      "violable",
+      "violate",
+      "violated",
+      "violating",
+      "violation",
+      "violative",
+      "violator",
+      "nonviolence",
+      "nonviolent",
+      "nonviolently",
+      "violence",
+      "violent",
+      "violently"
+    ],
+    "family_id": "g_ae0ab223c8d4612b",
+    "related_root_ids": [],
+    "source_entry": "viol",
+    "pending_family_examples": 6
+  },
+  {
+    "id": "r_17b1ddc8e430f721",
+    "root": "vir",
+    "source_form": "vir",
+    "meaning": "virus",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "antiviral",
+      "viral",
+      "viricidal",
+      "viricide",
+      "virus"
+    ],
+    "family_id": "g_17b1ddc8e430f721",
+    "related_root_ids": [
+      "r_fd2387b5d6b63a3e"
+    ],
+    "source_entry": "vir",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_73193738c03b81a0",
+    "root": "vir",
+    "source_form": "vir",
+    "meaning": "man",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "triumvirate",
+      "virago",
+      "virile",
+      "virility",
+      "virtual",
+      "virtuoso"
+    ],
+    "family_id": "g_4572e12d9fc5c394",
+    "related_root_ids": [
+      "r_904d3d76b0869d2d"
+    ],
+    "source_entry": "vir",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_285c24d9441970a1",
+    "root": "viral",
+    "source_form": "viral",
+    "meaning": "relating to a virus",
+    "class": "word_base",
+    "origin": "English viral, from virus + -al",
+    "source_entry": "viral",
+    "family_id": "g_04342d9a6cae8bce",
+    "example": [
+      "viral",
+      "virality"
+    ],
+    "related_root_ids": [
+      "r_6a165b8e85e96c1e",
+      "r_6c1c90efbe1e5912"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f1e860f7cabab35f",
+    "root": "virg",
+    "source_form": "virg",
+    "meaning": "rod; twig",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "virga",
+      "virgate",
+      "virgula",
+      "virgularian",
+      "virgulate",
+      "virgule"
+    ],
+    "family_id": "g_f1e860f7cabab35f",
+    "related_root_ids": [],
+    "source_entry": "virg-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_69657cc253cee9d8",
+    "root": "virgin",
+    "source_form": "virgin-",
+    "meaning": "maiden",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "virginal",
+      "virginhood",
+      "virginity",
+      "virgin"
+    ],
+    "family_id": "g_f762c68a5fea933d",
+    "related_root_ids": [],
+    "source_entry": "virgin-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_b4a5f0d821d24356",
+    "root": "viron",
+    "source_form": "viron",
+    "meaning": "circle; circuit",
+    "class": "root",
+    "origin": "Old French",
+    "example": [
+      "environmental",
+      "environs"
+    ],
+    "family_id": "g_b4a5f0d821d24356",
+    "related_root_ids": [],
+    "source_entry": "viron",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_904d3d76b0869d2d",
+    "root": "virt",
+    "source_form": "virt",
+    "meaning": "strength; virtue",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "virtual",
+      "virtuality",
+      "virtually",
+      "virtue",
+      "virtuosic",
+      "virtuosity",
+      "virtuoso",
+      "virtuous",
+      "virtuously"
+    ],
+    "family_id": "g_4572e12d9fc5c394",
+    "related_root_ids": [
+      "r_73193738c03b81a0"
+    ],
+    "source_entry": "virt",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6c1c90efbe1e5912",
+    "root": "viru",
+    "source_form": "viru",
+    "meaning": "poison; virulence",
+    "class": "historical_lookup",
+    "origin": "Latin virus poison, virulentus poisonous",
+    "source_entry": "viru",
+    "family_id": "g_04342d9a6cae8bce",
+    "example": [
+      "virulence",
+      "virulent"
+    ],
+    "related_root_ids": [
+      "r_285c24d9441970a1",
+      "r_6a165b8e85e96c1e"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fd2387b5d6b63a3e",
+    "root": "viru",
+    "source_form": "viru",
+    "meaning": "virus",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "virucidal",
+      "virucide"
+    ],
+    "family_id": "g_17b1ddc8e430f721",
+    "related_root_ids": [
+      "r_17b1ddc8e430f721"
+    ],
+    "source_entry": "vir-",
+    "pending_family_examples": 6
+  },
+  {
+    "id": "r_6a165b8e85e96c1e",
+    "root": "virus",
+    "source_form": "virus",
+    "meaning": "virus; infectious agent",
+    "class": "word_base",
+    "origin": "English virus, from Latin virus poison; modern biological sense",
+    "source_entry": "virus",
+    "family_id": "g_04342d9a6cae8bce",
+    "example": [
+      "virus"
+    ],
+    "related_root_ids": [
+      "r_285c24d9441970a1",
+      "r_6c1c90efbe1e5912"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_913b580b0e6b6568",
+    "root": "vis",
+    "source_form": "vis",
+    "meaning": "see",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "advisability",
+      "advisable",
+      "advise",
+      "advised",
+      "advisedly",
+      "advisee",
+      "advisement",
+      "adviser",
+      "advisor",
+      "advisory",
+      "envisage",
+      "envisagement",
+      "envision",
+      "improvisation",
+      "improvisational",
+      "improvisatory",
+      "improvise",
+      "improvised",
+      "improviser",
+      "inadvisable",
+      "invisibility",
+      "invisible",
+      "invisibly",
+      "nonsupervisory",
+      "nonvisual",
+      "previse",
+      "prevision",
+      "provision",
+      "provisional",
+      "provisionality",
+      "provisionally",
+      "provisioning",
+      "proviso",
+      "provisory",
+      "revisal",
+      "revise",
+      "revised",
+      "revision",
+      "revisionary",
+      "revisionism",
+      "revisionist",
+      "revisit",
+      "supervise",
+      "supervised",
+      "supervising",
+      "supervision",
+      "supervisor",
+      "supervisory",
+      "survise",
+      "televise",
+      "television",
+      "televisual",
+      "unsupervised",
+      "vis-à-vis",
+      "visa",
+      "visage",
+      "visibility",
+      "visible",
+      "visibly",
+      "vision",
+      "visionary",
+      "visit",
+      "visitable",
+      "visitation",
+      "visiting",
+      "visitor",
+      "visor",
+      "vista",
+      "visual",
+      "visualist",
+      "visuality",
+      "visualization",
+      "visualize",
+      "visualized",
+      "visualizer",
+      "visually",
+      "visuals"
+    ],
+    "family_id": "g_2c9fd37d7fcf3f0a",
+    "related_root_ids": [
+      "r_656fc1e550321019",
+      "r_e39f021dc3815312"
+    ],
+    "source_entry": "vid, vis, -vise",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_cab39b357a1bdf8c",
+    "root": "viscer",
+    "source_form": "viscer-",
+    "meaning": "internal organ",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "eviscerate",
+      "visceral"
+    ],
+    "family_id": "g_e1fcd866886b2a7d",
+    "related_root_ids": [],
+    "source_entry": "viscer-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_971d4606366bd5db",
+    "root": "visco",
+    "source_form": "visco-",
+    "meaning": "thick",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "viscoelastic",
+      "viscometer",
+      "viscose",
+      "viscosity"
+    ],
+    "family_id": "g_709c933faa6f0114",
+    "related_root_ids": [],
+    "source_entry": "visc-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_e9bbe7504e788b62",
+    "root": "vit",
+    "source_form": "vit",
+    "meaning": "life, living, live",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "aquavit",
+      "arborvitae",
+      "avitaminosis",
+      "devitalization",
+      "devitalize",
+      "devitaminize",
+      "multivitamin",
+      "revitalization",
+      "revitalize",
+      "vital",
+      "vitalism",
+      "vitality",
+      "vitalization",
+      "vitalize",
+      "vitally",
+      "vitamin",
+      "vitamine",
+      "vitaminology"
+    ],
+    "family_id": "g_7589046f8dd51a9b",
+    "related_root_ids": [
+      "r_160f8fd254b4d23c",
+      "r_26b64c5d830cfa06",
+      "r_3ee6fee3e865d7bd",
+      "r_6f4fc70fdfc84948",
+      "r_f259a2c75b50d871"
+    ],
+    "source_entry": "viv, vivi, vit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3ee6fee3e865d7bd",
+    "root": "vita",
+    "source_form": "vita",
+    "meaning": "life",
+    "class": "root",
+    "origin": "Latin",
+    "source_entry": "vita",
+    "family_id": "g_7589046f8dd51a9b",
+    "example": [
+      "vital",
+      "vitality",
+      "vitamin"
+    ],
+    "related_root_ids": [
+      "r_160f8fd254b4d23c",
+      "r_26b64c5d830cfa06",
+      "r_6f4fc70fdfc84948",
+      "r_e9bbe7504e788b62",
+      "r_f259a2c75b50d871"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f8d23bd7c8899035",
+    "root": "vitell",
+    "source_form": "vitell",
+    "meaning": "yolk",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vitellogenesis"
+    ],
+    "family_id": "g_f8d23bd7c8899035",
+    "related_root_ids": [],
+    "source_entry": "vitell-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a41dfebdf5adcb9a",
+    "root": "viti",
+    "source_form": "viti",
+    "meaning": "fault",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vitiate"
+    ],
+    "family_id": "g_a41dfebdf5adcb9a",
+    "related_root_ids": [],
+    "source_entry": "viti-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_37fbc17d9bca7be0",
+    "root": "vitr",
+    "source_form": "vitr-",
+    "meaning": "glass, glassy",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vitrectomy",
+      "vitreous",
+      "vitrification",
+      "vitriol"
+    ],
+    "family_id": "g_b1438cb537b5db4b",
+    "related_root_ids": [],
+    "source_entry": "vitr-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_26b64c5d830cfa06",
+    "root": "viv",
+    "source_form": "viv",
+    "meaning": "life, living, live",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convivial",
+      "redivivus",
+      "revival",
+      "revivalism",
+      "revivalist",
+      "revive",
+      "revived",
+      "revivify",
+      "reviving",
+      "survivability",
+      "survivable",
+      "survival",
+      "survivalist",
+      "survive",
+      "surviving",
+      "survivor",
+      "viva",
+      "vivace",
+      "vivacious",
+      "vivacity",
+      "vivarium",
+      "vive",
+      "vivid",
+      "vividly",
+      "vividness",
+      "vivify",
+      "vivisection"
+    ],
+    "family_id": "g_7589046f8dd51a9b",
+    "related_root_ids": [
+      "r_160f8fd254b4d23c",
+      "r_3ee6fee3e865d7bd",
+      "r_6f4fc70fdfc84948",
+      "r_e9bbe7504e788b62",
+      "r_f259a2c75b50d871"
+    ],
+    "source_entry": "viv, vivi, vit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_160f8fd254b4d23c",
+    "root": "viva",
+    "source_form": "viva",
+    "meaning": "living, alive",
+    "class": "historical_form",
+    "origin": "Latin",
+    "source_entry": "viva",
+    "family_id": "g_7589046f8dd51a9b",
+    "example": [
+      "vivacious",
+      "vivacity"
+    ],
+    "related_root_ids": [
+      "r_26b64c5d830cfa06",
+      "r_3ee6fee3e865d7bd",
+      "r_6f4fc70fdfc84948",
+      "r_e9bbe7504e788b62",
+      "r_f259a2c75b50d871"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f259a2c75b50d871",
+    "root": "vive",
+    "source_form": "-vive",
+    "meaning": "life, live",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "revive",
+      "survive"
+    ],
+    "family_id": "g_7589046f8dd51a9b",
+    "related_root_ids": [
+      "r_160f8fd254b4d23c",
+      "r_26b64c5d830cfa06",
+      "r_3ee6fee3e865d7bd",
+      "r_6f4fc70fdfc84948",
+      "r_e9bbe7504e788b62"
+    ],
+    "source_entry": "viv, vivi, vit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6f4fc70fdfc84948",
+    "root": "vivi",
+    "source_form": "vivi",
+    "meaning": "life, living, live",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convivial",
+      "vivid",
+      "vivify",
+      "vivisection"
+    ],
+    "family_id": "g_7589046f8dd51a9b",
+    "related_root_ids": [
+      "r_160f8fd254b4d23c",
+      "r_26b64c5d830cfa06",
+      "r_3ee6fee3e865d7bd",
+      "r_e9bbe7504e788b62",
+      "r_f259a2c75b50d871"
+    ],
+    "source_entry": "viv, vivi, vit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e3d72842ecc1c6a0",
+    "root": "voc",
+    "source_form": "voc",
+    "meaning": "voice, to call",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "advocacy",
+      "advocate",
+      "advocator",
+      "advocatory",
+      "avocation",
+      "avocational",
+      "convocation",
+      "equivocal",
+      "equivocality",
+      "equivocate",
+      "equivocation",
+      "evocation",
+      "evocative",
+      "invocation",
+      "irrevocable",
+      "multivocal",
+      "provocation",
+      "provocative",
+      "provocator",
+      "revocable",
+      "revocation",
+      "unequivocal",
+      "vocable",
+      "vocabulary",
+      "vocal",
+      "vocalic",
+      "vocalism",
+      "vocalist",
+      "vocalization",
+      "vocalize",
+      "vocally",
+      "vocation",
+      "vocational",
+      "vocationally",
+      "vocative",
+      "vociferous",
+      "evocatively",
+      "irrevocably",
+      "provocatively",
+      "invocative",
+      "invocator",
+      "prevocational",
+      "provocate",
+      "provocateur"
+    ],
+    "family_id": "g_bb9899678c780be5",
+    "related_root_ids": [
+      "r_0871c62904002c75",
+      "r_a929a52d43d55ba7",
+      "r_e34c2bd6b679c2c5",
+      "r_e4d0d5a83b8ce50e"
+    ],
+    "source_entry": "voc, -voke",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a929a52d43d55ba7",
+    "root": "voca",
+    "source_form": "voca",
+    "meaning": "call, voice",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "advocacy",
+      "advocate",
+      "advocation",
+      "advocator",
+      "advocatory",
+      "avocation",
+      "convocate",
+      "convocation",
+      "convocator",
+      "equivocate",
+      "equivocation",
+      "evocable",
+      "evocation",
+      "evocative",
+      "evocator",
+      "invocable",
+      "invocate",
+      "invocation",
+      "invocative",
+      "invocator",
+      "prevocational",
+      "provocate",
+      "provocateur",
+      "provocation",
+      "provocative",
+      "provocator",
+      "revocable",
+      "revocation",
+      "vocabulary",
+      "vocation",
+      "vocational",
+      "vocative"
+    ],
+    "family_id": "g_bb9899678c780be5",
+    "related_root_ids": [
+      "r_0871c62904002c75",
+      "r_e34c2bd6b679c2c5",
+      "r_e3d72842ecc1c6a0",
+      "r_e4d0d5a83b8ce50e"
+    ],
+    "source_entry": "voc-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_26c0b08ce4f88e77",
+    "root": "voi",
+    "source_form": "voi",
+    "meaning": "road, way",
+    "class": "historical_form",
+    "origin": "Anglo-Norman, from Latin",
+    "source_entry": "voi",
+    "family_id": "g_4d327af41f96c23c",
+    "example": [
+      "invoice"
+    ],
+    "related_root_ids": [
+      "r_afda7653a373e7c3",
+      "r_be9226c26c71d3c8",
+      "r_d8fb3bd2c90ddf6f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e4d0d5a83b8ce50e",
+    "root": "voic",
+    "source_form": "voic",
+    "meaning": "voice, vocal sound",
+    "class": "historical_form",
+    "origin": "Scots / English, from French",
+    "source_entry": "voic",
+    "family_id": "g_bb9899678c780be5",
+    "example": [
+      "unvoiced",
+      "voice",
+      "voiced",
+      "voiceless",
+      "voicemail",
+      "voicing"
+    ],
+    "related_root_ids": [
+      "r_0871c62904002c75",
+      "r_a929a52d43d55ba7",
+      "r_e34c2bd6b679c2c5",
+      "r_e3d72842ecc1c6a0"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_046e416c2a50ddef",
+    "root": "void",
+    "source_form": "void",
+    "meaning": "empty",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "avoid",
+      "avoidable",
+      "avoidance",
+      "avoided",
+      "avoiding",
+      "devoid",
+      "void",
+      "voidable",
+      "voidage",
+      "voidance",
+      "voided",
+      "voiding"
+    ],
+    "family_id": "g_445be54d48a2e629",
+    "related_root_ids": [],
+    "source_entry": "void",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_993fa2c7dbb1b8ac",
+    "root": "vol",
+    "source_form": "vol",
+    "meaning": "wish, intention, will",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "benevolence",
+      "benevolent",
+      "benevolently",
+      "involuntary",
+      "malevolence",
+      "malevolent",
+      "omnibenevolence",
+      "volition",
+      "volitional",
+      "volitive",
+      "voluntarily",
+      "voluntary",
+      "volunteer",
+      "volitient",
+      "voluntaryism"
+    ],
+    "family_id": "g_b9f6da279ec59af9",
+    "related_root_ids": [
+      "r_58be864942481239",
+      "r_e080698508ba6662"
+    ],
+    "source_entry": "vol",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5bba8f445a18d429",
+    "root": "volcan",
+    "source_form": "volcan-",
+    "meaning": "fire",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "volcano"
+    ],
+    "family_id": "g_97720bd2a49bbd48",
+    "related_root_ids": [
+      "r_7ec2fbb7185d4c8a"
+    ],
+    "source_entry": "volcan",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_6483ac0f37e3cc57",
+    "root": "volt",
+    "source_form": "volt",
+    "meaning": "turn, circular movement",
+    "class": "historical_lookup",
+    "origin": "English volt horse turn from French volte, Italian volta",
+    "source_entry": "volt",
+    "family_id": "g_7e6ff8ae5391deac",
+    "example": [
+      "revolt",
+      "revolted",
+      "revolting"
+    ],
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6996df0696c34702",
+      "r_91bb7c7dc70220c3",
+      "r_91bc202eee97cb4b",
+      "r_b4d5e4e263dceb9a",
+      "r_df31d70f56252f7f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_58be864942481239",
+    "root": "volu",
+    "source_form": "volu",
+    "meaning": "to wish; to will",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "source_entry": "volu",
+    "family_id": "g_b9f6da279ec59af9",
+    "example": [
+      "involuntary",
+      "voluntary",
+      "voluntaryism",
+      "volunteer"
+    ],
+    "related_root_ids": [
+      "r_993fa2c7dbb1b8ac",
+      "r_e080698508ba6662"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6996df0696c34702",
+    "root": "volu",
+    "source_form": "volu",
+    "meaning": "roll, turn",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convoluted",
+      "convolution",
+      "counterrevolution",
+      "evolution",
+      "evolutionism",
+      "evolutionist",
+      "involucre",
+      "involute",
+      "microevolution",
+      "revolution",
+      "revolutionary",
+      "revolutionist",
+      "revolutionize",
+      "voluble",
+      "volume",
+      "volumetric",
+      "voluminous",
+      "voluminously",
+      "volute",
+      "coevolution",
+      "coevolutionary",
+      "devolution",
+      "evolutional",
+      "evolutionarily",
+      "evolutionary",
+      "circumvolution",
+      "convolute",
+      "revolutionized"
+    ],
+    "family_id": "g_7e6ff8ae5391deac",
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6483ac0f37e3cc57",
+      "r_91bb7c7dc70220c3",
+      "r_91bc202eee97cb4b",
+      "r_b4d5e4e263dceb9a",
+      "r_df31d70f56252f7f"
+    ],
+    "source_entry": "volv, volu, volut",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e080698508ba6662",
+    "root": "volunt",
+    "source_form": "volunt",
+    "meaning": "will, desire, willingness",
+    "class": "historical_form",
+    "origin": "Latin",
+    "source_entry": "volunt",
+    "family_id": "g_b9f6da279ec59af9",
+    "example": [
+      "involuntarily",
+      "involuntary",
+      "voluntarily",
+      "voluntariness",
+      "voluntarism",
+      "voluntary",
+      "volunteer",
+      "volunteerism"
+    ],
+    "related_root_ids": [
+      "r_58be864942481239",
+      "r_993fa2c7dbb1b8ac"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_91bc202eee97cb4b",
+    "root": "volut",
+    "source_form": "volut",
+    "meaning": "roll, turn",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convoluted",
+      "convolution",
+      "evolution",
+      "involute",
+      "microevolution",
+      "revolution",
+      "volute"
+    ],
+    "family_id": "g_7e6ff8ae5391deac",
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6483ac0f37e3cc57",
+      "r_6996df0696c34702",
+      "r_91bb7c7dc70220c3",
+      "r_b4d5e4e263dceb9a",
+      "r_df31d70f56252f7f"
+    ],
+    "source_entry": "volv, volu, volut",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5585dfe1db7065ff",
+    "root": "volv",
+    "source_form": "volv",
+    "meaning": "roll, turn",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convolve",
+      "convolvulus",
+      "devolve",
+      "evolve",
+      "evolved",
+      "evolving",
+      "involve",
+      "involved",
+      "involvement",
+      "revolve",
+      "revolver",
+      "revolving",
+      "volvulus",
+      "intervolve",
+      "uninvolved",
+      "volva",
+      "volvox"
+    ],
+    "family_id": "g_7e6ff8ae5391deac",
+    "related_root_ids": [
+      "r_6483ac0f37e3cc57",
+      "r_6996df0696c34702",
+      "r_91bb7c7dc70220c3",
+      "r_91bc202eee97cb4b",
+      "r_b4d5e4e263dceb9a",
+      "r_df31d70f56252f7f"
+    ],
+    "source_entry": "volv, volu, volut",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_564727ebf1df2ec1",
+    "root": "vom",
+    "source_form": "vom-",
+    "meaning": "vomit, spew forth, discharge",
+    "class": "historical_stem",
+    "origin": "Latin vomere to vomit or discharge",
+    "source_entry": "vom",
+    "family_id": "g_116f21dc8912c8c6",
+    "example": [
+      "vomit",
+      "vomition",
+      "vomitory",
+      "vomitus"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e5039fa3d616be34",
+    "root": "vor",
+    "source_form": "vor",
+    "meaning": "to eat",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "carnivore",
+      "carnivorous",
+      "granivorous",
+      "herbivore",
+      "herbivorous",
+      "insectivore",
+      "insectivorous",
+      "omnivore",
+      "omnivorous",
+      "piscivorous",
+      "voracious",
+      "voracity",
+      "devoré",
+      "granivore",
+      "locavore",
+      "mellivorous",
+      "nucivorous",
+      "panivorous",
+      "voraginous"
+    ],
+    "family_id": "g_929f1ca4b2be58d7",
+    "related_root_ids": [
+      "r_1342377cc5ec14fc",
+      "r_2b899ada015b14cd",
+      "r_b8e09757ecf6dc95",
+      "r_e9acd64faf3a9ddb"
+    ],
+    "source_entry": "vor",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b8e09757ecf6dc95",
+    "root": "vorac",
+    "source_form": "vorac-",
+    "meaning": "eat, swallow, feeding",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "voracious",
+      "voracity"
+    ],
+    "family_id": "g_929f1ca4b2be58d7",
+    "related_root_ids": [
+      "r_1342377cc5ec14fc",
+      "r_2b899ada015b14cd",
+      "r_e5039fa3d616be34",
+      "r_e9acd64faf3a9ddb"
+    ],
+    "source_entry": "vor",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e9acd64faf3a9ddb",
+    "root": "vore",
+    "source_form": "-vore",
+    "meaning": "one that eats the specified thing",
+    "class": "combining_form",
+    "origin": "Latin via French",
+    "example": [
+      "detritivore",
+      "locavore",
+      "carnivore",
+      "granivore"
+    ],
+    "family_id": "g_929f1ca4b2be58d7",
+    "related_root_ids": [
+      "r_1342377cc5ec14fc",
+      "r_2b899ada015b14cd",
+      "r_b8e09757ecf6dc95",
+      "r_e5039fa3d616be34"
+    ],
+    "source_entry": "vor-, vorac-",
+    "pending_family_examples": 4
+  },
+  {
+    "id": "r_2b899ada015b14cd",
+    "root": "vorous",
+    "source_form": "-vorous",
+    "meaning": "eating, feeding on",
+    "class": "combining_form",
+    "origin": "Latin",
+    "example": [
+      "carnivorous",
+      "herbivorous",
+      "mellivorous",
+      "omnivorous",
+      "piscivorous"
+    ],
+    "family_id": "g_929f1ca4b2be58d7",
+    "related_root_ids": [
+      "r_1342377cc5ec14fc",
+      "r_b8e09757ecf6dc95",
+      "r_e5039fa3d616be34",
+      "r_e9acd64faf3a9ddb"
+    ],
+    "source_entry": "vor-, vorac-",
+    "pending_family_examples": 3
+  },
+  {
+    "id": "r_8565cc1e9ba1d96c",
+    "root": "vot",
+    "source_form": "-vot-",
+    "meaning": "vow, wish",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "devoted",
+      "devotedly",
+      "devotee",
+      "devotional",
+      "outvote",
+      "revote",
+      "votary",
+      "vote",
+      "voting",
+      "votive"
+    ],
+    "family_id": "g_f2625df6242fcd2f",
+    "related_root_ids": [
+      "r_da8fdf972d57c2b0"
+    ],
+    "source_entry": "vov-, vot-",
+    "pending_family_examples": 6
+  },
+  {
+    "id": "r_e34c2bd6b679c2c5",
+    "root": "vouch",
+    "source_form": "vouch",
+    "meaning": "affirm, guarantee; summon as witness",
+    "class": "root",
+    "origin": "English via French and Latin",
+    "source_entry": "vouch",
+    "family_id": "g_bb9899678c780be5",
+    "example": [
+      "vouch",
+      "voucher",
+      "vouchsafe"
+    ],
+    "related_root_ids": [
+      "r_0871c62904002c75",
+      "r_a929a52d43d55ba7",
+      "r_e3d72842ecc1c6a0",
+      "r_e4d0d5a83b8ce50e"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1342377cc5ec14fc",
+    "root": "vour",
+    "source_form": "vour",
+    "meaning": "eat",
+    "class": "root",
+    "origin": "Latin via Old French",
+    "example": [
+      "devour",
+      "devourer",
+      "devouring"
+    ],
+    "family_id": "g_929f1ca4b2be58d7",
+    "related_root_ids": [
+      "r_2b899ada015b14cd",
+      "r_b8e09757ecf6dc95",
+      "r_e5039fa3d616be34",
+      "r_e9acd64faf3a9ddb"
+    ],
+    "source_entry": "vour",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_da8fdf972d57c2b0",
+    "root": "vov",
+    "source_form": "vov",
+    "meaning": "vow, wish",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "devove"
+    ],
+    "family_id": "g_f2625df6242fcd2f",
+    "related_root_ids": [
+      "r_8565cc1e9ba1d96c"
+    ],
+    "source_entry": "vov-, vot-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_be9226c26c71d3c8",
+    "root": "voy",
+    "source_form": "voy",
+    "meaning": "way",
+    "class": "root",
+    "origin": "Latin via Old French",
+    "example": [
+      "convoy",
+      "envoy",
+      "voyage",
+      "voyager",
+      "voyageur"
+    ],
+    "family_id": "g_4d327af41f96c23c",
+    "related_root_ids": [
+      "r_26c0b08ce4f88e77",
+      "r_afda7653a373e7c3",
+      "r_d8fb3bd2c90ddf6f"
+    ],
+    "source_entry": "voy",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_7ec2fbb7185d4c8a",
+    "root": "vulcan",
+    "source_form": "Vulcan",
+    "meaning": "Vulcan, Roman god of fire and metalworking",
+    "class": "proper_name_base",
+    "origin": "Latin Vulcanus, also Volcanus",
+    "source_entry": "vulcan",
+    "family_id": "g_97720bd2a49bbd48",
+    "example": [
+      "vulcanize"
+    ],
+    "related_root_ids": [
+      "r_5bba8f445a18d429"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_486132602c178e64",
+    "root": "vulg",
+    "source_form": "vulg",
+    "meaning": "crowd, common people",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "divulge",
+      "vulgar",
+      "vulgarity",
+      "vulgarization",
+      "vulgarly",
+      "vulgate"
+    ],
+    "family_id": "g_486132602c178e64",
+    "related_root_ids": [
+      "r_6d0bca6bffea5bcf"
+    ],
+    "source_entry": "vulg-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_6d0bca6bffea5bcf",
+    "root": "vulga",
+    "source_form": "vulga",
+    "meaning": "make common, make public",
+    "class": "historical_stem",
+    "origin": "Latin vulgāre from vulgus common people",
+    "source_entry": "vulga",
+    "family_id": "g_486132602c178e64",
+    "example": [
+      "vulgarity",
+      "vulgate"
+    ],
+    "related_root_ids": [
+      "r_486132602c178e64"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4ff6a49fe0834e4c",
+    "root": "vuln",
+    "source_form": "vuln",
+    "meaning": "wound",
+    "class": "word_base",
+    "origin": "English heraldic vuln from Latin vulnerare wound",
+    "source_entry": "vuln",
+    "family_id": "g_927e94e025faf6e6",
+    "example": [
+      "invulnerability",
+      "invulnerable",
+      "vulnerability",
+      "vulnerable"
+    ],
+    "related_root_ids": [
+      "r_927e94e025faf6e6"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_927e94e025faf6e6",
+    "root": "vulner",
+    "source_form": "vulner",
+    "meaning": "wound",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "vulnerable"
+    ],
+    "family_id": "g_927e94e025faf6e6",
+    "related_root_ids": [
+      "r_4ff6a49fe0834e4c"
+    ],
+    "source_entry": "vulner-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_26dc3efde5cbda72",
+    "root": "vuls",
+    "source_form": "vuls",
+    "meaning": "pluck, tear",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "convulse",
+      "convulsion",
+      "revulsion"
+    ],
+    "family_id": "g_cda16a04cd257b9b",
+    "related_root_ids": [],
+    "source_entry": "vuls",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_b9986a84edf77080",
+    "root": "wad",
+    "source_form": "wad",
+    "meaning": "go, wade",
+    "class": "historical_stem",
+    "origin": "Old English",
+    "example": [
+      "waddle",
+      "wade",
+      "wadeable",
+      "wader",
+      "wading"
+    ],
+    "family_id": "g_b9986a84edf77080",
+    "related_root_ids": [],
+    "source_entry": "wad",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_dc6c9a69b8493bc0",
+    "root": "wag",
+    "source_form": "wag",
+    "meaning": "move back and forth",
+    "class": "word_base",
+    "origin": "English wag from Old English wagian; related Germanic movement family",
+    "source_entry": "wag",
+    "family_id": "g_95de0fc016b1fece",
+    "example": [
+      "wag",
+      "wagging",
+      "waggle"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e55e8453a20e3f42",
+    "root": "wait",
+    "source_form": "wait",
+    "meaning": "to remain in expectation; attend or serve",
+    "class": "root",
+    "origin": "English via Old North French waitier",
+    "source_entry": "wait",
+    "family_id": "g_3e29a8307c028880",
+    "example": [
+      "await",
+      "awaited",
+      "awaiting",
+      "waiter",
+      "waiting",
+      "waitress",
+      "waitstaff",
+      "wait"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8731bd81e1ec4864",
+    "root": "wak",
+    "source_form": "wak",
+    "meaning": "awake; watch; become or remain awake",
+    "class": "historical_form",
+    "origin": "Middle English and Scots wak, historical form of wake",
+    "source_entry": "wak",
+    "family_id": "g_5be29d62334047b3",
+    "example": [
+      "awake",
+      "awaken",
+      "awakened",
+      "awakening",
+      "reawaken",
+      "reawakening",
+      "wake",
+      "wakeful",
+      "wakefulness",
+      "waken"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0a272168fb2391d2",
+    "root": "walk",
+    "source_form": "walk",
+    "meaning": "to move on foot",
+    "class": "root",
+    "origin": "English, from Old English wealcan and wealcian",
+    "source_entry": "walk",
+    "family_id": "g_fef9c44c65ccc2f3",
+    "example": [
+      "walkable",
+      "walker",
+      "walking",
+      "walk"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0904c0253ff93894",
+    "root": "wall",
+    "source_form": "wall",
+    "meaning": "an enclosing structure; to enclose with a wall",
+    "class": "root",
+    "origin": "English, from Old English weall, Latin vallum",
+    "source_entry": "wall",
+    "family_id": "g_8f6b023e62d5d091",
+    "example": [
+      "walled",
+      "wall"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_332f6e37782571c2",
+    "root": "want",
+    "source_form": "want",
+    "meaning": "lack; desire, need",
+    "class": "root",
+    "origin": "English, from Old Norse",
+    "source_entry": "want",
+    "family_id": "g_1334e971524023cd",
+    "example": [
+      "unwanted",
+      "want",
+      "wanted",
+      "wanting"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_21ef0f65960c78f1",
+    "root": "war",
+    "source_form": "war",
+    "meaning": "aware, wary, watchful",
+    "class": "historical_form",
+    "origin": "Middle English and Scots",
+    "source_entry": "war",
+    "family_id": "g_84cff8041eca7427",
+    "example": [
+      "aware",
+      "awareness",
+      "unaware",
+      "unawareness",
+      "unawares"
+    ],
+    "related_root_ids": [
+      "r_6934c0fec9e6632a",
+      "r_83a4382ec42c1120"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c707c1dad0d3893e",
+    "root": "war",
+    "source_form": "war",
+    "meaning": "war, armed conflict",
+    "class": "root",
+    "origin": "English via Old French and Germanic",
+    "source_entry": "war",
+    "family_id": "g_95a796e68ccc4527",
+    "example": [
+      "war-ridden",
+      "war-torn",
+      "war-worn",
+      "warlike"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6934c0fec9e6632a",
+    "root": "ward",
+    "source_form": "ward",
+    "meaning": "guard, watch, protect",
+    "class": "root",
+    "origin": "Old English and Germanic",
+    "source_entry": "ward",
+    "family_id": "g_84cff8041eca7427",
+    "example": [
+      "award",
+      "awarding",
+      "reward",
+      "rewarding",
+      "steward",
+      "stewardess",
+      "stewardship",
+      "unrewarded",
+      "unrewarding",
+      "ward",
+      "warden",
+      "warder"
+    ],
+    "related_root_ids": [
+      "r_21ef0f65960c78f1",
+      "r_83a4382ec42c1120"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ba12bfe0b0185d87",
+    "root": "warm",
+    "source_form": "warm",
+    "meaning": "moderately hot; make warm",
+    "class": "word_base",
+    "origin": "Old English wearm",
+    "source_entry": "warm",
+    "family_id": "g_12595275e74ef671",
+    "example": [
+      "heartwarming",
+      "housewarming",
+      "lukewarm",
+      "warm",
+      "warmed",
+      "warmer",
+      "warming",
+      "warmly",
+      "warmth"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_83a4382ec42c1120",
+    "root": "warn",
+    "source_form": "warn",
+    "meaning": "give notice of danger; caution",
+    "class": "root",
+    "origin": "English, from Old English warnian",
+    "source_entry": "warn",
+    "family_id": "g_84cff8041eca7427",
+    "example": [
+      "forewarn",
+      "forewarning",
+      "warning",
+      "warningly",
+      "warn"
+    ],
+    "related_root_ids": [
+      "r_21ef0f65960c78f1",
+      "r_6934c0fec9e6632a"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fe53124dbcf438d6",
+    "root": "warp",
+    "source_form": "warp",
+    "meaning": "bend, twist, distort",
+    "class": "root",
+    "origin": "English, from Old English weorpan to throw",
+    "source_entry": "warp",
+    "family_id": "g_6a90ac91eff2126b",
+    "example": [
+      "warped",
+      "warping",
+      "warp"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_48e786955514b9cf",
+    "root": "wash",
+    "source_form": "wash",
+    "meaning": "cleanse with water or liquid",
+    "class": "root",
+    "origin": "English, from Old English wascan",
+    "source_entry": "wash",
+    "family_id": "g_e14cc5b60f9694e7",
+    "example": [
+      "brainwash",
+      "brainwashed",
+      "brainwashing",
+      "unwashed",
+      "washable",
+      "washed",
+      "washer",
+      "washing",
+      "wash"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a6153ad834d9ea53",
+    "root": "wast",
+    "source_form": "wast",
+    "meaning": "waste, desolation, squander",
+    "class": "historical_form",
+    "origin": "Middle English, Anglo-Norman",
+    "source_entry": "wast",
+    "family_id": "g_b9dd9f2edcb721cb",
+    "example": [
+      "wastage",
+      "waste",
+      "wastebasket",
+      "wasted",
+      "wasteful",
+      "wastefully",
+      "wastefulness",
+      "wasteland",
+      "wastepaper",
+      "waster",
+      "wastewater",
+      "wasting"
+    ],
+    "related_root_ids": [
+      "r_237ffdf073c53474",
+      "r_9e2c37d3fb477eb0",
+      "r_e591eb983cb5ee21"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e591eb983cb5ee21",
+    "root": "waste",
+    "source_form": "waste",
+    "meaning": "waste, squander; refuse; desolate",
+    "class": "root",
+    "origin": "Middle English via French",
+    "source_entry": "waste",
+    "family_id": "g_b9dd9f2edcb721cb",
+    "example": [
+      "waste",
+      "wasted",
+      "wasteful"
+    ],
+    "related_root_ids": [
+      "r_237ffdf073c53474",
+      "r_9e2c37d3fb477eb0",
+      "r_a6153ad834d9ea53"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fe137a0416d292fd",
+    "root": "watch",
+    "source_form": "watch",
+    "meaning": "observe attentively; remain vigilant",
+    "class": "root",
+    "origin": "English, from Old English wæccan",
+    "source_entry": "watch",
+    "family_id": "g_28380e609e4f64df",
+    "example": [
+      "watchfully",
+      "watchfulness",
+      "watching",
+      "unwatchable",
+      "unwatched",
+      "watch",
+      "watchable",
+      "watched",
+      "watcher",
+      "watchful"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e39cee8450060e83",
+    "root": "water",
+    "source_form": "water",
+    "meaning": "water; supply or treat with water",
+    "class": "root",
+    "origin": "English, from Old English wæter",
+    "source_entry": "water",
+    "family_id": "g_e55d2d8219ebb75d",
+    "example": [
+      "water-cooled",
+      "water-insoluble",
+      "water-repellent",
+      "water-resistant",
+      "water-soluble",
+      "water-washed",
+      "waterborne",
+      "watercress",
+      "watered",
+      "waterless",
+      "waterlogged",
+      "waterproof",
+      "waterproofed",
+      "watertight",
+      "waterworn",
+      "watery",
+      "watery-eyed",
+      "dewater",
+      "dewatered",
+      "dewatering",
+      "water",
+      "watering",
+      "waterproofing",
+      "waterproofness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b044dcbfe517b0fe",
+    "root": "wave",
+    "source_form": "wave",
+    "meaning": "an undulating ridge or moving swell",
+    "class": "root",
+    "origin": "English, from Old English wagian via Middle English waw, influenced by verb wave",
+    "source_entry": "wave",
+    "family_id": "g_57c74c520fa99bbe",
+    "example": [
+      "wave",
+      "wavelet"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3ed196775144c297",
+    "root": "waver",
+    "source_form": "waver",
+    "meaning": "to waver, fluctuate, be indecisive",
+    "class": "root",
+    "origin": "Middle English, Germanic",
+    "source_entry": "waver",
+    "family_id": "g_f8bba0d6c6bc9189",
+    "example": [
+      "unwavering",
+      "unwaveringly",
+      "waver"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f98d3ebcacb66816",
+    "root": "wax",
+    "source_form": "wax",
+    "meaning": "wax; material like beeswax; coat with wax",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wax",
+    "family_id": "g_51a695b9a3489bad",
+    "example": [
+      "waxy"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_704a9553cc09f25d",
+    "root": "way",
+    "source_form": "way",
+    "meaning": "way, route, passage; manner",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "way",
+    "family_id": "g_78159a217fdbdc60",
+    "example": [
+      "always",
+      "away",
+      "doorway",
+      "driveway",
+      "fairway",
+      "freeway",
+      "gateway",
+      "getaway",
+      "halfway",
+      "hallway",
+      "highway",
+      "pathway",
+      "railway",
+      "roadway",
+      "runaway",
+      "runway",
+      "sideways",
+      "subway",
+      "underway",
+      "walkway",
+      "waterway",
+      "way",
+      "leastways"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c0daf716b1ed5873",
+    "root": "weak",
+    "source_form": "weak",
+    "meaning": "lacking strength; make or become less strong",
+    "class": "word_base",
+    "origin": "Middle English, from Old Norse veikr",
+    "source_entry": "weak",
+    "family_id": "g_ed30b91c378987e2",
+    "example": [
+      "weak",
+      "weaken",
+      "weakening",
+      "weakly",
+      "weakness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c928176571456b08",
+    "root": "weapon",
+    "source_form": "weapon",
+    "meaning": "instrument used in fighting or defense",
+    "class": "word_base",
+    "origin": "Old English wæpen",
+    "source_entry": "weapon",
+    "family_id": "g_7cdebf5f84d382a9",
+    "example": [
+      "weapon",
+      "weaponization",
+      "weaponize",
+      "weaponized",
+      "weaponless",
+      "weaponry"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_72e22f4ae70e9955",
+    "root": "wear",
+    "source_form": "wear",
+    "meaning": "have clothing on; consume or deteriorate through use",
+    "class": "word_base",
+    "origin": "Old English werian clothe",
+    "source_entry": "wear",
+    "family_id": "g_b372833208d7969d",
+    "example": [
+      "wear",
+      "wearable",
+      "wearer",
+      "wearing"
+    ],
+    "related_root_ids": [
+      "r_4ee0fb5df74803d5"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5444380b6f3816b6",
+    "root": "weary",
+    "source_form": "weary",
+    "meaning": "tired; make tired",
+    "class": "root",
+    "origin": "English, from Old English wērig, wērigian",
+    "source_entry": "weary",
+    "family_id": "g_238bcff3a3d510c4",
+    "example": [
+      "wearying",
+      "wearily",
+      "weariness",
+      "wearisome"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_afffc6797c270bfc",
+    "root": "weather",
+    "source_form": "weather",
+    "meaning": "atmospheric conditions; expose to the elements",
+    "class": "root",
+    "origin": "English, from Old English weder",
+    "source_entry": "weather",
+    "family_id": "g_afa38acdb8c4fe2a",
+    "example": [
+      "weather-beaten",
+      "weather-bound",
+      "weather-stripped",
+      "weathered",
+      "weatherman",
+      "weatherproof",
+      "weatherworn",
+      "weather"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_412c69829990f4a2",
+    "root": "weave",
+    "source_form": "weave",
+    "meaning": "interlace threads; interlace or combine",
+    "class": "root",
+    "origin": "English, from Old English wefan",
+    "source_entry": "weave",
+    "family_id": "g_cd4b316569cda1ad",
+    "example": [
+      "interweave",
+      "interweaving",
+      "weaver",
+      "weaving"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c7a96bf855ffa462",
+    "root": "web",
+    "source_form": "web",
+    "meaning": "woven network; interconnected system; World Wide Web",
+    "class": "root",
+    "origin": "English, from Old English webb",
+    "source_entry": "web",
+    "family_id": "g_f9ee02bdbd3ac43d",
+    "example": [
+      "cobweb",
+      "cobwebbed",
+      "cobwebby",
+      "webcam",
+      "webcast",
+      "weblog",
+      "webmaster",
+      "webpage",
+      "website",
+      "web"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0ffa697beffb94ac",
+    "root": "wed",
+    "source_form": "wed",
+    "meaning": "marry; pledge",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wed",
+    "family_id": "g_a6e8eb5f0a37dfaf",
+    "example": [
+      "unwed",
+      "wed",
+      "wedded",
+      "wedding",
+      "wedlock"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_00760c28b5bb0b0f",
+    "root": "weed",
+    "source_form": "weed",
+    "meaning": "wild or unwanted plant; remove weeds",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "weed",
+    "family_id": "g_db2690b5da93e249",
+    "example": [
+      "seaweed",
+      "weed",
+      "weeding",
+      "weedless",
+      "weedy"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_89165b5e2094e94e",
+    "root": "week",
+    "source_form": "week",
+    "meaning": "a period of seven days",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "week",
+    "family_id": "g_707b046fa6dd34dd",
+    "example": [
+      "biweekly",
+      "midweek",
+      "week",
+      "weekend",
+      "weekender",
+      "weekly",
+      "weeknight"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_af75538b04ef5618",
+    "root": "weep",
+    "source_form": "weep",
+    "meaning": "cry, shed tears; mourn",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "weep",
+    "family_id": "g_c051cb1642c2dab4",
+    "example": [
+      "weep",
+      "weeper",
+      "weeping",
+      "weepy"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b4e99c18cbc174fc",
+    "root": "weigh",
+    "source_form": "weigh",
+    "meaning": "measure or have weight; consider",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "weigh",
+    "family_id": "g_6b9db6540f91f3d7",
+    "example": [
+      "overweight",
+      "unweighted",
+      "weigh",
+      "weighable",
+      "weighbridge",
+      "weigher",
+      "weighing",
+      "weight",
+      "weighted",
+      "weighting",
+      "weightless",
+      "weighty"
+    ],
+    "related_root_ids": [
+      "r_03868bf978ab8f1f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_03868bf978ab8f1f",
+    "root": "weight",
+    "source_form": "weight",
+    "meaning": "heaviness; measure of heaviness; make heavier",
+    "class": "word_base",
+    "origin": "Old English wiht, gewiht",
+    "source_entry": "weight",
+    "family_id": "g_6b9db6540f91f3d7",
+    "example": [
+      "overweight",
+      "underweight"
+    ],
+    "related_root_ids": [
+      "r_b4e99c18cbc174fc"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fb16f10c92de7827",
+    "root": "weird",
+    "source_form": "weird",
+    "meaning": "fate, destiny; uncanny, strange",
+    "class": "word_base",
+    "origin": "Old English wyrd; adjective transmitted through Scots",
+    "source_entry": "weird",
+    "family_id": "g_e936723e4e908f8d",
+    "example": [
+      "weird",
+      "weirdly",
+      "weirdness",
+      "weirdo"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c0246178a324fe01",
+    "root": "well",
+    "source_form": "well",
+    "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "well",
+    "family_id": "g_e82f5a61f9647979",
+    "example": [
+      "well-connected",
+      "well-defined",
+      "well-disposed",
+      "well-done",
+      "well-educated",
+      "well-endowed",
+      "well-favored",
+      "well-favoured",
+      "well-fed",
+      "well-fixed",
+      "well-formed",
+      "well-found",
+      "well-founded",
+      "well-grooved",
+      "well-grounded",
+      "well-heeled",
+      "well-informed",
+      "well-intentioned",
+      "well-kept",
+      "well-knit",
+      "well-lighted",
+      "well-lined",
+      "well-made",
+      "well-mannered",
+      "well-marked",
+      "wellness",
+      "unwell",
+      "well"
+    ],
+    "related_root_ids": [
+      "r_974aa2166e148d21"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_974aa2166e148d21",
+    "root": "well-",
+    "source_form": "well-",
+    "meaning": "well, good, appropriate",
+    "class": "prefix",
+    "origin": "English (from Old English wel)",
+    "source_entry": "well-",
+    "family_id": "g_e82f5a61f9647979",
+    "example": [
+      "well-behaved",
+      "well-meaning",
+      "well-meant",
+      "well-mined",
+      "well-nourished",
+      "well-off",
+      "well-ordered",
+      "well-preserved",
+      "well-proportioned",
+      "well-qualified",
+      "well-read",
+      "well-rounded",
+      "well-set",
+      "well-shaven",
+      "well-situated",
+      "well-spoken",
+      "well-thought-of",
+      "well-to-do",
+      "well-tried",
+      "well-turned",
+      "well-worn",
+      "wellborn",
+      "well-adjusted",
+      "well-advised",
+      "well-appointed",
+      "well-balanced",
+      "well-bound",
+      "well-bred",
+      "well-chosen",
+      "well-conducted"
+    ],
+    "related_root_ids": [
+      "r_c0246178a324fe01"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_133e2260781793b9",
+    "root": "west",
+    "source_form": "west",
+    "meaning": "west; toward or situated in the west",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "west",
+    "family_id": "g_f51c400d42fff5c7",
+    "example": [
+      "midwest",
+      "midwestern",
+      "northwestern",
+      "southwest",
+      "southwestern",
+      "west",
+      "western"
+    ],
+    "related_root_ids": [
+      "r_4ddb33ae881b6c61"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4ddb33ae881b6c61",
+    "root": "west-",
+    "source_form": "west-",
+    "meaning": "west; toward or situated in the west",
+    "class": "prefix",
+    "origin": "English compound-initial form of Old English west",
+    "source_entry": "west-",
+    "family_id": "g_f51c400d42fff5c7",
+    "example": [
+      "westbound",
+      "westerly",
+      "westmost"
+    ],
+    "related_root_ids": [
+      "r_133e2260781793b9"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a847fa57bd48f5d0",
+    "root": "wet",
+    "source_form": "wet",
+    "meaning": "covered or saturated with water; make wet",
+    "class": "word_base",
+    "origin": "Old English wæt",
+    "source_entry": "wet",
+    "family_id": "g_ef64681a83f40db3",
+    "example": [
+      "wet",
+      "wetly",
+      "wetness",
+      "wetted",
+      "wetting"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_87084db91040528a",
+    "root": "wheel",
+    "source_form": "wheel",
+    "meaning": "wheel; move on or as if on wheels",
+    "class": "word_base",
+    "origin": "Old English hweol, hweogol",
+    "source_entry": "wheel",
+    "family_id": "g_c3dc8d09a1cbd887",
+    "example": [
+      "wheel",
+      "wheeled",
+      "wheeling"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_7804eae712e93a8e",
+    "root": "where",
+    "source_form": "where",
+    "meaning": "in or to what place; at or in which situation",
+    "class": "word_base",
+    "origin": "Old English hwær",
+    "source_entry": "where",
+    "family_id": "g_6a1c357fa47a8d19",
+    "example": [
+      "anywhere",
+      "elsewhere",
+      "everywhere",
+      "nowhere",
+      "somewhere",
+      "where",
+      "whereas",
+      "wherever"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6d220fd40763bfc9",
+    "root": "whisper",
+    "source_form": "whisper",
+    "meaning": "speak very softly; a softly spoken utterance",
+    "class": "root",
+    "origin": "English, from Old English hwisprian",
+    "source_entry": "whisper",
+    "family_id": "g_97ce2e9d070ca755",
+    "example": [
+      "whispered",
+      "whisperer",
+      "whispering",
+      "whispery"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_77c0f598649a7802",
+    "root": "whistle",
+    "source_form": "whistle",
+    "meaning": "make a high clear sound by blowing; a device making that sound",
+    "class": "root",
+    "origin": "English, Old English hwistlian and hwistle",
+    "source_entry": "whistle",
+    "family_id": "g_e81db60cfb1a461c",
+    "example": [
+      "whistler",
+      "whistling"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_cad5915176b1a076",
+    "root": "white",
+    "source_form": "white",
+    "meaning": "white in color; make or become white",
+    "class": "root",
+    "origin": "English, Old English hwīt",
+    "source_entry": "white",
+    "family_id": "g_ccd2d0487a94f209",
+    "example": [
+      "white-collar",
+      "white-haired",
+      "white-hot",
+      "white-lipped",
+      "white-livered",
+      "white-pink",
+      "white-tie",
+      "whitely",
+      "whiten",
+      "whitened",
+      "whitener",
+      "whiteness",
+      "whitening",
+      "whitewashed",
+      "white"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_886661a269fd899c",
+    "root": "whol",
+    "source_form": "whol",
+    "meaning": "entire, whole; sound, healthy",
+    "class": "historical_form",
+    "origin": "Middle English",
+    "source_entry": "whol",
+    "family_id": "g_aff0092e00e20ae6",
+    "example": [
+      "wholeness",
+      "wholesome",
+      "wholesomeness"
+    ],
+    "related_root_ids": [
+      "r_794f8f24997d1232"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_794f8f24997d1232",
+    "root": "whole",
+    "source_form": "whole",
+    "meaning": "complete, entire; historically sound or healthy",
+    "class": "root",
+    "origin": "English, Old English hāl",
+    "source_entry": "whole",
+    "family_id": "g_aff0092e00e20ae6",
+    "example": [
+      "unwholesome"
+    ],
+    "related_root_ids": [
+      "r_886661a269fd899c"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c6969caa040cd8de",
+    "root": "wid",
+    "source_form": "wid",
+    "meaning": "wide, broad, extensive",
+    "class": "historical_form",
+    "origin": "Old and Middle English",
+    "source_entry": "wid",
+    "family_id": "g_02779c7080fa2a35",
+    "example": [
+      "wide",
+      "widely",
+      "widen",
+      "widened",
+      "widening"
+    ],
+    "related_root_ids": [
+      "r_66351cde2425edcb",
+      "r_e9f2cae0373578b9"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e9f2cae0373578b9",
+    "root": "wide",
+    "source_form": "wide",
+    "meaning": "wide, broad, extensive",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wide",
+    "family_id": "g_02779c7080fa2a35",
+    "example": [
+      "wide-awake",
+      "wide-cut",
+      "wide-eyed",
+      "wide-open",
+      "wide-ranging",
+      "wideband"
+    ],
+    "related_root_ids": [
+      "r_66351cde2425edcb",
+      "r_c6969caa040cd8de"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_75c47f2ba1684772",
+    "root": "wife",
+    "source_form": "wife",
+    "meaning": "woman; married woman; woman in charge of household",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wife",
+    "family_id": "g_dc10d25c09fcf999",
+    "example": [
+      "alewife",
+      "fishwife",
+      "housewife",
+      "midwife",
+      "wife",
+      "wifely"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_36a50e5bc36bc2b6",
+    "root": "wig",
+    "source_form": "wig",
+    "meaning": "to move or rock from side to side",
+    "class": "historical_stem",
+    "origin": "Middle Low German / Middle Dutch wiggen",
+    "source_entry": "wig",
+    "family_id": "g_aab71294ea44d490",
+    "example": [
+      "wiggle",
+      "wiggler",
+      "wiggling",
+      "wiggly"
+    ],
+    "related_root_ids": [
+      "r_286564ec746e0801"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_286564ec746e0801",
+    "root": "wiggle",
+    "source_form": "wiggle",
+    "meaning": "move with short quick motions from side to side",
+    "class": "word_base",
+    "origin": "Middle English wigelen, possibly from Middle Dutch and Low German",
+    "source_entry": "wiggle",
+    "family_id": "g_aab71294ea44d490",
+    "example": [
+      "wiggle",
+      "wiggler",
+      "wiggling",
+      "wiggly"
+    ],
+    "related_root_ids": [
+      "r_36a50e5bc36bc2b6"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_783fce083ec7b15b",
+    "root": "wil",
+    "source_form": "wil",
+    "meaning": "desire, wish, determination, will",
+    "class": "historical_form",
+    "origin": "Middle English spelling of will",
+    "source_entry": "wil",
+    "family_id": "g_265b45014986b492",
+    "example": [
+      "unwilling",
+      "unwillingly",
+      "unwillingness",
+      "will",
+      "willful",
+      "willfully",
+      "willfulness",
+      "willing",
+      "willingly",
+      "willingness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ca1c21a9762b17a4",
+    "root": "wild",
+    "source_form": "wild",
+    "meaning": "undomesticated; uncultivated; uncontrolled",
+    "class": "word_base",
+    "origin": "Old English wilde",
+    "source_entry": "wild",
+    "family_id": "g_2ba9c5aeeeadeb3e",
+    "example": [
+      "wild",
+      "wildcat",
+      "wildcatter",
+      "wilderness",
+      "wildly",
+      "wildness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6e921dbb81a5496c",
+    "root": "willow",
+    "source_form": "willow",
+    "meaning": "willow tree",
+    "class": "word_base",
+    "origin": "Old English welig",
+    "source_entry": "willow",
+    "family_id": "g_1d9b9d459180105a",
+    "example": [
+      "willow",
+      "willowy"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_dfccaa5b9dfd974e",
+    "root": "win",
+    "source_form": "win",
+    "meaning": "gain, earn, succeed or be victorious",
+    "class": "root",
+    "origin": "English, Old English winnan and gewinnan",
+    "source_entry": "win",
+    "family_id": "g_e7b118ff9cff7c56",
+    "example": [
+      "breadwinner",
+      "unwinnable",
+      "winnable",
+      "winner",
+      "winning",
+      "winningly",
+      "winnings",
+      "win"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_26498894470c8d87",
+    "root": "wind",
+    "source_form": "wind",
+    "meaning": "moving air; breath",
+    "class": "root",
+    "origin": "English, Old English wind, Proto-Germanic *winda-",
+    "source_entry": "wind",
+    "family_id": "g_457b5a956d9bbf8a",
+    "example": [
+      "windblown",
+      "windless",
+      "window",
+      "windowed",
+      "windowless",
+      "windowpane",
+      "windowsill",
+      "windswept",
+      "windward",
+      "windy",
+      "winded"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_909803b25e140192",
+    "root": "wind",
+    "source_form": "wind",
+    "meaning": "turn, twist, coil or move in a curving path",
+    "class": "root",
+    "origin": "English, Old English windan, Proto-Germanic *windan",
+    "source_entry": "wind",
+    "family_id": "g_cc736e81599e4683",
+    "example": [
+      "rewind",
+      "unwind",
+      "unwinding",
+      "winder",
+      "winding",
+      "winded"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a29dd46f35bc092a",
+    "root": "wing",
+    "source_form": "wing",
+    "meaning": "wing, part or appendage used in flight; lateral part",
+    "class": "root",
+    "origin": "Middle English from Old Norse",
+    "source_entry": "wing",
+    "family_id": "g_4e18c05f620f41cd",
+    "example": [
+      "wing",
+      "winged",
+      "winger",
+      "wingspan",
+      "wingtip"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_87b14007b6af6ff8",
+    "root": "wink",
+    "source_form": "wink",
+    "meaning": "close and open the eye; blink",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wink",
+    "family_id": "g_bf47d6af9d5ce47d",
+    "example": [
+      "eyewink",
+      "eyewinker",
+      "wink",
+      "winker",
+      "winking"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_94ce784f43ce2707",
+    "root": "winter",
+    "source_form": "winter",
+    "meaning": "winter, the coldest season",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "winter",
+    "family_id": "g_2633dda3b19fa46c",
+    "example": [
+      "midwinter",
+      "overwinter",
+      "overwintering",
+      "winter",
+      "wintering"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f14c9d7f8f6d26ae",
+    "root": "wire",
+    "source_form": "wire",
+    "meaning": "wire, a drawn metal strand; connect or equip with wire",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wire",
+    "family_id": "g_711306a081f10b4d",
+    "example": [
+      "rewire",
+      "unwired",
+      "wire",
+      "wired",
+      "wireless"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9c5b17453ac47eb2",
+    "root": "wis",
+    "source_form": "wis",
+    "meaning": "wise, prudent; having sound judgment",
+    "class": "historical_form",
+    "origin": "Old and Middle English",
+    "source_entry": "wis",
+    "family_id": "g_a074c53044b1e833",
+    "example": [
+      "unwise",
+      "unwisely",
+      "wisdom",
+      "wise",
+      "wisely"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c4197af5f91933ac",
+    "root": "wish",
+    "source_form": "wish",
+    "meaning": "desire or hope for; a desire or hope",
+    "class": "word_base",
+    "origin": "Old English wyscan",
+    "source_entry": "wish",
+    "family_id": "g_c8c4da0b6f128e0b",
+    "example": [
+      "wish",
+      "wishful",
+      "wishfully",
+      "wishing"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3f5cbe2cb7a4a132",
+    "root": "wit",
+    "source_form": "wit",
+    "meaning": "knowledge, understanding; know or be aware",
+    "class": "word_base",
+    "origin": "Old English wit and witan",
+    "source_entry": "wit",
+    "family_id": "g_fec154f9c6ddc54c",
+    "example": [
+      "eyewitness",
+      "unwitting",
+      "unwittingly",
+      "wit",
+      "witless",
+      "witness",
+      "witnessing",
+      "wittily",
+      "witting",
+      "wittingly",
+      "witty"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_801ba01cb4067cfc",
+    "root": "witch",
+    "source_form": "witch",
+    "meaning": "a practitioner of witchcraft; to bewitch",
+    "class": "root",
+    "origin": "English, from Old English wicce and wicca",
+    "source_entry": "witch",
+    "family_id": "g_054ae7d748eb0c7f",
+    "example": [
+      "witchcraft",
+      "witchery",
+      "witching",
+      "witchman",
+      "witchwoman",
+      "witchy",
+      "bewitch",
+      "bewitched",
+      "bewitchery",
+      "bewitching",
+      "bewitchingly",
+      "bewitchment",
+      "witch"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_43d2e5cd364e0bae",
+    "root": "with-",
+    "source_form": "with-",
+    "meaning": "back, away; against, in opposition",
+    "class": "prefix",
+    "origin": "Old English wiþ-",
+    "source_entry": "with-",
+    "family_id": "g_71a11de2f3281143",
+    "example": [
+      "withdraw",
+      "withhold",
+      "within",
+      "without"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c058add5a70c406e",
+    "root": "woman",
+    "source_form": "woman",
+    "meaning": "adult female person",
+    "class": "root",
+    "origin": "English, from Old English wīfmann",
+    "source_entry": "woman",
+    "family_id": "g_0829e2e7ad252f36",
+    "example": [
+      "saleswoman"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c632cea40a2e3fff",
+    "root": "wonder",
+    "source_form": "wonder",
+    "meaning": "amazement; to be astonished or curious",
+    "class": "root",
+    "origin": "English, Old English wundor and wundrian",
+    "source_entry": "wonder",
+    "family_id": "g_d72cee895fa4663e",
+    "example": [
+      "wonderful",
+      "wonderfully",
+      "wonderfulness",
+      "wondering",
+      "wonderingly",
+      "wonderment",
+      "wonder"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a46a25425d1f44a4",
+    "root": "wood",
+    "source_form": "wood",
+    "meaning": "material of trees; a wooded area",
+    "class": "root",
+    "origin": "English, Old English wudu",
+    "source_entry": "wood",
+    "family_id": "g_77c0ecca025bff61",
+    "example": [
+      "woodcarver",
+      "woodcarving",
+      "woodcut",
+      "woodcutter",
+      "wooded",
+      "wood"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6540e72eb7759e10",
+    "root": "wool",
+    "source_form": "wool",
+    "meaning": "wool, soft hair of sheep and similar animals",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "wool",
+    "family_id": "g_264bf84e98aae4a1",
+    "example": [
+      "wool",
+      "woolen",
+      "woolens",
+      "woolgathering",
+      "woollen",
+      "woolly",
+      "wooly",
+      "wooly-haired",
+      "wooly-minded"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_bb03139b521a4c4b",
+    "root": "word",
+    "source_form": "word",
+    "meaning": "word; speech, expression",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "word",
+    "family_id": "g_33b52d7e1bc4761d",
+    "example": [
+      "word",
+      "word-blind",
+      "word-of-mouth",
+      "word-perfect",
+      "wordless",
+      "wordlessly",
+      "wordy"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f7cb4ccf2990c578",
+    "root": "work",
+    "source_form": "work",
+    "meaning": "perform labor or activity; operate; an effort or product",
+    "class": "root",
+    "origin": "English, Old English weorc / wyrcan",
+    "source_entry": "work",
+    "family_id": "g_597f9dc9c7048b7d",
+    "example": [
+      "workable",
+      "workday",
+      "worked",
+      "worker",
+      "working",
+      "workman",
+      "workmanlike",
+      "works",
+      "workweek",
+      "network",
+      "networker",
+      "networking",
+      "overwork",
+      "overworked",
+      "rework",
+      "reworked",
+      "reworking",
+      "unworkable",
+      "unworked",
+      "work",
+      "workability",
+      "busywork",
+      "classwork",
+      "coursework"
+    ],
+    "related_root_ids": [
+      "r_8931747745eacafe"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9915ab4f3b52c314",
+    "root": "world",
+    "source_form": "world",
+    "meaning": "the world, human life or earthly existence; a realm",
+    "class": "root",
+    "origin": "English, Old English woruld",
+    "source_entry": "world",
+    "family_id": "g_a9257953bda9c55d",
+    "example": [
+      "netherworld",
+      "world-class",
+      "world-shaking",
+      "world-shattering",
+      "world-weary",
+      "world-wide",
+      "worldly",
+      "worldly-minded",
+      "worldly-wise",
+      "worldwide",
+      "world"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4a705cfef277d6f4",
+    "root": "worm",
+    "source_form": "worm",
+    "meaning": "a worm or worm-like invertebrate; to move like a worm",
+    "class": "root",
+    "origin": "English, Old English wyrm",
+    "source_entry": "worm",
+    "family_id": "g_55d1b34f763cf5f1",
+    "example": [
+      "bellyworm",
+      "fireworm",
+      "wormhole",
+      "wormless",
+      "worm"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2826ebd2a6f91a8b",
+    "root": "worry",
+    "source_form": "worry",
+    "meaning": "worry, feel anxiety or cause distress",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "worry",
+    "family_id": "g_ef74cbb85db4d911",
+    "example": [
+      "worry",
+      "worrying",
+      "worryingly"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1a57f6fe44e3f5e0",
+    "root": "worth",
+    "source_form": "worth",
+    "meaning": "worth, value, merit",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "worth",
+    "family_id": "g_f2ac247a75497bc3",
+    "example": [
+      "unworthiness",
+      "unworthy",
+      "worth",
+      "worthiness",
+      "worthless",
+      "worthlessness",
+      "worthwhile",
+      "worthy"
+    ],
+    "related_root_ids": [
+      "r_099c3d23e5cc68d7",
+      "r_c42289c5b82f6879"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c42289c5b82f6879",
+    "root": "worthy",
+    "source_form": "worthy",
+    "meaning": "having worth or merit; deserving",
+    "class": "word_base",
+    "origin": "Middle English worthi from worth",
+    "source_entry": "worthy",
+    "family_id": "g_f2ac247a75497bc3",
+    "example": [
+      "unworthy"
+    ],
+    "related_root_ids": [
+      "r_099c3d23e5cc68d7",
+      "r_1a57f6fe44e3f5e0"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0ab827eba6cdb275",
+    "root": "wound",
+    "source_form": "wound",
+    "meaning": "injury to tissue; injure physically or emotionally",
+    "class": "word_base",
+    "origin": "Old English wund",
+    "source_entry": "wound",
+    "family_id": "g_41df135de2d100e8",
+    "example": [
+      "wound",
+      "wounded",
+      "wounding"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b3c7cfa2fc86eb88",
+    "root": "wrap",
+    "source_form": "wrap",
+    "meaning": "cover or enclose by folding material around",
+    "class": "word_base",
+    "origin": "Middle English wrappen",
+    "source_entry": "wrap",
+    "family_id": "g_53e4c8e6e0d6f4e9",
+    "example": [
+      "unwrap",
+      "unwrapped",
+      "wrap",
+      "wrapped",
+      "wrapper",
+      "wrapping"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_72acf49c5ae751d0",
+    "root": "wreck",
+    "source_form": "wreck",
+    "meaning": "destroy or seriously damage; a wreck or ruined thing",
+    "class": "root",
+    "origin": "English, via Anglo-French from Germanic source",
+    "source_entry": "wreck",
+    "family_id": "g_11805c4367517ab7",
+    "example": [
+      "wrecking",
+      "wrecky",
+      "wreck",
+      "wreckage",
+      "wrecked",
+      "wrecker",
+      "wreckfish",
+      "wreckful"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_33063f4510a6a8af",
+    "root": "wrest",
+    "source_form": "wrest",
+    "meaning": "twist, pull or force away",
+    "class": "root",
+    "origin": "English, Old English wrǣstan",
+    "source_entry": "wrest",
+    "family_id": "g_a2fdf51e8cd1538e",
+    "example": [
+      "wrestle",
+      "wrestler",
+      "wrestling",
+      "wrest"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_220162e637d83671",
+    "root": "writ",
+    "source_form": "writ",
+    "meaning": "scratch, carve, inscribe; write",
+    "class": "historical_stem",
+    "origin": "Germanic reconstructed *writ-, Old English wrītan",
+    "source_entry": "writ",
+    "family_id": "g_e747580714d31019",
+    "example": [
+      "rewritable",
+      "rewrite",
+      "rewriting",
+      "underwrite",
+      "underwriter",
+      "underwriting",
+      "unwritten",
+      "write",
+      "writer",
+      "writerly",
+      "writing",
+      "written"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2bef7b5982c863cb",
+    "root": "wrong",
+    "source_form": "wrong",
+    "meaning": "unjust, incorrect; injure or act unjustly",
+    "class": "root",
+    "origin": "English, from Old Norse rangr / Old English wrang",
+    "source_entry": "wrong",
+    "family_id": "g_c5f15fdb6af638ac",
+    "example": [
+      "wrongdoer",
+      "wrongdoing",
+      "wronged",
+      "wrongful",
+      "wrongfully",
+      "wrongfulness",
+      "wrong"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fbfe902894dc16e7",
+    "root": "xanth",
+    "source_form": "xanth",
+    "meaning": "yellow",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "axanthism",
+      "xanthein",
+      "xanthelasma",
+      "xanthic",
+      "xanthine",
+      "xanthochromia",
+      "xanthochromism",
+      "xanthogenic",
+      "xanthoma",
+      "xanthomatosis",
+      "xanthophore",
+      "xanthophyll",
+      "xanthopsia",
+      "xanthosis",
+      "xanthous"
+    ],
+    "family_id": "g_2bbd375c784f42e6",
+    "related_root_ids": [
+      "r_0e2e0fd03f9e9cb5"
+    ],
+    "source_entry": "xanth, xantho",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0e2e0fd03f9e9cb5",
+    "root": "xantho",
+    "source_form": "xantho",
+    "meaning": "yellow",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xanthochromia",
+      "xanthochromism",
+      "xanthoma",
+      "xanthophore",
+      "xanthophyll",
+      "xanthopterin",
+      "xanthosis",
+      "xanthous"
+    ],
+    "family_id": "g_2bbd375c784f42e6",
+    "related_root_ids": [
+      "r_fbfe902894dc16e7"
+    ],
+    "source_entry": "xanth, xantho",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4ac5d8274ebbc4c2",
+    "root": "xe",
+    "source_form": "xe-",
+    "meaning": "scrape, shave",
+    "class": "historical_form",
+    "origin": "Ancient Greek",
+    "source_entry": "xe",
+    "family_id": "g_38d5d5dc5738ead8",
+    "example": [
+      "arthroxesis"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_182fd48e7eb8e0d6",
+    "root": "xen",
+    "source_form": "xen",
+    "meaning": "foreign",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "axenic",
+      "xenia",
+      "xenic",
+      "xenobiotic",
+      "xenoblast",
+      "xenogamy",
+      "xenograft",
+      "xenolith",
+      "xenon",
+      "xenophobia",
+      "xenology"
+    ],
+    "family_id": "g_17fad4bceb8b90ba",
+    "related_root_ids": [
+      "r_100cd0e8cfa96182"
+    ],
+    "source_entry": "xen, xeno",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_100cd0e8cfa96182",
+    "root": "xeno",
+    "source_form": "xeno",
+    "meaning": "foreign",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xenobiotic",
+      "xenoblast",
+      "xenogamy",
+      "xenograft",
+      "xenolith",
+      "xenology",
+      "xenon",
+      "xenophobia"
+    ],
+    "family_id": "g_17fad4bceb8b90ba",
+    "related_root_ids": [
+      "r_182fd48e7eb8e0d6"
+    ],
+    "source_entry": "xen, xeno",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b62ddcd99d88dd1a",
+    "root": "xer",
+    "source_form": "xer",
+    "meaning": "dry",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "phylloxera",
+      "xerasia",
+      "xeroderma",
+      "xerography",
+      "xeromorph",
+      "xerophagy",
+      "xerophile",
+      "xerophilous",
+      "xerophthalmia",
+      "xerophyte",
+      "xerosis",
+      "xerox",
+      "xerochilia"
+    ],
+    "family_id": "g_8848365a27e7e7cf",
+    "related_root_ids": [
+      "r_30a30ee641c55cb1",
+      "r_4ad8c016c5478444"
+    ],
+    "source_entry": "xer, xero, xeri",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_30a30ee641c55cb1",
+    "root": "xeri",
+    "source_form": "xeri",
+    "meaning": "dry",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xeriscape"
+    ],
+    "family_id": "g_8848365a27e7e7cf",
+    "related_root_ids": [
+      "r_4ad8c016c5478444",
+      "r_b62ddcd99d88dd1a"
+    ],
+    "source_entry": "xer, xero, xeri",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4ad8c016c5478444",
+    "root": "xero",
+    "source_form": "xero",
+    "meaning": "dry",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xerochilia",
+      "xeroderma",
+      "xerography",
+      "xeromorph",
+      "xerophagy",
+      "xerophile",
+      "xerophilous",
+      "xerophthalmia",
+      "xerophyte",
+      "xerox",
+      "xerosis"
+    ],
+    "family_id": "g_8848365a27e7e7cf",
+    "related_root_ids": [
+      "r_30a30ee641c55cb1",
+      "r_b62ddcd99d88dd1a"
+    ],
+    "source_entry": "xer, xero, xeri",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0ebe565fc405d383",
+    "root": "xiph",
+    "source_form": "xiph",
+    "meaning": "sword, sword-shaped",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xiphisternum",
+      "xiphoid",
+      "xiphopagus",
+      "xiphophyllous"
+    ],
+    "family_id": "g_b897953da082ec06",
+    "related_root_ids": [
+      "r_43db7282e95a6249"
+    ],
+    "source_entry": "xiph-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_43db7282e95a6249",
+    "root": "xipho",
+    "source_form": "xipho-",
+    "meaning": "sword, sword-shaped",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xiphoid",
+      "xiphopagus",
+      "xiphophyllous"
+    ],
+    "family_id": "g_b897953da082ec06",
+    "related_root_ids": [
+      "r_0ebe565fc405d383"
+    ],
+    "source_entry": "xiph-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f35f7ae03eb89381",
+    "root": "xyl",
+    "source_form": "xyl-",
+    "meaning": "wood",
+    "class": "root",
+    "origin": "Greek xylon",
+    "source_entry": "xyl",
+    "family_id": "g_71ec96ebc91800eb",
+    "example": [
+      "metaxylem",
+      "protoxylem",
+      "xylem",
+      "xylene",
+      "xylitol",
+      "xylocarp",
+      "xyloid",
+      "xylophagous",
+      "xylophobia",
+      "xylophone",
+      "xylosma",
+      "xylostroma"
+    ],
+    "related_root_ids": [
+      "r_376f08635860d178"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_376f08635860d178",
+    "root": "xylo",
+    "source_form": "xylo-",
+    "meaning": "wood",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "xylocarp",
+      "xylophagous",
+      "xylophobia",
+      "xylophone",
+      "xylostroma",
+      "xyloid"
+    ],
+    "family_id": "g_71ec96ebc91800eb",
+    "related_root_ids": [
+      "r_f35f7ae03eb89381"
+    ],
+    "source_entry": "xyl-",
+    "pending_family_examples": 8
+  },
+  {
+    "id": "r_5494780c72b6352f",
+    "root": "yard",
+    "source_form": "yard",
+    "meaning": "enclosed ground; yard",
+    "class": "root",
+    "origin": "Old English geard",
+    "source_entry": "yard",
+    "family_id": "g_8a00a07eb097cce3",
+    "example": [
+      "graveyard"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fee810d82bdd655e",
+    "root": "yard",
+    "source_form": "yard",
+    "meaning": "unit of length; measuring rod",
+    "class": "root",
+    "origin": "Old English gerd, gierd",
+    "source_entry": "yard",
+    "family_id": "g_5133a5f3193b13ba",
+    "example": [
+      "yardstick"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_693b2daafa77f2dd",
+    "root": "yawn",
+    "source_form": "yawn",
+    "meaning": "open the mouth involuntarily; gape",
+    "class": "root",
+    "origin": "Old English geonian",
+    "source_entry": "yawn",
+    "family_id": "g_48500ef558e11635",
+    "example": [
+      "yawned",
+      "yawnful",
+      "yawning",
+      "yawningly",
+      "yawn"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_64f6906dedb04c2b",
+    "root": "year",
+    "source_form": "year",
+    "meaning": "year; period of twelve months",
+    "class": "root",
+    "origin": "Old English gear",
+    "source_entry": "year",
+    "family_id": "g_2d04de814dd92234",
+    "example": [
+      "first-year",
+      "fourth-year",
+      "one-year",
+      "second-year",
+      "third-year",
+      "two-year",
+      "yearling",
+      "year"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8bcdeb2a41703465",
+    "root": "yel",
+    "source_form": "yel",
+    "meaning": "yell, cry out loudly",
+    "class": "historical_form",
+    "origin": "Middle English",
+    "source_entry": "yel",
+    "family_id": "g_f62fca8d207bd287",
+    "example": [
+      "yell",
+      "yelling"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_875bb8d4f0176edb",
+    "root": "yellow",
+    "source_form": "yellow",
+    "meaning": "yellow color; having or becoming yellow",
+    "class": "root",
+    "origin": "Old English",
+    "source_entry": "yellow",
+    "family_id": "g_bb813ac59fff317a",
+    "example": [
+      "brownish-yellow",
+      "canary-yellow",
+      "creamy-yellow",
+      "deep-yellow",
+      "golden-yellow",
+      "sulfur-yellow",
+      "sulphur-yellow",
+      "yellow",
+      "yellow-bellied",
+      "yellow-brown",
+      "yellow-gray",
+      "yellow-green",
+      "yellow-grey",
+      "yellow-orange",
+      "yellow-tinged",
+      "yellowed",
+      "yellowing",
+      "yellowish",
+      "yellowish-gray",
+      "yellowish-grey",
+      "yellowish-orange"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_66ec9bc5132e6926",
+    "root": "yester",
+    "source_form": "yester-",
+    "meaning": "yesterday",
+    "class": "root",
+    "origin": "Old English",
+    "example": [
+      "yesterday",
+      "yesteryear"
+    ],
+    "family_id": "g_463930a833f05caa",
+    "related_root_ids": [],
+    "source_entry": "yester-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_4f1dc0efcbaeb640",
+    "root": "yield",
+    "source_form": "yield",
+    "meaning": "produce or give; surrender or give way",
+    "class": "word_base",
+    "origin": "Old English gieldan",
+    "source_entry": "yield",
+    "family_id": "g_c11278c23b6294b7",
+    "example": [
+      "unyielding",
+      "yield",
+      "yielder",
+      "yielding"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_15133745bb915771",
+    "root": "young",
+    "source_form": "young",
+    "meaning": "not old; early in life",
+    "class": "word_base",
+    "origin": "Old English geong",
+    "source_entry": "young",
+    "family_id": "g_9a4232ea2f2c0cd7",
+    "example": [
+      "young",
+      "youngish",
+      "youngster"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c08b40053ea60299",
+    "root": "ze",
+    "source_form": "ze",
+    "meaning": "boil",
+    "class": "root",
+    "origin": "Greek zein, zeō to boil",
+    "source_entry": "ze",
+    "family_id": "g_02a03092a71f131b",
+    "example": [
+      "eczema",
+      "eczematous"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fb3ccf8f6990cafe",
+    "root": "zeal",
+    "source_form": "zeal",
+    "meaning": "fervor, enthusiasm",
+    "class": "root",
+    "origin": "Greek zēlos via Latin zēlus",
+    "source_entry": "zeal",
+    "family_id": "g_8c8137f59c65f2a9",
+    "example": [
+      "overzeal",
+      "overzealous",
+      "unzealous",
+      "zealless",
+      "zealot",
+      "zealotic",
+      "zealotry",
+      "zealous",
+      "zealously",
+      "zealousness",
+      "zeal"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e8506226defb416c",
+    "root": "zete",
+    "source_form": "zete-",
+    "meaning": "seek, inquire",
+    "class": "root",
+    "origin": "Greek ζητε-/ζητη- of ζητέω",
+    "source_entry": "zete",
+    "family_id": "g_b55623483a580b51",
+    "example": [
+      "zetetic"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f27643cc61f7bc22",
+    "root": "zo",
+    "source_form": "zo",
+    "meaning": "animal, life",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "anthozoan",
+      "anthrozoology",
+      "archeozoic",
+      "azoic",
+      "cenozoic",
+      "cryptozoology",
+      "ectozoon",
+      "entozoon",
+      "epizoon",
+      "epizootic",
+      "holozoic",
+      "hydrozoan",
+      "hylozoism",
+      "mesozoic",
+      "metazoa",
+      "paleozoic",
+      "proterozoic",
+      "protozoa",
+      "protozoan",
+      "saprozoic",
+      "spermatozoon",
+      "zoanthropy",
+      "zodiac",
+      "zoo",
+      "zoogeography",
+      "zoography",
+      "zooid",
+      "zoologic",
+      "zoology",
+      "zoomorphic",
+      "zoomorphism",
+      "zoon",
+      "zoonosis",
+      "zoophagous",
+      "zoophyte",
+      "zooplankton",
+      "zoospore",
+      "zooxanthella",
+      "eumetazoa",
+      "zoic",
+      "zoochore",
+      "zoogamete",
+      "zoophagy",
+      "zoopoetics",
+      "zootoxin",
+      "zoöid"
+    ],
+    "family_id": "g_2d50d9f3d3dffb2f",
+    "related_root_ids": [
+      "r_7d7bedca5a3b7688",
+      "r_b524e547a7f3253d",
+      "r_d1780e34cd83405b"
+    ],
+    "source_entry": "zo, zoo",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a5a932634422c99a",
+    "root": "zon",
+    "source_form": "zon-",
+    "meaning": "belt, girdle; zone",
+    "class": "root",
+    "origin": "Greek",
+    "source_entry": "zon",
+    "family_id": "g_4db7ce6e220dbdab",
+    "example": [
+      "phylozone",
+      "zonal",
+      "zone",
+      "zonohedron",
+      "zonotope"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b524e547a7f3253d",
+    "root": "zoo",
+    "source_form": "zoo",
+    "meaning": "animal, life",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "anthrozoology",
+      "cryptozoology",
+      "epizootic",
+      "spermatozoon",
+      "zoo",
+      "zoochore",
+      "zoogamete",
+      "zoogeography",
+      "zoography",
+      "zooid",
+      "zoologic",
+      "zoology",
+      "zoomorphic",
+      "zoomorphism",
+      "zoonosis",
+      "zoophagous",
+      "zoophagy",
+      "zoophyte",
+      "zooplankton",
+      "zoospore",
+      "zootoxin",
+      "zooxanthella",
+      "zoon",
+      "zoopoetics",
+      "zoöid"
+    ],
+    "family_id": "g_2d50d9f3d3dffb2f",
+    "related_root_ids": [
+      "r_7d7bedca5a3b7688",
+      "r_d1780e34cd83405b",
+      "r_f27643cc61f7bc22"
+    ],
+    "source_entry": "zo, zoo",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_351a8f6132137dc9",
+    "root": "zyg",
+    "source_form": "zyg",
+    "meaning": "pair; yoke, join",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "azygous",
+      "syzygy",
+      "zygospore",
+      "zygote",
+      "dizygotic",
+      "heterozygote",
+      "heterozygous",
+      "monozygotic",
+      "zygoma",
+      "zygomorphic",
+      "zygomorphism",
+      "zygomycosis",
+      "zygomycota",
+      "zygon"
+    ],
+    "family_id": "g_55c776e587f9824c",
+    "related_root_ids": [
+      "r_41f5d40d2806cd58"
+    ],
+    "source_entry": "zyg, zygo",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_41f5d40d2806cd58",
+    "root": "zygo",
+    "source_form": "zygo",
+    "meaning": "pair; yoke, join",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "azygous",
+      "dizygotic",
+      "heterozygote",
+      "heterozygous",
+      "monozygotic",
+      "zygomorphic",
+      "zygospore",
+      "zygote",
+      "zygoma",
+      "zygomorphism",
+      "zygomycosis",
+      "zygomycota",
+      "zygon"
+    ],
+    "family_id": "g_55c776e587f9824c",
+    "related_root_ids": [
+      "r_351a8f6132137dc9"
+    ],
+    "source_entry": "zyg, zygo",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8ebae42a9df83848",
+    "root": "zym",
+    "source_form": "zym-",
+    "meaning": "ferment, leaven; enzyme",
+    "class": "root",
+    "origin": "Greek zymē",
+    "source_entry": "zym",
+    "family_id": "g_f15be29477ac6293",
+    "example": [
+      "alloenzyme",
+      "azyme",
+      "azymite",
+      "enzyme",
+      "lysozyme",
+      "microzyme",
+      "zymase",
+      "zyme",
+      "zymogen",
+      "zymology",
+      "zymolysis",
+      "zymosis",
+      "zymotic",
+      "zymurgy"
+    ],
+    "related_root_ids": [
+      "r_3a7362096770cb68",
+      "r_8b8a7fa35c98d948",
+      "r_c897420ad5435e5f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3a7362096770cb68",
+    "root": "zyme",
+    "source_form": "zyme",
+    "meaning": "leaven; ferment",
+    "class": "root",
+    "origin": "Greek",
+    "source_entry": "zyme",
+    "family_id": "g_f15be29477ac6293",
+    "example": [
+      "alloenzyme",
+      "azyme",
+      "enzyme",
+      "microzyme",
+      "zyme"
+    ],
+    "related_root_ids": [
+      "r_8b8a7fa35c98d948",
+      "r_8ebae42a9df83848",
+      "r_c897420ad5435e5f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c897420ad5435e5f",
+    "root": "zyme",
+    "source_form": "-zyme",
+    "meaning": "enzyme",
+    "class": "suffix",
+    "origin": "Greek",
+    "source_entry": "zyme",
+    "family_id": "g_f15be29477ac6293",
+    "example": [
+      "lysozyme"
+    ],
+    "related_root_ids": [
+      "r_3a7362096770cb68",
+      "r_8b8a7fa35c98d948",
+      "r_8ebae42a9df83848"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8b8a7fa35c98d948",
+    "root": "zymo",
+    "source_form": "zymo-",
+    "meaning": "ferment",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "zymogen",
+      "zymology",
+      "zymolysis",
+      "zymosis",
+      "zymotic"
+    ],
+    "family_id": "g_f15be29477ac6293",
+    "related_root_ids": [
+      "r_3a7362096770cb68",
+      "r_8ebae42a9df83848",
+      "r_c897420ad5435e5f"
+    ],
+    "source_entry": "zym-",
+    "pending_family_examples": 9
+  }
+]

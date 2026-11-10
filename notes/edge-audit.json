@@ -1,43 +1,50 @@
 {
   "schema_version": "2.0",
   "description": "Numbered snapshot, audit relation and source parts; paths are relative to this index.",
-  "roots_sha256": "b2ab350d114bb7b7e4e7d9f054e729dd96f58bffd793e332f6a0aafcc339465f",
+  "roots_sha256": "bc52659edee2acc7b6a1076a327bd09618b92fa817df181e465b8badba9593f3",
   "roots_sha256_encoding": "UTF-8 JSON array, ensure_ascii=False, indent=2, followed by a newline; array entries are concatenated in root_parts order.",
   "root_parts": [
     {
       "json": "../json/roots-001.json",
       "csv": "../csv/roots-001.csv",
       "count": 1000,
-      "json_sha256": "141148e8086f0709def2420466635d9fb539655bb9c8b748e9eac24e227b9f22",
-      "csv_sha256": "a2441e335c98eb4a7b1b412a18721dc70d2f2c355a40eeef041e279136fec7a2"
+      "json_sha256": "59c76a1a39f87f1c6635707d1e668f62f977d9cb63f16a839dcc1bac261896b7",
+      "csv_sha256": "a1a0885bf3b49cbcb091016cf31a0868a3653799218dbd3b9f12781d6ba6b5df"
     },
     {
       "json": "../json/roots-002.json",
       "csv": "../csv/roots-002.csv",
       "count": 1000,
-      "json_sha256": "34c24c6a4ea25b6b31e07f9a160527d4560020d6b87612f9f4b737f7e3f6aa6b",
-      "csv_sha256": "945df10ca4a1eb02baaf0f389d6f20c56900320cee29bdeba68417e5657925af"
+      "json_sha256": "2e49963c8b1ad41527d9531e0df06d0e2aa3ed0dd59aef64d27c44bcdb0be3fd",
+      "csv_sha256": "76d19a867922237798520ea056598e9ea2a31ff7ca051ac71f1f3a70f7e6e8bd"
     },
     {
       "json": "../json/roots-003.json",
       "csv": "../csv/roots-003.csv",
       "count": 1000,
-      "json_sha256": "ce4fb04fbf6b07217c1754f882a47437e054972933553fd4fbcd7964e32ce128",
-      "csv_sha256": "ef323f3278228f612727bcba63d0242c8fbb140055e8159a8235fdb669d6fc55"
+      "json_sha256": "e4e523b83ac9e3a065f95d8e4a08b7a0676a6d79489d21481a9277bae1b890fe",
+      "csv_sha256": "6f9ac001cc19eb642c6f66e293fc7c92e5cd77ca037013cce4bdbfe588eb6ebf"
     },
     {
       "json": "../json/roots-004.json",
       "csv": "../csv/roots-004.csv",
       "count": 1000,
-      "json_sha256": "d10e68c4776a28809ddcb392b1f662b3909260448a0a614671b8a7a481f8539b",
-      "csv_sha256": "df5b0c3ec8c3d0ca158dfe2bd340e042e43cf34fa6c0d356fd800252001ba716"
+      "json_sha256": "9fd2ecb9e84e37f4cf9fc64a2d6003cd25b83067fccfbb16d0414c476e20bd87",
+      "csv_sha256": "7f68664dca0f7e56e60b3289d2bb2c4372a0ee89d0cc8d1ea5730c56e73d9caf"
     },
     {
       "json": "../json/roots-005.json",
       "csv": "../csv/roots-005.csv",
-      "count": 314,
-      "json_sha256": "8cb9a34cf0a47256ef06c9b184dee92468109ffacb980079ea692c2ecf85d799",
-      "csv_sha256": "a3da8ab3980e66df2cbee7448716a73c2e8aa640e149fabb0ff9a94f9b514058"
+      "count": 1000,
+      "json_sha256": "ef1545ba4dfbeac724caf2770797eab4c50510acefff8f9fa4c88cc56bd80831",
+      "csv_sha256": "ea3af1c2020b6272af61175294a300cfbf8cb46424073b4c80e1dbabe500ad99"
+    },
+    {
+      "json": "../json/roots-006.json",
+      "csv": "../csv/roots-006.csv",
+      "count": 238,
+      "json_sha256": "453d24a865512a9d16666f97c7b64579c20407e1ff90606e3a1d70414856d694",
+      "csv_sha256": "e0963ef1d2fe8a48b1d2f41b5befe5b6232d185e102f63a451c5d228141d9b8a"
     }
   ],
   "default_status": "untraced",
@@ -48,211 +55,255 @@
     "needs_review": "An outstanding uncertainty affects this published relation; inspect overlap_review or the root hold before use."
   },
   "root_quality_holds": [],
-  "audit_relation_count": 34350,
+  "audit_relation_count": 42770,
   "audit_parts": [
     {
       "file": "json/edge-audit-001.json",
       "count": 1000,
-      "sha256": "00f0f6b5d3b356f316e2d89bbf99516632915a0752af6fa03c4cf0a59ce2377b"
+      "sha256": "2ff4d4ec6ee004bbd97c2e393901fbebfe79b5b36a2feecd3ce3a84ee0e26ce1"
     },
     {
       "file": "json/edge-audit-002.json",
       "count": 1000,
-      "sha256": "973d7c14fd31f86c49294a66d9387e77ea367dd1746a987400dd09c7dafc5bcf"
+      "sha256": "c98a3ebe97596375e5c7d1310aee09ff0e6e27133dbb63b3e33126fd3f80bf8b"
     },
     {
       "file": "json/edge-audit-003.json",
       "count": 1000,
-      "sha256": "09a17156750c7828df55a9ea4f50960588ebe0f34451450dc30c5ea90eff3c27"
+      "sha256": "a099b42cb73ce6d9f2d0791fb4ce88d663d36eed5d1456946895d1085dfcccc3"
     },
     {
       "file": "json/edge-audit-004.json",
       "count": 1000,
-      "sha256": "eaaac8a3d051957018c19bbf96fa0dc0a593eb5d3709bfe0347dc8859ca90c7e"
+      "sha256": "e2bbe4d8d0baff7a80d2fd4615c3ff94c15fbe08a4e31eb036ab01a106c29a70"
     },
     {
       "file": "json/edge-audit-005.json",
       "count": 1000,
-      "sha256": "06d62b5b8940c54f43301cfd4dfa05349a2219fea23c9d26a4e3ab9b84e13f78"
+      "sha256": "3b4f876581ae6d3bed5b5284fd70a806df15471d69963d1c59642bb83a0a470c"
     },
     {
       "file": "json/edge-audit-006.json",
       "count": 1000,
-      "sha256": "107b354f9b31bed612a18e21ab2528c5253f9c1eeb05164ab89bd63f17194902"
+      "sha256": "ca768ddd081bd57a2c6994629b2d469f3a3cdf8b44c8423a71327a3d42989bdd"
     },
     {
       "file": "json/edge-audit-007.json",
       "count": 1000,
-      "sha256": "377038ba3c675044b08b0953e88ff1802d29454368e5228039abb441905b3793"
+      "sha256": "3ea4c333a0584c51acb13df102d3ab7f0b4336daabf99c56dfe422917cc17ed4"
     },
     {
       "file": "json/edge-audit-008.json",
       "count": 1000,
-      "sha256": "227f998c198f80f1eabd4eae240beccb510482a32e002efb24038800170a5d60"
+      "sha256": "d15484e0fbcabf548f33c40d6fb7e3d43f3fc5ab8d4b0a7e4850a64dd2c375a3"
     },
     {
       "file": "json/edge-audit-009.json",
       "count": 1000,
-      "sha256": "58d45147a559bca352a596bbca508687beb888f2ab0cb00819ebb2fb13b9b62b"
+      "sha256": "79db31e44d96b3d1445e31c0d01d2401a4c3265285f387bceff0ff1a62dbe88e"
     },
     {
       "file": "json/edge-audit-010.json",
       "count": 1000,
-      "sha256": "178259aa1e5adcb8741aed8d9e043fa8780d2c1f8f5e6ad8c53d251f2e9d48a3"
+      "sha256": "c008e7b0c2e70d6212cff25775d4050aa79cc57a92c22b2c2e485337b7858b93"
     },
     {
       "file": "json/edge-audit-011.json",
       "count": 1000,
-      "sha256": "c477019290ad408a3afd53c91565c11d844c9b82c655d50f6f78803152e09fd2"
+      "sha256": "075372c38bcaaafc76b7e3bc4c6110330e4878c07a846cb8c14701beb5abf699"
     },
     {
       "file": "json/edge-audit-012.json",
       "count": 1000,
-      "sha256": "0a633911c7f6be04c095aad0bfa43fc6338c8d7dd36438a213add7fb4587359a"
+      "sha256": "14faeb7a7f0b70b8a821341d06273793efe464ada3113f7a2e8c36ec30a96d4a"
     },
     {
       "file": "json/edge-audit-013.json",
       "count": 1000,
-      "sha256": "365cba78ebcf1148e55a0f08f354ff439d681466c69a9bccf6821015569015b9"
+      "sha256": "589c68ee02292f779c5eb84e7915ebb45188feae11280468968621d01a1ef6f4"
     },
     {
       "file": "json/edge-audit-014.json",
       "count": 1000,
-      "sha256": "1860b42fd5ca4eaee8240f9f57508dcb9d190c6880c2638b9a4527916701bece"
+      "sha256": "c9fbfdf56fc209eae99adb13f2bb9ca7a06a8da5c77a486928576ce6cfacd59b"
     },
     {
       "file": "json/edge-audit-015.json",
       "count": 1000,
-      "sha256": "5dfb04c4ca11aa2eb64f7f76c9737b88d1c9834b6fb7d13c87f59e15a8f1b057"
+      "sha256": "0417a9640f1627bd1f261b0d997573a1080eeec5bbf999a21daa7cc24893eaf3"
     },
     {
       "file": "json/edge-audit-016.json",
       "count": 1000,
-      "sha256": "58b2898cdc69706d31ff2809957d5090673767a024f0214f7a1e415d5b135804"
+      "sha256": "7d6f1d60a4bda100e08422bc29fe5299ea78671c19202ae63359ef1842902f13"
     },
     {
       "file": "json/edge-audit-017.json",
       "count": 1000,
-      "sha256": "803ff5c824ab1cfe5e99f30b22695f8a0aa45062dfa02059ac425f03cfee5322"
+      "sha256": "7ed2365cc40d8939925db6ad358dd2f7ad793c84e78f690888ada63768f9f834"
     },
     {
       "file": "json/edge-audit-018.json",
       "count": 1000,
-      "sha256": "c80fb2a7d52c5c973a3fc67c493b45f01f7b843512642512a6ac37896290018b"
+      "sha256": "657e67546852c90595053c46c8788288ae4e153ea9aa252be16a8b3ea3269222"
     },
     {
       "file": "json/edge-audit-019.json",
       "count": 1000,
-      "sha256": "2be8d532f5b7f2228b4974fe3209c77907e46d1e418eb479dbdecfe424a60973"
+      "sha256": "d2a4dee205275b9d42964e933a03607a47547e129d21e853093b8eba0fb9af38"
     },
     {
       "file": "json/edge-audit-020.json",
       "count": 1000,
-      "sha256": "68290f7b01cd3c5b4a4a6cfdc7ccc312db80b18f4f7cc9e227c016215ed22d23"
+      "sha256": "d4dbd2fe141980ccfcfbd2705eb5ddeeeb7f5cc22c4cd9ad93b98b190d3dd70e"
     },
     {
       "file": "json/edge-audit-021.json",
       "count": 1000,
-      "sha256": "60e9c97625c7a3e179f8030ed5120470130248465eea03c394c5a1c5a10b9d06"
+      "sha256": "705b1dc1b047a4a687a67afade34583ebb94e754a1bdbe4af0a0f3274464e862"
     },
     {
       "file": "json/edge-audit-022.json",
       "count": 1000,
-      "sha256": "aeaf2b31b43ef9eef10f6b3d1706151654f680eb0df40776f63748b86a0506ce"
+      "sha256": "45cd08a564815799d41050ab4f517aab87588161ddda2645144253c74a96fa37"
     },
     {
       "file": "json/edge-audit-023.json",
       "count": 1000,
-      "sha256": "8fb2d899182b199dafad8b25609931b6cf063a01aa52b54f32354ec4e663a81e"
+      "sha256": "2676b9ee6dc3019d0f1e8411ad36f4952b37d0f6fe3e44e982d1652a1f53cc0a"
     },
     {
       "file": "json/edge-audit-024.json",
       "count": 1000,
-      "sha256": "89c91a9c05047259e9b39b7d70435cdc463859fb363d25160c2f6bc1d596510e"
+      "sha256": "e4228837b12376afa050810403cf82beb5ba0f55a2cfa308360850f3ee8cb5c0"
     },
     {
       "file": "json/edge-audit-025.json",
       "count": 1000,
-      "sha256": "41674cf9a6d436f2a297a87912ffbc00006386ae7b8146c2dd07e19cd731855e"
+      "sha256": "51b45f6f16710401ea36657bc5df959d272850a2d93c2ada33111a00b7aa91a8"
     },
     {
       "file": "json/edge-audit-026.json",
       "count": 1000,
-      "sha256": "9e5b384ea226d259312b12d3538d8b770fa5a861a8907c12c91b099f46062fc4"
+      "sha256": "bf1a9adb8298126c80dab3ae787b8076a1470dfda93c917b669e4ad8014d7ece"
     },
     {
       "file": "json/edge-audit-027.json",
       "count": 1000,
-      "sha256": "23c5c01bced4aac67b760729d3d99f09b0b7e9fa7413501350e7b6367ef00ab2"
+      "sha256": "95f9d4c877ff00078fa244423d78ce37498790da3f7200f74b211feeec3e52a9"
     },
     {
       "file": "json/edge-audit-028.json",
       "count": 1000,
-      "sha256": "8a3af9ca2cb5e94c757c95169dd71cdc5a82957783f187eed3dd67c3a769613b"
+      "sha256": "2bf3551d57736835eeb19e55c517ec6e05e1f4f3e9b3249feb97f89c4077c7ef"
     },
     {
       "file": "json/edge-audit-029.json",
       "count": 1000,
-      "sha256": "ff626a0b18f47b5b445d8593744da6a0d73fda76354fdcd4c104f29b2e9ede4d"
+      "sha256": "8f6425cc087aafe5a188181ee239a97de43123c7c12c7a0f4934d7971e83a4f7"
     },
     {
       "file": "json/edge-audit-030.json",
       "count": 1000,
-      "sha256": "82a791967ae3d7f8e2781408569b94bafaa7acee98ddcb24d7d0acc38929b609"
+      "sha256": "9e20af29a27799058d300e21c9352fb95902075e0747a6d75d6a4d11806ef7c7"
     },
     {
       "file": "json/edge-audit-031.json",
       "count": 1000,
-      "sha256": "b3223fc22fe5ed73e3979cf1b348562e5c2dae76848179c0b53bd9b566fb2ccf"
+      "sha256": "8270a9a8a3f0fb579d0c3478818668194ce834acbc0346bb82e4be83583603bd"
     },
     {
       "file": "json/edge-audit-032.json",
       "count": 1000,
-      "sha256": "9c2bcc9d4c41e96b57559c4afc2638aef736742601723aa9e066aa8b49723209"
+      "sha256": "dc184b284b0f15278bf83ecddd725e97894d009a24d7c04084ca0e42219b0046"
     },
     {
       "file": "json/edge-audit-033.json",
       "count": 1000,
-      "sha256": "9a22768bcff043d9eac9e53b5a8698caa005fa84628b859950e4c5ff44a16526"
+      "sha256": "564de0c829952cdfb18bce6e56f87acd348a6b5f1604b78d182744cb5fc974c7"
     },
     {
       "file": "json/edge-audit-034.json",
       "count": 1000,
-      "sha256": "e3ea559554bfc0c126f2dff327406d7f8e49e88b06c4c1c5529113321c00eedd"
+      "sha256": "d7113b6295badafcb10a1e930adcbd56862dd5ce3fa152373e9e43ea358503f3"
     },
     {
       "file": "json/edge-audit-035.json",
-      "count": 350,
-      "sha256": "6336b633a921a8e9a3048ba94d8c3fb95b1f04a61b9bbbbf6b781c072f883807"
+      "count": 1000,
+      "sha256": "30e0540ecda91e9a9777bb371814af4811e7a9845a59e5179c62e437f0ffbe9c"
+    },
+    {
+      "file": "json/edge-audit-036.json",
+      "count": 1000,
+      "sha256": "ec8ad2a25ac467f8a30b3dbf80f272b44ba42767415f971c8f10c08620944c79"
+    },
+    {
+      "file": "json/edge-audit-037.json",
+      "count": 1000,
+      "sha256": "8bd78875913f3e72f7d0323c2b5047e171364e11e1785df0f377435f7c9a3ddf"
+    },
+    {
+      "file": "json/edge-audit-038.json",
+      "count": 1000,
+      "sha256": "bc13e85a5f29c12d97cb03a69e9262c8b7a94a02ad956a62280cd11c81bee23d"
+    },
+    {
+      "file": "json/edge-audit-039.json",
+      "count": 1000,
+      "sha256": "e41d2580905a93aa2b367aa2dc354a181ec7cf8cacaafd691587ad57cc94631b"
+    },
+    {
+      "file": "json/edge-audit-040.json",
+      "count": 1000,
+      "sha256": "e9b699737c109dc3bf4caf0c775b9d2b8bbf5da5732b99a3d4ccc611d6b7b6b1"
+    },
+    {
+      "file": "json/edge-audit-041.json",
+      "count": 1000,
+      "sha256": "459afc62270ee357ac4768e6572208435d2fa4b5018c19894de7153006dada3c"
+    },
+    {
+      "file": "json/edge-audit-042.json",
+      "count": 1000,
+      "sha256": "4a5c6b7e8e3f28e8faa52bf30e20dfad32e860b0bac9e90f5d20395437ff31c5"
+    },
+    {
+      "file": "json/edge-audit-043.json",
+      "count": 770,
+      "sha256": "4c4b308dc8d835251386957f72c39e1b45e7f7852db2a5ab904b8a0b088949a3"
     }
   ],
-  "source_count": 4831,
+  "source_count": 5848,
   "source_parts": [
     {
       "file": "json/edge-sources-001.json",
       "count": 1000,
-      "sha256": "c2f41ffa775ad1dd2f17dfc831f144bdf64c1e982e66e584a3cfad43e9563c60"
+      "sha256": "4511cdae3d14d36f25ac309a987ec29bef1f0bf78df74cfd8318f6283fa7acc9"
     },
     {
       "file": "json/edge-sources-002.json",
       "count": 1000,
-      "sha256": "4bf7e72092f7e80dc6c5f2e101017cdbfc1c59b6b25a1f7a6659c233968097c9"
+      "sha256": "1ffbc07257ea2056144c1499dc0bc5674ee6f21ffc30adf47e7939914d53ad42"
     },
     {
       "file": "json/edge-sources-003.json",
       "count": 1000,
-      "sha256": "ba1a52c315a8cb6b88712d6711702f1f76ea0e10f020b41e953b3b60d18180a1"
+      "sha256": "625add65a1e773a5f8244b63370296d88935b9ff7733a773ada5122bad0f9237"
     },
     {
       "file": "json/edge-sources-004.json",
       "count": 1000,
-      "sha256": "2e9d1e2daa66462f38f3270d25fae1240ce2856ea7629a550d111e3e781fbafb"
+      "sha256": "59137e0bcd6c80b0d3fbaf790bbf0829043954ce0c12843e26d5521d59ce5adb"
     },
     {
       "file": "json/edge-sources-005.json",
-      "count": 831,
-      "sha256": "2fe5a07e0a596716cd9810649cacead11afdb409cbc8bca4ff33817b2fb4b7d1"
+      "count": 1000,
+      "sha256": "19a74c438b2cd83a1604aa67fca1c3d037e667a4af7cfe66ef4fdd7d0a9f67d8"
+    },
+    {
+      "file": "json/edge-sources-006.json",
+      "count": 848,
+      "sha256": "31ce59a6bef05517bc4feb09417d1f0431e2513151bd443485619c7e0b78d1c9"
     }
-  ],
-  "previous_audit_sha256": "6130979c12595bb6f34225a80384ca3530289a3d40177c201477332920faa27a"
+  ]
 }

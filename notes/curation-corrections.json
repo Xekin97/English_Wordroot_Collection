@@ -1155,7 +1155,7 @@
       ]
     }
   ],
-  "roots_sha256": "b2ab350d114bb7b7e4e7d9f054e729dd96f58bffd793e332f6a0aafcc339465f",
+  "roots_sha256": "bc52659edee2acc7b6a1076a327bd09618b92fa817df181e465b8badba9593f3",
   "canonical_root_aliases": [
     {
       "alias_id": "r_a6fbd12efdd62661",
@@ -1163,19 +1163,7 @@
       "scope": "Italian protective para only; Greek beside is a different meaning."
     }
   ],
-  "resolved_aliases_after_previous_snapshot": [
-    {
-      "root_id": "r_236411dec09f9507",
-      "word": "telencephalon",
-      "reason": "The e starts encephalon after tel-; although tele is an independently attested telos-family variant, its application as a lookup here crosses the observed boundary and needs explicit alias adjudication.",
-      "evidence_urls": [
-        "https://www.merriam-webster.com/dictionary/telencephalon",
-        "https://openmd.com/define/telencephalon",
-        "https://www.ahdictionary.com/word/search.html?q=telo-"
-      ],
-      "resolution": "Included following a later historical-family review."
-    }
-  ],
+  "resolved_aliases_after_previous_snapshot": [],
   "subsequent_changes": {
     "metadata_changes": [
       {
@@ -1448,6 +1436,248 @@
           "https://www.merriam-webster.com/dictionary/-trophy",
           "https://medlineplus.gov/appendixa.html"
         ]
+      },
+      {
+        "id": "r_351a8f6132137dc9",
+        "field": "meaning",
+        "before": "pair",
+        "after": "pair; yoke, join",
+        "reason": "The documented Greek root also expresses joining and yoking, including anatomical and historical word-family uses; retain the existing pair sense.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/zygo-",
+          "https://cdn.gotoknow.org/assets/media/files/000/065/549/original_Webster-Dict_of_Prefix-Suffix.pdf"
+        ]
+      },
+      {
+        "id": "r_41f5d40d2806cd58",
+        "field": "meaning",
+        "before": "pair",
+        "after": "pair; yoke, join",
+        "reason": "The documented Greek root also expresses joining and yoking, including anatomical and historical word-family uses; retain the existing pair sense.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/zygo-",
+          "https://cdn.gotoknow.org/assets/media/files/000/065/549/original_Webster-Dict_of_Prefix-Suffix.pdf"
+        ]
+      },
+      {
+        "id": "r_5a4483dbccf048dd",
+        "field": "meaning",
+        "before": "cultivate, till, inhabit",
+        "after": "cultivate, till, inhabit; worship, honor",
+        "reason": "Latin colere / cultus includes worship and honor as well as cultivation and inhabiting; this attested sense supports cultic while preserving the prior gloss.",
+        "evidence_urls": [
+          "https://logeion.uchicago.edu/culto",
+          "https://www.undergraduate.study.cam.ac.uk/sites/www.undergraduate.study.cam.ac.uk/files/publications/as_latin-defined-vocabulary-list.pdf"
+        ]
+      },
+      {
+        "id": "r_e351eb8c0d7bea9a",
+        "field": "meaning",
+        "before": "first in rank or time",
+        "after": "rule, authority; a form or system of government",
+        "reason": "The source grouped -archy with arche first/beginning, but the actual English -archy suffix means rule or a system of government; all existing examples use this derivational sense. Preserve the original grouped source_entry and log this correction.",
+        "evidence_urls": [
+          "https://history.cass.anu.edu.au/centres/andc/word-formation-exercises",
+          "https://www.etymonline.com/word/-archy"
+        ]
+      },
+      {
+        "id": "r_e351eb8c0d7bea9a",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "reason": "-archy is a word-final noun-forming suffix or combining form; all currently associated examples end in -archy.",
+        "evidence_urls": [
+          "https://history.cass.anu.edu.au/centres/andc/word-formation-exercises",
+          "https://www.open.edu/openlearn/mod/oucontent/view.php?id=157788&section=_unit5.1.2"
+        ]
+      },
+      {
+        "id": "r_762dc224cd9f2ef7",
+        "field": "meaning",
+        "before": "leader",
+        "after": "leader; lead, bring, guide",
+        "reason": "Retain source gloss leader and supplement the independently attested leading/bringing or process sense. The history and actual morpheme boundary vary across related examples; individual source-scoped pending decisions are not automatically closed.",
+        "evidence_urls": [
+          "https://ahdictionary.com/word/indoeurop.html?q=ak-",
+          "https://lhncbc.nlm.nih.gov/LSG/Projects/lvg/current/docs/designDoc/UDF/derivations/suffixList.html"
+        ]
+      },
+      {
+        "id": "r_396615e0a063b85a",
+        "field": "meaning",
+        "before": "leader",
+        "after": "leader; lead, bring, guide",
+        "reason": "Retain source gloss leader and supplement the independently attested leading/bringing or process sense. The history and actual morpheme boundary vary across related examples; individual source-scoped pending decisions are not automatically closed.",
+        "evidence_urls": [
+          "https://ahdictionary.com/word/indoeurop.html?q=ak-",
+          "https://lhncbc.nlm.nih.gov/LSG/Projects/lvg/current/docs/designDoc/UDF/derivations/suffixList.html"
+        ]
+      },
+      {
+        "id": "r_6eb0d075a9301907",
+        "field": "meaning",
+        "before": "leader",
+        "after": "leader; leading, guidance or instruction",
+        "reason": "Retain source gloss leader and supplement the independently attested leading/bringing or process sense. The history and actual morpheme boundary vary across related examples; individual source-scoped pending decisions are not automatically closed.",
+        "evidence_urls": [
+          "https://ahdictionary.com/word/indoeurop.html?q=ak-",
+          "https://lhncbc.nlm.nih.gov/LSG/Projects/lvg/current/docs/designDoc/UDF/derivations/suffixList.html"
+        ]
+      },
+      {
+        "id": "r_c629f5cb05cf35ee",
+        "field": "meaning",
+        "before": "first in rank or time",
+        "after": "first in rank or time; ruler, leader",
+        "reason": "The original grouped source covers both the initial form with a first/beginning sense and the -arch ruler/leader form. Retain the original gloss and explicitly add the independently attested ruler sense; distinguish actual word positions in the audit report.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-arch",
+          "https://www.etymonline.com/word/-arch"
+        ]
+      },
+      {
+        "id": "r_362cc88a124faa8a",
+        "field": "meaning",
+        "before": "ten, tenth",
+        "after": "ten; tenfold",
+        "reason": "The original source grouped deca/deka with deci and their different numerical meanings. The Greek deca-/deka- forms denote ten or a factor of ten, while metric deci- denotes one tenth; preserve the original source_entry and record this correction.",
+        "evidence_urls": [
+          "https://www.nist.gov/pml/owm/metric-si-prefixes",
+          "https://www.bipm.org/en/measurement-units/si-prefixes"
+        ]
+      },
+      {
+        "id": "r_500f9c421708356f",
+        "field": "meaning",
+        "before": "ten, tenth",
+        "after": "ten; tenfold",
+        "reason": "The original source grouped deca/deka with deci and their different numerical meanings. The Greek deca-/deka- forms denote ten or a factor of ten, while metric deci- denotes one tenth; preserve the original source_entry and record this correction.",
+        "evidence_urls": [
+          "https://www.nist.gov/pml/owm/metric-si-prefixes",
+          "https://www.bipm.org/en/measurement-units/si-prefixes"
+        ]
+      },
+      {
+        "id": "r_b6a760130b20291d",
+        "field": "meaning",
+        "before": "skin",
+        "after": "skin; skin or tissue layer",
+        "reason": "Retain the original skin meaning and add the independently documented biological use of -derm for a skin or tissue layer, as in embryonic germ-layer terminology. Existing source-specific pending relations remain pending.",
+        "evidence_urls": [
+          "https://cdn.gotoknow.org/assets/media/files/000/065/549/original_Webster-Dict_of_Prefix-Suffix.pdf",
+          "https://www.etymonline.com/word/-derm"
+        ]
+      },
+      {
+        "id": "r_1305d5cd8b4292f2",
+        "field": "meaning",
+        "before": "opinion, belief",
+        "after": "opinion, belief; glory, praise",
+        "reason": "Greek doxa attests both opinion/belief and glory/praise; retain the original meaning and add the documented sense used by doxology. Original source scopes remain separate.",
+        "evidence_urls": [
+          "https://ahdictionary.com/word/search.html?q=doxology",
+          "https://assets.cambridge.org/97810092/68172/excerpt/9781009268172_excerpt.pdf"
+        ]
+      },
+      {
+        "id": "r_106da2bd9776c6d7",
+        "field": "meaning",
+        "before": "reflecting light",
+        "after": "reflecting or emitting light in a specified way",
+        "reason": "Two independent dictionary sources list both reflection and emission as an established distinct suffix sense; preserve its separate ID and example.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-escent",
+          "https://www.collinsdictionary.com/us/dictionary/english/escent"
+        ]
+      },
+      {
+        "id": "r_d340c791ec7579ce",
+        "field": "class",
+        "before": "root",
+        "after": "suffix",
+        "reason": "Independent dictionaries list -aemia as an end-position word element; all six current examples end with the exact form.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/dictionary/english/aemia",
+          "https://www.merriam-webster.com/dictionary/-emia"
+        ]
+      },
+      {
+        "id": "r_2ea7bf031022d5ec",
+        "field": "class",
+        "before": "root",
+        "after": "word_base",
+        "reason": "This form is an attested English participial word base in compounds, rather than a standalone bound classical root.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/full-blown",
+          "https://www.etymonline.com/word/blown"
+        ]
+      },
+      {
+        "id": "r_8a7e7a923494dda8",
+        "field": "class",
+        "before": "root",
+        "after": "word_base",
+        "reason": "This form is an attested English participial word base in compounds, rather than a standalone bound classical root.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/windblown",
+          "https://www.etymonline.com/word/blown"
+        ]
+      },
+      {
+        "id": "r_daea5e77767b0d9a",
+        "field": "class",
+        "before": "root",
+        "after": "word_base",
+        "reason": "This form is an attested English participial word base in compounds, rather than a standalone bound classical root.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/brokenhearted",
+          "https://www.etymonline.com/word/broken"
+        ]
+      },
+      {
+        "id": "r_2e28e3c265075b92",
+        "field": "class",
+        "before": "root",
+        "after": "word_base",
+        "reason": "This form is an attested English participial word base in compounds, rather than a standalone bound classical root.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/clinker-built",
+          "https://www.etymonline.com/word/built"
+        ]
+      },
+      {
+        "id": "r_0ab5891e196bb8b3",
+        "field": "origin",
+        "before": "Latin calx, calcis",
+        "after": "Latin calx, calcis; relationship to calculus (pebble, calculation) is disputed",
+        "reason": "The existing examples span limestone and calculus families; retain all accepted edges and explicitly record the scholarly disagreement without claiming proven different origins. See evidence-work/pending-resolution/calc-lime-pebble-audit-v56/report.md",
+        "evidence_urls": [
+          "https://www.persee.fr/doc/antiq_0770-2817_1960_num_29_1_3678",
+          "https://www.treccani.it/magazine/lingua_italiana/articoli/parole/calcoli.html"
+        ]
+      },
+      {
+        "id": "r_65ea52b88f970290",
+        "field": "class",
+        "before": "root",
+        "after": "word_base",
+        "reason": "Alphabet is an independently attested complete English word used as an English word base.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/alphabet",
+          "https://www.merriam-webster.com/dictionary/alphabet"
+        ]
+      },
+      {
+        "id": "r_217c89354de45823",
+        "field": "meaning",
+        "before": "on all sides; overly; with a quality (prefix)",
+        "after": "on all sides; overly, thoroughly; with a quality (prefix)",
+        "reason": "Intensifying be- includes thoroughly as well as excessively; this clarifies the existing intensive meaning without changing its published ID.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/be-",
+          "https://commons.princeton.edu/shakespeares-language/wp-content/uploads/sites/41/2017/09/Nevalainen-Early-Modern-English-Lexis-and-Semantics.pdf"
+        ]
       }
     ],
     "withdrawn_relations": [
@@ -1575,6 +1805,98 @@
         "evidence_urls": [
           "https://medlineplus.gov/appendixa.html",
           "https://samples.jblearning.com/9781284209068/9781284209075_CH02.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_e5e062f43238da40",
+        "word": "axiology",
+        "reason": "Axiology comes from Greek axios/axia meaning value or worth, not the Latin axis meaning of this ax record. Preserve original wrong-source provenance and the independent -logy/-ology edges.",
+        "evidence_urls": [
+          "https://ahdictionary.com/word/search.html?q=axiology",
+          "https://www.collinsdictionary.com/us/dictionary/english/axiology",
+          "https://turuz.com/storage/Dictionary/2011/0277-Sheehan%2C_Michael_J._-_Word_Parts_Dictionary%2C_Standard_and_Reverse_Listings_of_Prefixes%2C_Suffixes%2C_Roots_and_Combining_Forms_%282000%29%283.467KB%29.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_11f5af00403a511e",
+        "word": "indomitable",
+        "reason": "Indomitable derives from Latin domare / domitus tame or subdue, not directly from this Latin dominus master sense. Preserve the original wrong-source provenance; the deeper common ancestry of house/master and tame is not assumed.",
+        "evidence_urls": [
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/indomitable",
+          "https://documents.kenyon.edu/classics/current/2099.wordlistforlatincombined.pdf",
+          "https://www.dictionary.com/browse/indomitable"
+        ]
+      },
+      {
+        "published_root_id": "r_51a2ac6a3575b262",
+        "word": "economy",
+        "reason": "The economic word belongs to Greek oikos household management, not the environment/ecology sense of this specific eco target; preserve the original source record and do not infer that economy and ecology are unrelated.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/economy",
+          "https://www.merriam-webster.com/dictionary/economy"
+        ]
+      },
+      {
+        "published_root_id": "r_51a2ac6a3575b262",
+        "word": "economics",
+        "reason": "The economic word belongs to Greek oikos household management, not the environment/ecology sense of this specific eco target; preserve the original source record and do not infer that economy and ecology are unrelated.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/economics",
+          "https://www.merriam-webster.com/dictionary/economics"
+        ]
+      },
+      {
+        "published_root_id": "r_51a2ac6a3575b262",
+        "word": "economic",
+        "reason": "The economic word belongs to Greek oikos household management, not the environment/ecology sense of this specific eco target; preserve the original source record and do not infer that economy and ecology are unrelated.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/economic",
+          "https://www.merriam-webster.com/dictionary/economic"
+        ]
+      },
+      {
+        "published_root_id": "r_51a2ac6a3575b262",
+        "word": "economist",
+        "reason": "The economic word belongs to Greek oikos household management, not the environment/ecology sense of this specific eco target; preserve the original source record and do not infer that economy and ecology are unrelated.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/economist",
+          "https://www.merriam-webster.com/dictionary/economist"
+        ]
+      },
+      {
+        "published_root_id": "r_f7e8226cb3f13e81",
+        "word": "turbine",
+        "reason": "The word is derived through the Latin spinning-top or whirl sense; its present word meaning does not illustrate the confusion sense of this particular root entry. It remains on the distinct whirl-sense entry in the same historical family.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/turbine",
+          "https://www.etymonline.com/word/turbine"
+        ]
+      },
+      {
+        "published_root_id": "r_f7e8226cb3f13e81",
+        "word": "turbo",
+        "reason": "The word is derived through the Latin spinning-top or whirl sense; its present word meaning does not illustrate the confusion sense of this particular root entry. It remains on the distinct whirl-sense entry in the same historical family.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/turbo",
+          "https://www.etymonline.com/word/turbo"
+        ]
+      },
+      {
+        "published_root_id": "r_ecab917b0c4331e2",
+        "word": "curette",
+        "reason": "The English words entered from French curer meaning cleanse or scrape; their connection to English cure is historical, not a direct example of the modern English cure word base. The two words remain under the independently reviewed cur family root.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/curette",
+          "https://www.merriam-webster.com/dictionary/curette"
+        ]
+      },
+      {
+        "published_root_id": "r_ecab917b0c4331e2",
+        "word": "curettage",
+        "reason": "The English words entered from French curer meaning cleanse or scrape; their connection to English cure is historical, not a direct example of the modern English cure word base. The two words remain under the independently reviewed cur family root.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/curettage",
+          "https://www.merriam-webster.com/dictionary/curettage"
         ]
       }
     ],
@@ -1850,6 +2172,78 @@
           "https://www.etymonline.com/word/insurrection",
           "https://www.etymonline.com/word/resurrection"
         ]
+      },
+      {
+        "original": {
+          "id": "r_e1ac89c7616378b0",
+          "root": "anthr",
+          "source_form": "anthr",
+          "meaning": "human being",
+          "class": "root",
+          "origin": "Greek",
+          "example": [],
+          "family_id": "g_807578a53242ff62",
+          "related_root_ids": [
+            "r_60fa2b69e159480e",
+            "r_839265e1e0007ccc",
+            "r_982950af48da2da0",
+            "r_ad9765cef08e4752"
+          ],
+          "source_entry": "anthr, anthro, anthrop, anthropo",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_e1ac89c7616378b0",
+        "root": "anthr",
+        "meaning": "human being",
+        "withdrawn_examples": [
+          "anthropocentric",
+          "anthropogenesis",
+          "anthropoid",
+          "anthropology",
+          "anthropometry",
+          "anthropomorphism",
+          "anthropophagy",
+          "lycanthrope",
+          "lycanthropy",
+          "misanthrope",
+          "misanthropy",
+          "philanthropist",
+          "philanthropy",
+          "pithecanthropus"
+        ],
+        "reason": "Independent dictionaries attest Greek anthrop-/anthropo- for human, but a standalone anthr- meaning human was not established; anthr- in chemical terminology is a distinct form. Retain all 14 reviewed words under the already supported anthrop and anthro entries, and preserve the original target and examples as a reversible quality hold.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/anthrop-",
+          "https://www.collinsdictionary.com/dictionary/english/anthropo",
+          "https://www.etymonline.com/word/anthropo-"
+        ]
+      }
+    ],
+    "family_id_migrations": [
+      {
+        "root_id": "r_5cb6d79f1075d98a",
+        "root": "dur",
+        "previous_family_id": "g_0537cb15b86036a7",
+        "current_family_id": "g_20c4bc6568b296dd",
+        "reason": "The hard and lasting senses have related Latin historical forms; the record retains its root ID. The previous family ID is preserved here for consumers migrating saved references."
+      }
+    ],
+    "new_root_evidence_count": 2334,
+    "new_root_evidence_parts": [
+      {
+        "file": "json/root-evidence-001.json",
+        "count": 1000,
+        "sha256": "bf2d748f26fcbc8baa6a24dc802c578c0be7bbaab418cab06a79e973cf4e9e5b"
+      },
+      {
+        "file": "json/root-evidence-002.json",
+        "count": 1000,
+        "sha256": "3e8ecab3e4e0cc8831b7ebc938bcfc24971c931b4cb877f26325e91c4c95c662"
+      },
+      {
+        "file": "json/root-evidence-003.json",
+        "count": 334,
+        "sha256": "e85da41e52cad47ad9a9ff0460bc009789e60b9bad7567238d18b730eb04ea0b"
       }
     ]
   }

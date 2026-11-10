@@ -16,7 +16,7 @@
 - [port、duc/duct、brev 跨库补充](batches/01-port-duc-brev.md)：本批新增例词、词根写法及逐条处理结果。
 - [词根及例词补充](batches/02-supported-additions.md)：来源、适用范围及已补充的对应关系。
 - [来源与许可说明](THIRD_PARTY_NOTICES.md)。
-- [已发布数据的修正与义项](curation-corrections.json)：保留原值、修正依据、例词义项、旧关系迁移和需要去重展示的条目。
+- [已发布数据的修正与义项](curation-corrections.json)：保留原值、修正依据、例词义项、旧关系迁移和需要去重展示的条目。 新增词根依据按每份最多 1,000 条拆分至 `json/root-evidence-*.json`，分片路径、数量和校验值见该文件的 `subsequent_changes.new_root_evidence_parts`。
 - [例词审核状态索引](edge-audit.json)：列出 [审核关系及来源分片](json/)，按词根 ID 和单词查询来源范围、词义限制及已找到的审核记录；未列出表示未找到精确的逐条审核记录。审核关系和来源分片每份最多 1,000 条，同一词根的关系可能分布在相邻分片中。
 - [暂缓的例词关系](held-relations.json)：保留从主表移出的待确认关系、整体暂缓的词根、来源范围待核记录、原因和参考资料；暂缓不代表关系一定错误。
 - [来源类别记录](class-provenance.json)：记录统一类别前的写法、细分信息及部分补充依据。

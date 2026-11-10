@@ -120,18 +120,6 @@
       "root_id": "r_0d7dbaa2984af3e6",
       "root": "pos",
       "meaning": "put, place",
-      "word": "predispose",
-      "status": "pending",
-      "reason": "Predispose has disputed immediate formation via predisposition or French predisposer; the historical pos family alone does not resolve this exact alias.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/predispose",
-        "https://www.etymonline.com/word/pose"
-      ]
-    },
-    {
-      "root_id": "r_0d7dbaa2984af3e6",
-      "root": "pos",
-      "meaning": "put, place",
       "word": "repose",
       "status": "pending",
       "reason": "Repose has a rest sense from repauser and a separate put/place sense with competing accounts; an unrestricted entry cannot be resolved without sense restriction.",
@@ -354,33 +342,6 @@
             "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
             "https://www.etymonline.com/word/monomania",
             "https://www.etymonline.com/word/pyromania"
-          ]
-        }
-      ]
-    },
-    {
-      "root_id": "r_3452cb8a24e56cd0",
-      "root": "petr",
-      "meaning": "rock, stone",
-      "word": "petrolize",
-      "status": "pending",
-      "reason": "Wiktionary 记录 petrolize 从 petrol + -ize，petrol 经 petroleum 含 petra 岩石；目标历史义匹配，但另一条专业历史词典网页本次超时，尚未独立核实罕见动词的拼写、义项及派生。",
-      "evidence_urls": [
-        "https://en.wiktionary.org/wiki/petrolize",
-        "https://www.dictionary.com/browse/petrol",
-        "https://www.etymonline.com/word/petroleum"
-      ],
-      "historical_accept_claims": [
-        {
-          "relation_id": "e_ebccae1a30521fb6436f",
-          "source_entry_ids": [
-            "s_02ee523548fd53f2ec26"
-          ],
-          "evidence_urls": [
-            "https://ahdictionary.com/word/search.html?q=petroleum",
-            "https://en.wiktionary.org/wiki/petrolize",
-            "https://temporalraeweb.rae.es/dhle/petrolear",
-            "https://www.dictionary.com/browse/petrol"
           ]
         }
       ]
@@ -1601,17 +1562,6 @@
       ]
     },
     {
-      "root_id": "r_a4081bfd6630b82d",
-      "root": "quin",
-      "meaning": "five, fifth",
-      "word": "quintillion",
-      "status": "pending",
-      "reason": "quintillion descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved.",
-      "evidence_urls": [
-        "https://www.etymonline.com/word/quintet"
-      ]
-    },
-    {
       "root_id": "r_be9a644ff1438c60",
       "root": "mani",
       "meaning": "hand",
@@ -2807,6 +2757,33 @@
         "https://files.znu.edu.ua/files/Bibliobooks/Kushynova/0033892.pdf",
         "https://www.littre.org/definition/tribulation"
       ]
+    },
+    {
+      "root_id": "r_4d212b8c7fc48c4e",
+      "root": "vag",
+      "meaning": "wander",
+      "word": "vagrant",
+      "status": "pending",
+      "reason": "Major dictionaries favor a Germanic source with possible influence from Latin vagari; direct Latin derivation is disputed. Preserve the original relation on hold instead of asserting a settled root.",
+      "evidence_urls": [
+        "https://www.etymonline.com/word/vagrant",
+        "https://sources.debian.org/src/dict-gcide/0.48.5%2Bnmu2/cide/v.cide",
+        "https://etymologically.com/en/extravagant",
+        "https://www.ahdictionary.com/word/search.html?q=vagrant"
+      ]
+    },
+    {
+      "root_id": "r_89db3780898d872e",
+      "root": "vert",
+      "meaning": "to turn; to be occupied with",
+      "word": "covert",
+      "status": "pending",
+      "reason": "Covert is documented from Old French covrir and Latin cooperire cover, not Latin vertere turn. Preserve the source relation for review while removing the incorrect selectable edge.",
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/covert_2",
+        "https://www.etymonline.com/word/covert",
+        "https://www.etymonline.com/word/cover"
+      ]
     }
   ],
   "resolved_after_hold": [
@@ -3049,9 +3026,27 @@
       "word": "phobia",
       "resolution": "Present in the current snapshot after a later source-scoped review.",
       "original_reason": "American Heritage gives English phobia from the suffix -phobia and distinguishes noun and suffix. Fear lineage and sense match, but whole-English-word self-edge eligibility remains pending."
+    },
+    {
+      "root_id": "r_0d7dbaa2984af3e6",
+      "word": "predispose",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Predispose has disputed immediate formation via predisposition or French predisposer; the historical pos family alone does not resolve this exact alias."
+    },
+    {
+      "root_id": "r_3452cb8a24e56cd0",
+      "word": "petrolize",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "Wiktionary 记录 petrolize 从 petrol + -ize，petrol 经 petroleum 含 petra 岩石；目标历史义匹配，但另一条专业历史词典网页本次超时，尚未独立核实罕见动词的拼写、义项及派生。"
+    },
+    {
+      "root_id": "r_a4081bfd6630b82d",
+      "word": "quintillion",
+      "resolution": "Present in the current snapshot after a later source-scoped review.",
+      "original_reason": "quintillion descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved."
     }
   ],
-  "roots_sha256": "b2ab350d114bb7b7e4e7d9f054e729dd96f58bffd793e332f6a0aafcc339465f",
+  "roots_sha256": "bc52659edee2acc7b6a1076a327bd09618b92fa817df181e465b8badba9593f3",
   "sources": {
     "s_d80926857517979fbd99": {
       "project": "morphemes",
@@ -3329,6 +3324,51 @@
         "https://www.etymonline.com/word/surge",
         "https://www.etymonline.com/word/insurrection",
         "https://www.etymonline.com/word/resurrection"
+      ]
+    },
+    {
+      "original": {
+        "id": "r_e1ac89c7616378b0",
+        "root": "anthr",
+        "source_form": "anthr",
+        "meaning": "human being",
+        "class": "root",
+        "origin": "Greek",
+        "example": [],
+        "family_id": "g_807578a53242ff62",
+        "related_root_ids": [
+          "r_60fa2b69e159480e",
+          "r_839265e1e0007ccc",
+          "r_982950af48da2da0",
+          "r_ad9765cef08e4752"
+        ],
+        "source_entry": "anthr, anthro, anthrop, anthropo",
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_e1ac89c7616378b0",
+      "root": "anthr",
+      "meaning": "human being",
+      "withdrawn_examples": [
+        "anthropocentric",
+        "anthropogenesis",
+        "anthropoid",
+        "anthropology",
+        "anthropometry",
+        "anthropomorphism",
+        "anthropophagy",
+        "lycanthrope",
+        "lycanthropy",
+        "misanthrope",
+        "misanthropy",
+        "philanthropist",
+        "philanthropy",
+        "pithecanthropus"
+      ],
+      "reason": "Independent dictionaries attest Greek anthrop-/anthropo- for human, but a standalone anthr- meaning human was not established; anthr- in chemical terminology is a distinct form. Retain all 14 reviewed words under the already supported anthrop and anthro entries, and preserve the original target and examples as a reversible quality hold.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/anthrop-",
+        "https://www.collinsdictionary.com/dictionary/english/anthropo",
+        "https://www.etymonline.com/word/anthropo-"
       ]
     }
   ],
