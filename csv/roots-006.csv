@@ -1,7 +1,38 @@
 ﻿id,root,source_form,meaning,class,origin,source_entry,example
+r_e1149eee361a2a63,uv,uv,grape,historical_stem,Latin,uv-,uvea
+r_6708417084dae043,uxor,-uxor-,wife,root,Latin,uxor-,uxoricide
+r_9ddae9cb269881cf,vac,vac,empty,root,Latin,vac,evacuate | evacuation | evacuee | vacancy | vacant | vacantly | vacate | vacation | vacationer | vacuity | vacuous | vacuum | vacuumize | vac | vacationist
+r_aae6f333874f9f05,vacc,vacc,cow,historical_stem,Latin,vacc-,vaccary | vaccinal | vaccinate | vaccinated | vaccination | vaccinator | vaccine | vaccinee | vaccinia
+r_edc9809e6a1ac1d2,vacill,vacill,"waver, sway",historical_stem,Latin vacillare,vacill,vacillate | vacillation
+r_0a103e0654e8dfc9,vacu,vacu,"empty, unoccupied, free",historical_stem,"Latin vacuus empty, adjective stem vacu-",vacu,evacuate | evacuated | evacuation | evacuee | vacuum | vacuuming | vacuumize
+r_cb2da38118a41d9b,vad,vad,to go,root,Latin,"vad, vas",evade | evader | invade | invaded | invader | invading | pervade | pervading
+r_c2b58ee2821442f9,vade,vade-,go; Latin imperative of vadere,lookup_alias,Latin,vade,evade
+r_4d212b8c7fc48c4e,vag,vag,wander,root,Latin,vag,divagate | divagation | extravagance | extravagant | extravagantly | extravaganza | noctivagant | vagabond | vagabondage | vagary | vagile | vague | vaguely | vagueness
+r_58bbfb713d3236f2,vail,vail,"be strong, be worth",root,Latin via Old French,vail,avail | available | countervail | prevail | unavailing | unavailability | unavailable
+r_ba3bbc061eca7709,vain,vain,"futile, without effect; excessively proud",root,"English, via French from Latin",vain,vain | vainglorious | vainly | vaingloriously
+r_90c2e34b68bb0724,val,val,strength; worth,root,Latin,"val, valu, valid",ambivalence | ambivalent | ambivalently | bivalent | convalesce | convalescence | convalescent | devaluation | devalue | devalued | divalent | equivalent | evaluable | evaluate | evaluation | evaluative | evaluator | heptavalent | invalid | invalidate | invalidation | invalidism | invalidity | invaluable | multivalent | overvaluation | overvalue | overvalued | pentavalent | polyvalent | prevalence | prevalent | quinquevalent | revaluation | revalue | revalued | tetravalent | trivalent | undervaluation | undervalue | undervalued | univalent | valence | valiant | valiantly | valid | validate | validated | validating | validation | validator | validity | validly | valor | valorization | valorize | valorous | valuable | value | valued | valueless | valuing | valour | equivalently
+r_36db9b29b4524286,vale,vale,"to be strong, well, or worth",historical_stem,Latin,vale,valence
+r_19b4f7b5d877b4f4,valid,valid,strength; worth,root,Latin,"val, valu, valid",invalidate | valid | validate | validity | validly
+r_f1ac9c33a97d5759,valu,valu,strength; worth,root,Latin,"val, valu, valid",evaluate | invaluable | valuable | value
+r_b4d5e4e263dceb9a,valv,valv,folding door; valve,root,Latin,valv,valve | valvular
+r_f0a2d9c4797ca74b,van,van,"empty, vain, idle",root,Latin,van-,evanesce | evanescence | evanescent | evanish | vanish | vanished | vanishing | vanishingly | vanity
+r_54c35d370793acd8,vandal,vandal,person who deliberately destroys property,root,"English vandal, from ethnonym Vandal; figurative use",vandal,vandal | vandalism | vandalize | vandalized
+r_c518e2cb3880e9ed,vanq,vanq,conquer,root,Latin,"vinc, vict, vanq",vanquish
+r_89789686f1a85e2a,vant,vant,"before, in front",historical_stem,"Anglo-French vant, shortened form of avant",vant,advantage | advantaged | advantageous | advantageously | disadvantage | disadvantaged | disadvantageous
+r_52b153664f5a87fa,vap,vap-,"steam, vapor; give off vapor",historical_stem,Latin,vap,evaporative | evaporator | evaporite | nonevaporative | vapor | vaporescence | vaporescent | vaporific | vaporous
+r_d4c9bb149f560563,vapor,vapor,"vapor, steam; produce vapor",root,Latin via French,vapor,evaporate | evaporated | evaporation | evaporative | evaporator | vapor | vaporization | vaporize | vaporized | vaporizer | vaporous
+r_4404cc3b30c4b018,var,var,different,root,Latin,var,bivariate | covariate | covariation | intervarietal | invariable | invariance | invariant | variable | variance | variant | variate | variation | variegate | variegated | varietal | variety | variorum | various | vary | unvarying | varying
+r_785d9956a43ad7bb,var,var,bent; crooked,root,Latin,var,prevaricate | varus
+r_77c666722ad7bc20,vari,vari,"diverse, of many kinds",root,Latin,vari,bivariate | covariate | covariation | intervarietal | invariable | invariably | invariance | invariant | unvaried | variability | variable | variably | variance | variant | variate | variation | varicoloured | varied | variegate | variegated | varietal | variety | variform | variorum | various | variously | varisized
+r_397f146e479fe03f,varic,varic,straddle; walk crookedly,root,Latin,varic-,prevaricate
+r_5b3aa213d2dbe731,vas,vas-,vessel; duct,combining_form,Latin,vas-,avascular | intravascular | vasoconstrictor | vasodilation | vascular | vascularity | vascularization | vascularize | vasculature | vasculitis
+r_a75e7bdb1a611dc8,vas,vas,to go,root,Latin,"vad, vas",evasion | evasive | evasively | evasiveness | invasion | invasive | invasiveness | noninvasive | pervasion | pervasive | pervasively | pervasiveness
+r_d615231b3d134b69,vasc,vasc-,blood vessel,root,Latin,vas-,vascular | vascularity | vascularization | vascularize | vasculitis
+r_c6e77217eca30ecf,vaso,vaso-,blood vessel,root,Latin,vas-,vasoconstrictor | vasodilation
+r_237ffdf073c53474,vast,vast,immense; extensive,root,Latin,vast,vast | vastly | vastness
 r_9e2c37d3fb477eb0,vast,vast,lay waste,root,Latin,vast,devastate | devastated | devastating | devastatingly | devastation
 r_91bb7c7dc70220c3,vault,vault,arch; arched roof,root,"English from French, ultimately Latin volvere",vault,vaulted
-r_df31d70f56252f7f,vault,vault,leap; jump,root,"English from French and Italian, ultimately Latin volvere",vault,vaulted | vaulter
+r_df31d70f56252f7f,vault,vault,leap; jump,root,"English from French and Italian, ultimately Latin volvere",vault,vaulted | vaulter | vaulting | vault
 r_0bed206af2bde05a,vect,vect,carry; convey,root,Latin,"veh-, vect-",invective | vector
 r_0403ebb62246f632,veg,veg,be lively; grow,root,Latin,veg,vegetable | vegetal | vegetarian | vegetarianism | vegetate | vegetated | vegetation | vegetative
 r_7ddb29974398203a,veh,veh,carry; convey,root,Latin,"veh-, vect-",vehicle
@@ -17,15 +48,15 @@ r_62b4c0e330a9d6a8,vend,vend-,sell,root,Latin,vend-,vend | vendor
 r_00acbd80a42b220c,vener,vener-,"sexual love, desire; Venus",historical_stem,Latin,vener,venereal
 r_4a157cab9418f204,vener,vener-,respectful,root,Latin,vener-,venerable | veneration
 r_323ed4de045b4cb6,veng,veng-,"avenge, take revenge",historical_stem,Old French,veng,avenge | avenger | avenging | revenge | revengeful | revengefully | unrevenged
-r_964c0fcea062c739,venge,venge,"avenge, take revenge",root,"Middle English, from Old French",venge,avenger | revenge | revengeful | revengefully
+r_964c0fcea062c739,venge,venge,"avenge, take revenge",root,"Middle English, from Old French",venge,avenger | revenge | revengeful | revengefully | revengefulness
 r_f795e573ddf15bbc,veni,veni,to come,root,Latin,"veni, vent, ven, -vene",convenient | souvenir
 r_35ce63c0e1bf261a,vent,vent,wind,root,Latin,vent-,ventilation | ventilator
 r_bfd249cbe6760d6c,vent,vent,to come,root,Latin,"veni, vent, ven, -vene",advent | adventure | adventurer | adventuresome | adventuress | adventurism | adventurous | circumvent | convent | convention | conventional | event | eventful | eventual | eventuality | eventually | eventuate | intervention | invent | invented | invention | inventive | inventively | inventiveness | inventor | misadventure | prevent | preventable | preventative | preventer | prevention | preventive | reinvent | reinvention | uneventful | uneventfully | venture | adventurousness | unadventurous
 r_079ecb2f569dd49a,ventr,ventr,belly,root,Latin,ventr-,ventral
 r_e845b002bbb79794,ventricular,-ventricular,relating to a ventricle,root,"English ventricular, from ventricle + -ar",ventricular,atrioventricular | auriculoventricular | intraventricular
 r_7e7f32039a841cd8,ver,ver,truth,root,Latin,ver,aver | inveracity | veracious | veracity | verdict | veridical | verifiable | verifier | verify | verily | verisimilar | verisimilitude | veritable | verity | very
-r_e553c624ac7adc0c,verac,verac,truthful; according to truth,root,Latin,verac,veracious
-r_52cf2bebffb1284c,verb,verb,word,root,Latin,verb,adverb | adverbial | nonverbal | nonverbally | proverb | proverbial | proverbially | verb | verbal | verbalism | verbalist | verbalization | verbalize | verbalized | verbally | verbatim | verbiage | verbose | verbosity
+r_e553c624ac7adc0c,verac,verac,truthful; according to truth,root,Latin,verac,veracious | veraciously
+r_52cf2bebffb1284c,verb,verb,word,root,Latin,verb,adverb | adverbial | nonverbal | nonverbally | proverb | proverbial | proverbially | verb | verbal | verbalism | verbalist | verbalization | verbalize | verbalized | verbally | verbatim | verbiage | verbose | verbosity | verbosely
 r_2d138d41bcaa2041,verber,verber,"whip, strike",root,Latin,verber-,reverberation
 r_fbcadaa7b01ed327,verd,verd,green,root,Latin,verd,verdant | verdigris | verdure
 r_929090da116cd985,verg,verg,to turn,root,Latin,verg,converge | convergence | convergent | converging | diverge | divergence | divergent | diverging
@@ -35,8 +66,8 @@ r_995b5abb1ce55ff4,vermi,vermi,worm,root,Latin,verm-,vermicular | vermiculate | 
 r_dfeddb965a0b082f,vern,vern,spring,historical_stem,Latin,vern-,vernal
 r_589e43645f497332,verruc,verruc,wart,root,Latin,verruc,verrucose
 r_2227333b503c7300,vers,vers,to turn; to be occupied with,root,Latin,"vers, vert",adversarial | adversary | adversative | adverse | adversely | adverseness | adversity | animadversion | anniversary | averse | aversion | biodiverse | controversial | controversy | conversable | conversant | conversation | conversational | converse | conversely | divers | diverse | diversely | diversification | diversified | diversiform | diversify | diversion | diversity | eversion | extraversion | extroversion | introversion | inverse | inversely | inversion | irreversibility | irreversible | irreversibly | malversation | obverse | perverse | perversely | perversion | perversity | revers | reversal | reverse | reversed | reverser | reversibility | reversible | reversing | reversion | subversion | tergiversate | transversal | transverse | traversal | traverse | universal | universalism | universalist | universality | universalize | universally | universe | university | versatile | versatility | verse | versicle | versify | version | verso | versus | conversion | diversionary | inversive | retroversion | subversive | subversively | conversationalist | conversationally | universalistic | universalization | universalized | universalizing | versification | versifier
-r_406191b94a292de1,verse,verse,turn; line of verse,root,Latin through French and English,verse,inverse | perverse | reverse | transverse | universe | verse
-r_89db3780898d872e,vert,vert,to turn; to be occupied with,root,Latin,"vers, vert",advert | advertent | advertise | advertised | advertisement | advertiser | advertising | animadvert | avert | averted | controvert | convert | converted | converter | convertibility | convertible | divert | diverted | diverting | evert | extrovert | inadvertence | inadvertent | intervertebral | introvert | invert | invertebrate | inverted | inverter | inverting | pervert | reconvert | revert | revertant | reverted | revertible | reverting | subvert | subverted | unconverted | vertebra | vertebral | vertebrate | vertex | vertical | verticil | vertiginous | vertigo | retrovert
+r_406191b94a292de1,verse,verse,turn; line of verse,root,Latin through French and English,verse,inverse | perverse | reverse | transverse | universe | verse | inversely | transversely
+r_89db3780898d872e,vert,vert,to turn; to be occupied with,root,Latin,"vers, vert",advert | advertent | advertise | advertised | advertisement | advertiser | advertising | animadvert | avert | averted | controvert | convert | converted | converter | convertibility | convertible | divert | diverted | diverting | evert | extrovert | inadvertence | inadvertent | intervertebral | introvert | invert | invertebrate | inverted | inverter | inverting | pervert | reconvert | revert | revertant | reverted | revertible | reverting | subvert | subverted | unconverted | vertebra | vertebral | vertebrate | vertex | vertical | verticil | vertiginous | vertigo | retrovert | divertingly
 r_940e31eaefe6329f,vesic,vesic,bladder,historical_stem,Latin,vesic-,vesical
 r_28b21f00495c6eb8,vesper,vesper,evening; west,root,Latin,vesper,vesperal
 r_44d68adcf8c76b29,vest,vest,clothe; clothing,root,Latin,vest,disinvest | disinvestment | divest | divested | divestiture | invest | invested | investing | investitive | investiture | investment | investor | reinvest | reinvestment | transvestite | travesty | vest | vested | vestiary | vesting | vestment | vestry
@@ -44,7 +75,7 @@ r_086dc958a085cf02,vestibule,vestibule,an entrance hall; an anatomical entrance 
 r_99ce63644531990e,vestig,vestig,"footprint, trace",root,Latin,vestig,investigable | investigate | investigated | investigating | investigation | investigational | investigative | investigator | investigatory | reinvestigate | reinvestigation | uninvestigated | vestige | vestigial
 r_92aacfa7733b8a89,vet,vet,forbid,historical_stem,Latin,vet-,veto
 r_2f0b72109473f15b,veter,veter,old,root,Latin,veter-,inveterate | veteran
-r_1df26170f20770b6,vex,vex-,annoy,root,Latin,s_2f019636c91cdaaab72a,vexatious | vexed | vexing
+r_1df26170f20770b6,vex,vex-,annoy,root,Latin,s_2f019636c91cdaaab72a,vexatious | vexed | vexing | vexatiously
 r_afda7653a373e7c3,vi,vi-,"road, way",historical_stem,Latin,vi,deviance | deviancy | deviant | deviate | deviated | deviation | deviationist | devious | deviously | impervious | obviate | obvious | obviously | obviousness | previous | previously | trivial | triviality
 r_d8fb3bd2c90ddf6f,via,via,way,root,Latin,via,deviation | trivial | triviality | trivialize | trivially | via | viaduct | viameter | viatic | deviate | nontrivial | obviate | trivia | trivialization
 r_cf5da685fbe86f0c,vibr,vibr,"set in tremulous motion, move quickly to and fro, quiver, tremble, shake",root,Latin,vibr,vibrance | vibrancy | vibrant | vibrantly | vibrate | vibratile | vibratility | vibrating | vibration | vibrational | vibrator | vibratory
@@ -77,7 +108,7 @@ r_b4a5f0d821d24356,viron,viron,circle; circuit,root,Old French,viron,environment
 r_904d3d76b0869d2d,virt,virt,strength; virtue,root,Latin,virt,virtual | virtuality | virtually | virtue | virtuosic | virtuosity | virtuoso | virtuous | virtuously
 r_6c1c90efbe1e5912,viru,viru,poison; virulence,historical_lookup,"Latin virus poison, virulentus poisonous",viru,virulence | virulent
 r_fd2387b5d6b63a3e,viru,viru,virus,root,Latin,vir-,virucidal | virucide
-r_6a165b8e85e96c1e,virus,virus,virus; infectious agent,word_base,"English virus, from Latin virus poison; modern biological sense",virus,virus
+r_6a165b8e85e96c1e,virus,virus,virus; infectious agent,word_base,"English virus, from Latin virus poison; modern biological sense",virus,virus | viruslike
 r_913b580b0e6b6568,vis,vis,see,root,Latin,"vid, vis, -vise",advisability | advisable | advise | advised | advisedly | advisee | advisement | adviser | advisor | advisory | envisage | envisagement | envision | improvisation | improvisational | improvisatory | improvise | improvised | improviser | inadvisable | invisibility | invisible | invisibly | nonsupervisory | nonvisual | previse | prevision | provision | provisional | provisionality | provisionally | provisioning | proviso | provisory | revisal | revise | revised | revision | revisionary | revisionism | revisionist | revisit | supervise | supervised | supervising | supervision | supervisor | supervisory | survise | televise | television | televisual | unsupervised | vis-à-vis | visa | visage | visibility | visible | visibly | vision | visionary | visit | visitable | visitation | visiting | visitor | visor | vista | visual | visualist | visuality | visualization | visualize | visualized | visualizer | visually | visuals
 r_cab39b357a1bdf8c,viscer,viscer-,internal organ,root,Latin,viscer-,eviscerate | visceral
 r_971d4606366bd5db,visco,visco-,thick,root,Latin,visc-,viscoelastic | viscometer | viscose | viscosity
@@ -90,12 +121,12 @@ r_26b64c5d830cfa06,viv,viv,"life, living, live",root,Latin,"viv, vivi, vit",conv
 r_160f8fd254b4d23c,viva,viva,"living, alive",historical_form,Latin,viva,vivacious | vivacity
 r_f259a2c75b50d871,vive,-vive,"life, live",root,Latin,"viv, vivi, vit",revive | survive
 r_6f4fc70fdfc84948,vivi,vivi,"life, living, live",root,Latin,"viv, vivi, vit",convivial | vivid | vivify | vivisection
-r_e3d72842ecc1c6a0,voc,voc,"voice, to call",root,Latin,"voc, -voke",advocacy | advocate | advocator | advocatory | avocation | avocational | convocation | equivocal | equivocality | equivocate | equivocation | evocation | evocative | invocation | irrevocable | multivocal | provocation | provocative | provocator | revocable | revocation | unequivocal | vocable | vocabulary | vocal | vocalic | vocalism | vocalist | vocalization | vocalize | vocally | vocation | vocational | vocationally | vocative | vociferous | evocatively | irrevocably | provocatively | invocative | invocator | prevocational | provocate | provocateur
+r_e3d72842ecc1c6a0,voc,voc,"voice, to call",root,Latin,"voc, -voke",advocacy | advocate | advocator | advocatory | avocation | avocational | convocation | equivocal | equivocality | equivocate | equivocation | evocation | evocative | invocation | irrevocable | multivocal | provocation | provocative | provocator | revocable | revocation | unequivocal | vocable | vocabulary | vocal | vocalic | vocalism | vocalist | vocalization | vocalize | vocally | vocation | vocational | vocationally | vocative | vociferous | evocatively | irrevocably | provocatively | invocative | invocator | prevocational | provocate | provocateur | unequivocally
 r_a929a52d43d55ba7,voca,voca,"call, voice",root,Latin,voc-,advocacy | advocate | advocation | advocator | advocatory | avocation | convocate | convocation | convocator | equivocate | equivocation | evocable | evocation | evocative | evocator | invocable | invocate | invocation | invocative | invocator | prevocational | provocate | provocateur | provocation | provocative | provocator | revocable | revocation | vocabulary | vocation | vocational | vocative
 r_26c0b08ce4f88e77,voi,voi,"road, way",historical_form,"Anglo-Norman, from Latin",voi,invoice
 r_e4d0d5a83b8ce50e,voic,voic,"voice, vocal sound",historical_form,"Scots / English, from French",voic,unvoiced | voice | voiced | voiceless | voicemail | voicing
 r_046e416c2a50ddef,void,void,empty,root,Latin,void,avoid | avoidable | avoidance | avoided | avoiding | devoid | void | voidable | voidage | voidance | voided | voiding
-r_993fa2c7dbb1b8ac,vol,vol,"wish, intention, will",root,Latin,vol,benevolence | benevolent | benevolently | involuntary | malevolence | malevolent | omnibenevolence | volition | volitional | volitive | voluntarily | voluntary | volunteer | volitient | voluntaryism
+r_993fa2c7dbb1b8ac,vol,vol,"wish, intention, will",root,Latin,vol,benevolence | benevolent | benevolently | involuntary | malevolence | malevolent | omnibenevolence | volition | volitional | volitive | voluntarily | voluntary | volunteer | volitient | voluntaryism | malevolently
 r_5bba8f445a18d429,volcan,volcan-,fire,root,Latin,volcan,volcano
 r_6483ac0f37e3cc57,volt,volt,"turn, circular movement",historical_lookup,"English volt horse turn from French volte, Italian volta",volt,revolt | revolted | revolting
 r_58be864942481239,volu,volu,to wish; to will,historical_stem,Latin,volu,involuntary | voluntary | voluntaryism | volunteer
@@ -105,7 +136,7 @@ r_91bc202eee97cb4b,volut,volut,"roll, turn",root,Latin,"volv, volu, volut",convo
 r_5585dfe1db7065ff,volv,volv,"roll, turn",root,Latin,"volv, volu, volut",convolve | convolvulus | devolve | evolve | evolved | evolving | involve | involved | involvement | revolve | revolver | revolving | volvulus | intervolve | uninvolved | volva | volvox
 r_564727ebf1df2ec1,vom,vom-,"vomit, spew forth, discharge",historical_stem,Latin vomere to vomit or discharge,vom,vomit | vomition | vomitory | vomitus
 r_e5039fa3d616be34,vor,vor,to eat,root,Latin,vor,carnivore | carnivorous | granivorous | herbivore | herbivorous | insectivore | insectivorous | omnivore | omnivorous | piscivorous | voracious | voracity | devoré | granivore | locavore | mellivorous | nucivorous | panivorous | voraginous
-r_b8e09757ecf6dc95,vorac,vorac-,"eat, swallow, feeding",root,Latin,vor,voracious | voracity
+r_b8e09757ecf6dc95,vorac,vorac-,"eat, swallow, feeding",root,Latin,vor,voracious | voracity | voraciously
 r_e9acd64faf3a9ddb,vore,-vore,one that eats the specified thing,combining_form,Latin via French,"vor-, vorac-",detritivore | locavore | carnivore | granivore
 r_2b899ada015b14cd,vorous,-vorous,"eating, feeding on",combining_form,Latin,"vor-, vorac-",carnivorous | herbivorous | mellivorous | omnivorous | piscivorous
 r_8565cc1e9ba1d96c,vot,-vot-,"vow, wish",root,Latin,"vov-, vot-",devoted | devotedly | devotee | devotional | outvote | revote | votary | vote | voting | votive
@@ -134,12 +165,12 @@ r_83a4382ec42c1120,warn,warn,give notice of danger; caution,root,"English, from 
 r_fe53124dbcf438d6,warp,warp,"bend, twist, distort",root,"English, from Old English weorpan to throw",warp,warped | warping | warp
 r_48e786955514b9cf,wash,wash,cleanse with water or liquid,root,"English, from Old English wascan",wash,brainwash | brainwashed | brainwashing | unwashed | washable | washed | washer | washing | wash
 r_a6153ad834d9ea53,wast,wast,"waste, desolation, squander",historical_form,"Middle English, Anglo-Norman",wast,wastage | waste | wastebasket | wasted | wasteful | wastefully | wastefulness | wasteland | wastepaper | waster | wastewater | wasting
-r_e591eb983cb5ee21,waste,waste,"waste, squander; refuse; desolate",root,Middle English via French,waste,waste | wasted | wasteful
+r_e591eb983cb5ee21,waste,waste,"waste, squander; refuse; desolate",root,Middle English via French,waste,waste | wasted | wasteful | wastefulness | wastefully
 r_fe137a0416d292fd,watch,watch,observe attentively; remain vigilant,root,"English, from Old English wæccan",watch,watchfully | watchfulness | watching | unwatchable | unwatched | watch | watchable | watched | watcher | watchful
 r_e39cee8450060e83,water,water,water; supply or treat with water,root,"English, from Old English wæter",water,water-cooled | water-insoluble | water-repellent | water-resistant | water-soluble | water-washed | waterborne | watercress | watered | waterless | waterlogged | waterproof | waterproofed | watertight | waterworn | watery | watery-eyed | dewater | dewatered | dewatering | water | watering | waterproofing | waterproofness
 r_b044dcbfe517b0fe,wave,wave,an undulating ridge or moving swell,root,"English, from Old English wagian via Middle English waw, influenced by verb wave",wave,wave | wavelet
 r_3ed196775144c297,waver,waver,"to waver, fluctuate, be indecisive",root,"Middle English, Germanic",waver,unwavering | unwaveringly | waver
-r_f98d3ebcacb66816,wax,wax,wax; material like beeswax; coat with wax,root,Old English,wax,waxy
+r_f98d3ebcacb66816,wax,wax,wax; material like beeswax; coat with wax,root,Old English,wax,waxy | waxing | waxed | wax | waxen
 r_704a9553cc09f25d,way,way,"way, route, passage; manner",root,Old English,way,always | away | doorway | driveway | fairway | freeway | gateway | getaway | halfway | hallway | highway | pathway | railway | roadway | runaway | runway | sideways | subway | underway | walkway | waterway | way | leastways
 r_c0daf716b1ed5873,weak,weak,lacking strength; make or become less strong,word_base,"Middle English, from Old Norse veikr",weak,weak | weaken | weakening | weakly | weakness
 r_c928176571456b08,weapon,weapon,instrument used in fighting or defense,word_base,Old English wæpen,weapon,weapon | weaponization | weaponize | weaponized | weaponless | weaponry
@@ -152,7 +183,7 @@ r_0ffa697beffb94ac,wed,wed,marry; pledge,root,Old English,wed,unwed | wed | wedd
 r_00760c28b5bb0b0f,weed,weed,wild or unwanted plant; remove weeds,root,Old English,weed,seaweed | weed | weeding | weedless | weedy
 r_89165b5e2094e94e,week,week,a period of seven days,root,Old English,week,biweekly | midweek | week | weekend | weekender | weekly | weeknight
 r_af75538b04ef5618,weep,weep,"cry, shed tears; mourn",root,Old English,weep,weep | weeper | weeping | weepy
-r_b4e99c18cbc174fc,weigh,weigh,measure or have weight; consider,root,Old English,weigh,overweight | unweighted | weigh | weighable | weighbridge | weigher | weighing | weight | weighted | weighting | weightless | weighty
+r_b4e99c18cbc174fc,weigh,weigh,measure or have weight; consider,root,Old English,weigh,overweight | unweighted | weigh | weighable | weighbridge | weigher | weighing | weight | weighted | weighting | weightless | weighty | weightlessness
 r_03868bf978ab8f1f,weight,weight,heaviness; measure of heaviness; make heavier,word_base,"Old English wiht, gewiht",weight,overweight | underweight
 r_fb16f10c92de7827,weird,weird,"fate, destiny; uncanny, strange",word_base,Old English wyrd; adjective transmitted through Scots,weird,weird | weirdly | weirdness | weirdo
 r_c0246178a324fe01,well,well,"in a good, appropriate, or satisfactory manner; healthy or satisfactory",root,Old English,well,well-connected | well-defined | well-disposed | well-done | well-educated | well-endowed | well-favored | well-favoured | well-fed | well-fixed | well-formed | well-found | well-founded | well-grooved | well-grounded | well-heeled | well-informed | well-intentioned | well-kept | well-knit | well-lighted | well-lined | well-made | well-mannered | well-marked | wellness | unwell | well
@@ -178,9 +209,9 @@ r_6e921dbb81a5496c,willow,willow,willow tree,word_base,Old English welig,willow,
 r_dfccaa5b9dfd974e,win,win,"gain, earn, succeed or be victorious",root,"English, Old English winnan and gewinnan",win,breadwinner | unwinnable | winnable | winner | winning | winningly | winnings | win
 r_26498894470c8d87,wind,wind,moving air; breath,root,"English, Old English wind, Proto-Germanic *winda-",wind,windblown | windless | window | windowed | windowless | windowpane | windowsill | windswept | windward | windy | winded
 r_909803b25e140192,wind,wind,"turn, twist, coil or move in a curving path",root,"English, Old English windan, Proto-Germanic *windan",wind,rewind | unwind | unwinding | winder | winding | winded
-r_a29dd46f35bc092a,wing,wing,"wing, part or appendage used in flight; lateral part",root,Middle English from Old Norse,wing,wing | winged | winger | wingspan | wingtip
+r_a29dd46f35bc092a,wing,wing,"wing, part or appendage used in flight; lateral part",root,Middle English from Old Norse,wing,wing | winged | winger | wingspan | wingtip | wingless
 r_87b14007b6af6ff8,wink,wink,close and open the eye; blink,root,Old English,wink,eyewink | eyewinker | wink | winker | winking
-r_94ce784f43ce2707,winter,winter,"winter, the coldest season",root,Old English,winter,midwinter | overwinter | overwintering | winter | wintering
+r_94ce784f43ce2707,winter,winter,"winter, the coldest season",root,Old English,winter,midwinter | overwinter | overwintering | winter | wintering | wintery
 r_f14c9d7f8f6d26ae,wire,wire,"wire, a drawn metal strand; connect or equip with wire",root,Old English,wire,rewire | unwired | wire | wired | wireless
 r_9c5b17453ac47eb2,wis,wis,"wise, prudent; having sound judgment",historical_form,Old and Middle English,wis,unwise | unwisely | wisdom | wise | wisely
 r_c4197af5f91933ac,wish,wish,desire or hope for; a desire or hope,word_base,Old English wyscan,wish,wish | wishful | wishfully | wishing
@@ -196,7 +227,7 @@ r_f7cb4ccf2990c578,work,work,perform labor or activity; operate; an effort or pr
 r_9915ab4f3b52c314,world,world,"the world, human life or earthly existence; a realm",root,"English, Old English woruld",world,netherworld | world-class | world-shaking | world-shattering | world-weary | world-wide | worldly | worldly-minded | worldly-wise | worldwide | world
 r_4a705cfef277d6f4,worm,worm,a worm or worm-like invertebrate; to move like a worm,root,"English, Old English wyrm",worm,bellyworm | fireworm | wormhole | wormless | worm
 r_2826ebd2a6f91a8b,worry,worry,"worry, feel anxiety or cause distress",root,Old English,worry,worry | worrying | worryingly
-r_1a57f6fe44e3f5e0,worth,worth,"worth, value, merit",root,Old English,worth,unworthiness | unworthy | worth | worthiness | worthless | worthlessness | worthwhile | worthy
+r_1a57f6fe44e3f5e0,worth,worth,"worth, value, merit",root,Old English,worth,unworthiness | unworthy | worth | worthiness | worthless | worthlessness | worthwhile | worthy | worthlessly
 r_c42289c5b82f6879,worthy,worthy,having worth or merit; deserving,word_base,Middle English worthi from worth,worthy,unworthy
 r_0ab827eba6cdb275,wound,wound,injury to tissue; injure physically or emotionally,word_base,Old English wund,wound,wound | wounded | wounding
 r_b3c7cfa2fc86eb88,wrap,wrap,cover or enclose by folding material around,word_base,Middle English wrappen,wrap,unwrap | unwrapped | wrap | wrapped | wrapper | wrapping
@@ -204,8 +235,8 @@ r_72acf49c5ae751d0,wreck,wreck,destroy or seriously damage; a wreck or ruined th
 r_33063f4510a6a8af,wrest,wrest,"twist, pull or force away",root,"English, Old English wrǣstan",wrest,wrestle | wrestler | wrestling | wrest
 r_220162e637d83671,writ,writ,"scratch, carve, inscribe; write",historical_stem,"Germanic reconstructed *writ-, Old English wrītan",writ,rewritable | rewrite | rewriting | underwrite | underwriter | underwriting | unwritten | write | writer | writerly | writing | written
 r_2bef7b5982c863cb,wrong,wrong,"unjust, incorrect; injure or act unjustly",root,"English, from Old Norse rangr / Old English wrang",wrong,wrongdoer | wrongdoing | wronged | wrongful | wrongfully | wrongfulness | wrong
-r_fbfe902894dc16e7,xanth,xanth,yellow,root,Greek,"xanth, xantho",axanthism | xanthein | xanthelasma | xanthic | xanthine | xanthochromia | xanthochromism | xanthogenic | xanthoma | xanthomatosis | xanthophore | xanthophyll | xanthopsia | xanthosis | xanthous
-r_0e2e0fd03f9e9cb5,xantho,xantho,yellow,root,Greek,"xanth, xantho",xanthochromia | xanthochromism | xanthoma | xanthophore | xanthophyll | xanthopterin | xanthosis | xanthous
+r_fbfe902894dc16e7,xanth,xanth,yellow,root,Greek,"xanth, xantho",axanthism | xanthein | xanthelasma | xanthic | xanthine | xanthochromia | xanthochromism | xanthogenic | xanthoma | xanthomatosis | xanthophore | xanthophyll | xanthopsia | xanthosis | xanthous | xanthophobia | Xanthoidea | Xanthium
+r_0e2e0fd03f9e9cb5,xantho,xantho,yellow,root,Greek,"xanth, xantho",xanthochromia | xanthochromism | xanthoma | xanthophore | xanthophyll | xanthopterin | xanthosis | xanthous | xanthophobia | Xanthoidea
 r_4ac5d8274ebbc4c2,xe,xe-,"scrape, shave",historical_form,Ancient Greek,xe,arthroxesis
 r_182fd48e7eb8e0d6,xen,xen,foreign,root,Greek,"xen, xeno",axenic | xenia | xenic | xenobiotic | xenoblast | xenogamy | xenograft | xenolith | xenon | xenophobia | xenology
 r_100cd0e8cfa96182,xeno,xeno,foreign,root,Greek,"xen, xeno",xenobiotic | xenoblast | xenogamy | xenograft | xenolith | xenology | xenon | xenophobia
@@ -221,7 +252,7 @@ r_fee810d82bdd655e,yard,yard,unit of length; measuring rod,root,"Old English ger
 r_693b2daafa77f2dd,yawn,yawn,open the mouth involuntarily; gape,root,Old English geonian,yawn,yawned | yawnful | yawning | yawningly | yawn
 r_64f6906dedb04c2b,year,year,year; period of twelve months,root,Old English gear,year,first-year | fourth-year | one-year | second-year | third-year | two-year | yearling | year
 r_8bcdeb2a41703465,yel,yel,"yell, cry out loudly",historical_form,Middle English,yel,yell | yelling
-r_875bb8d4f0176edb,yellow,yellow,yellow color; having or becoming yellow,root,Old English,yellow,brownish-yellow | canary-yellow | creamy-yellow | deep-yellow | golden-yellow | sulfur-yellow | sulphur-yellow | yellow | yellow-bellied | yellow-brown | yellow-gray | yellow-green | yellow-grey | yellow-orange | yellow-tinged | yellowed | yellowing | yellowish | yellowish-gray | yellowish-grey | yellowish-orange
+r_875bb8d4f0176edb,yellow,yellow,yellow color; having or becoming yellow,root,Old English,yellow,brownish-yellow | canary-yellow | creamy-yellow | deep-yellow | golden-yellow | sulfur-yellow | sulphur-yellow | yellow | yellow-bellied | yellow-brown | yellow-gray | yellow-green | yellow-grey | yellow-orange | yellow-tinged | yellowed | yellowing | yellowish | yellowish-gray | yellowish-grey | yellowish-orange | yellowness
 r_66ec9bc5132e6926,yester,yester-,yesterday,root,Old English,yester-,yesterday | yesteryear
 r_4f1dc0efcbaeb640,yield,yield,produce or give; surrender or give way,word_base,Old English gieldan,yield,unyielding | yield | yielder | yielding
 r_15133745bb915771,young,young,not old; early in life,word_base,Old English geong,young,young | youngish | youngster

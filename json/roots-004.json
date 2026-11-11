@@ -1,5 +1,693 @@
 [
   {
+    "id": "r_620dad69f3d5194f",
+    "root": "myst",
+    "source_form": "myst",
+    "meaning": "secret, mystic, connected with the mysteries",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "demystification",
+      "demystify",
+      "mysterious",
+      "mysteriously",
+      "mystery",
+      "mystic",
+      "mystical",
+      "mystically",
+      "mysticism",
+      "mystification",
+      "mystified",
+      "mystify",
+      "mystifying",
+      "mystique"
+    ],
+    "family_id": "g_620dad69f3d5194f",
+    "related_root_ids": [],
+    "source_entry": "myst",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_7e26297e9cbb9925",
+    "root": "myth",
+    "source_form": "myth-",
+    "meaning": "myth, story",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "demythologize",
+      "myth",
+      "mythic",
+      "mythical",
+      "mythologic",
+      "mythological",
+      "mythologist",
+      "mythologize",
+      "mythology",
+      "mythomania",
+      "mythopoeia",
+      "mythos"
+    ],
+    "family_id": "g_a828b12d44966463",
+    "related_root_ids": [
+      "r_4f7c544d09205894"
+    ],
+    "source_entry": "myth-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_4f7c544d09205894",
+    "root": "mytho",
+    "source_form": "mytho",
+    "meaning": "myth",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "mythology",
+      "mythomania",
+      "mythopoeia",
+      "mythos"
+    ],
+    "family_id": "g_a828b12d44966463",
+    "related_root_ids": [
+      "r_7e26297e9cbb9925"
+    ],
+    "source_entry": "myth-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_74bc7d656aa2c967",
+    "root": "myxo",
+    "source_form": "myxo-",
+    "meaning": "slime, mucus",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "myxoedema",
+      "myxogastrid",
+      "myxomycetes",
+      "myxovirus"
+    ],
+    "family_id": "g_5a2fc650c1845a69",
+    "related_root_ids": [],
+    "source_entry": "myx-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_65d13afb450d9c2e",
+    "root": "myz",
+    "source_form": "myz-",
+    "meaning": "suck",
+    "class": "root",
+    "origin": "Greek myzao",
+    "source_entry": "myz",
+    "family_id": "g_1d98a38a32cff7fc",
+    "example": [
+      "Myzopoda"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1fc6d1070733d835",
+    "root": "nai",
+    "source_form": "nai",
+    "meaning": "born, be from, spring forth, source, birth, tribe",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "naissant",
+      "renaissance",
+      "renaissant"
+    ],
+    "family_id": "g_db62ef9bcb6a0241",
+    "related_root_ids": [
+      "r_488197f41d167c7d",
+      "r_83eef472b38a353a",
+      "r_966b1e2d069793b9",
+      "r_ca935b8ac8e045cc"
+    ],
+    "source_entry": "nasc-, nat-",
+    "pending_family_examples": 54
+  },
+  {
+    "id": "r_1805baa253c72a42",
+    "root": "naiv",
+    "source_form": "naiv",
+    "meaning": "natural, simple, unsophisticated, artless",
+    "class": "root",
+    "origin": "French",
+    "example": [
+      "naive",
+      "naively",
+      "naivete",
+      "naivety"
+    ],
+    "family_id": "g_1805baa253c72a42",
+    "related_root_ids": [],
+    "source_entry": "naiv",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_16c70c73d3b5d093",
+    "root": "nam",
+    "source_form": "nam",
+    "meaning": "name",
+    "class": "root",
+    "origin": "Old English nama and nam- in compounds",
+    "source_entry": "nam",
+    "family_id": "g_fe2ba43f09805ee1",
+    "example": [
+      "misname",
+      "misnamed",
+      "name",
+      "named",
+      "nameless",
+      "namely",
+      "nickname",
+      "nicknamed",
+      "rename",
+      "renamed",
+      "surname",
+      "unnamed"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_cb05862deab6ea15",
+    "root": "name",
+    "source_form": "name",
+    "meaning": "name; designate",
+    "class": "root",
+    "origin": "Old English nama (noun), namian (verb)",
+    "source_entry": "name",
+    "family_id": "g_1017386b0b231458",
+    "example": [
+      "misname",
+      "misnamed",
+      "name",
+      "named",
+      "nameless",
+      "namely",
+      "nickname",
+      "nicknamed",
+      "rename",
+      "renamed",
+      "surname",
+      "unnamed"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2ba5a014c906023d",
+    "root": "nano",
+    "source_form": "nano",
+    "meaning": "billionth",
+    "class": "prefix",
+    "origin": "Greek",
+    "example": [
+      "nanometer",
+      "nanosecond",
+      "nanobucks"
+    ],
+    "family_id": "g_2ba5a014c906023d",
+    "related_root_ids": [],
+    "source_entry": "nano",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_7d1804c4c8ea91f4",
+    "root": "nano",
+    "source_form": "nano",
+    "meaning": "dwarf",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "nanometer",
+      "nanosecond"
+    ],
+    "family_id": "g_f7a5936c485e5b92",
+    "related_root_ids": [],
+    "source_entry": "nano",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f6f67b70817271b1",
+    "root": "nap",
+    "source_form": "nap",
+    "meaning": "turnip",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "napiform"
+    ],
+    "family_id": "g_f6f67b70817271b1",
+    "related_root_ids": [],
+    "source_entry": "nap-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_bf99daeb9f21701b",
+    "root": "nar",
+    "source_form": "nar",
+    "meaning": "tell, give an account of",
+    "class": "root",
+    "origin": "Latin",
+    "family_id": "g_f9ff04d26379f94f",
+    "source_entry": "nar",
+    "example": [
+      "narratively",
+      "narrator",
+      "narrated",
+      "narrating",
+      "narrate",
+      "narration",
+      "narrative",
+      "narratological",
+      "narratology"
+    ],
+    "related_root_ids": [
+      "r_1d3c33dcee7668a2"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fa3d83b2085ff6f1",
+    "root": "nar",
+    "source_form": "nar-",
+    "meaning": "nostril, nose",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "internarial",
+      "nares",
+      "narial",
+      "naris",
+      "prenarial"
+    ],
+    "family_id": "g_bbc91eb743117234",
+    "related_root_ids": [],
+    "source_entry": "nar-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_6446d73321f12e61",
+    "root": "narc",
+    "source_form": "narc",
+    "meaning": "numb",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "narcolepsy",
+      "narcosis",
+      "narcotic"
+    ],
+    "family_id": "g_77bded504f73b0df",
+    "related_root_ids": [],
+    "source_entry": "narc-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1d3c33dcee7668a2",
+    "root": "narr",
+    "source_form": "narr",
+    "meaning": "tell, give an account of",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "counternarrative",
+      "inenarrable",
+      "narrate",
+      "narrated",
+      "narrating",
+      "narration",
+      "narrative",
+      "narratively",
+      "narratological",
+      "narratology",
+      "narrator",
+      "unnarratable"
+    ],
+    "family_id": "g_f9ff04d26379f94f",
+    "related_root_ids": [
+      "r_bf99daeb9f21701b"
+    ],
+    "source_entry": "narr",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3998ec01189163d9",
+    "root": "narrow",
+    "source_form": "narrow",
+    "meaning": "not wide; constricted; make narrower",
+    "class": "root",
+    "origin": "Old English nearu",
+    "source_entry": "narrow",
+    "family_id": "g_88bd22e6a573d3c2",
+    "example": [
+      "narrow",
+      "narrowed",
+      "narrowing",
+      "narrowly",
+      "narrowness",
+      "narrower"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_488197f41d167c7d",
+    "root": "nas",
+    "source_form": "nas",
+    "meaning": "birth; born",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "nascent",
+      "renascent"
+    ],
+    "family_id": "g_db62ef9bcb6a0241",
+    "related_root_ids": [
+      "r_1fc6d1070733d835",
+      "r_83eef472b38a353a",
+      "r_966b1e2d069793b9",
+      "r_ca935b8ac8e045cc"
+    ],
+    "source_entry": "nat, nas",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5b934c220e439171",
+    "root": "nas",
+    "source_form": "nas",
+    "meaning": "nose",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "intranasal",
+      "nasal",
+      "nasalance",
+      "nasality",
+      "nasalization",
+      "nasalize",
+      "nasally",
+      "nasolabial",
+      "nonnasal",
+      "nasalis"
+    ],
+    "family_id": "g_5b934c220e439171",
+    "related_root_ids": [
+      "r_b56fc97844d8e679"
+    ],
+    "source_entry": "nas",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_ca935b8ac8e045cc",
+    "root": "nasc",
+    "source_form": "nasc",
+    "meaning": "be born",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "adnascent",
+      "connascence",
+      "connascent",
+      "enascent",
+      "nascence",
+      "nascency",
+      "nascent",
+      "renascence",
+      "renascent"
+    ],
+    "family_id": "g_db62ef9bcb6a0241",
+    "related_root_ids": [
+      "r_1fc6d1070733d835",
+      "r_488197f41d167c7d",
+      "r_83eef472b38a353a",
+      "r_966b1e2d069793b9"
+    ],
+    "source_entry": "nasc",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b56fc97844d8e679",
+    "root": "naso",
+    "source_form": "naso",
+    "meaning": "nose",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "nasolabial"
+    ],
+    "family_id": "g_5b934c220e439171",
+    "related_root_ids": [
+      "r_5b934c220e439171"
+    ],
+    "source_entry": "nas-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_83eef472b38a353a",
+    "root": "nat",
+    "source_form": "nat",
+    "meaning": "birth; born",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "adnate",
+      "adnation",
+      "agnate",
+      "agnatic",
+      "agnation",
+      "antenatal",
+      "binational",
+      "cognate",
+      "cognatic",
+      "cognation",
+      "connate",
+      "connation",
+      "connatural",
+      "denationalization",
+      "denationalize",
+      "denature",
+      "denatured",
+      "enate",
+      "enatic",
+      "enation",
+      "good-natured",
+      "innate",
+      "innately",
+      "international",
+      "internationalism",
+      "internationalist",
+      "internationalization",
+      "internationalize",
+      "internationally",
+      "multinational",
+      "natal",
+      "natality",
+      "nation",
+      "national",
+      "nationalism",
+      "nationalist",
+      "nationalistic",
+      "nationality",
+      "nationalization",
+      "nationalize",
+      "nationalized",
+      "nationally",
+      "native",
+      "natively",
+      "nativism",
+      "nativist",
+      "nativity",
+      "natural",
+      "naturalism",
+      "naturalist",
+      "naturalistic",
+      "naturality",
+      "naturalization",
+      "naturalize",
+      "naturalized",
+      "naturally",
+      "naturalness",
+      "nature",
+      "neonate",
+      "nonnative",
+      "postnatal",
+      "prenatal",
+      "preternatural",
+      "preternaturally",
+      "renationalization",
+      "renationalize",
+      "renature",
+      "subnational",
+      "supernatural",
+      "supernaturalism",
+      "supernaturally",
+      "supranational",
+      "transnational",
+      "transnationalism",
+      "transnationality",
+      "transnationally",
+      "unnatural",
+      "unnaturally"
+    ],
+    "family_id": "g_db62ef9bcb6a0241",
+    "related_root_ids": [
+      "r_1fc6d1070733d835",
+      "r_488197f41d167c7d",
+      "r_966b1e2d069793b9",
+      "r_ca935b8ac8e045cc"
+    ],
+    "source_entry": "nat, nas",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8a42fb09755a95c2",
+    "root": "nau",
+    "source_form": "nau",
+    "meaning": "sailor, ship",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "astronaut",
+      "nausea",
+      "nauseate",
+      "nautical"
+    ],
+    "family_id": "g_d227a7a2b02e9a62",
+    "related_root_ids": [
+      "r_e33abdacce435e27"
+    ],
+    "source_entry": "nau",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e33abdacce435e27",
+    "root": "naut",
+    "source_form": "naut",
+    "meaning": "ship; sailor",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "aeronautic",
+      "aeronautics",
+      "aquanaut",
+      "argonaut",
+      "astronaut",
+      "astronautess",
+      "astronautic",
+      "astronautical",
+      "astronautics",
+      "cosmonaut",
+      "nautical",
+      "nautilus"
+    ],
+    "family_id": "g_d227a7a2b02e9a62",
+    "related_root_ids": [
+      "r_8a42fb09755a95c2"
+    ],
+    "source_entry": "naut",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d7f9464ee44c04a9",
+    "root": "nav",
+    "source_form": "nav",
+    "meaning": "ship",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "antenave",
+      "astronavigation",
+      "circumnavigate",
+      "circumnavigation",
+      "circumnavigator",
+      "naval",
+      "nave",
+      "navicular",
+      "navigable",
+      "navigate",
+      "navigation",
+      "navigational",
+      "navigator",
+      "navy",
+      "nonnavigable"
+    ],
+    "family_id": "g_abca4de9dd94d3ac",
+    "related_root_ids": [],
+    "source_entry": "nav",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_126a7c4f12ed015d",
+    "root": "ne",
+    "source_form": "ne",
+    "meaning": "spin",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "axoneme",
+      "diplonema",
+      "leptonema",
+      "nematocyst",
+      "nematocyte",
+      "nematode",
+      "nematology",
+      "pachynema",
+      "synnema",
+      "treponema",
+      "zygonema"
+    ],
+    "family_id": "g_126a7c4f12ed015d",
+    "related_root_ids": [],
+    "source_entry": "ne-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_61ef4bb1b4913390",
+    "root": "ne",
+    "source_form": "ne",
+    "meaning": "new",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "neolithic",
+      "neologism",
+      "neon",
+      "neonate",
+      "neophyte"
+    ],
+    "family_id": "g_61ef4bb1b4913390",
+    "related_root_ids": [],
+    "source_entry": "ne-, neo-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_08f11b79f1adff18",
+    "root": "near",
+    "source_form": "near",
+    "meaning": "close in space, time, or degree",
+    "class": "root",
+    "origin": "English",
+    "source_entry": "near",
+    "family_id": "g_c14b9921d3b46836",
+    "example": [
+      "near",
+      "nearby",
+      "nearer",
+      "nearest",
+      "nearly",
+      "nearness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_b47ea8d3cf082640",
     "root": "neb",
     "source_form": "neb",
@@ -718,7 +1406,9 @@
       "renewable",
       "renewables",
       "renewal",
-      "renewed"
+      "renewed",
+      "newsy",
+      "newer"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -862,7 +1552,8 @@
       "nightmare",
       "nightmarish",
       "overnight",
-      "tonight"
+      "tonight",
+      "nightmarishly"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1141,7 +1832,8 @@
     "example": [
       "noise",
       "noiseless",
-      "noiselessly"
+      "noiselessly",
+      "noiselessness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1486,7 +2178,9 @@
       "northerly",
       "northern",
       "northmost",
-      "northwesterly"
+      "northwesterly",
+      "northward",
+      "northerner"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -3142,7 +3836,9 @@
       "oedematous"
     ],
     "family_id": "g_0b5b1081cd92b3a4",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_dd0476f85dfc02b5"
+    ],
     "source_entry": "oed-, ed-",
     "pending_family_examples": 3
   },
@@ -3681,7 +4377,8 @@
       "one",
       "one-time-only",
       "one-party",
-      "onetime"
+      "onetime",
+      "oneness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -4517,7 +5214,8 @@
       "optic",
       "panopticon",
       "pleoptics",
-      "synoptic"
+      "synoptic",
+      "optical"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -4584,7 +5282,8 @@
     "family_id": "g_668eadc543bd863f",
     "example": [
       "opulence",
-      "opulent"
+      "opulent",
+      "opulently"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -5162,7 +5861,8 @@
     "source_entry": "orphan",
     "family_id": "g_7f2c61d92071e1c0",
     "example": [
-      "orphan"
+      "orphan",
+      "orphanhood"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -5817,7 +6517,8 @@
     "example": [
       "own",
       "owner",
-      "ownership"
+      "ownership",
+      "ownerless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -6128,7 +6829,8 @@
       "propagate",
       "propagation",
       "propagator",
-      "unpaged"
+      "unpaged",
+      "pager"
     ],
     "family_id": "g_9abc9f755355d5a4",
     "related_root_ids": [],
@@ -6199,7 +6901,8 @@
       "painless",
       "painlessly",
       "painstaking",
-      "painstakingly"
+      "painstakingly",
+      "painfulness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -6293,7 +6996,8 @@
     "source_entry": "palace",
     "family_id": "g_91de7871cdd6b176",
     "example": [
-      "palace"
+      "palace",
+      "palacelike"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -6748,7 +7452,8 @@
       "paperboard",
       "paperweight",
       "sandpaper",
-      "wallpaper"
+      "wallpaper",
+      "papery"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -7107,7 +7812,8 @@
     "source_entry": "pare",
     "family_id": "g_839ea0a39209b17e",
     "example": [
-      "pare"
+      "pare",
+      "parer"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -7847,7 +8553,8 @@
       "repayment",
       "taxpayer",
       "underpay",
-      "underpayment"
+      "underpayment",
+      "repayable"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -7878,7 +8585,8 @@
     "source_entry": "peal",
     "family_id": "g_6a304204431d2b51",
     "example": [
-      "peal"
+      "peal",
+      "pealing"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -8273,7 +8981,8 @@
     "source_entry": "pediment",
     "family_id": "g_993ccf6b493be0f4",
     "example": [
-      "pediment"
+      "pediment",
+      "pedimented"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -8627,7 +9336,8 @@
       "penitence",
       "penitent",
       "penitentiary",
-      "repent"
+      "repent",
+      "penitently"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -8855,7 +9565,8 @@
     "family_id": "g_aba1e3c95918695c",
     "example": [
       "Pentecost",
-      "Pentecostalism"
+      "Pentecostalism",
+      "pentecostal"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -10240,7 +10951,8 @@
     "source_entry": "phone",
     "family_id": "g_3534094a46c512ec",
     "example": [
-      "phone"
+      "phone",
+      "allophone"
     ],
     "related_root_ids": [
       "r_62b7db4ddab906a5",
@@ -10855,7 +11567,8 @@
     "source_entry": "piano",
     "family_id": "g_596f81ba07ab9e26",
     "example": [
-      "piano"
+      "piano",
+      "pianoless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -10893,7 +11606,8 @@
       "pickpocket",
       "pickup",
       "picky",
-      "toothpick"
+      "toothpick",
+      "nitpicker"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -11724,7 +12438,8 @@
       "transplantation",
       "transplanted",
       "transplanting",
-      "unplanted"
+      "unplanted",
+      "transplantable"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -11980,7 +12695,8 @@
       "playing",
       "replay",
       "underplay",
-      "unplayable"
+      "unplayable",
+      "playfully"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -12036,7 +12752,8 @@
     "source_entry": "plea",
     "family_id": "g_f9000b1caa0f8771",
     "example": [
-      "plea"
+      "plea",
+      "plea-bargain"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -12481,7 +13198,8 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "plinth"
+      "plinth",
+      "plinthite"
     ],
     "family_id": "g_e2d89e56d4c164c9",
     "related_root_ids": [],
@@ -13244,7 +13962,8 @@
       "disappointing",
       "disappointment",
       "reappoint",
-      "reappointment"
+      "reappointment",
+      "pointedly"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13263,7 +13982,8 @@
       "poisoned",
       "poisoner",
       "poisoning",
-      "poisonous"
+      "poisonous",
+      "poisonously"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13807,7 +14527,8 @@
     "family_id": "g_2bb64e99402a3ea4",
     "example": [
       "poor",
-      "poorly"
+      "poorly",
+      "poorness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14738,7 +15459,8 @@
       "powerful",
       "powerfully",
       "powerless",
-      "powerlessness"
+      "powerlessness",
+      "powerlessly"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -15573,7 +16295,8 @@
     "source_entry": "prison",
     "family_id": "g_a811242cf11b2687",
     "example": [
-      "imprison"
+      "imprison",
+      "imprisonment"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -15816,7 +16539,8 @@
     "family_id": "g_399243524991b314",
     "example": [
       "prodigious",
-      "prodigy"
+      "prodigy",
+      "prodigiously"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -15853,7 +16577,24 @@
     "source_entry": "prompt",
     "family_id": "g_dd2385b23d47d2d4",
     "example": [
-      "prompt"
+      "prompt",
+      "promptness"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_77e895b6012e3e46",
+    "root": "prone",
+    "source_form": "-prone",
+    "meaning": "liable to suffer; disposed to suffer",
+    "class": "suffix",
+    "origin": "English -prone, combining use of prone meaning inclined or liable to experience something",
+    "source_entry": "-prone",
+    "family_id": "g_42dfa6470a64a5ec",
+    "example": [
+      "error-prone",
+      "accident-prone"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -16493,7 +17234,8 @@
     "source_entry": "psyche",
     "family_id": "g_e6551006f0dccaea",
     "example": [
-      "psyche"
+      "psyche",
+      "psycheless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17375,7 +18117,8 @@
       "purposely",
       "all-purpose",
       "general-purpose",
-      "multipurpose"
+      "multipurpose",
+      "purposeless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17748,7 +18491,8 @@
     "example": [
       "dipyramid",
       "pyramid",
-      "pyramidion"
+      "pyramidion",
+      "pyramidal"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -18074,7 +18818,8 @@
     "family_id": "g_7c5fab8f3b59f8f9",
     "example": [
       "quarter",
-      "quartermaster"
+      "quartermaster",
+      "quarterly"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -18142,7 +18887,8 @@
     "source_entry": "quatre",
     "family_id": "g_fd0ec6be043025ed",
     "example": [
-      "quatre"
+      "quatre",
+      "quatrefoil"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -18844,7 +19590,8 @@
     "origin": "Latin",
     "example": [
       "radioactive",
-      "radioactivity"
+      "radioactivity",
+      "radioactively"
     ],
     "family_id": "g_eb15ff8c51721e9c",
     "related_root_ids": [],
@@ -18927,7 +19674,8 @@
       "derail",
       "derailed",
       "derailleur",
-      "derailment"
+      "derailment",
+      "railroader"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19604,7 +20352,8 @@
       "unreasonable",
       "unreasonableness",
       "unreasonably",
-      "unreasoning"
+      "unreasoning",
+      "reasoner"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19824,7 +20573,8 @@
     "source_entry": "register",
     "family_id": "g_183307614284d051",
     "example": [
-      "register"
+      "register",
+      "reregister"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19967,7 +20717,8 @@
     "source_entry": "independent lexicographical correction",
     "family_id": "g_663392dd4f198d1a",
     "example": [
-      "rely"
+      "rely",
+      "misrely"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20142,7 +20893,8 @@
       "restlessly",
       "restlessness",
       "restroom",
-      "unrest"
+      "unrest",
+      "restfulness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20277,7 +21029,8 @@
     "source_entry": "rex",
     "family_id": "g_0c37ad32b62e30a8",
     "example": [
-      "rex"
+      "rex",
+      "interrex"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20401,7 +21154,8 @@
     "source_entry": "rhexis",
     "family_id": "g_8c060ba3b1ae33f3",
     "example": [
-      "rhexis"
+      "rhexis",
+      "capsulorhexis"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20688,7 +21442,8 @@
       "enrichment",
       "rich",
       "richly",
-      "richness"
+      "richness",
+      "richer"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21229,7 +21984,8 @@
       "prerogative",
       "surrogacy",
       "surrogate",
-      "rogation"
+      "rogation",
+      "interrogatively"
     ],
     "family_id": "g_f7770e3568819386",
     "related_root_ids": [
@@ -21300,7 +22056,8 @@
     "family_id": "g_24177694dc8e8bbe",
     "example": [
       "rogue",
-      "roguish"
+      "roguish",
+      "roguishness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21367,7 +22124,9 @@
     "example": [
       "bedroom",
       "courtroom",
-      "room"
+      "room",
+      "roomy",
+      "roomful"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21557,7 +22316,8 @@
     "source_entry": "rouge",
     "family_id": "g_9a289d2261fa0f48",
     "example": [
-      "rouge"
+      "rouge",
+      "rougeless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21617,7 +22377,8 @@
       "roundly",
       "roundness",
       "runaround",
-      "wraparound"
+      "wraparound",
+      "rounder"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21915,7 +22676,8 @@
     "source_entry": "rumen",
     "family_id": "g_3bb84eeccca2aabf",
     "example": [
-      "rumen"
+      "rumen",
+      "rumenotomy"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22510,618 +23272,6 @@
     "family_id": "g_0b28588b74ad7d0b",
     "related_root_ids": [],
     "source_entry": "sali-, -sili-, salt-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_7fd40be1162c53be",
-    "root": "salu",
-    "source_form": "salu",
-    "meaning": "health, welfare, safety",
-    "class": "root",
-    "origin": "Latin salus, salutis and salubris",
-    "source_entry": "salu",
-    "family_id": "g_a8d73a9d3b5ab636",
-    "example": [
-      "salubrious",
-      "salubrity",
-      "salutary",
-      "salute"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_8ff3d3defcd790e0",
-    "root": "salut",
-    "source_form": "salut",
-    "meaning": "health",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "salutary",
-      "salute"
-    ],
-    "family_id": "g_3bbdb66bc60cf1c9",
-    "related_root_ids": [],
-    "source_entry": "salut",
-    "pending_family_examples": 1
-  },
-  {
-    "id": "r_18f9f44cca4c85a0",
-    "root": "salv",
-    "source_form": "salv",
-    "meaning": "health",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "salvage",
-      "salvageable",
-      "salvaged",
-      "salvager",
-      "salvation",
-      "salve",
-      "unsalvageable"
-    ],
-    "family_id": "g_18f9f44cca4c85a0",
-    "related_root_ids": [],
-    "source_entry": "salu-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_c28f04850c26cb59",
-    "root": "same",
-    "source_form": "same",
-    "meaning": "identical; unchanged or alike",
-    "class": "root",
-    "origin": "English same, Old Norse sami",
-    "source_entry": "same",
-    "family_id": "g_3b0afacc829ae8b8",
-    "example": [
-      "same",
-      "samely",
-      "sameness"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_19b14956869030e6",
-    "root": "san",
-    "source_form": "san",
-    "meaning": "health",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "insane",
-      "insanely",
-      "insanity",
-      "sanatorium",
-      "sanatory",
-      "sane",
-      "sanitarian",
-      "sanitarium",
-      "sanitary",
-      "sanitation",
-      "sanity",
-      "unsanitary"
-    ],
-    "family_id": "g_6b9cd7872ae63453",
-    "related_root_ids": [
-      "r_352b658ab56d41ce"
-    ],
-    "source_entry": "san",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_a6bd0e4fd607529f",
-    "root": "sanct",
-    "source_form": "sanct-",
-    "meaning": "holy",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "sacrosanct",
-      "sanctify",
-      "sanctimony",
-      "sanction",
-      "sanctioned",
-      "sanctioning",
-      "sanctity",
-      "sanctuary",
-      "unsanctioned"
-    ],
-    "family_id": "g_175e454422f48d55",
-    "related_root_ids": [],
-    "source_entry": "sanc-",
-    "pending_family_examples": 1
-  },
-  {
-    "id": "r_61bcaab398791c99",
-    "root": "sand",
-    "source_form": "sand",
-    "meaning": "fine granular material; to smooth or cover with sand",
-    "class": "root",
-    "origin": "English sand, Old English sand",
-    "source_entry": "sand",
-    "family_id": "g_a83a60e880eedf20",
-    "example": [
-      "sand",
-      "sanded",
-      "sander",
-      "sanding",
-      "sandy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_0c4222aaa2502904",
-    "root": "sandal",
-    "source_form": "sandal",
-    "meaning": "an open shoe held on by straps; to furnish with such shoes",
-    "class": "root",
-    "origin": "English via French and Greek sandalium",
-    "source_entry": "sandal",
-    "family_id": "g_5922077b2765e355",
-    "example": [
-      "sandal",
-      "sandaled"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_34500b1f157feb4f",
-    "root": "sandal",
-    "source_form": "sandal",
-    "meaning": "fragrant sandalwood",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "sandal",
-    "family_id": "g_3564fb44197ec4db",
-    "example": [
-      "sandalwood"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_ec6b79a4989f9912",
-    "root": "sanguin",
-    "source_form": "-sanguin-",
-    "meaning": "blood",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "consanguinity",
-      "sanguinary",
-      "sanguine",
-      "sanguineous",
-      "sanguinity",
-      "sanguinivorous",
-      "sanguinolent"
-    ],
-    "family_id": "g_40103fbb66002251",
-    "related_root_ids": [],
-    "source_entry": "sanguin-",
-    "pending_family_examples": 1
-  },
-  {
-    "id": "r_352b658ab56d41ce",
-    "root": "sanit",
-    "source_form": "sanit-",
-    "meaning": "health, healthy",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "sanitarian",
-      "sanitarium",
-      "sanitary",
-      "sanitation",
-      "sanitize",
-      "sanity",
-      "unsanitary"
-    ],
-    "family_id": "g_6b9cd7872ae63453",
-    "related_root_ids": [
-      "r_19b14956869030e6"
-    ],
-    "source_entry": "san",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d6ae1e2bd7153697",
-    "root": "sap",
-    "source_form": "sap",
-    "meaning": "taste",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "sapid",
-      "sapient"
-    ],
-    "family_id": "g_d6ae1e2bd7153697",
-    "related_root_ids": [],
-    "source_entry": "sap",
-    "pending_family_examples": 1
-  },
-  {
-    "id": "r_3648c5d9ce2108c0",
-    "root": "sapi",
-    "source_form": "sapi-",
-    "meaning": "taste",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "sapient"
-    ],
-    "family_id": "g_3648c5d9ce2108c0",
-    "related_root_ids": [],
-    "source_entry": "sapi-, -sipi-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_0316b2c166ae5069",
-    "root": "sapon",
-    "source_form": "sapon-",
-    "meaning": "soap",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "saponification"
-    ],
-    "family_id": "g_0316b2c166ae5069",
-    "related_root_ids": [],
-    "source_entry": "sapon-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_dd7918b87c0a6ef9",
-    "root": "sapphir",
-    "source_form": "sapphir",
-    "meaning": "a precious stone",
-    "class": "root",
-    "origin": "Greek; ultimate origin uncertain",
-    "example": [
-      "sapphire",
-      "sapphirine"
-    ],
-    "family_id": "g_4dcd0601ed647a64",
-    "related_root_ids": [],
-    "source_entry": "sapphir-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_df30e40276b290b7",
-    "root": "sapr",
-    "source_form": "sapr-",
-    "meaning": "rotten",
-    "class": "combining_form",
-    "origin": "Greek",
-    "example": [
-      "sapraemia",
-      "saprobe",
-      "saprobic",
-      "saprogenic",
-      "sapropel",
-      "saprophagous",
-      "saprophyte",
-      "saprophytic",
-      "saprozoic",
-      "saprotrophic",
-      "saprolite"
-    ],
-    "family_id": "g_df30e40276b290b7",
-    "related_root_ids": [],
-    "source_entry": "sapr-",
-    "pending_family_examples": 2
-  },
-  {
-    "id": "r_971340bfdb17820b",
-    "root": "sapro",
-    "source_form": "sapro-",
-    "meaning": "rotten",
-    "class": "combining_form",
-    "origin": "Greek",
-    "example": [
-      "saprobe",
-      "saprobic",
-      "saprogenic",
-      "sapropel",
-      "saprophagous",
-      "saprophyte",
-      "saprophytic",
-      "saprozoic",
-      "saprotrophic",
-      "saprolite"
-    ],
-    "family_id": "g_971340bfdb17820b",
-    "related_root_ids": [],
-    "source_entry": "sapr-",
-    "pending_family_examples": 2
-  },
-  {
-    "id": "r_effba24f65d6c2f7",
-    "root": "sarc",
-    "source_form": "sarc-",
-    "meaning": "flesh",
-    "class": "combining_form",
-    "origin": "Greek",
-    "example": [
-      "sarcasm",
-      "sarcastic",
-      "sarcastically",
-      "sarcocele",
-      "sarcodinian",
-      "sarcoid",
-      "sarcoidosis",
-      "sarcolemma",
-      "sarcolemmal",
-      "sarcolemmic",
-      "sarcoma",
-      "sarcomere",
-      "sarcophagus",
-      "sarcophagy",
-      "sarcoplasm",
-      "sarcosine",
-      "sarcosinemia",
-      "sarcosomal",
-      "sarcosome",
-      "sarcosporidian"
-    ],
-    "family_id": "g_effba24f65d6c2f7",
-    "related_root_ids": [],
-    "source_entry": "sarc-",
-    "pending_family_examples": 3
-  },
-  {
-    "id": "r_e6d92dddcfc472fc",
-    "root": "sarco",
-    "source_form": "sarco-",
-    "meaning": "fleshy, flesh",
-    "class": "combining_form",
-    "origin": "Greek",
-    "example": [
-      "sarcocele",
-      "sarcodinian",
-      "sarcoid",
-      "sarcoidosis",
-      "sarcolemma",
-      "sarcolemmal",
-      "sarcolemmic",
-      "sarcomere",
-      "sarcophagus",
-      "sarcophagy",
-      "sarcoplasm",
-      "sarcosomal",
-      "sarcosome",
-      "sarcosporidian"
-    ],
-    "family_id": "g_44f9f5452c0f6ccb",
-    "related_root_ids": [],
-    "source_entry": "sarc-",
-    "pending_family_examples": 7
-  },
-  {
-    "id": "r_0eb58cce07fdbfb6",
-    "root": "sartor",
-    "source_form": "sartor",
-    "meaning": "tailor, mender",
-    "class": "root",
-    "origin": "Latin",
-    "source_entry": "sartor",
-    "family_id": "g_240f4c92b4ec62e1",
-    "example": [
-      "sartor",
-      "sartorial",
-      "sartorius"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_84151be745b44809",
-    "root": "sat",
-    "source_form": "sat",
-    "meaning": "enough",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "desaturate",
-      "desaturation",
-      "dissatisfaction",
-      "dissatisfactory",
-      "dissatisfied",
-      "dissatisfy",
-      "insatiability",
-      "insatiable",
-      "insatiate",
-      "polyunsaturated",
-      "satiable",
-      "satiate",
-      "satiation",
-      "satiety",
-      "satisfaction",
-      "satisfactorily",
-      "satisfactory",
-      "satisfiable",
-      "satisfied",
-      "satisfy",
-      "satisfying",
-      "satisfyingly",
-      "saturable",
-      "saturant",
-      "saturate",
-      "saturated",
-      "saturation",
-      "supersaturate",
-      "unsatisfactory",
-      "unsatisfied",
-      "unsatisfying",
-      "unsaturated"
-    ],
-    "family_id": "g_84151be745b44809",
-    "related_root_ids": [],
-    "source_entry": "satis-",
-    "pending_family_examples": 1
-  },
-  {
-    "id": "r_181d02568a15dc21",
-    "root": "sati",
-    "source_form": "-sati-",
-    "meaning": "enough, sufficient",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "insatiable",
-      "satiate",
-      "satiety"
-    ],
-    "family_id": "g_bc4ef022caf33f90",
-    "related_root_ids": [
-      "r_295ae573de149a70",
-      "r_c04b3447c86f3c4f"
-    ],
-    "source_entry": "satis-",
-    "pending_family_examples": 5
-  },
-  {
-    "id": "r_c04b3447c86f3c4f",
-    "root": "satis",
-    "source_form": "satis-",
-    "meaning": "enough, sufficient",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "satisfaction",
-      "satisfy",
-      "unsatisfactory"
-    ],
-    "family_id": "g_bc4ef022caf33f90",
-    "related_root_ids": [
-      "r_181d02568a15dc21",
-      "r_295ae573de149a70"
-    ],
-    "source_entry": "satis-",
-    "pending_family_examples": 5
-  },
-  {
-    "id": "r_295ae573de149a70",
-    "root": "satur",
-    "source_form": "-satur-",
-    "meaning": "enough",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "saturate",
-      "unsaturated"
-    ],
-    "family_id": "g_bc4ef022caf33f90",
-    "related_root_ids": [
-      "r_181d02568a15dc21",
-      "r_c04b3447c86f3c4f"
-    ],
-    "source_entry": "satur",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_2e2fc5011df1dfd6",
-    "root": "sauce",
-    "source_form": "sauce",
-    "meaning": "a savory liquid or preparation served with food",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "sauce",
-    "family_id": "g_7d88da5212724516",
-    "example": [
-      "applesauce",
-      "sauce",
-      "saucepan",
-      "saucer"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_5fea11bc13db935c",
-    "root": "sault",
-    "source_form": "sault",
-    "meaning": "leap, spring forward",
-    "class": "root",
-    "origin": "Latin via French",
-    "example": [
-      "assault",
-      "assaulted",
-      "assaultive",
-      "somersault",
-      "sault"
-    ],
-    "family_id": "g_5e0d267934902f76",
-    "related_root_ids": [
-      "r_97d04ef59dd3e8c6",
-      "r_db1242d41bf7e49a"
-    ],
-    "source_entry": "sault",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_3f0095b944a72871",
-    "root": "saur",
-    "source_form": "saur-",
-    "meaning": "lizard",
-    "class": "combining_form",
-    "origin": "Greek",
-    "example": [
-      "sauropod"
-    ],
-    "family_id": "g_30558920da17b1e4",
-    "related_root_ids": [
-      "r_96bb28b3fec71adf"
-    ],
-    "source_entry": "saur-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_96bb28b3fec71adf",
-    "root": "saur",
-    "source_form": "-saur",
-    "meaning": "lizard, reptile",
-    "class": "combining_form",
-    "origin": "Greek",
-    "example": [
-      "allosaur",
-      "carnosaur",
-      "dinosaur",
-      "dinosaurian",
-      "dinosauric"
-    ],
-    "family_id": "g_30558920da17b1e4",
-    "related_root_ids": [
-      "r_3f0095b944a72871"
-    ],
-    "source_entry": "saur-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_be4667aa31cdfeb7",
-    "root": "save",
-    "source_form": "save",
-    "meaning": "to rescue, preserve, or keep for future use",
-    "class": "root",
-    "origin": "English via Old French sauver, Latin salvare",
-    "source_entry": "save",
-    "family_id": "g_982c476ccd27742a",
-    "example": [
-      "lifesaver",
-      "save",
-      "saved",
-      "saver",
-      "screensaver",
-      "unsaved",
-      "saving",
-      "savior"
-    ],
-    "related_root_ids": [],
     "pending_family_examples": 0
   }
 ]

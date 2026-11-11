@@ -1,5 +1,258 @@
 [
   {
+    "id": "r_57b6c357c46328c9",
+    "root": "cant",
+    "source_form": "cant",
+    "meaning": "sing, song",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "cantabile",
+      "cantata",
+      "cantatrice",
+      "canticle",
+      "canticum",
+      "cantilena",
+      "cantillate",
+      "cantion",
+      "canto",
+      "cantor",
+      "descant",
+      "incantation",
+      "incantational",
+      "recant",
+      "recantation",
+      "discant",
+      "cantus",
+      "discantus",
+      "cantillation",
+      "cantation",
+      "cantatory"
+    ],
+    "family_id": "g_6d8e361a4f4a61a9",
+    "related_root_ids": [
+      "r_3439a1c240884d18",
+      "r_8f745559301351f9",
+      "r_9d1fbe7f5a914586",
+      "r_b18438493d4abe5a"
+    ],
+    "source_entry": "can-, -cin-, cant-, -cent-",
+    "pending_family_examples": 41
+  },
+  {
+    "id": "r_3a312f0fea6b8bde",
+    "root": "cap",
+    "source_form": "cap1",
+    "meaning": "to take, catch",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "capability",
+      "capable",
+      "capacious",
+      "capacity",
+      "captive",
+      "capture",
+      "incapable",
+      "captious",
+      "captivate",
+      "captor",
+      "caption"
+    ],
+    "family_id": "g_450b164ec3b54c85",
+    "related_root_ids": [
+      "r_7204c9b183075c0b",
+      "r_8e5114b5d874b4b8",
+      "r_93e60cce5a372039",
+      "r_a2e19af7dbbb55bc",
+      "r_aaebaab6d2f347ab",
+      "r_bedbca4b0b3e7f4c",
+      "r_e2665f8c39e3f064",
+      "r_e4559aaa829fec86"
+    ],
+    "source_entry": "cap1, cip, capt, cept, -ceive, -ceit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8ad14917b0a5e4fb",
+    "root": "cap",
+    "source_form": "cap2",
+    "meaning": "head",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "capital",
+      "capitalism",
+      "capitalist",
+      "capitalistic",
+      "capitalization",
+      "capitalize",
+      "capitally",
+      "capitation",
+      "capitulate",
+      "capitulation",
+      "capo",
+      "captain",
+      "decapitate",
+      "overcapitalize",
+      "recapitalize",
+      "recapitulate",
+      "recapitulation",
+      "undercapitalize"
+    ],
+    "family_id": "g_2de8c63de7ecb7ca",
+    "related_root_ids": [
+      "r_31a92f90fdfe768e",
+      "r_8e1da1fc26d31ec0",
+      "r_b46b0298352a54db",
+      "r_f0efe0d30d93d1ef"
+    ],
+    "source_entry": "cap2, capit, cipit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_db0dcd701f974b6f",
+    "root": "cap",
+    "source_form": "cap",
+    "meaning": "a head covering; a covering or top; to cover or put a cap on",
+    "class": "root",
+    "origin": "English cap via Late Latin cappa",
+    "source_entry": "cap",
+    "family_id": "g_a188f5317e952bfe",
+    "example": [
+      "capful",
+      "capped",
+      "capping",
+      "icecap",
+      "kneecap",
+      "nightcap",
+      "skullcap",
+      "uncap",
+      "uncapped",
+      "whitecap",
+      "handicapped",
+      "inescapably",
+      "caped",
+      "inescapable",
+      "escaping",
+      "hubcap",
+      "cape",
+      "escapism",
+      "escape",
+      "escaped",
+      "handicapper",
+      "escapist",
+      "escapable",
+      "handicap",
+      "escapee",
+      "handicapping",
+      "recap",
+      "capper",
+      "cap"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8e1da1fc26d31ec0",
+    "root": "capit",
+    "source_form": "capit",
+    "meaning": "head",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "capital",
+      "capitalism",
+      "capitalist",
+      "capitalistic",
+      "capitalization",
+      "capitalize",
+      "capitalized",
+      "capitally",
+      "capitation",
+      "capitular",
+      "capitulate",
+      "capitulation",
+      "decapitate",
+      "decapitation",
+      "overcapitalize",
+      "recapitalization",
+      "recapitalize",
+      "recapitulate",
+      "recapitulation",
+      "undercapitalize"
+    ],
+    "family_id": "g_2de8c63de7ecb7ca",
+    "related_root_ids": [
+      "r_31a92f90fdfe768e",
+      "r_8ad14917b0a5e4fb",
+      "r_b46b0298352a54db",
+      "r_f0efe0d30d93d1ef"
+    ],
+    "source_entry": "cap2, capit, cipit",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f0efe0d30d93d1ef",
+    "root": "capitul",
+    "source_form": "capitul",
+    "meaning": "head, chapter",
+    "class": "root",
+    "origin": "Latin capitulum",
+    "source_entry": "capitul",
+    "family_id": "g_2de8c63de7ecb7ca",
+    "example": [
+      "capitulate",
+      "recapitulate"
+    ],
+    "related_root_ids": [
+      "r_31a92f90fdfe768e",
+      "r_8ad14917b0a5e4fb",
+      "r_8e1da1fc26d31ec0",
+      "r_b46b0298352a54db"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_49e9aaece35935e7",
+    "root": "capn",
+    "source_form": "capn",
+    "meaning": "smoke, vapor, carbon dioxide",
+    "class": "root",
+    "origin": "Greek",
+    "example": [
+      "capnography",
+      "capnomancy",
+      "hypercapnia",
+      "hypocapnia",
+      "capnomor",
+      "capnometer",
+      "capnogram",
+      "capnophile",
+      "capnograph",
+      "capnometry"
+    ],
+    "family_id": "g_cb534fcb44dd5f4a",
+    "related_root_ids": [],
+    "source_entry": "capn-",
+    "pending_family_examples": 7
+  },
+  {
+    "id": "r_1d7db6ea66251e45",
+    "root": "capr",
+    "source_form": "capr-",
+    "meaning": "goat",
+    "class": "root",
+    "origin": "Latin caper, capri",
+    "source_entry": "capr-",
+    "family_id": "g_84b975bd78424636",
+    "example": [
+      "caprine"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_fcb08f4548b827a2",
     "root": "caps",
     "source_form": "caps",
@@ -207,6 +460,44 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_07531537f01acfd4",
+    "root": "card",
+    "source_form": "card",
+    "meaning": "a playing card used in a card game",
+    "class": "word_base",
+    "origin": "English card from French carte, ultimately Latin charta paper; discard is formed from dis- plus card in the game sense.",
+    "source_entry": "card",
+    "family_id": "g_a3595ba3e77afc75",
+    "example": [
+      "discard",
+      "discarding",
+      "discarded"
+    ],
+    "related_root_ids": [
+      "r_46510941dc590314",
+      "r_54da271c74c76b31"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_46510941dc590314",
+    "root": "card",
+    "source_form": "card",
+    "meaning": "stiff paper or card stock",
+    "class": "word_base",
+    "origin": "English card from French carte, ultimately Latin charta paper; cardboard is formed from card plus board.",
+    "source_entry": "card",
+    "family_id": "g_a3595ba3e77afc75",
+    "example": [
+      "cardboard"
+    ],
+    "related_root_ids": [
+      "r_07531537f01acfd4",
+      "r_54da271c74c76b31"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_54da271c74c76b31",
     "root": "card",
     "source_form": "card",
@@ -219,7 +510,10 @@
       "keycard",
       "cardholder"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_07531537f01acfd4",
+      "r_46510941dc590314"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -344,7 +638,8 @@
       "electrocardiography",
       "myocardiograph",
       "cardioid",
-      "cardiologist"
+      "cardiologist",
+      "cardioplegic"
     ],
     "family_id": "g_022c6b7db52a1eb1",
     "related_root_ids": [
@@ -506,7 +801,9 @@
       "carposporic",
       "carpophore",
       "carpology",
-      "carpospore"
+      "carpospore",
+      "carpogonium",
+      "carposporous"
     ],
     "related_root_ids": [
       "r_31bbd12b017f2735",
@@ -691,7 +988,8 @@
       "catalyst",
       "catastrophe",
       "catarrhine",
-      "catabolic"
+      "catabolic",
+      "catatonic"
     ],
     "related_root_ids": [
       "r_dbb1d6592d0ad018"
@@ -962,6 +1260,44 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_71c399fcf23087e8",
+    "root": "ceal",
+    "source_form": "ceal",
+    "meaning": "hide, conceal",
+    "class": "lookup_alias",
+    "origin": "English historical family lookup from Latin celare, to hide",
+    "source_entry": "ceal",
+    "family_id": "g_bdcb3c69acd956ce",
+    "example": [
+      "conceal",
+      "concealed"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d38409e7a99f4d61",
+    "root": "ceas",
+    "source_form": "ceas",
+    "meaning": "to cease, stop; to yield or withdraw",
+    "class": "lookup_alias",
+    "origin": "English historical family lookup from Latin cessare, cedere",
+    "source_entry": "ceas",
+    "family_id": "g_1ebd9e87ac26d8aa",
+    "example": [
+      "cease",
+      "ceaseless"
+    ],
+    "related_root_ids": [
+      "r_3436c42fa0214dbb",
+      "r_60a31527ca60e87d",
+      "r_82e2d42620adceae",
+      "r_9867ef8804f6cc46",
+      "r_d939224b42e29c47"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_ddcbdf4841d59c1d",
     "root": "cease",
     "source_form": "cease",
@@ -1013,6 +1349,7 @@
       "r_60a31527ca60e87d",
       "r_82e2d42620adceae",
       "r_9867ef8804f6cc46",
+      "r_d38409e7a99f4d61",
       "r_d939224b42e29c47"
     ],
     "source_entry": "ced, ces, -ceed, -cede, -cess",
@@ -1065,6 +1402,37 @@
     ],
     "source_entry": "ceipt",
     "pending_family_examples": 2
+  },
+  {
+    "id": "r_4f435b855006da31",
+    "root": "cel",
+    "source_form": "cel",
+    "meaning": "sky; heavens",
+    "class": "lookup_alias",
+    "origin": "Latin caelum sky, via caelestis; English spelling lookup cel",
+    "source_entry": "cel",
+    "family_id": "g_6a7cf73b821c913c",
+    "example": [
+      "celestial"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d4ef3d76898cdb1e",
+    "root": "cel",
+    "source_form": "cel",
+    "meaning": "to rise high; tower",
+    "class": "historical_stem",
+    "origin": "Latin 2 CEL-, attested in compounds of cellere meaning rise",
+    "source_entry": "cel (independent dictionary evidence)",
+    "family_id": "g_c8cd32aef9c6507f",
+    "example": [
+      "excel",
+      "excellence"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_7a0ad703a1458040",
@@ -1452,7 +1820,8 @@
       "technocentric",
       "telocentric",
       "ecocentrist",
-      "technocentrism"
+      "technocentrism",
+      "eccentrism"
     ],
     "family_id": "g_467adcf162c810fa",
     "related_root_ids": [
@@ -1999,6 +2368,7 @@
       "r_3436c42fa0214dbb",
       "r_60a31527ca60e87d",
       "r_82e2d42620adceae",
+      "r_d38409e7a99f4d61",
       "r_d939224b42e29c47"
     ],
     "source_entry": "ced, ces, -ceed, -cede, -cess",
@@ -2039,6 +2409,7 @@
       "chaetophobia"
     ],
     "related_root_ids": [
+      "r_9ec0043b2f2e435b",
       "r_c80565aae2825ead"
     ],
     "pending_family_examples": 0
@@ -2338,7 +2709,8 @@
       "charmer",
       "charming",
       "charmingly",
-      "charmless"
+      "charmless",
+      "charm"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -2729,7 +3101,8 @@
       "chillingly",
       "chilled",
       "chilling",
-      "chiller"
+      "chiller",
+      "chill"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -2891,7 +3264,9 @@
       "cholelithiasis",
       "cholecystitis",
       "cholangitis",
-      "cholesterol"
+      "cholesterol",
+      "choleraic",
+      "cholera"
     ],
     "related_root_ids": [
       "r_ca43f9a75ada0bbb"
@@ -2913,7 +3288,8 @@
       "cholelithiasis",
       "cholecystokinin",
       "cholecystectomy",
-      "cholelithotomy"
+      "cholelithotomy",
+      "cholesterol"
     ],
     "related_root_ids": [
       "r_d03fb2424dc2e1fe"
@@ -2987,7 +3363,8 @@
       "choreographic",
       "choreia",
       "choreographer",
-      "choreograph"
+      "choreograph",
+      "choree"
     ],
     "family_id": "g_d5ce71486bbe75d3",
     "related_root_ids": [
@@ -3007,7 +3384,13 @@
     "source_entry": "chore-",
     "family_id": "g_d5ce71486bbe75d3",
     "example": [
-      "choreography"
+      "choreography",
+      "chorea",
+      "choree",
+      "choreia",
+      "choreograph",
+      "choreographer",
+      "choreographic"
     ],
     "related_root_ids": [
       "r_c60995e73961077c",
@@ -3046,7 +3429,10 @@
     "source_entry": "chres-",
     "family_id": "g_77893b6c6fd2793b",
     "example": [
-      "chresard"
+      "chresard",
+      "chresonym",
+      "chrestomathic",
+      "chrestomathy"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -3424,7 +3810,8 @@
       "nonaccidental",
       "nondeciduous",
       "decidual",
-      "deciduation"
+      "deciduation",
+      "postaccident"
     ],
     "family_id": "g_e3f062dffd946251",
     "related_root_ids": [
@@ -3797,7 +4184,8 @@
     "family_id": "g_47bd7a061423ad89",
     "example": [
       "cirrostratus",
-      "cirrus"
+      "cirrus",
+      "cirrocumulus"
     ],
     "related_root_ids": [
       "r_0fe65b1840c3ba51"
@@ -3814,7 +4202,8 @@
     "source_entry": "cirro-",
     "family_id": "g_47bd7a061423ad89",
     "example": [
-      "cirrostratus"
+      "cirrostratus",
+      "cirrocumulus"
     ],
     "related_root_ids": [
       "r_1037a5bce5e399eb"
@@ -3871,7 +4260,8 @@
       "indecision",
       "scissors",
       "occision",
-      "succise"
+      "succise",
+      "succision"
     ],
     "family_id": "g_2dc2f28914e6dc81",
     "related_root_ids": [
@@ -3966,7 +4356,8 @@
       "civilian",
       "civility",
       "civilization",
-      "uncivilized"
+      "uncivilized",
+      "incivility"
     ],
     "family_id": "g_1803b95278b68865",
     "related_root_ids": [
@@ -4169,7 +4560,8 @@
       "classifieds",
       "classifiable",
       "classificatory",
-      "class-conscious"
+      "class-conscious",
+      "classlessness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -4264,7 +4656,8 @@
       "cleanse",
       "cleansing",
       "cleanser",
-      "cleanup"
+      "cleanup",
+      "clean"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -4673,7 +5066,8 @@
       "close-minded",
       "close-hauled",
       "close-grained",
-      "close-packed"
+      "close-packed",
+      "enclose"
     ],
     "related_root_ids": [
       "r_045be07d819eefbd",
@@ -4942,6 +5336,24 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_4f7a53002390a7b8",
+    "root": "cocci",
+    "source_form": "cocci-",
+    "meaning": "grain; seed; berry-shaped",
+    "class": "combining_form",
+    "origin": "New Latin from Greek kokkos grain, seed, berry",
+    "source_entry": "cocci-, -coccus",
+    "family_id": "g_bf18017cbec84a82",
+    "example": [
+      "coccidiosis",
+      "coccidium"
+    ],
+    "related_root_ids": [
+      "r_a93aad9918df845c"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_59d2cbd52183134c",
     "root": "cochl",
     "source_form": "cochl-",
@@ -5086,11 +5498,37 @@
     "related_root_ids": [
       "r_013d534dc3784cb0",
       "r_1fe93ac90e504115",
+      "r_2f2e0b6c575149da",
       "r_386a8f7308bbcb8a",
       "r_898665741361d9a9",
       "r_f481fb6881b0df67"
     ],
     "source_entry": "cogn, cognit, gnor",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2f2e0b6c575149da",
+    "root": "cogni",
+    "source_form": "cogni-",
+    "meaning": "know; knowledge",
+    "class": "lookup_alias",
+    "origin": "Latin cognoscere, cognitus know; English educational family lookup",
+    "source_entry": "cogn/i",
+    "family_id": "g_84f5ee63e0d9006b",
+    "example": [
+      "cognition",
+      "cognizant",
+      "incognito",
+      "recognize"
+    ],
+    "related_root_ids": [
+      "r_013d534dc3784cb0",
+      "r_1fe93ac90e504115",
+      "r_386a8f7308bbcb8a",
+      "r_898665741361d9a9",
+      "r_e27837ea795d4a8e",
+      "r_f481fb6881b0df67"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -5118,6 +5556,7 @@
     "family_id": "g_84f5ee63e0d9006b",
     "related_root_ids": [
       "r_1fe93ac90e504115",
+      "r_2f2e0b6c575149da",
       "r_386a8f7308bbcb8a",
       "r_898665741361d9a9",
       "r_e27837ea795d4a8e",
@@ -5146,6 +5585,7 @@
     "related_root_ids": [
       "r_013d534dc3784cb0",
       "r_1fe93ac90e504115",
+      "r_2f2e0b6c575149da",
       "r_386a8f7308bbcb8a",
       "r_898665741361d9a9",
       "r_e27837ea795d4a8e"
@@ -5288,9 +5728,30 @@
       "encolor"
     ],
     "family_id": "g_8be07b10cd869c4e",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_b41b3dfd73d779ae"
+    ],
     "source_entry": "color-",
     "pending_family_examples": 11
+  },
+  {
+    "id": "r_b41b3dfd73d779ae",
+    "root": "colour",
+    "source_form": "colour",
+    "meaning": "color; colouring",
+    "class": "word_base",
+    "origin": "British English colour, from Old French colour and Latin color",
+    "source_entry": "colour",
+    "family_id": "g_8be07b10cd869c4e",
+    "example": [
+      "bicolour",
+      "multicolour",
+      "multi-colour"
+    ],
+    "related_root_ids": [
+      "r_260f21dcf709990b"
+    ],
+    "pending_family_examples": 0
   },
   {
     "id": "r_307097109f84bc98",
@@ -5412,7 +5873,8 @@
     "example": [
       "computability",
       "computation",
-      "computer"
+      "computer",
+      "computational"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -5501,7 +5963,8 @@
     ],
     "related_root_ids": [
       "r_6231c2a9ec1da346",
-      "r_b278bf2be87165ac"
+      "r_b278bf2be87165ac",
+      "r_e57d996438499e5a"
     ],
     "pending_family_examples": 0
   },
@@ -5521,6 +5984,25 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_e57d996438499e5a",
+    "root": "cone",
+    "source_form": "cone",
+    "meaning": "cone; conical shape",
+    "class": "word_base",
+    "origin": "English cone from Latin conus, Greek konos",
+    "source_entry": "cone",
+    "family_id": "g_fc2023bce27c2df5",
+    "example": [
+      "orthocone"
+    ],
+    "related_root_ids": [
+      "r_6231c2a9ec1da346",
+      "r_b278bf2be87165ac",
+      "r_d8c62f4c99e88188"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_b278bf2be87165ac",
     "root": "coni",
     "source_form": "coni-",
@@ -5536,7 +6018,8 @@
     ],
     "related_root_ids": [
       "r_6231c2a9ec1da346",
-      "r_d8c62f4c99e88188"
+      "r_d8c62f4c99e88188",
+      "r_e57d996438499e5a"
     ],
     "pending_family_examples": 0
   },
@@ -5566,11 +6049,13 @@
     "family_id": "g_fc2023bce27c2df5",
     "example": [
       "conoid",
-      "conodont"
+      "conodont",
+      "conoscope"
     ],
     "related_root_ids": [
       "r_b278bf2be87165ac",
-      "r_d8c62f4c99e88188"
+      "r_d8c62f4c99e88188",
+      "r_e57d996438499e5a"
     ],
     "pending_family_examples": 0
   },
@@ -5667,7 +6152,8 @@
     "source_entry": "context",
     "family_id": "g_982d9e3eb996f559",
     "example": [
-      "context"
+      "context",
+      "contextless"
     ],
     "related_root_ids": [
       "r_194a5c08fe85bedf",
@@ -5694,7 +6180,8 @@
       "contraindicate",
       "contravene",
       "contrast",
-      "contrarian"
+      "contrarian",
+      "contradictory"
     ],
     "related_root_ids": [
       "r_fdd60b087f0bd651"
@@ -5738,6 +6225,22 @@
       "uncontrollable",
       "uncontrollably",
       "uncontrolled"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6dfbfe11e33b7c21",
+    "root": "convex",
+    "source_form": "convex",
+    "meaning": "curved outward",
+    "class": "word_base",
+    "origin": "English convex from Latin convexus curved",
+    "source_entry": "convex",
+    "family_id": "g_e6d12fd4aa856f6d",
+    "example": [
+      "concavo-convex",
+      "convexo-convex"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -5821,7 +6324,9 @@
       "coprolagnia",
       "coprolite",
       "coprophagy",
-      "coprolith"
+      "coprolith",
+      "copremia",
+      "coprophagia"
     ],
     "related_root_ids": [
       "r_ddece757724b274b"
@@ -5846,7 +6351,8 @@
       "coprolith",
       "coprophagy",
       "coprophilia",
-      "coprology"
+      "coprology",
+      "coprophagia"
     ],
     "related_root_ids": [
       "r_1e6f25b5cb7ccece"
@@ -5996,7 +6502,9 @@
       "nonaccordant",
       "cordiform",
       "misericord",
-      "obcordate"
+      "obcordate",
+      "accordatura",
+      "scordatura"
     ],
     "family_id": "g_5c2dacdbc6684b4c",
     "related_root_ids": [
@@ -6952,6 +7460,30 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_454b171839f6be6c",
+    "root": "cre",
+    "source_form": "-cre-",
+    "meaning": "believe; trust",
+    "class": "lookup_alias",
+    "origin": "Latin credere and historical Old French creire/creant",
+    "source_entry": "cred-, -cred-, -cre-",
+    "family_id": "g_dd2717556828d2dd",
+    "example": [
+      "accreditation",
+      "credentials",
+      "discredit",
+      "incredible",
+      "incredulous",
+      "miscreant",
+      "recreant"
+    ],
+    "related_root_ids": [
+      "r_1439d82e6f4027c4",
+      "r_47154a259b95d80b"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_da7f82da4a7f348c",
     "root": "cre",
     "source_form": "cre",
@@ -7085,7 +7617,8 @@
       "procreate",
       "procreation",
       "recreation",
-      "uncreative"
+      "uncreative",
+      "creativity"
     ],
     "family_id": "g_978d2fda4a39f303",
     "related_root_ids": [
@@ -7144,6 +7677,7 @@
     ],
     "family_id": "g_dd2717556828d2dd",
     "related_root_ids": [
+      "r_454b171839f6be6c",
       "r_47154a259b95d80b"
     ],
     "source_entry": "cred, credit",
@@ -7165,7 +7699,8 @@
     ],
     "family_id": "g_dd2717556828d2dd",
     "related_root_ids": [
-      "r_1439d82e6f4027c4"
+      "r_1439d82e6f4027c4",
+      "r_454b171839f6be6c"
     ],
     "source_entry": "cred, credit",
     "pending_family_examples": 0
@@ -7325,7 +7860,8 @@
       "cricothyroid",
       "cricoidectomy",
       "cricotomy",
-      "cricoid"
+      "cricoid",
+      "cricothyrotomy"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -7616,7 +8152,9 @@
       "crucify",
       "crucifixion",
       "crucifix",
-      "crucigerous"
+      "crucigerous",
+      "cruciate",
+      "cruciferous"
     ],
     "related_root_ids": [
       "r_3e5a1bdd1d68dde3",
@@ -7802,7 +8340,8 @@
       "cryptology",
       "cryptomonad",
       "cryptophyte",
-      "cryptosystem"
+      "cryptosystem",
+      "archaeocryptography"
     ],
     "family_id": "g_e2cb1fbf3fba717f",
     "related_root_ids": [
@@ -8038,7 +8577,8 @@
     "source_entry": "culti-",
     "family_id": "g_63c02196496348b5",
     "example": [
-      "cultivate"
+      "cultivate",
+      "cultivation"
     ],
     "related_root_ids": [
       "r_5a4483dbccf048dd",
@@ -8338,7 +8878,9 @@
     "origin": "English cure; Latin curare",
     "source_entry": "cure-",
     "family_id": "g_78f22375c83e7844",
-    "example": [],
+    "example": [
+      "cure-all"
+    ],
     "related_root_ids": [
       "r_aa5f177c49e60ba3",
       "r_d4b248038cf7b600"
@@ -8995,7 +9537,9 @@
     "example": [
       "cysticercus",
       "cystinuria",
-      "cystitis"
+      "cystitis",
+      "cystic",
+      "cystine"
     ],
     "related_root_ids": [
       "r_02c32c08b951692e",
@@ -9303,7 +9847,8 @@
       "darkened",
       "darken",
       "darkly",
-      "darkening"
+      "darkening",
+      "dark"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -9509,7 +10054,8 @@
       "destructive",
       "independence",
       "indescribable",
-      "indestructible"
+      "indestructible",
+      "design"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -9529,7 +10075,8 @@
       "deafening",
       "deafeningly",
       "deafness",
-      "stone-deaf"
+      "stone-deaf",
+      "deaf"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -10071,7 +10618,8 @@
       "demography",
       "demophobia",
       "demonym",
-      "demotic"
+      "demotic",
+      "democratic"
     ],
     "family_id": "g_e7fd274bfb589e66",
     "related_root_ids": [
@@ -10173,7 +10721,8 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "dendrite"
+      "dendrite",
+      "dendric"
     ],
     "family_id": "g_d75c88fecd71ee2f",
     "related_root_ids": [
@@ -10327,7 +10876,9 @@
     "example": [
       "derisorily",
       "derisively",
-      "derision"
+      "derision",
+      "derisive",
+      "derisory"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -10588,7 +11139,8 @@
     "example": [
       "deuterogamist",
       "deuterogamy",
-      "deuterostome"
+      "deuterostome",
+      "deuteron"
     ],
     "related_root_ids": [
       "r_4ebff229606f5622"
@@ -10770,7 +11322,9 @@
       "disambiguate",
       "disappear",
       "dislike",
-      "difficulty"
+      "difficulty",
+      "direct",
+      "direction"
     ],
     "related_root_ids": [
       "r_1074b0a94efca4a8",
@@ -11063,6 +11617,26 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_921d59e713d7c96c",
+    "root": "dida",
+    "source_form": "dida-",
+    "meaning": "teach",
+    "class": "lookup_alias",
+    "origin": "Greek didaskein teach, didaktos taught",
+    "source_entry": "da-, dida-",
+    "family_id": "g_25173d632c3bf897",
+    "example": [
+      "didache",
+      "didact",
+      "didactic",
+      "didacticism"
+    ],
+    "related_root_ids": [
+      "r_eaadb556f97c9c8b"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_eaadb556f97c9c8b",
     "root": "didact",
     "source_form": "didact-",
@@ -11074,7 +11648,9 @@
     "example": [
       "didactic"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_921d59e713d7c96c"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -11807,7 +12383,8 @@
     "example": [
       "dogma",
       "dogmatic",
-      "dogmatism"
+      "dogmatism",
+      "dogmatist"
     ],
     "family_id": "g_21f72c82316c8c67",
     "related_root_ids": [
@@ -11850,7 +12427,9 @@
     "example": [
       "dolichocranial",
       "dolichocephaly",
-      "dolichocephalic"
+      "dolichocephalic",
+      "dolichocranic",
+      "dolichol"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -12067,7 +12646,8 @@
     "family_id": "g_98bc0046a0cf4323",
     "example": [
       "indoors",
-      "indoor"
+      "indoor",
+      "door"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -12372,7 +12952,8 @@
       "dramatist",
       "melodramatically",
       "psychodrama",
-      "dramatically"
+      "dramatically",
+      "dramatize"
     ],
     "related_root_ids": [
       "r_d7c6db7303edb4e7"
@@ -12414,7 +12995,8 @@
       "drawing",
       "underdraw",
       "withdraw",
-      "redraw"
+      "redraw",
+      "draw"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -12641,7 +13223,8 @@
       "diadromous",
       "heterodromous",
       "antidromic",
-      "loxodrome"
+      "loxodrome",
+      "dromaeosaurid"
     ],
     "family_id": "g_46ac64282cc8d9c9",
     "related_root_ids": [
@@ -12754,6 +13337,24 @@
       "druggie",
       "druggy",
       "drugged"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4a0937c00ccd64c1",
+    "root": "dry",
+    "source_form": "dry",
+    "meaning": "free from moisture; make or become free from moisture",
+    "class": "word_base",
+    "origin": "English; Old English dryge adjective and drygan verb",
+    "source_entry": "dry",
+    "family_id": "g_35dbf8a81e4f7e80",
+    "example": [
+      "dryly",
+      "dryer",
+      "dryness",
+      "drying"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13144,7 +13745,9 @@
     "source_entry": "dulci-",
     "family_id": "g_f27bb4c9a50c4b8a",
     "example": [
-      "dulcian"
+      "dulcian",
+      "dulcify",
+      "dulcimer"
     ],
     "related_root_ids": [
       "r_3dbd3930d2e47d5e",
@@ -13318,7 +13921,8 @@
       "durance",
       "duration",
       "dural",
-      "durancy"
+      "durancy",
+      "durain"
     ],
     "related_root_ids": [
       "r_5cb6d79f1075d98a",
@@ -13404,7 +14008,8 @@
       "antidynastic",
       "didynamous",
       "aerodynamic",
-      "metadynamics"
+      "metadynamics",
+      "autodyne"
     ],
     "family_id": "g_a03ec667dc332a18",
     "related_root_ids": [
@@ -13547,7 +14152,8 @@
       "dysfunction",
       "dysphasia",
       "dysfunctional",
-      "dystopia"
+      "dystopia",
+      "dyslexic"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13644,7 +14250,8 @@
     "example": [
       "eagerly",
       "overeager",
-      "eagerness"
+      "eagerness",
+      "eager"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13693,7 +14300,8 @@
       "earner",
       "earning",
       "unearned",
-      "earned"
+      "earned",
+      "earn"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13756,7 +14364,8 @@
       "southeast",
       "eastern",
       "northeastern",
-      "northeast"
+      "northeast",
+      "northeastward"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13858,7 +14467,8 @@
       "echinococcosis",
       "echinus",
       "echinoderm",
-      "echinococcus"
+      "echinococcus",
+      "echinocactus"
     ],
     "related_root_ids": [
       "r_0082fd4c4e823981"
@@ -13877,7 +14487,8 @@
     "example": [
       "echinoderm",
       "echinococcosis",
-      "echinococcus"
+      "echinococcus",
+      "echinocactus"
     ],
     "related_root_ids": [
       "r_98f68b930cbee021"
@@ -14052,6 +14663,24 @@
       "inedia"
     ],
     "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_dd0476f85dfc02b5",
+    "root": "ed",
+    "source_form": "ed-",
+    "meaning": "swell; swollen",
+    "class": "lookup_alias",
+    "origin": "Greek oidema, oidein via Latin oedema; American spelling edema",
+    "source_entry": "oed-, ed-",
+    "family_id": "g_0b5b1081cd92b3a4",
+    "example": [
+      "edema",
+      "edematous"
+    ],
+    "related_root_ids": [
+      "r_fbcb73dbf8d4d602"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -14371,6 +15000,24 @@
     ],
     "source_entry": "electr-",
     "pending_family_examples": 2
+  },
+  {
+    "id": "r_875fbf293402a3e1",
+    "root": "element",
+    "source_form": "element",
+    "meaning": "element, constituent; rudiment or first principle",
+    "class": "historical_stem",
+    "origin": "Latin elementum (genitive elementi), via French and learned Latin; historical stem element-. The earlier origin of elementum itself is unknown.",
+    "source_entry": "element",
+    "family_id": "g_d31af15da2ab1314",
+    "example": [
+      "multielement",
+      "element",
+      "elemental",
+      "elementary"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_6b1adf331e4b307c",
@@ -14755,6 +15402,46 @@
       "r_ed69c803d389045a"
     ],
     "source_entry": "cephal, cephalo, encephal, encephalo",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9a1fb24b884690f4",
+    "root": "end",
+    "source_form": "end",
+    "meaning": "end, conclusion; bring or come to an end",
+    "class": "word_base",
+    "origin": "English; Old English ende (noun), with related English verb",
+    "source_entry": "end",
+    "family_id": "g_de81f7c90047c072",
+    "example": [
+      "endlessness",
+      "end",
+      "endlessly",
+      "unending",
+      "ending",
+      "endless"
+    ],
+    "related_root_ids": [
+      "r_ec5369ed5a42c6d0"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ec5369ed5a42c6d0",
+    "root": "end",
+    "source_form": "end",
+    "meaning": "an extremity or outermost part",
+    "class": "word_base",
+    "origin": "English; Old English ende; source historically also has boundary and conclusion senses",
+    "source_entry": "end",
+    "family_id": "g_de81f7c90047c072",
+    "example": [
+      "upend",
+      "upended"
+    ],
+    "related_root_ids": [
+      "r_9a1fb24b884690f4"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -15939,7 +16626,8 @@
       "ethnography",
       "ethnology",
       "ethnomusicology",
-      "paleethnology"
+      "paleethnology",
+      "ethnographic"
     ],
     "family_id": "g_4044713956b86afd",
     "related_root_ids": [
@@ -17055,7 +17743,8 @@
       "familiarized",
       "familiarizing",
       "familiarly",
-      "family"
+      "family",
+      "unfamiliar"
     ],
     "family_id": "g_76562ffb2c9d8685",
     "related_root_ids": [
@@ -17106,7 +17795,8 @@
     "source_entry": "famil",
     "family_id": "g_76562ffb2c9d8685",
     "example": [
-      "familial"
+      "familial",
+      "familially"
     ],
     "related_root_ids": [
       "r_76562ffb2c9d8685",
@@ -17175,7 +17865,8 @@
     "source_entry": "fan",
     "family_id": "g_dcb0ed838d7b9d81",
     "example": [
-      "fan"
+      "fan",
+      "fandom"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17454,7 +18145,8 @@
       "grandfatherly",
       "housefather",
       "unfathered",
-      "unfatherly"
+      "unfatherly",
+      "stepfather"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17470,7 +18162,9 @@
       "fatigability",
       "fatigue",
       "fatigued",
-      "fatigues"
+      "fatigues",
+      "fatigue-party",
+      "fatigue-duty"
     ],
     "family_id": "g_7dba69e7ca02ea15",
     "related_root_ids": [
@@ -17491,7 +18185,9 @@
     "example": [
       "fatigue",
       "fatigued",
-      "fatigues"
+      "fatigues",
+      "fatigue-duty",
+      "fatigue-party"
     ],
     "related_root_ids": [
       "r_7dba69e7ca02ea15"
@@ -17974,7 +18670,8 @@
     "class": "root",
     "origin": "Old French feign-, from Latin fingere",
     "example": [
-      "feign"
+      "feign",
+      "feigner"
     ],
     "family_id": "g_8c39c63488260c31",
     "related_root_ids": [
@@ -18904,7 +19601,8 @@
       "field",
       "broken-field",
       "downfield",
-      "upfield"
+      "upfield",
+      "fielder"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19139,7 +19837,9 @@
       "filming",
       "filmmaker",
       "filmmaking",
-      "filmy"
+      "filmy",
+      "filmable",
+      "microfilm"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20014,7 +20714,8 @@
     "example": [
       "flood",
       "flooded",
-      "flooding"
+      "flooding",
+      "floodgate"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20148,7 +20849,8 @@
       "flower",
       "flowered",
       "flowering",
-      "flowery"
+      "flowery",
+      "flowerless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20588,7 +21290,8 @@
       "fool",
       "foolish",
       "foolishly",
-      "foolishness"
+      "foolishness",
+      "foolproof"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21339,7 +22042,8 @@
     "example": [
       "frank",
       "frankly",
-      "frankness"
+      "frankness",
+      "franker"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21500,7 +22204,8 @@
       "refresher",
       "refreshing",
       "refreshingly",
-      "refreshment"
+      "refreshment",
+      "fresher"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21993,7 +22698,9 @@
       "full-term",
       "full-time",
       "fully",
-      "overfull"
+      "overfull",
+      "fullness",
+      "fuller"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22307,7 +23014,8 @@
     "source_entry": "fury",
     "family_id": "g_4c28b721e657d2d6",
     "example": [
-      "fury"
+      "fury",
+      "furylike"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22451,7 +23159,8 @@
     "source_entry": "future",
     "family_id": "g_a0bd629a9e7bee9a",
     "example": [
-      "future"
+      "future",
+      "future-proof"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22683,7 +23392,8 @@
     "source_entry": "correction from gamm-",
     "family_id": "g_24dcb71d97039156",
     "example": [
-      "gamma"
+      "gamma",
+      "gamma-ray"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22834,7 +23544,8 @@
     "source_entry": "correction from gar",
     "family_id": "g_86242fe5482c8296",
     "example": [
-      "garment"
+      "garment",
+      "garmentless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -23133,7 +23844,8 @@
       "hypogeous",
       "hypogeum",
       "pangea",
-      "perigee"
+      "perigee",
+      "geological"
     ],
     "family_id": "g_e81935fb86434cda",
     "related_root_ids": [
@@ -23598,7 +24310,8 @@
     "source_entry": "gen-",
     "family_id": "g_3640a1d6a4e796ee",
     "example": [
-      "genesis"
+      "genesis",
+      "pangenesis"
     ],
     "related_root_ids": [
       "r_05be8458fbea1f18",
@@ -24016,556 +24729,5 @@
     ],
     "source_entry": "germ-",
     "pending_family_examples": 4
-  },
-  {
-    "id": "r_d9c8f12f45aa70fc",
-    "root": "germi",
-    "source_form": "germi-",
-    "meaning": "sprout, vital part",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "germicide",
-      "germinal",
-      "germinate",
-      "germination",
-      "regerminate"
-    ],
-    "family_id": "g_fd26b1295be4e193",
-    "related_root_ids": [
-      "r_6f8ff74c48e9446d"
-    ],
-    "source_entry": "germ-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_c74f3f3b63d1e8d8",
-    "root": "gero",
-    "source_form": "gero-",
-    "meaning": "old age; old person",
-    "class": "combining_form",
-    "origin": "Greek",
-    "source_entry": "ger-",
-    "family_id": "g_6ec2205a6a35e9e8",
-    "example": [
-      "gerontocracy",
-      "gerontology",
-      "gerontophile",
-      "gerontophilia",
-      "gerontophobia",
-      "gerontoplast",
-      "gerousia"
-    ],
-    "related_root_ids": [
-      "r_4dd71a10a7247d52",
-      "r_69bfe3553f793f39",
-      "r_b1ee4a1563c2e85f",
-      "r_d300105143f67875"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d300105143f67875",
-    "root": "geron",
-    "source_form": "geron",
-    "meaning": "old man",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "erigeron",
-      "gerontocracy",
-      "gerontology",
-      "gerontophile",
-      "gerontophilia",
-      "gerontophobia",
-      "gerontoplast"
-    ],
-    "family_id": "g_6ec2205a6a35e9e8",
-    "related_root_ids": [
-      "r_4dd71a10a7247d52",
-      "r_69bfe3553f793f39",
-      "r_b1ee4a1563c2e85f",
-      "r_c74f3f3b63d1e8d8"
-    ],
-    "source_entry": "geron",
-    "pending_family_examples": 1
-  },
-  {
-    "id": "r_69bfe3553f793f39",
-    "root": "geront",
-    "source_form": "geront-",
-    "meaning": "old, old person",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "gerontocracy",
-      "gerontology",
-      "gerontophile",
-      "gerontophilia",
-      "gerontophobia",
-      "gerontoplast"
-    ],
-    "family_id": "g_6ec2205a6a35e9e8",
-    "related_root_ids": [
-      "r_4dd71a10a7247d52",
-      "r_b1ee4a1563c2e85f",
-      "r_c74f3f3b63d1e8d8",
-      "r_d300105143f67875"
-    ],
-    "source_entry": "ger-",
-    "pending_family_examples": 8
-  },
-  {
-    "id": "r_b4a17ed65871afde",
-    "root": "gest",
-    "source_form": "gest",
-    "meaning": "carry, bear, bring",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "aerodigestive",
-      "congest",
-      "congestion",
-      "digest",
-      "digested",
-      "digester",
-      "digestibility",
-      "digestible",
-      "digestion",
-      "digestive",
-      "gestation",
-      "gesticulate",
-      "gesticulation",
-      "gestural",
-      "gesture",
-      "gesturing",
-      "indigest",
-      "indigested",
-      "indigestibility",
-      "indigestible",
-      "indigestion",
-      "indigestive",
-      "ingest",
-      "ingested",
-      "ingestion",
-      "suggest",
-      "suggested",
-      "suggestibility",
-      "suggestible",
-      "suggestion",
-      "suggestive",
-      "suggestively",
-      "suggestiveness",
-      "undigested"
-    ],
-    "family_id": "g_5914e0de80721cc5",
-    "related_root_ids": [
-      "r_361e29ba37a64e9d",
-      "r_61527ad55faaf147"
-    ],
-    "source_entry": "gest",
-    "pending_family_examples": 4
-  },
-  {
-    "id": "r_61de290673572143",
-    "root": "get",
-    "source_form": "get",
-    "meaning": "get; obtain; grasp",
-    "class": "root",
-    "origin": "Old Norse / Old English",
-    "source_entry": "get",
-    "family_id": "g_edf9508b8c275862",
-    "example": [
-      "forget",
-      "forgetful",
-      "forgetfulness",
-      "forgettable",
-      "unforgettable",
-      "unforgettably"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_e01f43c3ce2cd84f",
-    "root": "giant",
-    "source_form": "giant",
-    "meaning": "giant; person or being of unusual size",
-    "class": "root",
-    "origin": "Greek via French",
-    "source_entry": "giant",
-    "family_id": "g_9166bd914d97bc0a",
-    "example": [
-      "giant",
-      "giantess"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_8831d56060618c52",
-    "root": "gif",
-    "source_form": "gif",
-    "meaning": "gift; grace",
-    "class": "root",
-    "origin": "Old English",
-    "source_entry": "gif",
-    "family_id": "g_f2779268d62775eb",
-    "example": [
-      "gift",
-      "gifted",
-      "giftedness"
-    ],
-    "related_root_ids": [
-      "r_bf4c7e075ce3991c"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_fd33e7eaf003220e",
-    "root": "giga",
-    "source_form": "giga",
-    "meaning": "giant; billion",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "gigabyte",
-      "gigahertz",
-      "gigawatt"
-    ],
-    "family_id": "g_b2caa99140be6270",
-    "related_root_ids": [
-      "r_7ece02c80458c37c"
-    ],
-    "source_entry": "giga",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_7ece02c80458c37c",
-    "root": "gigant",
-    "source_form": "gigant-",
-    "meaning": "great size or extent",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "gigantesque",
-      "gigantic",
-      "gigantism"
-    ],
-    "family_id": "g_b2caa99140be6270",
-    "related_root_ids": [
-      "r_fd33e7eaf003220e"
-    ],
-    "source_entry": "gigant",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_1f5cc533ff22c784",
-    "root": "gin",
-    "source_form": "gin",
-    "meaning": "machine, mechanical device",
-    "class": "root",
-    "origin": "English gin, shortened from Old French engin",
-    "source_entry": "gin",
-    "family_id": "g_d3d2023f41a75ec7",
-    "example": [
-      "engine",
-      "engineer",
-      "engineering"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_062d9c0c8480d75c",
-    "root": "girl",
-    "source_form": "girl",
-    "meaning": "girl; young female person",
-    "class": "root",
-    "origin": "English; earlier origin uncertain",
-    "source_entry": "girl",
-    "family_id": "g_addfe15c421f8989",
-    "example": [
-      "girl",
-      "girlhood",
-      "girlie",
-      "girlish",
-      "girlishly",
-      "girly"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_61527ad55faaf147",
-    "root": "gist",
-    "source_form": "gist",
-    "meaning": "carry, bring",
-    "class": "root",
-    "origin": "Latin gerere/gestus; instructional variant",
-    "source_entry": "gist",
-    "family_id": "g_5914e0de80721cc5",
-    "example": [
-      "register",
-      "registered",
-      "registrant",
-      "registrar",
-      "registration",
-      "registry",
-      "unregistered"
-    ],
-    "related_root_ids": [
-      "r_361e29ba37a64e9d",
-      "r_b4a17ed65871afde"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_bf4c7e075ce3991c",
-    "root": "giv",
-    "source_form": "giv",
-    "meaning": "give; bestow; grant",
-    "class": "root",
-    "origin": "Old English",
-    "source_entry": "giv",
-    "family_id": "g_f2779268d62775eb",
-    "example": [
-      "forgivable",
-      "forgive",
-      "forgiveness",
-      "forgiving",
-      "give",
-      "given",
-      "giver",
-      "unforgivable",
-      "unforgivably",
-      "unforgiving"
-    ],
-    "related_root_ids": [
-      "r_8831d56060618c52"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_f7fe69e251defc84",
-    "root": "glabr",
-    "source_form": "glabr",
-    "meaning": "hairless",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "glabrate",
-      "glabrescent",
-      "glabrous"
-    ],
-    "family_id": "g_7cca84e3587f5484",
-    "related_root_ids": [],
-    "source_entry": "glabr-",
-    "pending_family_examples": 2
-  },
-  {
-    "id": "r_b14002731892cfce",
-    "root": "glac",
-    "source_form": "glac",
-    "meaning": "ice",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "glacial",
-      "glacier",
-      "glacis"
-    ],
-    "family_id": "g_ab261e418e1acfcd",
-    "related_root_ids": [
-      "r_1d8f3b24a9f66da9",
-      "r_6cc242dae0b66dea"
-    ],
-    "source_entry": "glac",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_6cc242dae0b66dea",
-    "root": "glaci",
-    "source_form": "glaci-",
-    "meaning": "ice, glacier",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "glacial",
-      "glacialist",
-      "glacially",
-      "glaciation",
-      "glacier",
-      "glaciology",
-      "glacious",
-      "glacis",
-      "interglacial",
-      "neoglacial",
-      "postglacial",
-      "preglacial",
-      "subglacial"
-    ],
-    "family_id": "g_ab261e418e1acfcd",
-    "related_root_ids": [
-      "r_1d8f3b24a9f66da9",
-      "r_b14002731892cfce"
-    ],
-    "source_entry": "glaci-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_1d8f3b24a9f66da9",
-    "root": "glacio",
-    "source_form": "glacio-",
-    "meaning": "ice; glacier",
-    "class": "combining_form",
-    "origin": "Latin glacies, via glacier",
-    "source_entry": "glacio",
-    "family_id": "g_ab261e418e1acfcd",
-    "example": [
-      "glacious"
-    ],
-    "related_root_ids": [
-      "r_6cc242dae0b66dea",
-      "r_b14002731892cfce"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_fb751f271e4c4d05",
-    "root": "glad",
-    "source_form": "glad",
-    "meaning": "glad; happy; pleased",
-    "class": "root",
-    "origin": "Old English glæd",
-    "source_entry": "glad",
-    "family_id": "g_3ebbe3e460cb0aaa",
-    "example": [
-      "glad",
-      "gladden",
-      "gladly",
-      "gladness"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_c68ca0f85a7fb215",
-    "root": "gladi",
-    "source_form": "gladi-",
-    "meaning": "sword",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "gladiator",
-      "gladiolus"
-    ],
-    "family_id": "g_c68ca0f85a7fb215",
-    "related_root_ids": [],
-    "source_entry": "gladi-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_3e87be3acd6f5e3f",
-    "root": "glam",
-    "source_form": "glam",
-    "meaning": "glamour; glamorous attractiveness",
-    "class": "root",
-    "origin": "English clipping of glamour or glamorous",
-    "source_entry": "glam",
-    "family_id": "g_b0f3eff32db273de",
-    "example": [
-      "glamor",
-      "glamorization",
-      "glamorize",
-      "glamorous",
-      "glamorously",
-      "unglamorous"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_5c13e16525a9a4f2",
-    "root": "glamor",
-    "source_form": "glamor",
-    "meaning": "glamour; alluring attractiveness",
-    "class": "root",
-    "origin": "English, American spelling of glamour, from Scots",
-    "source_entry": "glamor",
-    "family_id": "g_1c211e87759a896e",
-    "example": [
-      "glamorize",
-      "glamorization",
-      "glamorous",
-      "glamorously"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_0f60ba2335c7d57d",
-    "root": "glance",
-    "source_form": "glance",
-    "meaning": "glance; look briefly or strike obliquely",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "corrected from gl group",
-    "family_id": "g_e932c5bcb7931c28",
-    "example": [
-      "glance",
-      "glancing",
-      "glancingly"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d53e937fc4e642a1",
-    "root": "glare",
-    "source_form": "glare",
-    "meaning": "glare; shine harshly or stare fiercely",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "corrected from gl group",
-    "family_id": "g_1a9ce71ddc1d4ff3",
-    "example": [
-      "glare",
-      "glaring"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_af69e55a4f1aa4db",
-    "root": "glass",
-    "source_form": "glass",
-    "meaning": "glass; vitreous material",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "corrected from gl group",
-    "family_id": "g_7b63eefc1efe68c5",
-    "example": [
-      "glass",
-      "glassed",
-      "glassy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_88184bbb82aabed6",
-    "root": "glauc",
-    "source_form": "glauc-",
-    "meaning": "gray",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "glaucophane"
-    ],
-    "family_id": "g_88184bbb82aabed6",
-    "related_root_ids": [],
-    "source_entry": "glauc-",
-    "pending_family_examples": 0
   }
 ]

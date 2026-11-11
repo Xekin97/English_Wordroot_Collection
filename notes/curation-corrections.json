@@ -1155,7 +1155,7 @@
       ]
     }
   ],
-  "roots_sha256": "bc52659edee2acc7b6a1076a327bd09618b92fa817df181e465b8badba9593f3",
+  "roots_sha256": "3da6e1af5c1fe2bb94a5526bfe9ef3245ee9c8d0ce15411349ddf1726de9e2bb",
   "canonical_root_aliases": [
     {
       "alias_id": "r_a6fbd12efdd62661",
@@ -1898,6 +1898,26 @@
           "https://www.etymonline.com/word/curettage",
           "https://www.merriam-webster.com/dictionary/curettage"
         ]
+      },
+      {
+        "published_root_id": "r_de41073eda708174",
+        "word": "campylotropous_ovule",
+        "reason": "Royal Botanic Garden Sydney 的图示直接采用 campylotropous ovule；其中 ovule 来自 Latin ovulum，是 ovum「卵」的指小形式，故历史 -ule 义确切相关。恢复空格为标准术语写法。",
+        "evidence_urls": [
+          "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?glossary=yes&ill=Fig.+21+C&page=nswfl&term=campylotropous",
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/ovule",
+          "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=ovule"
+        ]
+      },
+      {
+        "published_root_id": "r_e260a1f740d0ae2e",
+        "word": "granuloma_inguinale",
+        "reason": "NCBI 的疾病条目确认为 granuloma inguinale 空格形式；Taber 医学词典分析 granuloma 为 granulo- + -oma，与 granul「颗粒」词根相符。疾病术语作为词组保留，不要因已有单词 granuloma 便删掉。",
+        "evidence_urls": [
+          "https://www.ncbi.nlm.nih.gov/medgen/42291",
+          "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/761169/9/granuloma",
+          "https://www.etymonline.com/word/granuloma"
+        ]
       }
     ],
     "root_id_migrations": [
@@ -2226,24 +2246,43 @@
         "previous_family_id": "g_0537cb15b86036a7",
         "current_family_id": "g_20c4bc6568b296dd",
         "reason": "The hard and lasting senses have related Latin historical forms; the record retains its root ID. The previous family ID is preserved here for consumers migrating saved references."
+      },
+      {
+        "old_family_id": "g_630dbfcf24d085d4",
+        "canonical_family_id": "g_992fb9109879bc3a",
+        "preserved_root_ids": [
+          "r_6fbf5d1775a07073",
+          "r_c4ae12b5bd81cfb6",
+          "r_c8b718052c14db9c"
+        ],
+        "reason": "Same documented Latin arbiter / arbitr- family."
+      },
+      {
+        "old_family_id": "g_21ce20ea114cdb4e",
+        "canonical_family_id": "g_dd46b9e6ed0499ce",
+        "preserved_root_ids": [
+          "r_37795f54894ee4f3",
+          "r_175035a642e04eb7"
+        ],
+        "reason": "Greek meninx and inflectional stem mening- are documented forms of one historical family; the forms and root IDs remain distinct."
       }
     ],
-    "new_root_evidence_count": 2334,
+    "new_root_evidence_count": 2365,
     "new_root_evidence_parts": [
       {
         "file": "json/root-evidence-001.json",
         "count": 1000,
-        "sha256": "bf2d748f26fcbc8baa6a24dc802c578c0be7bbaab418cab06a79e973cf4e9e5b"
+        "sha256": "7311b49d158fa4e786b7fb3e026cfaaecc2bb6be5a5029be8f3ffd9daa19d78d"
       },
       {
         "file": "json/root-evidence-002.json",
         "count": 1000,
-        "sha256": "3e8ecab3e4e0cc8831b7ebc938bcfc24971c931b4cb877f26325e91c4c95c662"
+        "sha256": "13e1cd6f78463d2130c4f8a2396e2a529e31f081d90c4102632afaef605deb7a"
       },
       {
         "file": "json/root-evidence-003.json",
-        "count": 334,
-        "sha256": "e85da41e52cad47ad9a9ff0460bc009789e60b9bad7567238d18b730eb04ea0b"
+        "count": 365,
+        "sha256": "923015d60ddb694ad78851f7fdedabaa37bd0da02e479cd5f06bfe9568e081ec"
       }
     ]
   }

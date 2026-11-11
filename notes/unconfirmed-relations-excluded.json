@@ -1,0 +1,775 @@
+{
+  "roots_sha256": "3da6e1af5c1fe2bb94a5526bfe9ef3245ee9c8d0ce15411349ddf1726de9e2bb",
+  "scope": "User-directed exclusion of unconfirmed root-example mappings; this does not establish that the words are invalid or disputed etymologies false.",
+  "records": [
+    {
+      "relation_id": "e_01190e6d208a09f31712",
+      "root_id": "r_80c0fcbbfa9d03d861b2",
+      "root": "lu",
+      "word": "pollution",
+      "source_entry_ids": [
+        "s_7977f4521af95c20750d"
+      ],
+      "previous_pending_reason": "Fresh check finds PONS gives Latin polluo as por- plus lutum mud, whereas the Latin grammar at Grand Dictionnaire groups it as a compound of luo wash. Oxford likewise gives the mud analysis. The shared Latin verb is certain but the two analyses cannot be collapsed; do not presume the wash target or an unrelated word.",
+      "previous_evidence_urls": [
+        "https://fr.pons.com/traduction/latin-allemand/polluo",
+        "https://www.grand-dictionnaire-latin.com/dictionnaire-latin-grammaire.php?pg=94",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/pollute",
+        "https://www.dictionnaire-academie.fr/article/A9P3204"
+      ],
+      "previous_review_sha256": "e6fa8bbb5510564d38e11ac7c11ea2d9d7ac99f07a65f2de6591988b9091314e",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_0385be74198c7ea304af",
+      "root_id": "r_690e6396d2854b5b8a54",
+      "root": "mony",
+      "word": "ceremony",
+      "source_entry_ids": [
+        "s_b4b50e2cf7e53957c078"
+      ],
+      "previous_pending_reason": "新增拉丁构词学论文认为 caerimonium 与其对应的 caerimonia 很可能属于 -monia/-monium 名词派生，并称本词词源不明；De Vaan 提出 *caerus + -monia，但 Oxford 专著保留整词源于伊特鲁里亚语的可能。构词方式及其是否表达原卡 resemblance 或 characteristic 不能确认，维持待定。",
+      "previous_evidence_urls": [
+        "https://journals.akademicka.pl/cc/article/download/1734/1470",
+        "https://files.znu.edu.ua/files/Bibliobooks/Kushynova/0033892.pdf",
+        "https://en.wiktionary.org/wiki/caerimonia"
+      ],
+      "previous_review_sha256": "ea931865f15e7299f635f1dc94f6398d59a30ac277d6b7833e91e234309ddf6e",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_09b70900ba8c8a5553d0",
+      "root_id": "r_b45df01cf1aea7fad1c5",
+      "root": "frag",
+      "word": "suffrage",
+      "source_entry_ids": [
+        "s_8f0a6ad86b4273d42e8b"
+      ],
+      "previous_pending_reason": "The source means break. A scholarly study explains the conventional sub + fragor/frangere derivation of Latin suffragium, but explicitly reports Szemerényi’s phonological objection: short a in fragor versus long a in suffragium, proposing another root instead. The English voting word and its derivatives thus have a real disputed root, not a proven break morpheme.",
+      "previous_evidence_urls": [
+        "https://journal.fi/arctos/article/download/86903/45738",
+        "https://www.researchgate.net/publication/398034734_Pebbles_Points_or_Ballots_The_Emergence_of_the_Individual_Vote_in_Rome",
+        "https://www.etymonline.com/word/suffrage"
+      ],
+      "previous_review_sha256": "5563df96a37b3765368b8d167569f12e8c4e521b7f0f59a6f71431d5769fa625",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_0b3f6911443bc889ded4",
+      "root_id": "r_b45df01cf1aea7fad1c5",
+      "root": "frag",
+      "word": "suffragist",
+      "source_entry_ids": [
+        "s_8f0a6ad86b4273d42e8b"
+      ],
+      "previous_pending_reason": "The source means break. A scholarly study explains the conventional sub + fragor/frangere derivation of Latin suffragium, but explicitly reports Szemerényi’s phonological objection: short a in fragor versus long a in suffragium, proposing another root instead. The English voting word and its derivatives thus have a real disputed root, not a proven break morpheme.",
+      "previous_evidence_urls": [
+        "https://journal.fi/arctos/article/download/86903/45738",
+        "https://www.researchgate.net/publication/398034734_Pebbles_Points_or_Ballots_The_Emergence_of_the_Individual_Vote_in_Rome",
+        "https://www.etymonline.com/word/suffrage"
+      ],
+      "previous_review_sha256": "5563df96a37b3765368b8d167569f12e8c4e521b7f0f59a6f71431d5769fa625",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_12ca761c7bac581f40ed",
+      "root_id": "r_75239d03c9a8bd9381c1",
+      "root": "hom",
+      "word": "homiletic",
+      "source_entry_ids": [
+        "s_08563f49dac3b37c1a97"
+      ],
+      "previous_pending_reason": "新增德州大学印欧词根数据库把 Greek homilos「人群」、homilia 与 homos「同一」并列，支持传统同源解；但 Beekes《Pre-Greek》将 homilos 列为底层词，其希腊词典基于变体音形明确提出竞争解释。已经排除 Latin homo「人」解，Greek same 义因两种专业分析冲突仍不能确定。",
+      "previous_evidence_urls": [
+        "https://lrc.la.utexas.edu/lex/master/1686",
+        "https://fr.scribd.com/document/382314728/Brill-Introductions-to-Indo-European-Languages-2-Robert-S-P-Beekes-Stefan-Norbruis-Pre-Greek-Phonology-Morphology-Lexicon-Brill-Academic-Publi",
+        "https://en.wiktionary.org/wiki/%E1%BD%85%CE%BC%CE%B9%CE%BB%CE%BF%CF%82",
+        "https://www.etymonline.com/word/homily"
+      ],
+      "previous_review_sha256": "78d2093a75bea3fdbc2ffa52809f15176b83f3e6645712ce98e3054afc16c4ae",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_19b6ea51f2f38d2f0d21",
+      "root_id": "r_67765ea11a942cd4e55c",
+      "root": "ped",
+      "word": "peddle",
+      "source_entry_ids": [
+        "s_67659b39bfb688c840ff"
+      ],
+      "previous_pending_reason": "新增历史职业词研究列举 1165–1166 的 pedder 并援引 MED，将「筐」ped 作逆构、pedder 接 Medieval Latin pedarius「步行者」；但 Collins 仍将 pedder 分析自「筐」，American Heritage 将步行者解释标为 perhaps。逆构动词 peddle 及其 -ing 形式承袭同一争议，足义无法确证。",
+      "previous_evidence_urls": [
+        "https://argumentum.unideb.hu/2016-anyagok/dobrovolskao.pdf",
+        "https://anglo-norman.net/entry/pedder",
+        "https://www.collinsdictionary.com/dictionary/english/peddler",
+        "https://ahdictionary.com/word/search.html?q=peddler",
+        "https://www.etymonline.com/word/peddle"
+      ],
+      "previous_review_sha256": "c7217c10dbb8b9e88d57ddcda92dd2cbe911ba71f085a41f4ba6b36b9f8b1c95",
+      "preserved_independent_targets": [
+        {
+          "published_root_id": "r_fd15862b572f7821",
+          "word": "peddle"
+        }
+      ],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_27ab9eacc3c6cd383f0b",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "appose",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "Skeat analyzes French apposer as built on poser (from pausare) but modeled on Latin apponere; Etymonline also allows direct Latin-based English formation. The source requires Latin put/place, and neither exact derivational route is settled.",
+      "previous_evidence_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/A_Concise_Etymological_Dictionary_Of_The_English_Language_%28IA_conciseetymologi013978mbp%29.pdf",
+        "https://www.etymonline.com/word/appose"
+      ],
+      "previous_review_sha256": "ed050d5265deb3d83019213423ea13829a6abfe49418e0ca7620eac69fd30ede",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_2af998d988d4b5df7f01",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "purpose",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "Purpose descends from French porpos/porposer, but new evidence identifies a substantive split: Skeat and Palmer derive the noun from Latin propositum (ponere put) while treating the verb as from French poser, historically pausare; Etymonline derives the noun through the verb, and Scots records both historical paths. The source specifically asserts Latin put/place, so neither path can be silently treated as certain.",
+      "previous_evidence_urls": [
+        "https://www.dsl.ac.uk/entry/dost/purpos_n",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Folk-etymology%3B_a_dictionary_of_verbal_corruptions_or_words_perverted_in_form_or_meaning%2C_by_false_derivation_or_mistaken_analogy_%28IA_cu31924027422405%29.pdf",
+        "https://www.etymonline.com/word/purpose",
+        "https://www.anglo-norman.net/entry/porposer"
+      ],
+      "previous_review_sha256": "c661f1e167a9d9753b64cb39606d1c0e2a91620d95547fd40ebe89852041fc69",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_336f5d350c5c59fb91a5",
+      "root_id": "r_b83273c84bfa5193f85a",
+      "root": "fus",
+      "word": "refusal",
+      "source_entry_ids": [
+        "s_7220acd9fe65523ca4ef"
+      ],
+      "previous_pending_reason": "The source gloss is pour. The Scottish historical dictionary derives refuse (reject) from the participial stem of refundere “pour back”, but the Académie française derives Old French refuser from a blend of recusare and refutare. Their incompatible detailed analyses leave the specific Latin fus/pour attribution unresolved; the source groups this rejection sense with its refusal and refusenik derivatives.",
+      "previous_evidence_urls": [
+        "https://dsl.ac.uk/entry/dost00096682",
+        "https://www.dictionnaire-academie.fr/article/A9R1273",
+        "https://www.etymonline.com/word/refuse"
+      ],
+      "previous_review_sha256": "504b6a75a549a946bbe2ae00a9b05b75c7ab2564af81bf920626f44073a296c1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_43cee370e1c1de14326f",
+      "root_id": "r_360cdbba702f58890c26",
+      "root": "lay",
+      "word": "bilayer",
+      "source_entry_ids": [
+        "s_c82b2a92269b54f07d5d"
+      ],
+      "previous_pending_reason": "Source card has no gloss. Oxford says the stratum sense may derive from an obsolete sense of lair, while Etymonline suggests French liue and other dictionaries derive it from lay. Bilayer clearly uses the stratum sense, so the historical connection to lay remains genuinely uncertain.",
+      "previous_evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/layer_1",
+        "https://www.etymonline.com/word/layer",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Folk-etymology%3B_a_dictionary_of_verbal_corruptions_or_words_perverted_in_form_or_meaning%2C_by_false_derivation_or_mistaken_analogy_%28IA_cu31924027422405%29.pdf",
+        "https://www.fs.usda.gov/rm/pubs/rmrs_gtr136_3/rmrs_gtr136_3_745_768.pdf"
+      ],
+      "previous_review_sha256": "95ac988df97b654362dee3f0a8b4504badc4a07ba22bffb2e0adf4cdca011ea6",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_50daa27f96d30d48ca55",
+      "root_id": "r_360cdbba702f58890c26",
+      "root": "lay",
+      "word": "layered",
+      "source_entry_ids": [
+        "s_c82b2a92269b54f07d5d"
+      ],
+      "previous_pending_reason": "Source card has no gloss. The botanical sense of layer was considered separately: it describes a shoot laid down for propagation, and Etymonline traces the verb to the noun; however Palmer/Skeat explicitly derive even the botanical shoot sense from lair, making the competing analyses unresolved.",
+      "previous_evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/layer_1",
+        "https://www.etymonline.com/word/layer",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Folk-etymology%3B_a_dictionary_of_verbal_corruptions_or_words_perverted_in_form_or_meaning%2C_by_false_derivation_or_mistaken_analogy_%28IA_cu31924027422405%29.pdf",
+        "https://www.fs.usda.gov/rm/pubs/rmrs_gtr136_3/rmrs_gtr136_3_745_768.pdf"
+      ],
+      "previous_review_sha256": "95ac988df97b654362dee3f0a8b4504badc4a07ba22bffb2e0adf4cdca011ea6",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_5a52eace74e1a4747e71",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "purposeful",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "Purpose descends from French porpos/porposer, but new evidence identifies a substantive split: Skeat and Palmer derive the noun from Latin propositum (ponere put) while treating the verb as from French poser, historically pausare; Etymonline derives the noun through the verb, and Scots records both historical paths. The source specifically asserts Latin put/place, so neither path can be silently treated as certain.",
+      "previous_evidence_urls": [
+        "https://www.dsl.ac.uk/entry/dost/purpos_n",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Folk-etymology%3B_a_dictionary_of_verbal_corruptions_or_words_perverted_in_form_or_meaning%2C_by_false_derivation_or_mistaken_analogy_%28IA_cu31924027422405%29.pdf",
+        "https://www.etymonline.com/word/purpose",
+        "https://www.anglo-norman.net/entry/porposer"
+      ],
+      "previous_review_sha256": "c661f1e167a9d9753b64cb39606d1c0e2a91620d95547fd40ebe89852041fc69",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_5ce096336aad610470c0",
+      "root_id": "r_6c465c919ec7f069535d",
+      "root": "plica",
+      "word": "supplicant",
+      "source_entry_ids": [
+        "s_d5675809ff06badb8fb2"
+      ],
+      "previous_pending_reason": "Source senses: bend, fold, tangle. Benveniste derives supplex/supplicare from the *plek- “bend” family and objects to placare on vowel-quantity grounds. A University of Verona study explicitly documents specialist arguments for both *plek- and *plak- and continuing disagreement, while Etymonline favors placare. The demonstrated plica spelling is insufficient to settle this disputed historical analysis.",
+      "previous_evidence_urls": [
+        "https://haubooks.org/wp-content/uploads/2020/11/Dictionary-of-Indo-European-Concepts-and-Society-by-Emile-Benveniste.pdf",
+        "https://www.dsg.univr.it/documenti/OccorrenzaIns/matdid/matdid641686",
+        "https://www.etymonline.com/word/supplicate"
+      ],
+      "previous_review_sha256": "6e160b363962ec266ad1a724ac00caf1f73785af0b72ef237481c72045bce2ed",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_609f502aabed835922d8",
+      "root_id": "r_b45df01cf1aea7fad1c5",
+      "root": "frag",
+      "word": "suffragette",
+      "source_entry_ids": [
+        "s_8f0a6ad86b4273d42e8b"
+      ],
+      "previous_pending_reason": "The source means break. A scholarly study explains the conventional sub + fragor/frangere derivation of Latin suffragium, but explicitly reports Szemerényi’s phonological objection: short a in fragor versus long a in suffragium, proposing another root instead. The English voting word and its derivatives thus have a real disputed root, not a proven break morpheme.",
+      "previous_evidence_urls": [
+        "https://journal.fi/arctos/article/download/86903/45738",
+        "https://www.researchgate.net/publication/398034734_Pebbles_Points_or_Ballots_The_Emergence_of_the_Individual_Vote_in_Rome",
+        "https://www.etymonline.com/word/suffrage"
+      ],
+      "previous_review_sha256": "5563df96a37b3765368b8d167569f12e8c4e521b7f0f59a6f71431d5769fa625",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_6a8a5f6ffe9f6f35a7ad",
+      "root_id": "r_6c465c919ec7f069535d",
+      "root": "plica",
+      "word": "supplication",
+      "source_entry_ids": [
+        "s_d5675809ff06badb8fb2"
+      ],
+      "previous_pending_reason": "Source senses: bend, fold, tangle. Benveniste derives supplex/supplicare from the *plek- “bend” family and objects to placare on vowel-quantity grounds. A University of Verona study explicitly documents specialist arguments for both *plek- and *plak- and continuing disagreement, while Etymonline favors placare. The demonstrated plica spelling is insufficient to settle this disputed historical analysis.",
+      "previous_evidence_urls": [
+        "https://haubooks.org/wp-content/uploads/2020/11/Dictionary-of-Indo-European-Concepts-and-Society-by-Emile-Benveniste.pdf",
+        "https://www.dsg.univr.it/documenti/OccorrenzaIns/matdid/matdid641686",
+        "https://www.etymonline.com/word/supplicate"
+      ],
+      "previous_review_sha256": "6e160b363962ec266ad1a724ac00caf1f73785af0b72ef237481c72045bce2ed",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_7adc6a9233f518b51e10",
+      "root_id": "r_b83273c84bfa5193f85a",
+      "root": "fus",
+      "word": "refuse",
+      "source_entry_ids": [
+        "s_7220acd9fe65523ca4ef"
+      ],
+      "previous_pending_reason": "The source gloss is pour. The Scottish historical dictionary derives refuse (reject) from the participial stem of refundere “pour back”, but the Académie française derives Old French refuser from a blend of recusare and refutare. Their incompatible detailed analyses leave the specific Latin fus/pour attribution unresolved; the source groups this rejection sense with its refusal and refusenik derivatives.",
+      "previous_evidence_urls": [
+        "https://dsl.ac.uk/entry/dost00096682",
+        "https://www.dictionnaire-academie.fr/article/A9R1273",
+        "https://www.etymonline.com/word/refuse"
+      ],
+      "previous_review_sha256": "504b6a75a549a946bbe2ae00a9b05b75c7ab2564af81bf920626f44073a296c1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_8517bf32b7501ab9402e",
+      "root_id": "r_80c0fcbbfa9d03d861b2",
+      "root": "lu",
+      "word": "depollute",
+      "source_entry_ids": [
+        "s_7977f4521af95c20750d"
+      ],
+      "previous_pending_reason": "Fresh check finds PONS gives Latin polluo as por- plus lutum mud, whereas the Latin grammar at Grand Dictionnaire groups it as a compound of luo wash. Oxford likewise gives the mud analysis. The shared Latin verb is certain but the two analyses cannot be collapsed; do not presume the wash target or an unrelated word.",
+      "previous_evidence_urls": [
+        "https://fr.pons.com/traduction/latin-allemand/polluo",
+        "https://www.grand-dictionnaire-latin.com/dictionnaire-latin-grammaire.php?pg=94",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/pollute",
+        "https://www.dictionnaire-academie.fr/article/A9P3204"
+      ],
+      "previous_review_sha256": "e6fa8bbb5510564d38e11ac7c11ea2d9d7ac99f07a65f2de6591988b9091314e",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_8d64b6d35f41a2f1966f",
+      "root_id": "r_360cdbba702f58890c26",
+      "root": "lay",
+      "word": "layering",
+      "source_entry_ids": [
+        "s_c82b2a92269b54f07d5d"
+      ],
+      "previous_pending_reason": "Source card has no gloss. The botanical sense of layer was considered separately: it describes a shoot laid down for propagation, and Etymonline traces the verb to the noun; however Palmer/Skeat explicitly derive even the botanical shoot sense from lair, making the competing analyses unresolved.",
+      "previous_evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/layer_1",
+        "https://www.etymonline.com/word/layer",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Folk-etymology%3B_a_dictionary_of_verbal_corruptions_or_words_perverted_in_form_or_meaning%2C_by_false_derivation_or_mistaken_analogy_%28IA_cu31924027422405%29.pdf",
+        "https://www.fs.usda.gov/rm/pubs/rmrs_gtr136_3/rmrs_gtr136_3_745_768.pdf"
+      ],
+      "previous_review_sha256": "95ac988df97b654362dee3f0a8b4504badc4a07ba22bffb2e0adf4cdca011ea6",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_95ced2e24a504de6c093",
+      "root_id": "r_9493e5139a09d33a2de5",
+      "root": "syring",
+      "word": "syringogaster",
+      "source_entry_ids": [
+        "s_99e6f1bd50a12d431da4"
+      ],
+      "previous_pending_reason": "New search found the taxon in an English-language root list, but it reproduces the source list and is not independent confirmation of the specific Greek pipe meaning; the fly monograph confirms the capitalized genus but does not explain the genus name.",
+      "previous_evidence_urls": [
+        "https://www.mapress.com/zootaxa/2009/f/z01996p080f.pdf",
+        "https://www.merriam-webster.com/dictionary/syring-",
+        "https://universidadbautista.org/docs/english-docs/CLASS%20224J%20ENGLISH%20AND%20THE%20UNIVERSAL%20LANGUAGE%20STRUCTURE%20--%20APPENDIX%20%201.pdf"
+      ],
+      "previous_review_sha256": "77fcc2973bbc999479ee0c8fa2e311e3d0cca88efc3d623acdcbeead0ce3fbf9",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_a3454356708073df9342",
+      "root_id": "r_b83273c84bfa5193f85a",
+      "root": "fus",
+      "word": "refused",
+      "source_entry_ids": [
+        "s_7220acd9fe65523ca4ef"
+      ],
+      "previous_pending_reason": "The source gloss is pour. The Scottish historical dictionary derives refuse (reject) from the participial stem of refundere “pour back”, but the Académie française derives Old French refuser from a blend of recusare and refutare. Their incompatible detailed analyses leave the specific Latin fus/pour attribution unresolved; the source groups this rejection sense with its refusal and refusenik derivatives.",
+      "previous_evidence_urls": [
+        "https://dsl.ac.uk/entry/dost00096682",
+        "https://www.dictionnaire-academie.fr/article/A9R1273",
+        "https://www.etymonline.com/word/refuse"
+      ],
+      "previous_review_sha256": "504b6a75a549a946bbe2ae00a9b05b75c7ab2564af81bf920626f44073a296c1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_aaf9874f1d87c415bb61",
+      "root_id": "r_67765ea11a942cd4e55c",
+      "root": "ped",
+      "word": "peddling",
+      "source_entry_ids": [
+        "s_67659b39bfb688c840ff"
+      ],
+      "previous_pending_reason": "新增历史职业词研究列举 1165–1166 的 pedder 并援引 MED，将「筐」ped 作逆构、pedder 接 Medieval Latin pedarius「步行者」；但 Collins 仍将 pedder 分析自「筐」，American Heritage 将步行者解释标为 perhaps。逆构动词 peddle 及其 -ing 形式承袭同一争议，足义无法确证。",
+      "previous_evidence_urls": [
+        "https://argumentum.unideb.hu/2016-anyagok/dobrovolskao.pdf",
+        "https://anglo-norman.net/entry/pedder",
+        "https://www.collinsdictionary.com/dictionary/english/peddler",
+        "https://ahdictionary.com/word/search.html?q=peddler",
+        "https://www.etymonline.com/word/peddle"
+      ],
+      "previous_review_sha256": "c7217c10dbb8b9e88d57ddcda92dd2cbe911ba71f085a41f4ba6b36b9f8b1c95",
+      "preserved_independent_targets": [
+        {
+          "published_root_id": "r_fd15862b572f7821",
+          "word": "peddling"
+        }
+      ],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_b20c47deead2c0ebd889",
+      "root_id": "r_b83273c84bfa5193f85a",
+      "root": "fus",
+      "word": "refusenik",
+      "source_entry_ids": [
+        "s_7220acd9fe65523ca4ef"
+      ],
+      "previous_pending_reason": "The source gloss is pour. The Scottish historical dictionary derives refuse (reject) from the participial stem of refundere “pour back”, but the Académie française derives Old French refuser from a blend of recusare and refutare. Their incompatible detailed analyses leave the specific Latin fus/pour attribution unresolved; the source groups this rejection sense with its refusal and refusenik derivatives. The Jewish English Lexicon independently identifies the English component as refuse in the refusal sense.",
+      "previous_evidence_urls": [
+        "https://dsl.ac.uk/entry/dost00096682",
+        "https://www.dictionnaire-academie.fr/article/A9R1273",
+        "https://jel.jewish-languages.org/words/1594"
+      ],
+      "previous_review_sha256": "504b6a75a549a946bbe2ae00a9b05b75c7ab2564af81bf920626f44073a296c1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_bd0388c96b987b0d16e2",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "purposely",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "Purpose descends from French porpos/porposer, but new evidence identifies a substantive split: Skeat and Palmer derive the noun from Latin propositum (ponere put) while treating the verb as from French poser, historically pausare; Etymonline derives the noun through the verb, and Scots records both historical paths. The source specifically asserts Latin put/place, so neither path can be silently treated as certain.",
+      "previous_evidence_urls": [
+        "https://www.dsl.ac.uk/entry/dost/purpos_n",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Folk-etymology%3B_a_dictionary_of_verbal_corruptions_or_words_perverted_in_form_or_meaning%2C_by_false_derivation_or_mistaken_analogy_%28IA_cu31924027422405%29.pdf",
+        "https://www.etymonline.com/word/purpose",
+        "https://www.anglo-norman.net/entry/porposer"
+      ],
+      "previous_review_sha256": "c661f1e167a9d9753b64cb39606d1c0e2a91620d95547fd40ebe89852041fc69",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_c299efc093e2727f807c",
+      "root_id": "r_6c465c919ec7f069535d",
+      "root": "plica",
+      "word": "supplicate",
+      "source_entry_ids": [
+        "s_d5675809ff06badb8fb2"
+      ],
+      "previous_pending_reason": "Source senses: bend, fold, tangle. Benveniste derives supplex/supplicare from the *plek- “bend” family and objects to placare on vowel-quantity grounds. A University of Verona study explicitly documents specialist arguments for both *plek- and *plak- and continuing disagreement, while Etymonline favors placare. The demonstrated plica spelling is insufficient to settle this disputed historical analysis.",
+      "previous_evidence_urls": [
+        "https://haubooks.org/wp-content/uploads/2020/11/Dictionary-of-Indo-European-Concepts-and-Society-by-Emile-Benveniste.pdf",
+        "https://www.dsg.univr.it/documenti/OccorrenzaIns/matdid/matdid641686",
+        "https://www.etymonline.com/word/supplicate"
+      ],
+      "previous_review_sha256": "6e160b363962ec266ad1a724ac00caf1f73785af0b72ef237481c72045bce2ed",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_c854098bb177c14f1f58",
+      "root_id": "r_9493e5139a09d33a2de5",
+      "root": "syring",
+      "word": "syringoderma",
+      "source_entry_ids": [
+        "s_99e6f1bd50a12d431da4"
+      ],
+      "previous_pending_reason": "Independent phycological research confirms Syringoderma as a capitalized brown-algal genus; the accessible family etymology says syrinx pipe plus derma skin, but it is a secondary summary and the original 1940 naming account was not located. Root-list wording duplicates the frozen source.",
+      "previous_evidence_urls": [
+        "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=11197",
+        "https://fr.wikipedia.org/wiki/Syringodermataceae",
+        "https://www.research.kobe-u.ac.jp/rcis-kurcis/KURCIS2020/kawaifiles/1990_1.pdf"
+      ],
+      "previous_review_sha256": "77fcc2973bbc999479ee0c8fa2e311e3d0cca88efc3d623acdcbeead0ce3fbf9",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_c8c36878443c081e5065",
+      "root_id": "r_b0f6ad7069aa85cea545",
+      "root": "gorg",
+      "word": "gorgeousness",
+      "source_entry_ids": [
+        "s_0b918e80b368bf3c80b7"
+      ],
+      "previous_pending_reason": "The source card supplies no gloss. Both are derivatives of gorgeous, borrowed from French gorgias “fashionable”; an early French dictionary tentatively related gorgias to gorge “throat,” and American Heritage also favors that route. Partridge reports the alternative Greek sophist Gorgias explanation; Etymonline says the ultimate origin is unknown. The precise throat connection remains disputed.",
+      "previous_evidence_urls": [
+        "https://fr.wikisource.org/wiki/Page%3AThresor_de_la_langue_francoyse_-_1606_-_1_-_Nicot.djvu/319",
+        "https://www.ahdictionary.com/word/search.html?q=gorgeous",
+        "https://ocw.ui.ac.id/pluginfile.php/1102/mod_folder/content/0/Origins%20-%20An%20Etymological%20Dictionary%20of%20Modern%20English.pdf?forcedownload=1",
+        "https://www.etymonline.com/word/gorgeous"
+      ],
+      "previous_review_sha256": "18b2b07ac24d4a1dcf9cb78825bf6078b37643a833d01185be6e498568173b7d",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_c90e7e728bb30dd14c73",
+      "root_id": "r_f0956726750ca787d943",
+      "root": "touch",
+      "word": "touchily",
+      "source_entry_ids": [
+        "s_5ad69aa987303bc3d205"
+      ],
+      "previous_pending_reason": "The no-gloss source gives no sense. Oxford historical dictionary records touchy as sensitive to physical touch and traces that sense to touch; Collins also gives touchily as a derivative. However the recorded adverbial use in physical rather than emotional sense has not been established, and the emotional sense may instead come from tetchy.",
+      "previous_evidence_urls": [
+        "https://wehd.com/96/Touchy.html",
+        "https://www.collinsdictionary.com/us/dictionary/english/touchy",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/touchy"
+      ],
+      "previous_review_sha256": "a23107289406cc91cea751259d1e583142f939381957f49b9c1d427cb203038d",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_ce1d9d5a6bde6b1afa50",
+      "root_id": "r_b0f6ad7069aa85cea545",
+      "root": "gorg",
+      "word": "gorgeously",
+      "source_entry_ids": [
+        "s_0b918e80b368bf3c80b7"
+      ],
+      "previous_pending_reason": "The source card supplies no gloss. Both are derivatives of gorgeous, borrowed from French gorgias “fashionable”; an early French dictionary tentatively related gorgias to gorge “throat,” and American Heritage also favors that route. Partridge reports the alternative Greek sophist Gorgias explanation; Etymonline says the ultimate origin is unknown. The precise throat connection remains disputed.",
+      "previous_evidence_urls": [
+        "https://fr.wikisource.org/wiki/Page%3AThresor_de_la_langue_francoyse_-_1606_-_1_-_Nicot.djvu/319",
+        "https://www.ahdictionary.com/word/search.html?q=gorgeous",
+        "https://ocw.ui.ac.id/pluginfile.php/1102/mod_folder/content/0/Origins%20-%20An%20Etymological%20Dictionary%20of%20Modern%20English.pdf?forcedownload=1",
+        "https://www.etymonline.com/word/gorgeous"
+      ],
+      "previous_review_sha256": "18b2b07ac24d4a1dcf9cb78825bf6078b37643a833d01185be6e498568173b7d",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_ceea157e0ee7988abe22",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "repose",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "The verb meaning “put, deposit” is distinguished from the rest homonym: the Scottish historical dictionary treats it as Latin repos- of reponere; Oxford-derived entry analyzes it as re- plus pose, suggested by Latin. Etymonline gives both routes and does not decide. This is genuine uncertainty about the put sense, not merely the unrelated rest meaning.",
+      "previous_evidence_urls": [
+        "https://dsl.ac.uk/entry/dost00097011",
+        "https://ptacts.uspto.gov/ptacts/public-informations/petitions/1554341/download-documents?artifactId=ljuVKnhxGk-UXyI6SdUBzvqBWDBskO73urxriLcos_Yj7B7Pfn2y1ok",
+        "https://www.etymonline.com/word/repose"
+      ],
+      "previous_review_sha256": "ed050d5265deb3d83019213423ea13829a6abfe49418e0ca7620eac69fd30ede",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_d1415ac7f92c7925e57c",
+      "root_id": "r_75239d03c9a8bd9381c1",
+      "root": "hom",
+      "word": "homily",
+      "source_entry_ids": [
+        "s_08563f49dac3b37c1a97"
+      ],
+      "previous_pending_reason": "新增德州大学印欧词根数据库把 Greek homilos「人群」、homilia 与 homos「同一」并列，支持传统同源解；但 Beekes《Pre-Greek》将 homilos 列为底层词，其希腊词典基于变体音形明确提出竞争解释。已经排除 Latin homo「人」解，Greek same 义因两种专业分析冲突仍不能确定。",
+      "previous_evidence_urls": [
+        "https://lrc.la.utexas.edu/lex/master/1686",
+        "https://fr.scribd.com/document/382314728/Brill-Introductions-to-Indo-European-Languages-2-Robert-S-P-Beekes-Stefan-Norbruis-Pre-Greek-Phonology-Morphology-Lexicon-Brill-Academic-Publi",
+        "https://en.wiktionary.org/wiki/%E1%BD%85%CE%BC%CE%B9%CE%BB%CE%BF%CF%82",
+        "https://www.etymonline.com/word/homily"
+      ],
+      "previous_review_sha256": "78d2093a75bea3fdbc2ffa52809f15176b83f3e6645712ce98e3054afc16c4ae",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_d6995ae4dcd39ec5dfdb",
+      "root_id": "r_52dea79f41a96e909dfe",
+      "root": "pli",
+      "word": "supplication",
+      "source_entry_ids": [
+        "s_d5675809ff06badb8fb2"
+      ],
+      "previous_pending_reason": "Benveniste explicitly argues supplex shares the folding stem of plicare and rejects placare on Latin vowel-length grounds; Treccani derives supplicare from supplex. However other etymological references still cite placare, and a recent historical study reports both analyses. The relevant historical disagreement is concrete; source bend/fold is strongly supported by one learned analysis but not settled here.",
+      "previous_evidence_urls": [
+        "https://haubooks.org/wp-content/uploads/2020/11/Dictionary-of-Indo-European-Concepts-and-Society-by-Emile-Benveniste.pdf",
+        "https://www.treccani.it/vocabolario/supplicare/",
+        "https://www.etymonline.com/word/supplicate",
+        "https://www.academia.edu/128322709/Petitions_and_Petitioning_through_the_Ages_Etymology_and_Historical_Semantics"
+      ],
+      "previous_review_sha256": "e56a73211846ce55d42bdac9667882e7418655890a932e4c22fe954092e713b1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_d892b5c454d9692b68b5",
+      "root_id": "r_67765ea11a942cd4e55c",
+      "root": "ped",
+      "word": "peddler",
+      "source_entry_ids": [
+        "s_67659b39bfb688c840ff"
+      ],
+      "previous_pending_reason": "新增历史职业词研究列举 1165–1166 的 pedder 并援引 MED，将「筐」ped 作逆构、pedder 接 Medieval Latin pedarius「步行者」；但 Collins 仍将 pedder 分析自「筐」，American Heritage 将步行者解释标为 perhaps。逆构动词 peddle 及其 -ing 形式承袭同一争议，足义无法确证。",
+      "previous_evidence_urls": [
+        "https://argumentum.unideb.hu/2016-anyagok/dobrovolskao.pdf",
+        "https://anglo-norman.net/entry/pedder",
+        "https://www.collinsdictionary.com/dictionary/english/peddler",
+        "https://ahdictionary.com/word/search.html?q=peddler",
+        "https://www.etymonline.com/word/peddle"
+      ],
+      "previous_review_sha256": "c7217c10dbb8b9e88d57ddcda92dd2cbe911ba71f085a41f4ba6b36b9f8b1c95",
+      "preserved_independent_targets": [
+        {
+          "published_root_id": "r_fd15862b572f7821",
+          "word": "peddler"
+        }
+      ],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_e199f148371df3203e27",
+      "root_id": "r_10e583b1e5d93ef8afd8",
+      "root": "pag",
+      "word": "pageant",
+      "source_entry_ids": [
+        "s_331b9f447ac34e58bfbf"
+      ],
+      "previous_pending_reason": "原卡无 gloss。新增中世纪戏剧研究认为 stage 词很可能经 Latin pagina「书页」而来，但 Anglo-Norman Dictionary 指出该转义长期存疑，Scots 历史词典明确称二者关联未定；因此不能断言或排除已发布 pag「固定」词根。pageantry 由 pageant 派生。",
+      "previous_evidence_urls": [
+        "https://anglo-norman.net/entry/pagaunt",
+        "https://www.academia.edu/50757362/_Pageants_Reconsidered_in_Makers_and_Users_of_Medieval_Books_Essays_in_Honour_of_A_S_G_Edwards_ed_Carol_M_Meale_and_Derek_Pearsall_Woodbridge_Boydell_2014_pp_34_47",
+        "https://dsl.ac.uk/entry/dost/pageant",
+        "https://www.merriam-webster.com/dictionary/pageant"
+      ],
+      "previous_review_sha256": "39abd8cb56d11859d1b32ddb9cd732f48f99347c91c6e6fe590fc59795ed56b5",
+      "preserved_independent_targets": [
+        {
+          "published_root_id": "r_a06e9be5960ac089",
+          "word": "pageant"
+        }
+      ],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_e2e16508070b90daa814",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "predispose",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "Etymonline distinguishes possible back-formation from predisposition, whose disposition descends from Latin disponere, from borrowing French prédisposer; Académie Française derives the French noun from its verb. These paths do not prove the same inherited pose element.",
+      "previous_evidence_urls": [
+        "https://www.etymonline.com/word/predisposition",
+        "https://www.dictionnaire-academie.fr/article/A9P3961"
+      ],
+      "previous_review_sha256": "ed050d5265deb3d83019213423ea13829a6abfe49418e0ca7620eac69fd30ede",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_e3a5dcf5aab844a0c11c",
+      "root_id": "r_60f7e0d37e178bbad3c0",
+      "root": "pose",
+      "word": "juxtapose",
+      "source_entry_ids": [
+        "s_f52201643a74abb5b27d"
+      ],
+      "previous_pending_reason": "Dictionary.com gives an English back-formation from juxtaposition, whose position comes from Latin ponere; American Heritage gives French juxtaposer with French poser. CNRTL identifies that French verb as juxta + poser on the model of juxtaposition, leaving the exact source of the pose form unresolved.",
+      "previous_evidence_urls": [
+        "https://www.dictionary.com/browse/juxtapose",
+        "https://www.etymonline.com/word/juxtaposition",
+        "https://ahdictionary.com/word/search.html?q=juxtapose",
+        "https://www.cnrtl.fr/definition/juxtaposer"
+      ],
+      "previous_review_sha256": "ed050d5265deb3d83019213423ea13829a6abfe49418e0ca7620eac69fd30ede",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_e9b6a75f3d713a650582",
+      "root_id": "r_52dea79f41a96e909dfe",
+      "root": "pli",
+      "word": "supplicate",
+      "source_entry_ids": [
+        "s_d5675809ff06badb8fb2"
+      ],
+      "previous_pending_reason": "Benveniste explicitly argues supplex shares the folding stem of plicare and rejects placare on Latin vowel-length grounds; Treccani derives supplicare from supplex. However other etymological references still cite placare, and a recent historical study reports both analyses. The relevant historical disagreement is concrete; source bend/fold is strongly supported by one learned analysis but not settled here.",
+      "previous_evidence_urls": [
+        "https://haubooks.org/wp-content/uploads/2020/11/Dictionary-of-Indo-European-Concepts-and-Society-by-Emile-Benveniste.pdf",
+        "https://www.treccani.it/vocabolario/supplicare/",
+        "https://www.etymonline.com/word/supplicate",
+        "https://www.academia.edu/128322709/Petitions_and_Petitioning_through_the_Ages_Etymology_and_Historical_Semantics"
+      ],
+      "previous_review_sha256": "e56a73211846ce55d42bdac9667882e7418655890a932e4c22fe954092e713b1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_f9c6e54705b7065b073d",
+      "root_id": "r_52dea79f41a96e909dfe",
+      "root": "pli",
+      "word": "supplicant",
+      "source_entry_ids": [
+        "s_d5675809ff06badb8fb2"
+      ],
+      "previous_pending_reason": "Benveniste explicitly argues supplex shares the folding stem of plicare and rejects placare on Latin vowel-length grounds; Treccani derives supplicare from supplex. However other etymological references still cite placare, and a recent historical study reports both analyses. The relevant historical disagreement is concrete; source bend/fold is strongly supported by one learned analysis but not settled here.",
+      "previous_evidence_urls": [
+        "https://haubooks.org/wp-content/uploads/2020/11/Dictionary-of-Indo-European-Concepts-and-Society-by-Emile-Benveniste.pdf",
+        "https://www.treccani.it/vocabolario/supplicare/",
+        "https://www.etymonline.com/word/supplicate",
+        "https://www.academia.edu/128322709/Petitions_and_Petitioning_through_the_Ages_Etymology_and_Historical_Semantics"
+      ],
+      "previous_review_sha256": "e56a73211846ce55d42bdac9667882e7418655890a932e4c22fe954092e713b1",
+      "preserved_independent_targets": [],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    },
+    {
+      "relation_id": "e_fb379a9a5da6ebba59c9",
+      "root_id": "r_10e583b1e5d93ef8afd8",
+      "root": "pag",
+      "word": "pageantry",
+      "source_entry_ids": [
+        "s_331b9f447ac34e58bfbf"
+      ],
+      "previous_pending_reason": "原卡无 gloss。新增中世纪戏剧研究认为 stage 词很可能经 Latin pagina「书页」而来，但 Anglo-Norman Dictionary 指出该转义长期存疑，Scots 历史词典明确称二者关联未定；因此不能断言或排除已发布 pag「固定」词根。pageantry 由 pageant 派生。",
+      "previous_evidence_urls": [
+        "https://anglo-norman.net/entry/pagaunt",
+        "https://www.academia.edu/50757362/_Pageants_Reconsidered_in_Makers_and_Users_of_Medieval_Books_Essays_in_Honour_of_A_S_G_Edwards_ed_Carol_M_Meale_and_Derek_Pearsall_Woodbridge_Boydell_2014_pp_34_47",
+        "https://dsl.ac.uk/entry/dost/pageant",
+        "https://www.merriam-webster.com/dictionary/pageant"
+      ],
+      "previous_review_sha256": "39abd8cb56d11859d1b32ddb9cd732f48f99347c91c6e6fe590fc59795ed56b5",
+      "preserved_independent_targets": [
+        {
+          "published_root_id": "r_a06e9be5960ac089",
+          "word": "pageantry"
+        }
+      ],
+      "decision": "exclude_insufficient_evidence",
+      "decision_basis": "User directed exclusion of root-example mappings that cannot be confirmed; this decision does not assert that the word is invalid or the historical origin disproved."
+    }
+  ]
+}

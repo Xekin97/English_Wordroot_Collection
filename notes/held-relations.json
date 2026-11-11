@@ -3046,7 +3046,7 @@
       "original_reason": "quintillion descends from Latin quinque/quintus five or fifth (via longer quinqu-/quint- forms); the truncated quin lookup and its exact historical alias status remain unresolved."
     }
   ],
-  "roots_sha256": "bc52659edee2acc7b6a1076a327bd09618b92fa817df181e465b8badba9593f3",
+  "roots_sha256": "3da6e1af5c1fe2bb94a5526bfe9ef3245ee9c8d0ce15411349ddf1726de9e2bb",
   "sources": {
     "s_d80926857517979fbd99": {
       "project": "morphemes",
@@ -3376,39 +3376,46 @@
     {
       "relation_id": "e_99e279f8dbd3b26df3e6",
       "frozen_root_id": "r_15152e5a69166f0958db",
+      "batch_id": "B0041",
       "root": "cure",
       "word": "manicure",
       "reason": "Independent quality review held the root form: The words have a real care element, but cure is also a complete English word; the source classifies cure- as an initial form while the two cited French compounds have final -cure. The checked dictionary etymologies identify Latin cura, not an independently established initial cure- combining form. Do not infer positional identity or productive root status solely from spelling. A final historical compound element is plausible, but the class and source_form require editorial review.",
       "evidence_urls": [
         "https://ahdictionary.com/word/search.html?q=manicure",
         "https://ahdictionary.com/word/search.html?q=pedicure"
-      ]
+      ],
+      "original_review_directory": "uncontested-032"
     },
     {
       "relation_id": "e_b07e2d7da22b46e2faac",
       "frozen_root_id": "r_15152e5a69166f0958db",
+      "batch_id": "B0041",
       "root": "cure",
       "word": "pedicure",
       "reason": "Independent quality review held the root form: The words have a real care element, but cure is also a complete English word; the source classifies cure- as an initial form while the two cited French compounds have final -cure. The checked dictionary etymologies identify Latin cura, not an independently established initial cure- combining form. Do not infer positional identity or productive root status solely from spelling. A final historical compound element is plausible, but the class and source_form require editorial review.",
       "evidence_urls": [
         "https://ahdictionary.com/word/search.html?q=manicure",
         "https://ahdictionary.com/word/search.html?q=pedicure"
-      ]
+      ],
+      "original_review_directory": "uncontested-032"
     },
     {
       "relation_id": "e_7a529cdac57f6ba1c7fb",
       "frozen_root_id": "r_7afa604cccaa08c252d5",
+      "batch_id": "B0033",
       "root": "clast",
       "word": "iconoclast",
       "reason": "Independent quality review held the root form: Greek klastos “broken” and klastēs “breaker” derive from the same verb but are distinct formations; the source form clast- suggests initial position, while iconoclast uses a final agent element. Hold sense and positional classification for editorial review; a shared ancestor is real.",
       "evidence_urls": [
         "https://www.ahdictionary.com/word/search.html?q=iconoclast",
         "https://www.merriam-webster.com/dictionary/clastic"
-      ]
+      ],
+      "original_review_directory": "uncontested-032"
     },
     {
       "relation_id": "e_134a6926eb6892122e93",
       "frozen_root_id": "r_56ccc4dcfc96534b06fc",
+      "batch_id": "B0136",
       "root": "please",
       "word": "displease",
       "reason": "Please is a free English verb borrowed through French from Latin placere; -please should not be presented as a suffix. Source group is plac-, plea-; the specific source_form -please is not the original notation. Meanings in the source belong to the broad group; scope of calm and soothe for modern please is not established.",
@@ -3416,44 +3423,52 @@
         "https://www.etymonline.com/word/displease",
         "https://www.etymonline.com/word/please",
         "https://www.etymonline.com/word/displeasure"
-      ]
+      ],
+      "original_review_directory": "uncontested-038"
     },
     {
       "relation_id": "e_7199d0f1c812ef9d4183",
       "frozen_root_id": "r_9a370ebd95136e8b2036",
+      "batch_id": "B0110",
       "root": "mob",
       "word": "mob",
       "reason": "English mob is a clipping of English mobile / mobility in the crowd sense, from Latin mobile vulgus fickle common people; ultimately mobilis from movere. It is an English lexical clipping, not a free Latin root meaning move. Its sole candidate source gloss is crowd. The current English base mob is an independent crowd noun produced by clipping; historical ancestry through mobilis does not itself prove mob- is the Latin movement stem.",
       "evidence_urls": [
         "https://www.etymonline.com/word/mob",
         "https://blog.oup.com/2007/08/mob/"
-      ]
+      ],
+      "original_review_directory": "uncontested-151"
     },
     {
       "relation_id": "e_3ddc1c9365aa9eaa5272",
       "frozen_root_id": "r_9a370ebd95136e8b2036",
+      "batch_id": "B0110",
       "root": "mob",
       "word": "mobbish",
       "reason": "Merriam-Webster derives mob + -ish; English mob is a clipped crowd noun historically from mobile vulgus. The sole candidate source gloss is crowd, and the modern derivational base is the English noun rather than a Latin move root. The current English base mob is an independent crowd noun produced by clipping; historical ancestry through mobilis does not itself prove mob- is the Latin movement stem.",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/mobbish",
         "https://www.etymonline.com/word/mob"
-      ]
+      ],
+      "original_review_directory": "uncontested-056"
     },
     {
       "relation_id": "e_a038a3bbef7ea58c3e4f",
       "frozen_root_id": "r_9a370ebd95136e8b2036",
+      "batch_id": "B0110",
       "root": "mob",
       "word": "mobocracy",
       "reason": "Etymonline gives mob + -cracy; English mob is a clipped crowd noun historically from mobile vulgus. The only source gloss is crowd, and the contemporary component is the English noun. The current English base mob is an independent crowd noun produced by clipping; historical ancestry through mobilis does not itself prove mob- is the Latin movement stem.",
       "evidence_urls": [
         "https://www.etymonline.com/word/mobocracy",
         "https://www.etymonline.com/word/mob"
-      ]
+      ],
+      "original_review_directory": "uncontested-056"
     },
     {
       "relation_id": "e_3abe634bc556dad4589c",
       "frozen_root_id": "r_7160f8688035138fcbc9",
+      "batch_id": "B0140",
       "root": "pos",
       "word": "pose",
       "reason": "quarantine unqualified relation; exclude posture/present sense, investigate puzzle sense; English pose¹ < Old French poser < Latin pausare (rest); French placement sense shows influence from ponere but this is not descent from positus. American Heritage traces both shortened appose (alteration of oppose) and French poser; Etymonline says probably French poser with English appose/oppose in some cases. Analyze this mixed chain before accepting the Latin put relation.",
@@ -3462,11 +3477,14 @@
         "https://www.etymonline.com/word/poser",
         "https://www.etymonline.com/word/poseur",
         "https://www.merriam-webster.com/dictionary/pose"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_0d7dbaa2984af3e6"
     },
     {
       "relation_id": "e_19daa143c95d65575ac8",
       "frozen_root_id": "r_7160f8688035138fcbc9",
+      "batch_id": "B0140",
       "root": "pos",
       "word": "poser",
       "reason": "quarantine unqualified relation; exclude affected-person sense, investigate puzzle sense; Agent noun of pose¹; its base derives via French poser from pausare, not Latin positus. Etymonline gives pose² or apposer as source, with pose² itself involving competing French poser and appose/oppose histories. Do not infer direct Latin positus descent.",
@@ -3475,11 +3493,14 @@
         "https://www.etymonline.com/word/poser",
         "https://www.etymonline.com/word/poseur",
         "https://www.merriam-webster.com/dictionary/pose"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_0d7dbaa2984af3e6"
     },
     {
       "relation_id": "e_3723b89bf8860c2a5c0d",
       "frozen_root_id": "r_7160f8688035138fcbc9",
+      "batch_id": "B0140",
       "root": "pos",
       "word": "poseur",
       "reason": "remove existing relation after quality review; preserve source provenance; Borrowed French poseur from poser, itself ultimately from Latin pausare; no evidenced inherited positus morpheme.",
@@ -3488,11 +3509,14 @@
         "https://www.etymonline.com/word/poser",
         "https://www.etymonline.com/word/poseur",
         "https://www.merriam-webster.com/dictionary/pose"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_0d7dbaa2984af3e6"
     },
     {
       "relation_id": "e_7be43f59314233004c41",
       "frozen_root_id": "r_60f7e0d37e178bbad3c0",
+      "batch_id": "B0140",
       "root": "-pose",
       "word": "pose",
       "reason": "quarantine unqualified relation; exclude posture/present sense, investigate puzzle sense; English pose¹ < Old French poser < Latin pausare (rest); French placement sense shows influence from ponere but this is not descent from positus. American Heritage traces both shortened appose (alteration of oppose) and French poser; Etymonline says probably French poser with English appose/oppose in some cases. Analyze this mixed chain before accepting the Latin put relation.",
@@ -3501,11 +3525,14 @@
         "https://www.etymonline.com/word/poser",
         "https://www.etymonline.com/word/poseur",
         "https://www.merriam-webster.com/dictionary/pose"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_93a88804387907a7"
     },
     {
       "relation_id": "e_d06f216d815223e9df12",
       "frozen_root_id": "r_60f7e0d37e178bbad3c0",
+      "batch_id": "B0140",
       "root": "-pose",
       "word": "poser",
       "reason": "quarantine unqualified relation; exclude affected-person sense, investigate puzzle sense; Agent noun of pose¹; its base derives via French poser from pausare, not Latin positus. Etymonline gives pose² or apposer as source, with pose² itself involving competing French poser and appose/oppose histories. Do not infer direct Latin positus descent.",
@@ -3514,11 +3541,14 @@
         "https://www.etymonline.com/word/poser",
         "https://www.etymonline.com/word/poseur",
         "https://www.merriam-webster.com/dictionary/pose"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_93a88804387907a7"
     },
     {
       "relation_id": "e_1ca8d9d94a13364d08cd",
       "frozen_root_id": "r_60f7e0d37e178bbad3c0",
+      "batch_id": "B0140",
       "root": "-pose",
       "word": "poseur",
       "reason": "remove existing relation after quality review; preserve source provenance; Borrowed French poseur from poser, itself ultimately from Latin pausare; no evidenced inherited positus morpheme.",
@@ -3527,11 +3557,14 @@
         "https://www.etymonline.com/word/poser",
         "https://www.etymonline.com/word/poseur",
         "https://www.merriam-webster.com/dictionary/pose"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_93a88804387907a7"
     },
     {
       "relation_id": "e_80b17853980664fcb5a4",
       "frozen_root_id": "r_b217fbe72009b7227a81",
+      "batch_id": "B0199",
       "root": "vict",
       "word": "victim",
       "reason": "Existing association with conquer lacks established evidence: Latin victima has uncertain deeper origin; hold for independent review.",
@@ -3539,11 +3572,14 @@
         "https://www.merriam-webster.com/dictionary/victim",
         "https://www.etymonline.com/word/victim",
         "https://repository.tilburguniversity.edu/bitstreams/e632062c-9191-4b17-85bd-367e10270816/download"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_c5d42da05b42216d"
     },
     {
       "relation_id": "e_c7085f64a5fa7cf60453",
       "frozen_root_id": "r_f6f8057c7a9964f94fdd",
+      "batch_id": "B0045",
       "root": "dic",
       "word": "syndicate",
       "reason": "Existing association with conquer lacks established evidence: Latin syndicatea has uncertain deeper origin; hold for independent review.",
@@ -3552,11 +3588,14 @@
         "https://www.merriam-webster.com/dictionary/syndic",
         "https://www.etymonline.com/word/syndicate",
         "https://www.merriam-webster.com/dictionary/diction"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_f66725b40bd7c59d"
     },
     {
       "relation_id": "e_03a796082f3374fce0a9",
       "frozen_root_id": "r_2afe5e26e9c8cbec2eab",
+      "batch_id": "B0023",
       "root": "cad",
       "word": "cadaver",
       "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
@@ -3566,11 +3605,14 @@
         "https://www.etymonline.com/word/cadaver",
         "https://wehd.com/13/Cadaver.html",
         "https://accademiadellacrusca.it/it/consulenza/qualche-dubbio-sul-cadavere/1726"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_67a08204e6c2df69"
     },
     {
       "relation_id": "e_fb8c6485dd50949f59ca",
       "frozen_root_id": "r_2afe5e26e9c8cbec2eab",
+      "batch_id": "B0023",
       "root": "cad",
       "word": "cadaveric",
       "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
@@ -3579,11 +3621,14 @@
         "https://www.ahdictionary.com/word/search.html?q=cadaver",
         "https://www.etymonline.com/word/cadaver",
         "https://wehd.com/13/Cadaver.html"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_67a08204e6c2df69"
     },
     {
       "relation_id": "e_da2811c42c9f04662160",
       "frozen_root_id": "r_2afe5e26e9c8cbec2eab",
+      "batch_id": "B0023",
       "root": "cad",
       "word": "cadaverous",
       "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
@@ -3592,11 +3637,14 @@
         "https://wehd.com/13/Cadaverous.html",
         "https://www.etymonline.com/word/cadaver",
         "https://wehd.com/13/Cadaver.html"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_67a08204e6c2df69"
     },
     {
       "relation_id": "e_5e57c405251edf12813e",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "appendectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3605,11 +3653,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_d4f6b0b0877c33bb0f86",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "ectopic",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3619,11 +3670,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://kstatelibraries.pressbooks.pub/medical-terminology/chapter/chapter-1-introduction-and-first-materials/",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_0c4c771e5957d11efd30",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "hepatectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3632,11 +3686,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_f51f1c63eb34e4567976",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "hysterectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3645,11 +3702,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_df813a7c299dbdc3b996",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "laryngectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3658,11 +3718,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_07f7b6f855bd5a8b3066",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "mastectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3671,11 +3734,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_4a790b5f5bc661c7d1e0",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "nephrectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3684,11 +3750,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_df8aaa4288c60dc086e0",
       "frozen_root_id": "r_34531594cf2ead01befa",
+      "batch_id": "B0051",
       "root": "ecto",
       "word": "ovariectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3697,11 +3766,14 @@
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/ectomy",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_87be5f0624fcca3e"
     },
     {
       "relation_id": "e_f7007d761450ddba79b8",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "appendectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3710,11 +3782,14 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_79180e27b80b50bd8b5c",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "ectopic",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3723,11 +3798,14 @@
         "https://www.dictionary.com/browse/ectopic",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_0313a36bfebc2aaaa0ef",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "hepatectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3736,11 +3814,14 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_c7a3b3d27d4ec79751b5",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "hysterectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3749,11 +3830,14 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_ae0deded1d96785cd92c",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "laryngectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3762,11 +3846,14 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_27b5103bc706623e73c8",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "mastectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3775,11 +3862,14 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_dc29386822dd9e727c6d",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "nephrectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3788,11 +3878,14 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_bb40b15713febb14b5f8",
       "frozen_root_id": "r_2fdc47fcb84133270819",
+      "batch_id": "B0051",
       "root": "ect",
       "word": "ovariectomy",
       "reason": "Greek ecto/ect derives from ektos; in -ectomy and ectopia the visible t belongs to the following stem. Shared ek ancestry is not sufficient to establish ecto/ect as the word component.",
@@ -3801,22 +3894,28 @@
         "https://www.dictionary.com/browse/ectomy",
         "https://www.collinsdictionary.com/us/dictionary/english/ecto",
         "https://www.drnishikantjha.com/papersCollection/A-Thesaurus-of-English-W-265.pdf"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_678a9384170b70db"
     },
     {
       "relation_id": "e_326a70fe04f171f5072f",
       "frozen_root_id": "r_192471705e8574f0dbbf",
+      "batch_id": "B0045",
       "root": "denti",
       "word": "dentine",
       "reason": "Oxford derives dentine from Latin dens, dent- and -ine. The i is part of the suffix, not the combining form denti. Dentin is its North American variant and receives the same analysis. Keep the historical family relation and existing dent edge.",
       "evidence_urls": [
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/dentine",
         "https://www.etymonline.com/word/dentin"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_fa1bea3aa6bc96aa"
     },
     {
       "relation_id": "e_d1529c7716504713f16a",
       "frozen_root_id": "r_192471705e8574f0dbbf",
+      "batch_id": "B0045",
       "root": "denti",
       "word": "dentist",
       "reason": "English dentist was borrowed from French dentiste, formed from French dent tooth plus -iste; its i begins the agent suffix. The spelling denti spans the base and suffix, though the word belongs to the dent family.",
@@ -3824,201 +3923,445 @@
         "https://www.etymonline.com/word/dentist",
         "https://usito.usherbrooke.ca/d%C3%A9finitions/dentiste",
         "https://www.dictionnaire-academie.fr/article/A9D1408"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_fa1bea3aa6bc96aa"
     },
     {
       "relation_id": "e_3b05b2abc074af3d3606",
       "frozen_root_id": "r_192471705e8574f0dbbf",
+      "batch_id": "B0045",
       "root": "denti",
       "word": "dentistry",
       "reason": "Etymonline derives dentistry from dentist plus -ry, and dentist from French dentiste, dent plus -iste. Consequently the i in denti is inherited from the agent suffix, not a tooth combining form.",
       "evidence_urls": [
         "https://www.etymonline.com/word/dentist",
         "https://usito.usherbrooke.ca/d%C3%A9finitions/dentiste"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_fa1bea3aa6bc96aa"
     },
     {
       "relation_id": "e_c87db4ce2513b07e214a",
       "frozen_root_id": "r_010077aec054f061c7f6",
+      "batch_id": "B0008",
       "root": "anth",
       "word": "amaranth",
       "reason": "Greek amarantos means unfading, from a- plus marainein; the spelling was later influenced by anthos flower. This is folk-etymological influence, not an inherited flower component. Existing target already lists this word: flag for review, do not silently remove.",
       "evidence_urls": [
         "https://www.etymonline.com/word/amaranth",
         "https://wehd.com/3/Amaranth.html"
-      ]
+      ],
+      "original_review_directory": "baseline-quality-review",
+      "published_root_id": "r_5a4b72f91e813fe4"
     },
     {
       "relation_id": "e_4389c0c96dc4bc8e7207",
       "frozen_root_id": "r_ab0b179946024f2dedc5",
+      "batch_id": "B0144",
       "root": "psycho",
       "word": "psychosis",
+      "published_root_id": "r_57b1c0268510d883",
       "reason": "Independent review found competing dictionary analyses: some describe psycho- plus -osis, while others trace psyche and -osis or the Greek verb. The single written o cannot independently establish both forms without further analysis. Retain prior approvals and references, but hold this psycho direct edge; psych family associations remain.",
       "evidence_urls": [
         "https://www.collinsdictionary.com/dictionary/english/psychosis",
         "https://www.etymonline.com/word/psychosis",
         "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/766130/all/psychosis"
-      ]
+      ],
+      "original_review_directory": "baseline or earlier source-scoped accepted reviews; see reconsideration report"
     },
     {
       "relation_id": "e_ea6faf81726778700b2e",
       "frozen_root_id": "r_ab0b179946024f2dedc5",
+      "batch_id": "B0144",
       "root": "psycho",
       "word": "psychotic",
+      "published_root_id": "r_57b1c0268510d883",
       "reason": "Independent review found competing dictionary analyses: some describe psycho- plus -osis, while others trace psyche and -osis or the Greek verb. The single written o cannot independently establish both forms without further analysis. Retain prior approvals and references, but hold this psycho direct edge; psych family associations remain.",
       "evidence_urls": [
         "https://www.collinsdictionary.com/dictionary/english/psychosis",
         "https://www.etymonline.com/word/psychosis",
         "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/766130/all/psychosis"
-      ]
+      ],
+      "original_review_directory": "baseline or earlier source-scoped accepted reviews; see reconsideration report"
     },
     {
       "relation_id": "e_e52060002139e368e674",
       "frozen_root_id": "r_ab0b179946024f2dedc5",
+      "batch_id": "B0144",
       "root": "psycho",
       "word": "psychoticism",
+      "published_root_id": "r_57b1c0268510d883",
       "reason": "Independent review found competing dictionary analyses: some describe psycho- plus -osis, while others trace psyche and -osis or the Greek verb. The single written o cannot independently establish both forms without further analysis. Retain prior approvals and references, but hold this psycho direct edge; psych family associations remain.",
       "evidence_urls": [
         "https://www.collinsdictionary.com/dictionary/english/psychosis",
         "https://www.etymonline.com/word/psychosis",
         "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/766130/all/psychosis"
-      ]
+      ],
+      "original_review_directory": "baseline or earlier source-scoped accepted reviews; see reconsideration report"
     },
     {
       "relation_id": "e_b92223b54dba4e773d76",
       "frozen_root_id": "r_f2b04c04ab8d920ba06a",
+      "batch_id": "B0144",
       "root": "pter",
       "word": "chiroptera",
+      "published_root_id": "r_24181cefceb34177",
       "reason": "Taxonomic Chiroptera is capitalized in source and reference; the frozen lowercase candidate does not preserve the attested taxon name. Hold the existing lowercase association pending treatment of scientific names and corrected capitalization; preserve the earlier accepted source review.",
       "evidence_urls": [
         "https://www.nhm.ac.uk/our-science/data/uk-species/taxon?tvk=NBNSYS0000159668",
         "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=179985"
-      ]
+      ],
+      "original_review_directory": "uncontested-764"
     },
     {
       "relation_id": "e_8363416c68dc5a510371",
       "frozen_root_id": "r_287d9ae3d795bf3ff13f",
+      "batch_id": "B0144",
       "root": "ptero",
       "word": "tetrapterous",
+      "published_root_id": "r_5791aa2e5d116eb2",
       "reason": "Collins gives Greek tetrapteros from tetra- plus pteron wing and defines four wings or winglike structures. This is the wing sense, not source fern. The adjacent -pterous suffix is legitimate but this relation concerns the existing pter root. Preserve wave288 acceptance as historical evidence. Current related_only proposal applies stricter boundary: -pterous includes o within the suffix, so the shared substring does not by itself establish ptero- as an independent component.",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/tetrapterous",
         "https://www.collinsdictionary.com/dictionary/english/tetrapterous",
         "https://www.dictionary.com/browse/tetrapterous",
         "https://www.merriam-webster.com/dictionary/pter-"
-      ]
+      ],
+      "original_review_directory": "uncontested-288"
     },
     {
       "relation_id": "e_fa772b2124e711515348",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aesthete",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "pending",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "sensation/perception only",
+          "evidence_method": "insufficient_evidence",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthete"
+          ],
+          "note": "Earlier positive judgment applies only to ECDICT source; other source scopes need independent semantic review.",
+          "relation_id": "e_fa772b2124e711515348",
+          "word": "aesthete",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        },
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "sensation/perception only",
+          "evidence_method": "dictionary_headword",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthete"
+          ],
+          "note": "Existing source-scoped historical decision for ECDICT; aesthet/esthet are historical spelling lookup variants, not an asserted unique modern segmentation.",
+          "relation_id": "e_fa772b2124e711515348",
+          "word": "aesthete",
+          "source_entry_ids": [
+            "s_da8a958e405427ff4947"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_8fb7e9ef3d7a78b56cc6",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aesthetic",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "pending",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "sensation/perception only",
+          "evidence_method": "insufficient_evidence",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthetic"
+          ],
+          "note": "Earlier positive judgment applies only to ECDICT source; other source scopes need independent semantic review.",
+          "relation_id": "e_8fb7e9ef3d7a78b56cc6",
+          "word": "aesthetic",
+          "source_entry_ids": [
+            "s_5027730299fd43619d12",
+            "s_8ffdc16aa1a579112d26"
+          ]
+        },
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "sensation/perception only",
+          "evidence_method": "dictionary_headword",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthetic"
+          ],
+          "note": "Existing source-scoped historical decision for ECDICT; aesthet/esthet are historical spelling lookup variants, not an asserted unique modern segmentation.",
+          "relation_id": "e_8fb7e9ef3d7a78b56cc6",
+          "word": "aesthetic",
+          "source_entry_ids": [
+            "s_da8a958e405427ff4947"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_811e0875b24030671a05",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aesthetically",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "feeling, sensation, sense perception",
+          "evidence_method": "source_relation_and_verified_base",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthetics",
+            "https://www.merriam-webster.com/dictionary/aesthetic"
+          ],
+          "note": "Reused exact frozen relation and source scope from imports/uncontested-472/ready/notes/batches/473-supported-additions.json. Adverb of aesthetic, which came through German Ästhetisch or French esthétique, ultimately from Greek aisthetikos perceptive < aisthanesthai feel or perceive. -ally forms the adverb; the modern beauty sense developed from sensory perception.",
+          "relation_id": "e_811e0875b24030671a05",
+          "word": "aesthetically",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_45571256a0d0bfd3ffdf",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aesthetician",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "feeling, sensation, sense perception",
+          "evidence_method": "source_relation_and_verified_base",
+          "evidence_urls": [
+            "https://www.collinsdictionary.com/us/dictionary/english/aesthetician",
+            "https://www.etymonline.com/word/aesthetics"
+          ],
+          "note": "Reused exact frozen relation and source scope from imports/uncontested-472/ready/notes/batches/473-supported-additions.json. Collins records aesthetic + -ian and both philosophy and beauty practitioner senses; aesthetic derives via German or French from Greek aisthetikos relating to perception < aisthanesthai perceive, feel. The modern practice is not a literal synonym of sensation.",
+          "relation_id": "e_45571256a0d0bfd3ffdf",
+          "word": "aesthetician",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_99b0fc17ca6ffdbc7630",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aestheticism",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "feeling, sensation, sense perception",
+          "evidence_method": "source_relation_and_verified_base",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aestheticism"
+          ],
+          "note": "Reused exact frozen relation and source scope from imports/uncontested-249/ready/notes/batches/250-supported-additions.json. Aestheticism is devotion to beauty, aesthetic + -ism; aesthetic < Greek aisthetikos pertaining to sensory perception < aisthanesthai perceive, feel. The source form (a)esthet includes esthet as its recorded normalized variant.",
+          "relation_id": "e_99b0fc17ca6ffdbc7630",
+          "word": "aestheticism",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_6b4c627946b83e11cd20",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aestheticist",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "feeling, sensation, sense perception",
+          "evidence_method": "source_relation_and_verified_base",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthete",
+            "https://www.etymonline.com/word/aestheticism"
+          ],
+          "note": "Reused exact frozen relation and source scope from imports/uncontested-249/ready/notes/batches/250-supported-additions.json. Aestheticist is a person devoted to aesthetics; dictionary attests the term and aesthetic < Greek aisthetikos < aisthanesthai perceive, feel. MorphyNet identifies a structural relation, not necessarily chronology.",
+          "relation_id": "e_6b4c627946b83e11cd20",
+          "word": "aestheticist",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_ec91fa61b4315b76bb8d",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aestheticize",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "feeling, sensation, sense perception",
+          "evidence_method": "source_relation_and_verified_base",
+          "evidence_urls": [
+            "https://www.dictionary.com/browse/aestheticize",
+            "https://www.collinsdictionary.com/us/dictionary/english/aestheticize",
+            "https://www.etymonline.com/word/aesthetics"
+          ],
+          "note": "Reused exact frozen relation and source scope from imports/uncontested-472/ready/notes/batches/473-supported-additions.json. Dictionary.com identifies aesthetic + -ize. Aesthetic comes through German or French from Greek aisthetikos, from aisthanesthai perceive, feel; -ize forms the verb and the art/beauty sense reflects semantic development.",
+          "relation_id": "e_ec91fa61b4315b76bb8d",
+          "word": "aestheticize",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_2e12fd2fcfdcfa3c0b90",
       "frozen_root_id": "r_5f4a4055af6605333cfa",
+      "batch_id": "B0056",
       "root": "esthet",
       "word": "aesthetics",
+      "published_root_id": "r_7e84b4b5ac5aba87",
       "reason": "The esthet letters cut through the ae spelling in aesth-; retain the independently indexed aesth form rather than this direct spelling mapping.",
       "evidence_urls": [
         "https://www.etymonline.com/word/aesthetics",
         "https://www.etymonline.com/word/ethic",
         "https://www.merriam-webster.com/dictionary/ether"
+      ],
+      "original_review_directory": "See prior source-scoped acceptance records",
+      "reconsidered_source_scopes": [
+        {
+          "outcome": "pending",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "sensation/perception only",
+          "evidence_method": "insufficient_evidence",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthetics"
+          ],
+          "note": "Earlier positive judgment applies only to ECDICT source; other source scopes need independent semantic review.",
+          "relation_id": "e_2e12fd2fcfdcfa3c0b90",
+          "word": "aesthetics",
+          "source_entry_ids": [
+            "s_8ffdc16aa1a579112d26"
+          ]
+        },
+        {
+          "outcome": "accept",
+          "target_root_id": "r_7e84b4b5ac5aba87",
+          "source_sense_scope": "sensation/perception only",
+          "evidence_method": "dictionary_headword",
+          "evidence_urls": [
+            "https://www.etymonline.com/word/aesthetics"
+          ],
+          "note": "Existing source-scoped historical decision for ECDICT; aesthet/esthet are historical spelling lookup variants, not an asserted unique modern segmentation.",
+          "relation_id": "e_2e12fd2fcfdcfa3c0b90",
+          "word": "aesthetics",
+          "source_entry_ids": [
+            "s_da8a958e405427ff4947"
+          ]
+        }
       ]
     },
     {
       "relation_id": "e_4d8961bae35f7d10de02",
       "frozen_root_id": "r_316a6a23f59a19452fc7",
+      "batch_id": "B0059",
       "root": "fec",
       "word": "feckless",
+      "published_root_id": "r_765498906cbbf450",
       "reason": "Scots feck comes from effeck, a form of effect; the changed spelling feck is historically related but fec is not an established exact form here.",
       "evidence_urls": [
         "https://www.oxfordlearnersdictionaries.com/us/definition/english/feckless"
-      ]
+      ],
+      "original_review_directory": "Prior source-scoped acceptance retained in history"
     },
     {
       "relation_id": "e_8217fa27a7cfc7156d05",
       "frozen_root_id": "r_2ecbd613111342530a35",
+      "batch_id": "B0060",
       "root": "fer",
       "word": "ferry",
+      "published_root_id": "r_2b1338b566eebc88",
+      "source_entry_ids": [
+        "s_5770a04bf9cfc4490329",
+        "s_d5edd2dcdbf08e2e00f6"
+      ],
+      "outcome": "exclude",
       "reason": "Ferry comes from Old English ferian, Germanic *farjan, PIE *per-; not Latin ferre despite shared letters and meaning. Existing baseline edge needs reconciliation.",
       "evidence_urls": [
         "https://www.etymonline.com/word/differentiate",
@@ -4026,53 +4369,200 @@
         "https://www.etymonline.com/word/fertile",
         "https://www.etymonline.com/word/ferry",
         "https://www.merriam-webster.com/dictionary/floriferous"
+      ],
+      "original_review_directory": "baseline exact ECDICT source record retained in manifest",
+      "prior_source_acceptance": [
+        {
+          "source_entry_ids": [
+            "s_5770a04bf9cfc4490329"
+          ],
+          "target_id": "r_2b1338b566eebc88",
+          "record_type": "baseline_published_exact_source_entry_and_word"
+        }
       ]
     },
     {
       "relation_id": "e_cbf9eb1ddbaf61b538db",
       "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
       "root": "fact",
       "word": "counterfactual",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "source_entry_ids": [
+        "s_7678a196376222a6ef6a"
+      ],
       "reason": "This Engra source uses the independent English fact in the sense of a truth; counterfactual is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
       "evidence_urls": [
         "https://www.etymonline.com/word/fact"
+      ],
+      "original_review_directory": "prior historical acceptance",
+      "historical_records": [
+        {
+          "record": {
+            "relation_id": "e_cbf9eb1ddbaf61b538db",
+            "frozen_root_id": "r_1e7dc6d6c16565406afd",
+            "batch_id": "B0057",
+            "published_root_id": "r_72f8a30d2e7a602f",
+            "root": "fact",
+            "meaning": "make, do",
+            "word": "counterfactual",
+            "source_entries": [
+              {
+                "id": "s_7678a196376222a6ef6a",
+                "project": "engra",
+                "entry": "fact",
+                "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml"
+              }
+            ],
+            "evidence_method": "source_relation_and_verified_base",
+            "note": "fact 源于 factum“做过的事”，其 factual 意为符合事实的；factual → counterfactual，counter- 表与事实相反。",
+            "evidence_urls": [
+              "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml",
+              "https://www.etymonline.com/word/faction"
+            ]
+          }
+        }
       ]
     },
     {
       "relation_id": "e_4e3c9185f918da96d23e",
       "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
       "root": "fact",
       "word": "factoid",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "source_entry_ids": [
+        "s_7678a196376222a6ef6a"
+      ],
       "reason": "This Engra source uses the independent English fact in the sense of a truth; factoid is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
       "evidence_urls": [
         "https://www.etymonline.com/word/fact"
+      ],
+      "original_review_directory": "prior historical acceptance",
+      "historical_records": [
+        {
+          "record": {
+            "relation_id": "e_4e3c9185f918da96d23e",
+            "frozen_root_id": "r_1e7dc6d6c16565406afd",
+            "batch_id": "B0057",
+            "published_root_id": "r_72f8a30d2e7a602f",
+            "root": "fact",
+            "meaning": "make, do",
+            "word": "factoid",
+            "source_entries": [
+              {
+                "id": "s_7678a196376222a6ef6a",
+                "project": "engra",
+                "entry": "fact",
+                "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml"
+              }
+            ],
+            "evidence_method": "source_relation_and_verified_base",
+            "note": "fact 源自 factum“做过的事”，对应 facere；fact → factoid，指看似事实的说法，也可指小事实。",
+            "evidence_urls": [
+              "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml",
+              "https://www.etymonline.com/word/faction"
+            ]
+          }
+        }
       ]
     },
     {
       "relation_id": "e_efef46c1dd8ff2758967",
       "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
       "root": "fact",
       "word": "factuality",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "source_entry_ids": [
+        "s_7678a196376222a6ef6a"
+      ],
       "reason": "This Engra source uses the independent English fact in the sense of a truth; factuality is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
       "evidence_urls": [
         "https://www.etymonline.com/word/fact"
+      ],
+      "original_review_directory": "prior historical acceptance",
+      "historical_records": [
+        {
+          "record": {
+            "relation_id": "e_efef46c1dd8ff2758967",
+            "frozen_root_id": "r_1e7dc6d6c16565406afd",
+            "batch_id": "B0057",
+            "published_root_id": "r_72f8a30d2e7a602f",
+            "root": "fact",
+            "meaning": "make, do",
+            "word": "factuality",
+            "source_entries": [
+              {
+                "id": "s_7678a196376222a6ef6a",
+                "project": "engra",
+                "entry": "fact",
+                "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml"
+              }
+            ],
+            "evidence_method": "source_relation_and_verified_base",
+            "note": "factual“事实的”由 fact 派生；fact 来自 factum“做过的事”，源于 facere“做”；factual → factuality，指事实性。",
+            "evidence_urls": [
+              "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml",
+              "https://www.etymonline.com/word/faction"
+            ]
+          }
+        }
       ]
     },
     {
       "relation_id": "e_10a555bf0a42276fcd07",
       "frozen_root_id": "r_1e7dc6d6c16565406afd",
+      "batch_id": "B0057",
       "root": "fact",
       "word": "factually",
+      "published_root_id": "r_72f8a30d2e7a602f",
+      "source_entry_ids": [
+        "s_7678a196376222a6ef6a"
+      ],
       "reason": "This Engra source uses the independent English fact in the sense of a truth; factually is formed from that English word or its derivatives. A historical connection to Latin factum/facere does not by itself resolve whether this whole-word sense is included. The modern fact/truth sense is held separately from make/do.",
       "evidence_urls": [
         "https://www.etymonline.com/word/fact"
+      ],
+      "original_review_directory": "prior historical acceptance",
+      "historical_records": [
+        {
+          "record": {
+            "relation_id": "e_10a555bf0a42276fcd07",
+            "frozen_root_id": "r_1e7dc6d6c16565406afd",
+            "batch_id": "B0057",
+            "published_root_id": "r_72f8a30d2e7a602f",
+            "root": "fact",
+            "meaning": "make, do",
+            "word": "factually",
+            "source_entries": [
+              {
+                "id": "s_7678a196376222a6ef6a",
+                "project": "engra",
+                "entry": "fact",
+                "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/fact.yml"
+              }
+            ],
+            "evidence_method": "source_relation_and_verified_base",
+            "note": "Engra traces factually through factual to fact, matching its gloss 事实; fact in turn comes from Latin factum “thing done”, from facere “do”.",
+            "evidence_urls": [
+              "https://www.etymonline.com/word/fact"
+            ]
+          }
+        }
       ]
     },
     {
       "relation_id": "e_345d26efeffbd8ac25a4",
       "frozen_root_id": "r_92f75a33d5898073e05d",
+      "batch_id": "B0063",
       "root": "flu",
       "word": "flu",
+      "published_root_id": "r_2fdba02b4cc17408",
+      "source_entry_ids": [
+        "s_41c340088a4ec08f5ffc"
+      ],
+      "outcome": "related_only",
       "reason": "English disease word flu is a clipping of influenza, from Italian influenza (astrological influence) and Latin influere flow; related historically but clipping is not a freestanding flow morpheme. Baseline contains flu: flag for integration review.",
       "evidence_urls": [
         "https://www.etymonline.com/word/fluent",
@@ -4083,29 +4573,66 @@
         "https://www.etymonline.com/word/flu",
         "https://www.etymonline.com/word/influenza",
         "https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566f9cf20e4c117c7c65281b/1450155250361/1900_Jackson_A%2BGlossary%2Bof%2BBotanic%2BTerms.pdf"
+      ],
+      "prior_source_acceptance": [
+        {
+          "record": {
+            "relation_id": "e_345d26efeffbd8ac25a4",
+            "frozen_root_id": "r_92f75a33d5898073e05d",
+            "batch_id": "B0063",
+            "published_root_id": "r_2fdba02b4cc17408",
+            "root": "flu",
+            "meaning": "flow, river",
+            "word": "flu",
+            "source_entries": [
+              {
+                "id": "s_41c340088a4ec08f5ffc",
+                "project": "engra",
+                "entry": "flu",
+                "url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml"
+              }
+            ],
+            "original_source_meaning": {
+              "s_41c340088a4ec08f5ffc": "flow流"
+            },
+            "evidence_method": "dictionary_headword_and_verified_base",
+            "note": "MW states flu is a shortening of influenza and traces the latter through Italian influenza and Latin influentia/influere to Latin fluere flow. The clipping preserves flu, the historically relevant segment; the modern noun names a disease and does not literally mean flow. Historical attribution to stellar influences is an obsolete belief, not a medical explanation.",
+            "evidence_urls": [
+              "https://www.merriam-webster.com/dictionary/influenza",
+              "https://www.merriam-webster.com/dictionary/flu",
+              "https://pmc.ncbi.nlm.nih.gov/articles/PMC3291418/"
+            ]
+          }
+        }
       ]
     },
     {
       "relation_id": "e_130083339938e98a259a",
       "frozen_root_id": "r_970633fe52e5134a8c9e",
+      "batch_id": "B0129",
       "root": "pent",
       "word": "pentateuch",
       "reason": "The accepted frozen lowercase spelling names the biblical Pentateuch. Merriam-Webster and Collins use capitalized Pentateuch; the existing lowercase baseline edge is retained but held, and the corrected proper-name eligibility remains undecided. Earlier source-scope acceptance is superseded by this quality hold.",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/Pentateuch",
         "https://www.collinsdictionary.com/dictionary/english/pentateuch"
-      ]
+      ],
+      "original_review_directory": "uncontested-1023",
+      "corrected_word": "Pentateuch"
     },
     {
       "relation_id": "e_47b5651487f19abcbef8",
       "frozen_root_id": "r_14a145de224bfce394f8",
+      "batch_id": "B0129",
       "root": "penta",
       "word": "pentateuch",
       "reason": "The accepted frozen lowercase spelling names the biblical Pentateuch. Merriam-Webster and Collins use capitalized Pentateuch; the existing lowercase baseline edge is retained but held, and the corrected proper-name eligibility remains undecided. Earlier source-scope acceptance is superseded by this quality hold.",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/Pentateuch",
         "https://www.collinsdictionary.com/dictionary/english/pentateuch"
-      ]
+      ],
+      "original_review_directory": "uncontested-1023",
+      "corrected_word": "Pentateuch"
     }
   ]
 }

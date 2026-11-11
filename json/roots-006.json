@@ -1,5 +1,785 @@
 [
   {
+    "id": "r_e1149eee361a2a63",
+    "root": "uv",
+    "source_form": "uv",
+    "meaning": "grape",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "uvea"
+    ],
+    "family_id": "g_e1149eee361a2a63",
+    "related_root_ids": [],
+    "source_entry": "uv-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6708417084dae043",
+    "root": "uxor",
+    "source_form": "-uxor-",
+    "meaning": "wife",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "uxoricide"
+    ],
+    "family_id": "g_3b03990fedb039c1",
+    "related_root_ids": [],
+    "source_entry": "uxor-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9ddae9cb269881cf",
+    "root": "vac",
+    "source_form": "vac",
+    "meaning": "empty",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "evacuate",
+      "evacuation",
+      "evacuee",
+      "vacancy",
+      "vacant",
+      "vacantly",
+      "vacate",
+      "vacation",
+      "vacationer",
+      "vacuity",
+      "vacuous",
+      "vacuum",
+      "vacuumize",
+      "vac",
+      "vacationist"
+    ],
+    "family_id": "g_24ee89a12054959a",
+    "related_root_ids": [
+      "r_0a103e0654e8dfc9"
+    ],
+    "source_entry": "vac",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_aae6f333874f9f05",
+    "root": "vacc",
+    "source_form": "vacc",
+    "meaning": "cow",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "example": [
+      "vaccary",
+      "vaccinal",
+      "vaccinate",
+      "vaccinated",
+      "vaccination",
+      "vaccinator",
+      "vaccine",
+      "vaccinee",
+      "vaccinia"
+    ],
+    "family_id": "g_aae6f333874f9f05",
+    "related_root_ids": [],
+    "source_entry": "vacc-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_edc9809e6a1ac1d2",
+    "root": "vacill",
+    "source_form": "vacill",
+    "meaning": "waver, sway",
+    "class": "historical_stem",
+    "origin": "Latin vacillare",
+    "source_entry": "vacill",
+    "family_id": "g_05b657beabf0c4a5",
+    "example": [
+      "vacillate",
+      "vacillation"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0a103e0654e8dfc9",
+    "root": "vacu",
+    "source_form": "vacu",
+    "meaning": "empty, unoccupied, free",
+    "class": "historical_stem",
+    "origin": "Latin vacuus empty, adjective stem vacu-",
+    "source_entry": "vacu",
+    "family_id": "g_24ee89a12054959a",
+    "example": [
+      "evacuate",
+      "evacuated",
+      "evacuation",
+      "evacuee",
+      "vacuum",
+      "vacuuming",
+      "vacuumize"
+    ],
+    "related_root_ids": [
+      "r_9ddae9cb269881cf"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_cb2da38118a41d9b",
+    "root": "vad",
+    "source_form": "vad",
+    "meaning": "to go",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "evade",
+      "evader",
+      "invade",
+      "invaded",
+      "invader",
+      "invading",
+      "pervade",
+      "pervading"
+    ],
+    "family_id": "g_bd0b285bc02237ae",
+    "related_root_ids": [
+      "r_a75e7bdb1a611dc8",
+      "r_c2b58ee2821442f9"
+    ],
+    "source_entry": "vad, vas",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c2b58ee2821442f9",
+    "root": "vade",
+    "source_form": "vade-",
+    "meaning": "go; Latin imperative of vadere",
+    "class": "lookup_alias",
+    "origin": "Latin",
+    "source_entry": "vade",
+    "family_id": "g_bd0b285bc02237ae",
+    "example": [
+      "evade"
+    ],
+    "related_root_ids": [
+      "r_a75e7bdb1a611dc8",
+      "r_cb2da38118a41d9b"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4d212b8c7fc48c4e",
+    "root": "vag",
+    "source_form": "vag",
+    "meaning": "wander",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "divagate",
+      "divagation",
+      "extravagance",
+      "extravagant",
+      "extravagantly",
+      "extravaganza",
+      "noctivagant",
+      "vagabond",
+      "vagabondage",
+      "vagary",
+      "vagile",
+      "vague",
+      "vaguely",
+      "vagueness"
+    ],
+    "family_id": "g_1e264b0d76480d0e",
+    "related_root_ids": [],
+    "source_entry": "vag",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_58bbfb713d3236f2",
+    "root": "vail",
+    "source_form": "vail",
+    "meaning": "be strong, be worth",
+    "class": "root",
+    "origin": "Latin via Old French",
+    "example": [
+      "avail",
+      "available",
+      "countervail",
+      "prevail",
+      "unavailing",
+      "unavailability",
+      "unavailable"
+    ],
+    "family_id": "g_e1dfb13f577d4188",
+    "related_root_ids": [
+      "r_19b4f7b5d877b4f4",
+      "r_36db9b29b4524286",
+      "r_90c2e34b68bb0724",
+      "r_f1ac9c33a97d5759"
+    ],
+    "source_entry": "vail",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ba3bbc061eca7709",
+    "root": "vain",
+    "source_form": "vain",
+    "meaning": "futile, without effect; excessively proud",
+    "class": "root",
+    "origin": "English, via French from Latin",
+    "source_entry": "vain",
+    "family_id": "g_5f8a0137db4dd33f",
+    "example": [
+      "vain",
+      "vainglorious",
+      "vainly",
+      "vaingloriously"
+    ],
+    "related_root_ids": [
+      "r_f0a2d9c4797ca74b"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_90c2e34b68bb0724",
+    "root": "val",
+    "source_form": "val",
+    "meaning": "strength; worth",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "ambivalence",
+      "ambivalent",
+      "ambivalently",
+      "bivalent",
+      "convalesce",
+      "convalescence",
+      "convalescent",
+      "devaluation",
+      "devalue",
+      "devalued",
+      "divalent",
+      "equivalent",
+      "evaluable",
+      "evaluate",
+      "evaluation",
+      "evaluative",
+      "evaluator",
+      "heptavalent",
+      "invalid",
+      "invalidate",
+      "invalidation",
+      "invalidism",
+      "invalidity",
+      "invaluable",
+      "multivalent",
+      "overvaluation",
+      "overvalue",
+      "overvalued",
+      "pentavalent",
+      "polyvalent",
+      "prevalence",
+      "prevalent",
+      "quinquevalent",
+      "revaluation",
+      "revalue",
+      "revalued",
+      "tetravalent",
+      "trivalent",
+      "undervaluation",
+      "undervalue",
+      "undervalued",
+      "univalent",
+      "valence",
+      "valiant",
+      "valiantly",
+      "valid",
+      "validate",
+      "validated",
+      "validating",
+      "validation",
+      "validator",
+      "validity",
+      "validly",
+      "valor",
+      "valorization",
+      "valorize",
+      "valorous",
+      "valuable",
+      "value",
+      "valued",
+      "valueless",
+      "valuing",
+      "valour",
+      "equivalently"
+    ],
+    "family_id": "g_e1dfb13f577d4188",
+    "related_root_ids": [
+      "r_19b4f7b5d877b4f4",
+      "r_36db9b29b4524286",
+      "r_58bbfb713d3236f2",
+      "r_f1ac9c33a97d5759"
+    ],
+    "source_entry": "val, valu, valid",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_36db9b29b4524286",
+    "root": "vale",
+    "source_form": "vale",
+    "meaning": "to be strong, well, or worth",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "source_entry": "vale",
+    "family_id": "g_e1dfb13f577d4188",
+    "example": [
+      "valence"
+    ],
+    "related_root_ids": [
+      "r_19b4f7b5d877b4f4",
+      "r_58bbfb713d3236f2",
+      "r_90c2e34b68bb0724",
+      "r_f1ac9c33a97d5759"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_19b4f7b5d877b4f4",
+    "root": "valid",
+    "source_form": "valid",
+    "meaning": "strength; worth",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "invalidate",
+      "valid",
+      "validate",
+      "validity",
+      "validly"
+    ],
+    "family_id": "g_e1dfb13f577d4188",
+    "related_root_ids": [
+      "r_36db9b29b4524286",
+      "r_58bbfb713d3236f2",
+      "r_90c2e34b68bb0724",
+      "r_f1ac9c33a97d5759"
+    ],
+    "source_entry": "val, valu, valid",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f1ac9c33a97d5759",
+    "root": "valu",
+    "source_form": "valu",
+    "meaning": "strength; worth",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "evaluate",
+      "invaluable",
+      "valuable",
+      "value"
+    ],
+    "family_id": "g_e1dfb13f577d4188",
+    "related_root_ids": [
+      "r_19b4f7b5d877b4f4",
+      "r_36db9b29b4524286",
+      "r_58bbfb713d3236f2",
+      "r_90c2e34b68bb0724"
+    ],
+    "source_entry": "val, valu, valid",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b4d5e4e263dceb9a",
+    "root": "valv",
+    "source_form": "valv",
+    "meaning": "folding door; valve",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "valve",
+      "valvular"
+    ],
+    "family_id": "g_7e6ff8ae5391deac",
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6483ac0f37e3cc57",
+      "r_6996df0696c34702",
+      "r_91bb7c7dc70220c3",
+      "r_91bc202eee97cb4b",
+      "r_df31d70f56252f7f"
+    ],
+    "source_entry": "valv",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f0a2d9c4797ca74b",
+    "root": "van",
+    "source_form": "van",
+    "meaning": "empty, vain, idle",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "evanesce",
+      "evanescence",
+      "evanescent",
+      "evanish",
+      "vanish",
+      "vanished",
+      "vanishing",
+      "vanishingly",
+      "vanity"
+    ],
+    "family_id": "g_5f8a0137db4dd33f",
+    "related_root_ids": [
+      "r_ba3bbc061eca7709"
+    ],
+    "source_entry": "van-",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_54c35d370793acd8",
+    "root": "vandal",
+    "source_form": "vandal",
+    "meaning": "person who deliberately destroys property",
+    "class": "root",
+    "origin": "English vandal, from ethnonym Vandal; figurative use",
+    "source_entry": "vandal",
+    "family_id": "g_72d27c8f8d86b3b1",
+    "example": [
+      "vandal",
+      "vandalism",
+      "vandalize",
+      "vandalized"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c518e2cb3880e9ed",
+    "root": "vanq",
+    "source_form": "vanq",
+    "meaning": "conquer",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vanquish"
+    ],
+    "family_id": "g_0714540064cad504",
+    "related_root_ids": [
+      "r_c5d42da05b42216d",
+      "r_ff716f8c65bd0152"
+    ],
+    "source_entry": "vinc, vict, vanq",
+    "pending_family_examples": 1
+  },
+  {
+    "id": "r_89789686f1a85e2a",
+    "root": "vant",
+    "source_form": "vant",
+    "meaning": "before, in front",
+    "class": "historical_stem",
+    "origin": "Anglo-French vant, shortened form of avant",
+    "source_entry": "vant",
+    "family_id": "g_d8356a221e08bdc8",
+    "example": [
+      "advantage",
+      "advantaged",
+      "advantageous",
+      "advantageously",
+      "disadvantage",
+      "disadvantaged",
+      "disadvantageous"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_52b153664f5a87fa",
+    "root": "vap",
+    "source_form": "vap-",
+    "meaning": "steam, vapor; give off vapor",
+    "class": "historical_stem",
+    "origin": "Latin",
+    "source_entry": "vap",
+    "family_id": "g_8bc1d1113c20729d",
+    "example": [
+      "evaporative",
+      "evaporator",
+      "evaporite",
+      "nonevaporative",
+      "vapor",
+      "vaporescence",
+      "vaporescent",
+      "vaporific",
+      "vaporous"
+    ],
+    "related_root_ids": [
+      "r_d4c9bb149f560563"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d4c9bb149f560563",
+    "root": "vapor",
+    "source_form": "vapor",
+    "meaning": "vapor, steam; produce vapor",
+    "class": "root",
+    "origin": "Latin via French",
+    "source_entry": "vapor",
+    "family_id": "g_8bc1d1113c20729d",
+    "example": [
+      "evaporate",
+      "evaporated",
+      "evaporation",
+      "evaporative",
+      "evaporator",
+      "vapor",
+      "vaporization",
+      "vaporize",
+      "vaporized",
+      "vaporizer",
+      "vaporous"
+    ],
+    "related_root_ids": [
+      "r_52b153664f5a87fa"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4404cc3b30c4b018",
+    "root": "var",
+    "source_form": "var",
+    "meaning": "different",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "bivariate",
+      "covariate",
+      "covariation",
+      "intervarietal",
+      "invariable",
+      "invariance",
+      "invariant",
+      "variable",
+      "variance",
+      "variant",
+      "variate",
+      "variation",
+      "variegate",
+      "variegated",
+      "varietal",
+      "variety",
+      "variorum",
+      "various",
+      "vary",
+      "unvarying",
+      "varying"
+    ],
+    "family_id": "g_c86872dc97dd35aa",
+    "related_root_ids": [
+      "r_77c666722ad7bc20"
+    ],
+    "source_entry": "var",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_785d9956a43ad7bb",
+    "root": "var",
+    "source_form": "var",
+    "meaning": "bent; crooked",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "prevaricate",
+      "varus"
+    ],
+    "family_id": "g_785d9956a43ad7bb",
+    "related_root_ids": [
+      "r_397f146e479fe03f"
+    ],
+    "source_entry": "var",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_77c666722ad7bc20",
+    "root": "vari",
+    "source_form": "vari",
+    "meaning": "diverse, of many kinds",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "bivariate",
+      "covariate",
+      "covariation",
+      "intervarietal",
+      "invariable",
+      "invariably",
+      "invariance",
+      "invariant",
+      "unvaried",
+      "variability",
+      "variable",
+      "variably",
+      "variance",
+      "variant",
+      "variate",
+      "variation",
+      "varicoloured",
+      "varied",
+      "variegate",
+      "variegated",
+      "varietal",
+      "variety",
+      "variform",
+      "variorum",
+      "various",
+      "variously",
+      "varisized"
+    ],
+    "family_id": "g_c86872dc97dd35aa",
+    "related_root_ids": [
+      "r_4404cc3b30c4b018"
+    ],
+    "source_entry": "vari",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_397f146e479fe03f",
+    "root": "varic",
+    "source_form": "varic",
+    "meaning": "straddle; walk crookedly",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "prevaricate"
+    ],
+    "family_id": "g_785d9956a43ad7bb",
+    "related_root_ids": [
+      "r_785d9956a43ad7bb"
+    ],
+    "source_entry": "varic-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5b3aa213d2dbe731",
+    "root": "vas",
+    "source_form": "vas-",
+    "meaning": "vessel; duct",
+    "class": "combining_form",
+    "origin": "Latin",
+    "example": [
+      "avascular",
+      "intravascular",
+      "vasoconstrictor",
+      "vasodilation",
+      "vascular",
+      "vascularity",
+      "vascularization",
+      "vascularize",
+      "vasculature",
+      "vasculitis"
+    ],
+    "family_id": "g_20d859404d9caad6",
+    "related_root_ids": [
+      "r_c6e77217eca30ecf",
+      "r_d615231b3d134b69"
+    ],
+    "source_entry": "vas-",
+    "pending_family_examples": 5
+  },
+  {
+    "id": "r_a75e7bdb1a611dc8",
+    "root": "vas",
+    "source_form": "vas",
+    "meaning": "to go",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "evasion",
+      "evasive",
+      "evasively",
+      "evasiveness",
+      "invasion",
+      "invasive",
+      "invasiveness",
+      "noninvasive",
+      "pervasion",
+      "pervasive",
+      "pervasively",
+      "pervasiveness"
+    ],
+    "family_id": "g_bd0b285bc02237ae",
+    "related_root_ids": [
+      "r_c2b58ee2821442f9",
+      "r_cb2da38118a41d9b"
+    ],
+    "source_entry": "vad, vas",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d615231b3d134b69",
+    "root": "vasc",
+    "source_form": "vasc-",
+    "meaning": "blood vessel",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vascular",
+      "vascularity",
+      "vascularization",
+      "vascularize",
+      "vasculitis"
+    ],
+    "family_id": "g_20d859404d9caad6",
+    "related_root_ids": [
+      "r_5b3aa213d2dbe731",
+      "r_c6e77217eca30ecf"
+    ],
+    "source_entry": "vas-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_c6e77217eca30ecf",
+    "root": "vaso",
+    "source_form": "vaso-",
+    "meaning": "blood vessel",
+    "class": "root",
+    "origin": "Latin",
+    "example": [
+      "vasoconstrictor",
+      "vasodilation"
+    ],
+    "family_id": "g_20d859404d9caad6",
+    "related_root_ids": [
+      "r_5b3aa213d2dbe731",
+      "r_d615231b3d134b69"
+    ],
+    "source_entry": "vas-",
+    "pending_family_examples": 2
+  },
+  {
+    "id": "r_237ffdf073c53474",
+    "root": "vast",
+    "source_form": "vast",
+    "meaning": "immense; extensive",
+    "class": "root",
+    "origin": "Latin",
+    "source_entry": "vast",
+    "family_id": "g_b9dd9f2edcb721cb",
+    "example": [
+      "vast",
+      "vastly",
+      "vastness"
+    ],
+    "related_root_ids": [
+      "r_9e2c37d3fb477eb0",
+      "r_a6153ad834d9ea53",
+      "r_e591eb983cb5ee21"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_9e2c37d3fb477eb0",
     "root": "vast",
     "source_form": "vast",
@@ -55,7 +835,9 @@
     "family_id": "g_7e6ff8ae5391deac",
     "example": [
       "vaulted",
-      "vaulter"
+      "vaulter",
+      "vaulting",
+      "vault"
     ],
     "related_root_ids": [
       "r_5585dfe1db7065ff",
@@ -431,7 +1213,8 @@
       "avenger",
       "revenge",
       "revengeful",
-      "revengefully"
+      "revengefully",
+      "revengefulness"
     ],
     "related_root_ids": [
       "r_323ed4de045b4cb6"
@@ -605,7 +1388,8 @@
     "source_entry": "verac",
     "family_id": "g_cf542ada135ee3ed",
     "example": [
-      "veracious"
+      "veracious",
+      "veraciously"
     ],
     "related_root_ids": [
       "r_2883a534f65fb49c",
@@ -639,7 +1423,8 @@
       "verbatim",
       "verbiage",
       "verbose",
-      "verbosity"
+      "verbosity",
+      "verbosely"
     ],
     "family_id": "g_6806f86a17f0ae04",
     "related_root_ids": [],
@@ -917,7 +1702,9 @@
       "reverse",
       "transverse",
       "universe",
-      "verse"
+      "verse",
+      "inversely",
+      "transversely"
     ],
     "related_root_ids": [
       "r_2227333b503c7300",
@@ -981,7 +1768,8 @@
       "verticil",
       "vertiginous",
       "vertigo",
-      "retrovert"
+      "retrovert",
+      "divertingly"
     ],
     "family_id": "g_b39f2a791645bb98",
     "related_root_ids": [
@@ -1142,7 +1930,8 @@
     "example": [
       "vexatious",
       "vexed",
-      "vexing"
+      "vexing",
+      "vexatiously"
     ],
     "family_id": "g_bd6f1b00b6999bb1",
     "related_root_ids": [],
@@ -1901,7 +2690,8 @@
     "source_entry": "virus",
     "family_id": "g_04342d9a6cae8bce",
     "example": [
-      "virus"
+      "virus",
+      "viruslike"
     ],
     "related_root_ids": [
       "r_285c24d9441970a1",
@@ -2312,7 +3102,8 @@
       "invocator",
       "prevocational",
       "provocate",
-      "provocateur"
+      "provocateur",
+      "unequivocally"
     ],
     "family_id": "g_bb9899678c780be5",
     "related_root_ids": [
@@ -2467,7 +3258,8 @@
       "voluntary",
       "volunteer",
       "volitient",
-      "voluntaryism"
+      "voluntaryism",
+      "malevolently"
     ],
     "family_id": "g_b9f6da279ec59af9",
     "related_root_ids": [
@@ -2744,7 +3536,8 @@
     "origin": "Latin",
     "example": [
       "voracious",
-      "voracity"
+      "voracity",
+      "voraciously"
     ],
     "family_id": "g_929f1ca4b2be58d7",
     "related_root_ids": [
@@ -3354,7 +4147,9 @@
     "example": [
       "waste",
       "wasted",
-      "wasteful"
+      "wasteful",
+      "wastefulness",
+      "wastefully"
     ],
     "related_root_ids": [
       "r_237ffdf073c53474",
@@ -3468,7 +4263,11 @@
     "source_entry": "wax",
     "family_id": "g_51a695b9a3489bad",
     "example": [
-      "waxy"
+      "waxy",
+      "waxing",
+      "waxed",
+      "wax",
+      "waxen"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -3749,7 +4548,8 @@
       "weighted",
       "weighting",
       "weightless",
-      "weighty"
+      "weighty",
+      "weightlessness"
     ],
     "related_root_ids": [
       "r_03868bf978ab8f1f"
@@ -4327,7 +5127,8 @@
       "winged",
       "winger",
       "wingspan",
-      "wingtip"
+      "wingtip",
+      "wingless"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -4365,7 +5166,8 @@
       "overwinter",
       "overwintering",
       "winter",
-      "wintering"
+      "wintering",
+      "wintery"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -4714,7 +5516,8 @@
       "worthless",
       "worthlessness",
       "worthwhile",
-      "worthy"
+      "worthy",
+      "worthlessly"
     ],
     "related_root_ids": [
       "r_099c3d23e5cc68d7",
@@ -4886,7 +5689,10 @@
       "xanthophyll",
       "xanthopsia",
       "xanthosis",
-      "xanthous"
+      "xanthous",
+      "xanthophobia",
+      "Xanthoidea",
+      "Xanthium"
     ],
     "family_id": "g_2bbd375c784f42e6",
     "related_root_ids": [
@@ -4910,7 +5716,9 @@
       "xanthophyll",
       "xanthopterin",
       "xanthosis",
-      "xanthous"
+      "xanthous",
+      "xanthophobia",
+      "Xanthoidea"
     ],
     "family_id": "g_2bbd375c784f42e6",
     "related_root_ids": [
@@ -5267,7 +6075,8 @@
       "yellowish",
       "yellowish-gray",
       "yellowish-grey",
-      "yellowish-orange"
+      "yellowish-orange",
+      "yellowness"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
