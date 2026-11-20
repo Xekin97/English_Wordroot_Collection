@@ -2,7 +2,7 @@
 
 基于多个项目的公开资料整理的英语词根库，收录词根、前缀、后缀和部分构词形式，提供英文 `meaning` 及对应例词，保留同族变体之间的关联。
 
-当前 JSON 共收录 **5,491 个词根及词缀条目**，所有 `example` 合并去重后共有 **31,865 个例词和词组**，合计 **46,755 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
+当前 JSON 共收录 **6,424 个词根及词缀条目**，所有 `example` 合并去重后共有 **32,629 个例词和词组**，合计 **47,717 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
 
 ## 整理目的：词根平铺化
 
@@ -35,11 +35,12 @@
 - [etymology-db](https://github.com/droher/etymology-db)：从 Wiktionary 词源数据整理的词源关系。
 - [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)及[英文 Wiktionary 数据](https://kaikki.org/dictionary/English/)：词条、前后缀及词源资料，用于发现和核对；与其他 Wiktionary 衍生数据存在来源重叠。
 - 词典与词源参考：[Online Etymology Dictionary](https://www.etymonline.com/)、[Merriam-Webster](https://www.merriam-webster.com/)、[Dictionary.com](https://www.dictionary.com/)、[Collins Dictionary](https://www.collinsdictionary.com/)、[Wiktionary](https://en.wiktionary.org/)、[American Heritage Dictionary](https://www.ahdictionary.com/)、[Oxford Learner’s Dictionaries](https://www.oxfordlearnersdictionaries.com/) 等；医学词缀另参考 [MedlinePlus 词素表](https://medlineplus.gov/appendixa.html)，部分历史词形参考大学教材及历史词典。
+- [Merriam-Webster《A Dictionary of Prefixes, Suffixes, and Combining Forms》](https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf)：补充词根、前后缀和构词形式；未确认的候选另行保存。
 - 部分英文词根含义和变体还参考词根词典、教材和学术资料，具体来源见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
 
 这些资料用于对照与核实，词形相似或出现在同一资料中并不自动证明词根关系。各来源的许可说明见 [notes/THIRD_PARTY_NOTICES.md](notes/THIRD_PARTY_NOTICES.md)。
 
-数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-006` 编号；每个文件最多 1,000 条，最后一份有 491 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
+数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-007` 编号；每个文件最多 1,000 条，最后一份有 424 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
 
 JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example` 八个常用字段；例词以 ` | ` 分隔，无例词时单元格为空。同族关联和待处理计数请使用 JSON。CSV 使用 UTF-8 BOM，字段中的逗号、引号和换行由 CSV 格式转义。
 
@@ -65,6 +66,10 @@ JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`�
 
 ## 审核状态与已知限制
 
+- 本轮还将 [67 条历史待核来源关系](notes/legacy-unverified-relations.json)保留为独立记录；已有其他来源支持的同形关系按各自词义处理。`mob`（人群）、`fund`（资金）、`plane`（飞机）、`place` 和 `pose`（摆姿势）五个英语整词词基按现有范围暂缓，其原关系和原因见[待确认关系](notes/held-relations.json)。
+
+- 本次固定队列中未能确认的候选已单独保存于[未收录候选](notes/unverified-candidates.json)，不会因词形相似自动进入主表。这个文件不代表项目所有历史待核关系。
+
 - [词根与例词审核状态索引](notes/edge-audit.json)按词根 `id` 和例词记录审核状态，审核关系及来源分别拆分到 `notes/json/`。索引中的 `roots_sha256` 绑定按编号拼接后的完整数据快照。`supported_scoped` 表示指定词义或来源范围有依据；`historical_accept_scoped` 表示找到该范围的历史接受记录，不能视为对所有义项的保证；未列出或标记 `untraced` 表示尚未找到对应的逐条审核记录，并不等于错误。`related_pending_candidate` 是旧快照中曾有待核相关来源候选的历史标记；标记对应的快照见 `related_pending_candidate_as_of_roots_sha256`，不能单凭它判断当前待确认状态，也不自动代表当前关系有误。若同一条记录含 `later_resolution`，以后者说明为准。
 - [待确认关系](notes/held-relations.json)记录从主表暂缓的例词关系、来源范围待核记录和整体暂缓的词根，并保留原因和参考资料；暂缓不等于判定关系错误。`plac` 因独立词素依据待核整条暂缓，`ment` 的 5 条关系因构词分析分歧暂缓。未找到精确审核记录的主表关系不能视为已逐条核实。
 - 部分旧条目因缺少独立构词依据而整体暂缓；原 ID 和原因保存在[待确认关系](notes/held-relations.json)。已公开的人义 `anthr`（`r_e1ac89c7616378b0`）也已暂缓，其例词保留在已核实的 `anthrop`／`anthro` 词族中，使用旧 ID 时请查阅该记录。
@@ -75,13 +80,10 @@ JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`�
 
 ## TODO
 
-- [ ] 按用户要求暂停新增词根的整理；此前计划补充 500 个不同写法，已确认 222 个，剩余 278 个待后续处理。该计划按不同写法统计，与本次相对公开仓库的条目增量口径不同。
-- [ ] 待确认候选仍包含不同义项、来源范围和证据不足的关系，恢复时按各自队列及证据重新判断。
-- [ ] 恢复处理待确认关系时，区分同形异义、同族变体、历史词形变化和跨越构词边界的字母匹配。
-- [ ] 检查现有条目中沿用自来源的例词及英文 `meaning`，修正发现的问题；当前数据尚未全部逐词核实。
-- [ ] 后续处理[待确认关系](notes/held-relations.json)和尚未关联到逐条审核记录的主表关系时，按词义与来源分别判断不同来源的同形条目。
-- [ ] 仅收录有独立构词依据的词根、前后缀及词基，继续处理没有例词的条目；按产品需要筛选专名、古词和不同词形。
-- [ ] 后续发布时继续以 JSON 为准生成 CSV，按每份最多 1,000 条分片，并核对两种格式的一致性。
+- [ ] 对[未收录候选](notes/unverified-candidates.json)在有新证据时继续核对；未确认不代表已证伪。
+- [ ] 后续核对[暂缓关系](notes/held-relations.json)和未找到逐条审核记录的主表关系，区分不同词义、来源范围和历史变体。
+- [ ] 检查现有条目的例词及英文 `meaning`；数据尚未全部逐词核实。按产品需要筛选专名、古词和专业词。
+- [ ] 后续发布时以 JSON 为准生成 CSV，按每份最多 1,000 条分片并核对一致性。
 
 当前为整理中的阶段性数据；主 JSON 和 CSV 的例词字段不内嵌审核状态，使用时请同时参考上述状态文件。
 
