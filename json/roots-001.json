@@ -147,7 +147,56 @@
       "portable",
       "adorable",
       "creditable",
-      "despicable"
+      "despicable",
+      "adaptable",
+      "adjustable",
+      "alterable",
+      "ascertainable",
+      "assailable",
+      "assignable",
+      "available",
+      "detachable",
+      "detestable",
+      "discreditable",
+      "distinguishable",
+      "employable",
+      "enforceable",
+      "enjoyable",
+      "expandable",
+      "expendable",
+      "foreseeable",
+      "forgettable",
+      "governable",
+      "indictable",
+      "inhabitable",
+      "interchangeable",
+      "maintainable",
+      "obtainable",
+      "payable",
+      "playable",
+      "ponderable",
+      "preventable",
+      "printable",
+      "pronounceable",
+      "punishable",
+      "readable",
+      "redeemable",
+      "repayable",
+      "replaceable",
+      "retractable",
+      "singable",
+      "spreadable",
+      "stretchable",
+      "sufferable",
+      "supportable",
+      "surmountable",
+      "teachable",
+      "thinkable",
+      "touchable",
+      "transplantable",
+      "treatable",
+      "understandable",
+      "workable"
     ],
     "related_root_ids": [
       "r_2225a3379c68bf4a",
@@ -155,6 +204,23 @@
       "r_e82f5369dc655d35",
       "r_eb99a02905e4dae6"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2d0bf9866fe8135d",
+    "root": "-ableness",
+    "source_form": "-ableness",
+    "meaning": "state or quality of being described by the corresponding -able adjective",
+    "class": "suffix",
+    "origin": "English combination of -able and -ness; -able via French/Latin and -ness Old English",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, -able derivative -ableness",
+    "family_id": "g_2d0bf9866fe8135d",
+    "example": [
+      "agreeableness",
+      "reasonableness",
+      "unreasonableness"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -207,6 +273,23 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_1e06c32cd2d9cea1",
+    "root": "-aceae",
+    "source_form": "-aceae",
+    "meaning": "families of plants",
+    "class": "suffix",
+    "origin": "New Latin, feminine plural of Latin -aceus",
+    "source_entry": "-aceae",
+    "family_id": "g_c6c18634a80d9fba",
+    "example": [
+      "Solanaceae"
+    ],
+    "related_root_ids": [
+      "r_9e051d70087095fe"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_9e051d70087095fe",
     "root": "-aceous",
     "source_form": "-aceous",
@@ -241,9 +324,14 @@
       "bulbaceous",
       "amentaceous",
       "arboraceous",
-      "alliaceous"
+      "alliaceous",
+      "araceous",
+      "betulaceous",
+      "bignoniaceous"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_1e06c32cd2d9cea1"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -265,7 +353,9 @@
       "pertinacious",
       "voracious",
       "veracious",
-      "audacious"
+      "audacious",
+      "vivacious",
+      "loquacious"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -353,7 +443,8 @@
     "family_id": "g_d66e70ccc6dc3236",
     "example": [
       "exuviae",
-      "algae"
+      "algae",
+      "vitae"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -382,6 +473,7 @@
       "r_668a2a8c2d15674c",
       "r_9d921e515212ef5c",
       "r_aef6827025444404",
+      "r_b4149c29f3bc233c",
       "r_cecb9778aa85b5e0",
       "r_dcd31221bf25d534",
       "r_f931f0c96a599542"
@@ -443,7 +535,10 @@
       "workaholic",
       "shopaholic"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_264dc47e7518cd08",
+      "r_cc28ac12581d7e58"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -606,7 +701,38 @@
       "corporeal",
       "venereal",
       "continual",
-      "quizzical"
+      "quizzical",
+      "dialectal",
+      "dialectical",
+      "dimensional",
+      "directional",
+      "distributional",
+      "doctoral",
+      "electoral",
+      "elemental",
+      "fictional",
+      "fractional",
+      "frontal",
+      "conceptual",
+      "confessional",
+      "congregational",
+      "congressional",
+      "conversational",
+      "creedal",
+      "cynical",
+      "denominational",
+      "departmental",
+      "diacritical",
+      "arithmetical",
+      "autumnal",
+      "bacterial",
+      "coeducational",
+      "communicational",
+      "compositional",
+      "computational",
+      "governmental",
+      "gravitational",
+      "heretical"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -678,6 +804,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_9323a04bce55be3c",
+    "root": "-ality",
+    "source_form": "-ality",
+    "meaning": "property (aspect, behaviour, condition) of",
+    "class": "suffix",
+    "origin": "Latin -alitas via French -alité or later English formations; compound of -al and -ity; nationality also analyzed as national + -ity",
+    "source_entry": "NIH National Library of Medicine Lexical Tools derivational suffix list: ality$",
+    "family_id": "g_9323a04bce55be3c",
+    "example": [
+      "nationality"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_6b64dbcbb5295fa0",
     "root": "-an",
     "source_form": "-an",
@@ -696,7 +837,13 @@
       "politician",
       "technician",
       "tragedian",
-      "urban"
+      "urban",
+      "Asian",
+      "Cartesian",
+      "American",
+      "Mexican",
+      "African",
+      "riparian"
     ],
     "related_root_ids": [
       "r_c0a1c30a103bd0de",
@@ -832,6 +979,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_ed13011acbd63fb9",
+    "root": "-aneity",
+    "source_form": "-aneity",
+    "meaning": "state or quality",
+    "class": "suffix",
+    "origin": "English learned noun ending from Latin -aneus plus -itas, with French influences",
+    "source_entry": "-aneity",
+    "family_id": "g_ed13011acbd63fb9",
+    "example": [
+      "spontaneity"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_a020e4873b486c10",
     "root": "-angium",
     "source_form": "-angium",
@@ -866,6 +1028,21 @@
       "r_839265e1e0007ccc",
       "r_982950af48da2da0"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_751cfb5b39504df7",
+    "root": "-apic-",
+    "source_form": "-apic-",
+    "meaning": "tip",
+    "class": "root",
+    "origin": "Latin apic-, oblique stem of apex",
+    "source_entry": "-apec-",
+    "family_id": "g_751cfb5b39504df7",
+    "example": [
+      "periapical"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -935,39 +1112,14 @@
     "id": "r_c629f5cb05cf35ee",
     "root": "-arch",
     "source_form": "-arch",
-    "meaning": "first in rank or time; ruler, leader",
-    "class": "root",
+    "meaning": "ruler, leader",
+    "class": "suffix",
     "origin": "Greek",
     "example": [
-      "anarchy",
-      "archaeology",
-      "archaic",
-      "archaism",
-      "archangel",
-      "archbishop",
-      "archdiocese",
-      "archduke",
-      "archegonium",
-      "archenemy",
-      "archenteron",
-      "archeology",
-      "archeozoic",
-      "archetype",
-      "archfiend",
-      "archipelago",
-      "architect",
-      "architectonics",
-      "archon",
-      "autarchy",
-      "heptarchy",
-      "hierarchy",
       "matriarch",
       "monarch",
-      "monarchy",
-      "oligarchy",
       "patriarch",
       "tetrarch",
-      "tetrarchy",
       "trierarch",
       "autarch",
       "exarch",
@@ -1048,7 +1200,8 @@
     "source_entry": "-arian",
     "family_id": "g_06d9d50b087420e9",
     "example": [
-      "vegetarian"
+      "vegetarian",
+      "agrarian"
     ],
     "related_root_ids": [
       "r_b7e0efd41b762681"
@@ -1158,9 +1311,44 @@
     "id": "r_ea1f1d74d6b32512",
     "family_id": "g_ea1f1d74d6b32512",
     "example": [
-      "gymnast"
+      "gymnast",
+      "iconoclast"
     ],
     "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_074c65b903b57fcc",
+    "root": "-astic",
+    "source_form": "-astic",
+    "meaning": "forming adjectives",
+    "class": "suffix",
+    "origin": "Greek -astikos, often through Latin -asticus or French -astique; compound -ast + -ic; enthusiastic also historically analyzed from Greek enthusiastēs + -ikos",
+    "source_entry": "Oxford Companion to the English Language, SUFFIX: forming adjectives",
+    "family_id": "g_074c65b903b57fcc",
+    "example": [
+      "enthusiastic"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3f3ac15f10f0d76d",
+    "root": "-athlon",
+    "source_form": "-athlon",
+    "meaning": "contest",
+    "class": "suffix",
+    "origin": "Greek athlon, contest; English final element used by analogy with established athletic contest names; alternative historical segmentation and existing source-scoped decisions are preserved",
+    "source_entry": "Garner’s Modern English Usage, -athlon",
+    "family_id": "g_7cadac1a741ce645",
+    "example": [
+      "triathlon",
+      "decathlon",
+      "pentathlon"
+    ],
+    "related_root_ids": [
+      "r_f0ab60458673ee9d"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -1176,7 +1364,9 @@
       "readathon",
       "walkathon"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_4391bb4ecb70aa59"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -1209,6 +1399,21 @@
       "lunatic",
       "aquatic",
       "enzymatic"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_80bce6b641fe4d1d",
+    "root": "-atim",
+    "source_form": "-atim",
+    "meaning": "in; in the manner of",
+    "class": "suffix",
+    "origin": "Latin -ātim, retained in English borrowings",
+    "source_entry": "Partridge, Origins, -atim",
+    "family_id": "g_80bce6b641fe4d1d",
+    "example": [
+      "verbatim"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1297,7 +1502,8 @@
       "imperative",
       "alternative",
       "administrative",
-      "affirmative"
+      "affirmative",
+      "normative"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1374,6 +1580,37 @@
       "congratulatory",
       "conciliatory",
       "preparatory"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9a72b1bf290cfd8a",
+    "root": "-axill-",
+    "source_form": "-axill-",
+    "meaning": "armpit",
+    "class": "root",
+    "origin": "Latin axilla",
+    "source_entry": "-axill-",
+    "family_id": "g_9a72b1bf290cfd8a",
+    "example": [
+      "subaxillary"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_125ac91d581ee81b",
+    "root": "-babble",
+    "source_form": "-babble",
+    "meaning": "dismissive reference to jargon or confusing talk of a specified kind",
+    "class": "combining_form",
+    "origin": "English babble, as a final combining form or suffix",
+    "source_entry": "-babble",
+    "family_id": "g_125ac91d581ee81b",
+    "example": [
+      "psychobabble",
+      "technobabble"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1502,7 +1739,8 @@
       "icebound",
       "hidebound",
       "earthbound",
-      "homebound"
+      "homebound",
+      "spell-bound"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1529,6 +1767,21 @@
       "outbound",
       "earthbound",
       "homebound"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f85101b6ff3f66d1",
+    "root": "-burger",
+    "source_form": "-burger",
+    "meaning": "a hamburger or similar patty sandwich, with the initial element naming a garnish or substitute ingredient",
+    "class": "suffix",
+    "origin": "Modern English combining form abstracted from hamburger; modern burger is also a free noun and cheeseburger may be analyzed as a compound",
+    "source_entry": "Dictionary.com, -burger³ combining form",
+    "family_id": "g_f85101b6ff3f66d1",
+    "example": [
+      "cheeseburger"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -1571,6 +1824,21 @@
       "r_266032cdc80d73d3",
       "r_95acbf86f9d2d74c"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9c6382daa0a98710",
+    "root": "-cation",
+    "source_form": "-cation",
+    "meaning": "a type of vacation",
+    "class": "suffix",
+    "origin": "English reanalyzed splinter from vacation, used in blends and analogous formations; staycation is also described as a stay + vacation blend",
+    "source_entry": "Cambridge University Press, Transitional Morphology, excerpt",
+    "family_id": "g_9c6382daa0a98710",
+    "example": [
+      "staycation"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -2034,6 +2302,7 @@
     ],
     "family_id": "g_faec5455e0684d16",
     "related_root_ids": [
+      "r_1394b61c6d5df481",
       "r_8066f4bff0e913f6",
       "r_878c4a3ac3edd754",
       "r_88768b2ed9c7cf19",
@@ -2171,7 +2440,8 @@
       "armour-clad",
       "armor-clad",
       "snow-clad",
-      "mail-clad"
+      "mail-clad",
+      "full-clad"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -2285,7 +2555,26 @@
       "hemocoel"
     ],
     "related_root_ids": [
+      "r_1e0df0166a821b07",
       "r_42ef1aefb5fedc6a"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_1e0df0166a821b07",
+    "root": "-coele",
+    "source_form": "-coele",
+    "meaning": "cavity",
+    "class": "suffix",
+    "origin": "New Latin from Greek koilos",
+    "source_entry": "coel-",
+    "family_id": "g_c9ea96204b7968c9",
+    "example": [
+      "blastocoele"
+    ],
+    "related_root_ids": [
+      "r_42ef1aefb5fedc6a",
+      "r_8ea469cafceafa87"
     ],
     "pending_family_examples": 0
   },
@@ -2347,6 +2636,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_5c4abc144330fb1d",
+    "root": "-cratic",
+    "source_form": "-cratic",
+    "meaning": "of or relating to a particular form of government or class, or to a member thereof",
+    "class": "suffix",
+    "origin": "Greek -kratikos through Latin and French -cratique; preserved historical and modern alternative decompositions",
+    "source_entry": "-cratic",
+    "family_id": "g_5c4abc144330fb1d",
+    "example": [
+      "democratic"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_a7260c75fea309a5",
     "root": "-crine",
     "source_form": "-crine",
@@ -2399,7 +2703,9 @@
       "funiculus",
       "colliculus",
       "canaliculus",
-      "loculus"
+      "loculus",
+      "superior colliculus",
+      "inferior colliculus"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -2465,8 +2771,41 @@
       "agreed"
     ],
     "related_root_ids": [
+      "r_00bfc1a09f49ba08",
       "r_fab8c7463613d23a"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_94b887e4e5fde584",
+    "root": "-decker",
+    "source_form": "-decker",
+    "meaning": "having (a specified number of) decks, layers, etc.",
+    "class": "suffix",
+    "origin": "English deck + -er; word-final combining form",
+    "source_entry": "Webster’s New World College Dictionary via Collins, -decker, adjective-forming sense",
+    "family_id": "g_94b887e4e5fde584",
+    "example": [
+      "double-decker",
+      "single-decker",
+      "triple-decker"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_faf28a517f00bd40",
+    "root": "-deic-",
+    "source_form": "-deic-",
+    "meaning": "point",
+    "class": "root",
+    "origin": "Greek deiknynai, via Latinized Greek",
+    "source_entry": "dec-",
+    "family_id": "g_faf28a517f00bd40",
+    "example": [
+      "epideictic"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -2657,7 +2996,8 @@
       "antipodean",
       "apogean",
       "aurorean",
-      "caducean"
+      "caducean",
+      "European"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -2692,7 +3032,8 @@
     "family_id": "g_0a8bcea489d9cb35",
     "example": [
       "atelectasis",
-      "pyelectasis"
+      "pyelectasis",
+      "arteriectasis"
     ],
     "related_root_ids": [
       "r_4526030da1e2381c"
@@ -2758,6 +3099,7 @@
       "hopped"
     ],
     "related_root_ids": [
+      "r_00bfc1a09f49ba08",
       "r_4d2ccea15291b812"
     ],
     "pending_family_examples": 0
@@ -2838,6 +3180,41 @@
     ],
     "source_entry": "-fy, -ify, -efy",
     "pending_family_examples": 1
+  },
+  {
+    "id": "r_18ba25a38686151b",
+    "root": "-eity",
+    "source_form": "-eity",
+    "meaning": "state or quality of being",
+    "class": "suffix",
+    "origin": "Latin",
+    "source_entry": "-ty, -ity, -uity, -eity",
+    "family_id": "g_b7cdcb90d9054f03",
+    "example": [
+      "spontaneity"
+    ],
+    "related_root_ids": [
+      "r_5daeec9b45238c73",
+      "r_afa7faa6a1ac39ff",
+      "r_b7cdcb90d9054f03",
+      "r_f09c8a53bd3c5e70"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fe99ee13dda2dce5",
+    "root": "-elect",
+    "source_form": "-elect",
+    "meaning": "chosen for an office but not yet serving",
+    "class": "suffix",
+    "origin": "English elect, ultimately Latin electus (chosen)",
+    "source_entry": "-elect",
+    "family_id": "g_fe99ee13dda2dce5",
+    "example": [
+      "president-elect"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_fae9accc1740b679",
@@ -2937,6 +3314,7 @@
       "r_668a2a8c2d15674c",
       "r_9d921e515212ef5c",
       "r_aef6827025444404",
+      "r_b4149c29f3bc233c",
       "r_cecb9778aa85b5e0",
       "r_d340c791ec7579ce",
       "r_dcd31221bf25d534",
@@ -3014,7 +3392,9 @@
       "frozen"
     ],
     "family_id": "g_8b8f7ff18348fe26",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_876e6a6729771e3c"
+    ],
     "source_entry": "-en",
     "pending_family_examples": 0
   },
@@ -3193,6 +3573,23 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_ea1e62b1a7ce57c9",
+    "root": "-ennial",
+    "source_form": "-ennial",
+    "meaning": "occurring at intervals of a stated number of years, or commemorating such an interval",
+    "class": "suffix",
+    "origin": "Middle English / Middle French combining form, from Latin -ennium plus adjectival -al; English centennial modelled on biennial; alternative historical segmentation and existing source-scoped decisions are preserved",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, -ennial",
+    "family_id": "g_ea1e62b1a7ce57c9",
+    "example": [
+      "centennial",
+      "biennial",
+      "quadrennial"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_a645333c275ec145",
     "root": "-ennium",
     "source_form": "-ennium",
@@ -3318,7 +3715,182 @@
       "writer",
       "batter",
       "painter",
-      "pitcher"
+      "pitcher",
+      "absorber",
+      "abstainer",
+      "adapter",
+      "adjuster",
+      "admirer",
+      "adorer",
+      "advertiser",
+      "adviser",
+      "ambler",
+      "analyzer",
+      "angler",
+      "announcer",
+      "appraiser",
+      "atomizer",
+      "avenger",
+      "bather",
+      "beholder",
+      "believer",
+      "besieger",
+      "betrayer",
+      "binder",
+      "biter",
+      "blinder",
+      "breather",
+      "caterer",
+      "cleanser",
+      "comer",
+      "commuter",
+      "composer",
+      "condenser",
+      "conjurer",
+      "contender",
+      "convener",
+      "crafter",
+      "creeper",
+      "finder",
+      "fisher",
+      "follower",
+      "founder",
+      "gainer",
+      "grabber",
+      "grower",
+      "hardener",
+      "healer",
+      "hearer",
+      "helper",
+      "hijacker",
+      "hitchhiker",
+      "impeller",
+      "improviser",
+      "indexer",
+      "curler",
+      "dazzler",
+      "dealer",
+      "deceiver",
+      "decoder",
+      "defender",
+      "defroster",
+      "deliverer",
+      "determiner",
+      "developer",
+      "digger",
+      "invader",
+      "keeper",
+      "knitter",
+      "launcher",
+      "learner",
+      "lover",
+      "mourner",
+      "mower",
+      "nitpicker",
+      "offender",
+      "overseer",
+      "pardoner",
+      "payer",
+      "poster",
+      "pretender",
+      "procurer",
+      "producer",
+      "promoter",
+      "proofreader",
+      "propeller",
+      "proposer",
+      "publisher",
+      "puncher",
+      "dispenser",
+      "disturber",
+      "dreamer",
+      "dumper",
+      "dweller",
+      "earner",
+      "eater",
+      "eavesdropper",
+      "enchanter",
+      "entertainer",
+      "eraser",
+      "explorer",
+      "extruder",
+      "fastener",
+      "feeder",
+      "feeler",
+      "fender",
+      "fertilizer",
+      "fighter",
+      "informer",
+      "inquirer",
+      "insurer",
+      "interrupter",
+      "intruder",
+      "shaker",
+      "sharpener",
+      "shaver",
+      "shutter",
+      "sitter",
+      "sketcher",
+      "skydiver",
+      "sleeper",
+      "sleepwalker",
+      "smuggler",
+      "snatcher",
+      "softener",
+      "solver",
+      "sparkler",
+      "spender",
+      "spoiler",
+      "sprinkler",
+      "squeezer",
+      "stabilizer",
+      "stealer",
+      "striver",
+      "subscriber",
+      "sufferer",
+      "sunbather",
+      "pursuer",
+      "quitter",
+      "raiser",
+      "receiver",
+      "redeemer",
+      "reducer",
+      "refiner",
+      "refresher",
+      "reminder",
+      "remover",
+      "reproducer",
+      "resister",
+      "restorer",
+      "retriever",
+      "saver",
+      "scanner",
+      "scraper",
+      "searcher",
+      "seducer",
+      "seeker",
+      "suspender",
+      "sweetener",
+      "swimmer",
+      "sympathizer",
+      "synthesizer",
+      "taker",
+      "teller",
+      "tempter",
+      "thickener",
+      "thinker",
+      "thruster",
+      "toucher",
+      "tranquilizer",
+      "transmitter",
+      "undertaker",
+      "underwriter",
+      "upholder",
+      "wader",
+      "wearer",
+      "wiggler",
+      "wildcatter",
+      "wrestler"
     ],
     "family_id": "g_3d066a6c1d03a643",
     "related_root_ids": [],
@@ -3339,6 +3911,21 @@
     "family_id": "g_f2c4f973c19a7e33",
     "related_root_ids": [],
     "source_entry": "-er-comparative",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_582bfa00b09af7c1",
+    "root": "-erati",
+    "source_form": "-erati",
+    "meaning": "an elite group within a particular field",
+    "class": "suffix",
+    "origin": "English suffix-like element from literati, strengthened by later analogical blends; informal or specialized usage",
+    "source_entry": "-erati",
+    "family_id": "g_582bfa00b09af7c1",
+    "example": [
+      "twitterati"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -3663,7 +4250,7 @@
     "id": "r_64355c62838b472b",
     "root": "-eth",
     "source_form": "-eth",
-    "meaning": "third person singular of some irregular verbs",
+    "meaning": "forms the archaic third person singular present indicative of verbs",
     "class": "suffix",
     "origin": "Old English",
     "example": [
@@ -3731,6 +4318,56 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_86fe02e017a0d4ac",
+    "root": "-etum",
+    "source_form": "-etum",
+    "meaning": "a garden or collection planted with a particular kind of plant",
+    "class": "suffix",
+    "origin": "Latin -etum",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, -etum sense 1",
+    "family_id": "g_86fe02e017a0d4ac",
+    "example": [
+      "arboretum"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_afa7faa6a1ac39ff",
+    "root": "-ety",
+    "source_form": "-ety",
+    "meaning": "state or condition of being, doing",
+    "class": "suffix",
+    "origin": "English nominal variant of -ity from Latin -etās; anxiety historically borrowed from Latin via French; anxi + -ety is a teaching analysis, not historical English coinage",
+    "source_entry": "NSW Department of Education, Stage 3 Spelling Instructional Sequence, pp.57–58",
+    "family_id": "g_b7cdcb90d9054f03",
+    "example": [
+      "anxiety"
+    ],
+    "related_root_ids": [
+      "r_18ba25a38686151b",
+      "r_5daeec9b45238c73",
+      "r_b7cdcb90d9054f03",
+      "r_f09c8a53bd3c5e70"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_917ccc53a1147f22",
+    "root": "-eum",
+    "source_form": "-eum",
+    "meaning": "place for",
+    "class": "suffix",
+    "origin": "Latin -eum adapting Greek -eion place for",
+    "source_entry": "-eum",
+    "family_id": "g_917ccc53a1147f22",
+    "example": [
+      "museum"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_b4fbbbb6c590d3d9",
     "root": "-eur",
     "source_form": "-eur",
@@ -3746,6 +4383,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_20d644125de6c30f",
+    "root": "-euse",
+    "source_form": "-euse",
+    "meaning": "a female person associated with the indicated occupation",
+    "class": "suffix",
+    "origin": "French feminine agent form, from adjectival Latin -osa by later analogy, used in French loans",
+    "source_entry": "-euse",
+    "family_id": "g_20d644125de6c30f",
+    "example": [
+      "masseuse"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_1e48f9aa2cb35289",
     "root": "-ey",
     "source_form": "-ey",
@@ -3758,6 +4410,23 @@
     "family_id": "g_1e48f9aa2cb35289",
     "related_root_ids": [],
     "source_entry": "-y1, -ey",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_324b12838ac3fff1",
+    "root": "-eyed",
+    "source_form": "-eyed",
+    "meaning": "having eyes of the specified type",
+    "class": "combining_form",
+    "origin": "English eye + adjectival -ed, in descriptive compound adjectives",
+    "source_entry": "-eyed",
+    "family_id": "g_2bca42d47907626a",
+    "example": [
+      "brown-eyed"
+    ],
+    "related_root_ids": [
+      "r_88354284b8a8c90b"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -3784,6 +4453,23 @@
     "related_root_ids": [],
     "source_entry": "-faction, -ification, -efaction",
     "pending_family_examples": 3
+  },
+  {
+    "id": "r_b844530f5aacbab4",
+    "root": "-ferous",
+    "source_form": "-ferous",
+    "meaning": "bearing",
+    "class": "suffix",
+    "origin": "Latin ferre, to bear, via -fer and -ous",
+    "source_entry": "-ferous; Collins and Affixes.org",
+    "family_id": "g_900d61afc334bea6",
+    "example": [
+      "coniferous"
+    ],
+    "related_root_ids": [
+      "r_900d61afc334bea6"
+    ],
+    "pending_family_examples": 0
   },
   {
     "id": "r_463a7c4532529222",
@@ -3824,6 +4510,7 @@
     "family_id": "g_2dc8e7477c0728f8",
     "related_root_ids": [
       "r_4fd8fb4f6d9e3e85",
+      "r_51f813baad59903d",
       "r_6cadab5c886b0057",
       "r_72f8a30d2e7a602f",
       "r_765498906cbbf450",
@@ -3856,6 +4543,7 @@
     "family_id": "g_2dc8e7477c0728f8",
     "related_root_ids": [
       "r_2f61faaa0ff9d97c",
+      "r_51f813baad59903d",
       "r_6cadab5c886b0057",
       "r_72f8a30d2e7a602f",
       "r_765498906cbbf450",
@@ -3954,6 +4642,26 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_301abcf817bc5273",
+    "root": "-friendly",
+    "source_form": "-friendly",
+    "meaning": "suitable or easy to use for a specified person or purpose; not harmful to a specified part of nature",
+    "class": "combining_form",
+    "origin": "English adjective friendly, used as a final combining form",
+    "source_entry": "-friendly",
+    "family_id": "g_3c10c276ee206ded",
+    "example": [
+      "user-friendly",
+      "eco-friendly",
+      "environment-friendly"
+    ],
+    "related_root_ids": [
+      "r_3b3cfb8759029490",
+      "r_4222429765f091a7"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_08c3a1a04c97401c",
     "root": "-fugal",
     "source_form": "-fugal",
@@ -3997,7 +4705,6 @@
     "origin": "Latin",
     "example": [
       "centrifuge",
-      "insectifuge",
       "refuge",
       "refugee",
       "subterfuge"
@@ -4110,7 +4817,19 @@
       "untruthful",
       "disdainful",
       "mistrustful",
-      "eventful"
+      "eventful",
+      "artful",
+      "distasteful",
+      "distressful",
+      "healthful",
+      "ireful",
+      "needful",
+      "neglectful",
+      "restful",
+      "tuneful",
+      "watchful",
+      "wonderful",
+      "wrongful"
     ],
     "family_id": "g_8e7eafaba7e19e15",
     "related_root_ids": [],
@@ -4576,6 +5295,43 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_192fc958efec2ff3",
+    "root": "-grapher",
+    "source_form": "-grapher",
+    "meaning": "person who writes about or is skilled in a subject; alternative senses also exist",
+    "class": "suffix",
+    "origin": "Greek -graphos (writing or drawing) plus English -er; preserved historical and modern alternative decompositions",
+    "source_entry": "-grapher",
+    "family_id": "g_6774f78d9f197457",
+    "example": [
+      "photographer"
+    ],
+    "related_root_ids": [
+      "r_3dc20b219ea6248d",
+      "r_68ffaab3edee38b7",
+      "r_7205234065a3e70d",
+      "r_d792eb5aa61c19ac",
+      "r_dc21d11f32778f92",
+      "r_fdbba88d5ccf8ade"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c90d4ee9d0cced58",
+    "root": "-graphical",
+    "source_form": "-graphical",
+    "meaning": "relating to descriptions or writing about a particular subject or discipline",
+    "class": "suffix",
+    "origin": "Late Latin -graphicus from Greek graphikos plus English -al; larger-form teaching analysis and historical derivation may differ",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, p.25, -graphic / -graphical sense 2",
+    "family_id": "g_c90d4ee9d0cced58",
+    "example": [
+      "biographical"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_7205234065a3e70d",
     "root": "-graphy",
     "source_form": "-graphy",
@@ -4633,6 +5389,7 @@
     ],
     "family_id": "g_6774f78d9f197457",
     "related_root_ids": [
+      "r_192fc958efec2ff3",
       "r_3dc20b219ea6248d",
       "r_68ffaab3edee38b7",
       "r_d792eb5aa61c19ac",
@@ -4696,7 +5453,43 @@
       "hand-to-hand"
     ],
     "related_root_ids": [
+      "r_6871cd91d868077c",
+      "r_e7c15c38a725e4e9"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e7c15c38a725e4e9",
+    "root": "-handed",
+    "source_form": "-handed",
+    "meaning": "having or using the specified hand or hands",
+    "class": "combining_form",
+    "origin": "English hand + adjectival -ed, in compound-adjective formation",
+    "source_entry": "-handed",
+    "family_id": "g_c46c1aa64bf43d96",
+    "example": [
+      "left-handed"
+    ],
+    "related_root_ids": [
+      "r_05d53c252adcf753",
       "r_6871cd91d868077c"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2f8bda8755f89b43",
+    "root": "-hearted",
+    "source_form": "-hearted",
+    "meaning": "having the stated temperament or feelings",
+    "class": "combining_form",
+    "origin": "English heart + adjectival -ed, figurative disposition in compound adjectives",
+    "source_entry": "-hearted",
+    "family_id": "g_21d145b16c159e5f",
+    "example": [
+      "light-hearted"
+    ],
+    "related_root_ids": [
+      "r_acea7c5dd689c654"
     ],
     "pending_family_examples": 0
   },
@@ -4741,6 +5534,33 @@
       "r_ac97cf170fcc7f27"
     ],
     "source_entry": "hedr",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b4149c29f3bc233c",
+    "root": "-hemia",
+    "source_form": "-hemia",
+    "meaning": "blood",
+    "class": "suffix",
+    "origin": "Greek, via New Latin",
+    "source_entry": "hemo-",
+    "family_id": "g_d191fb0e6d2ac979",
+    "example": [
+      "leucocythemia"
+    ],
+    "related_root_ids": [
+      "r_0950324d26c99c33",
+      "r_168137db182732c0",
+      "r_22b4903044dc2671",
+      "r_26160fab7a874b67",
+      "r_668a2a8c2d15674c",
+      "r_9d921e515212ef5c",
+      "r_aef6827025444404",
+      "r_cecb9778aa85b5e0",
+      "r_d340c791ec7579ce",
+      "r_dcd31221bf25d534",
+      "r_f931f0c96a599542"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -4792,6 +5612,24 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_cc28ac12581d7e58",
+    "root": "-holic",
+    "source_form": "-holic",
+    "meaning": "person excessively fond of or dependent on the specified thing",
+    "class": "suffix",
+    "origin": "English combining form reanalysed from alcoholic; often humorous",
+    "source_entry": "-holic",
+    "family_id": "g_38dd843ee57d7565",
+    "example": [
+      "chocoholic"
+    ],
+    "related_root_ids": [
+      "r_1a46bb5781b39731",
+      "r_264dc47e7518cd08"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_2ede950792ef5d35",
     "root": "-hood",
     "source_form": "-hood",
@@ -4815,7 +5653,8 @@
       "fatherhood",
       "priesthood",
       "sainthood",
-      "sisterhood"
+      "sisterhood",
+      "spinsterhood"
     ],
     "family_id": "g_2ede950792ef5d35",
     "related_root_ids": [],
@@ -4839,6 +5678,22 @@
     "related_root_ids": [
       "r_c909461db3d2367f"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_56006177a0646316",
+    "root": "-ia",
+    "source_form": "-ia",
+    "meaning": "forms names of countries or regions",
+    "class": "suffix",
+    "origin": "Latin and Greek noun-forming -ia, transmitted in place names",
+    "source_entry": "morphemes -ia",
+    "family_id": "g_56006177a0646316",
+    "example": [
+      "Bulgaria",
+      "Albania"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -5107,7 +5962,34 @@
       "simplistic",
       "sonic",
       "sympathetic",
-      "geodesic"
+      "geodesic",
+      "dogmatic",
+      "egoistic",
+      "electromagnetic",
+      "electronic",
+      "enthusiastic",
+      "fatalistic",
+      "formulaic",
+      "hedonistic",
+      "hieroglyphic",
+      "humanistic",
+      "aromatic",
+      "artistic",
+      "atheistic",
+      "atomic",
+      "autocratic",
+      "bureaucratic",
+      "capitalistic",
+      "carbonic",
+      "dactylic",
+      "despotic",
+      "alphabetic",
+      "angelic",
+      "anionic",
+      "antagonistic",
+      "aristocratic",
+      "idealistic",
+      "idiotic"
     ],
     "family_id": "g_88125d04811b3b52",
     "related_root_ids": [],
@@ -5259,6 +6141,26 @@
     "family_id": "g_c42b2fe9f382b177",
     "related_root_ids": [],
     "source_entry": "cide",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5daeec9b45238c73",
+    "root": "-icity",
+    "source_form": "-icity",
+    "meaning": "state, quality, or behavior",
+    "class": "suffix",
+    "origin": "English noun-forming ending associated with -ic adjectives and -ity; authenticity also analyzed as authentic + -ity, with overlapping ic",
+    "source_entry": "Collins COBUILD, -icity suffix",
+    "family_id": "g_b7cdcb90d9054f03",
+    "example": [
+      "authenticity"
+    ],
+    "related_root_ids": [
+      "r_18ba25a38686151b",
+      "r_afa7faa6a1ac39ff",
+      "r_b7cdcb90d9054f03",
+      "r_f09c8a53bd3c5e70"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -5476,7 +6378,8 @@
       "hypobasidium",
       "metanephridium",
       "clostridium",
-      "coccidium"
+      "coccidium",
+      "glochidium"
     ],
     "family_id": "g_4b2d6999594f6873",
     "related_root_ids": [],
@@ -5552,7 +6455,9 @@
       "cashier"
     ],
     "family_id": "g_7c6b0dd0b13e5d0e",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_2825b4ffc2520e9a"
+    ],
     "source_entry": "-ier",
     "pending_family_examples": 2
   },
@@ -5594,7 +6499,9 @@
       "somniferous"
     ],
     "family_id": "g_900d61afc334bea6",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_b844530f5aacbab4"
+    ],
     "source_entry": "-iferous",
     "pending_family_examples": 1
   },
@@ -5633,6 +6540,7 @@
     "related_root_ids": [
       "r_2f61faaa0ff9d97c",
       "r_4fd8fb4f6d9e3e85",
+      "r_51f813baad59903d",
       "r_6cadab5c886b0057",
       "r_72f8a30d2e7a602f",
       "r_765498906cbbf450",
@@ -5687,6 +6595,23 @@
       "identifier"
     ],
     "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_93a2deb20d3c84aa",
+    "root": "-iform",
+    "source_form": "-iform",
+    "meaning": "having the form or shape of",
+    "class": "combining_form",
+    "origin": "Middle French -iforme, Latin -iformis, -i- + -formis from forma",
+    "source_entry": "-iform",
+    "family_id": "g_07397d633f25a710",
+    "example": [
+      "cuneiform"
+    ],
+    "related_root_ids": [
+      "r_7cbebcc8fd2ae037"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -5832,9 +6757,9 @@
     "id": "r_5f3a664559e56c34",
     "root": "-illion",
     "source_form": "-illion",
-    "meaning": "thousand",
-    "class": "root",
-    "origin": "Latin",
+    "meaning": "forming names of large numbers",
+    "class": "suffix",
+    "origin": "French, extracted by analogy from million",
     "example": [
       "billion",
       "decillion",
@@ -5874,6 +6799,27 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_56f8d6bd25e53776",
+    "root": "-imic-",
+    "source_form": "-imic-",
+    "meaning": "friend",
+    "class": "root",
+    "origin": "Latin amicus, altered to imic in Latin inimicus",
+    "source_entry": "am-, amat-",
+    "family_id": "g_b8bc76ecaa4934a8",
+    "example": [
+      "inimical"
+    ],
+    "related_root_ids": [
+      "r_018b1e85798df1b1",
+      "r_2ed4886efd7c64c3",
+      "r_3b99d809f0a090a7",
+      "r_ef0bc7d75a5703b5",
+      "r_f410f421ea236a8e"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_87ec16a08bf3b95e",
     "root": "-in",
     "source_form": "-in",
@@ -5889,6 +6835,21 @@
     "related_root_ids": [],
     "source_entry": "-in",
     "pending_family_examples": 1
+  },
+  {
+    "id": "r_404a7e3e8c591649",
+    "root": "-in-law",
+    "source_form": "-in-law",
+    "meaning": "relationships by marriage",
+    "class": "suffix",
+    "origin": "English phrase in law, historically referring to relationship under canon law; alternatives include an independently used phrase or compound",
+    "source_entry": "Cambridge Dictionary: Siblings and in-laws, 2021",
+    "family_id": "g_404a7e3e8c591649",
+    "example": [
+      "father-in-law"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_2ff81f021347f21c",
@@ -6043,7 +7004,36 @@
       "session",
       "solution",
       "television",
-      "transaction"
+      "transaction",
+      "destruction",
+      "detection",
+      "digestion",
+      "digression",
+      "disaffection",
+      "disconnection",
+      "disinfection",
+      "dispossession",
+      "disruption",
+      "dissection",
+      "distortion",
+      "constriction",
+      "contortion",
+      "contradiction",
+      "conviction",
+      "counteraction",
+      "decompression",
+      "deduction",
+      "deflection",
+      "dejection",
+      "depiction",
+      "depression",
+      "abduction",
+      "assertion",
+      "bisection",
+      "circumvention",
+      "compression",
+      "connection",
+      "distraction"
     ],
     "family_id": "g_94f841adb5ced61a",
     "related_root_ids": [],
@@ -6065,6 +7055,21 @@
     "family_id": "g_127bae17b4f41f03",
     "related_root_ids": [],
     "source_entry": "-ior",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_392b3804d13af96c",
+    "root": "-iour",
+    "source_form": "-iour",
+    "meaning": "forms a noun from a verb",
+    "class": "suffix",
+    "origin": "English, from historical -our spellings influenced by French and analogy; behaviour formed by analogy; US behavior uses -ior",
+    "source_entry": "-iour",
+    "family_id": "g_392b3804d13af96c",
+    "example": [
+      "behaviour"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -6102,6 +7107,23 @@
     "related_root_ids": [],
     "source_entry": "-ous, -ious",
     "pending_family_examples": 5
+  },
+  {
+    "id": "r_c798765e0c5b18eb",
+    "root": "-isation",
+    "source_form": "-isation",
+    "meaning": "action or process; state or result",
+    "class": "suffix",
+    "origin": "British spelling of -ization, from -ise and -ation; larger-form teaching analysis and historical derivation may differ",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, p.31, -ization / -isation",
+    "family_id": "g_f69ff5b18e52b534",
+    "example": [
+      "modernisation"
+    ],
+    "related_root_ids": [
+      "r_f69ff5b18e52b534"
+    ],
+    "pending_family_examples": 0
   },
   {
     "id": "r_f7569bd3769b8732",
@@ -6233,7 +7255,38 @@
       "sophism",
       "syllogism",
       "theism",
-      "tropism"
+      "tropism",
+      "parallelism",
+      "perfectionism",
+      "professionalism",
+      "protectionism",
+      "puritanism",
+      "radicalism",
+      "revisionism",
+      "revivalism",
+      "skepticism",
+      "spiritualism",
+      "stoicism",
+      "egoism",
+      "egotism",
+      "exhibitionism",
+      "expressionism",
+      "impressionism",
+      "isolationism",
+      "journalism",
+      "mannerism",
+      "monarchism",
+      "mysticism",
+      "obstructionism",
+      "absenteeism",
+      "agnosticism",
+      "animalism",
+      "careerism",
+      "cosmopolitanism",
+      "cynicism",
+      "despotism",
+      "symbolism",
+      "terrorism"
     ],
     "family_id": "g_623015e6e9193c59",
     "related_root_ids": [],
@@ -6308,12 +7361,77 @@
       "sexist",
       "socialist",
       "theorist",
-      "Buddhist"
+      "Buddhist",
+      "abolitionist",
+      "abortionist",
+      "alarmist",
+      "arsonist",
+      "balloonist",
+      "careerist",
+      "chartist",
+      "collaborationist",
+      "contortionist",
+      "copyist",
+      "deviationist",
+      "dogmatist",
+      "dramatist",
+      "editorialist",
+      "educationist",
+      "egoist",
+      "essayist",
+      "exhibitionist",
+      "expansionist",
+      "generalist",
+      "humorist",
+      "illusionist",
+      "impressionist",
+      "insurrectionist",
+      "isolationist",
+      "materialist",
+      "methodist",
+      "monarchist",
+      "moralist",
+      "motorist",
+      "obstructionist",
+      "organist",
+      "palmist",
+      "perfectionist",
+      "pluralist",
+      "prohibitionist",
+      "projectionist",
+      "revivalist",
+      "secessionist",
+      "segregationist",
+      "spiritualist",
+      "stockist",
+      "survivalist",
+      "terrorist",
+      "tourist",
+      "vacationist"
     ],
     "family_id": "g_98e41edddda09423",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_6e3d46b2d40fd18e"
+    ],
     "source_entry": "-ist",
     "pending_family_examples": 1
+  },
+  {
+    "id": "r_6e3d46b2d40fd18e",
+    "root": "-ista",
+    "source_form": "-ista",
+    "meaning": "one who",
+    "class": "suffix",
+    "origin": "Spanish -ista, ultimately Latin and Greek",
+    "source_entry": "-ist",
+    "family_id": "g_98e41edddda09423",
+    "example": [
+      "fashionista"
+    ],
+    "related_root_ids": [
+      "r_98e41edddda09423"
+    ],
+    "pending_family_examples": 0
   },
   {
     "id": "r_6ec0362ecfe301d9",
@@ -6331,6 +7449,21 @@
     "family_id": "g_6ec0362ecfe301d9",
     "related_root_ids": [],
     "source_entry": "-istic",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_f8a7022fa6579f70",
+    "root": "-istics",
+    "source_form": "-istics",
+    "meaning": "field of study or knowledge",
+    "class": "suffix",
+    "origin": "English composite teaching suffix, analyzed as -ist plus -ics; historical word formation varies",
+    "source_entry": "-istics; College of San Mateo suffix examples",
+    "family_id": "g_f8a7022fa6579f70",
+    "example": [
+      "statistics"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -6440,7 +7573,9 @@
       "Shiite",
       "Sunnite",
       "Wisconsinite",
-      "Wyomingite"
+      "Wyomingite",
+      "New Hampshirite",
+      "New Jerseyite"
     ],
     "family_id": "g_cc1c2b9be2f2ad77",
     "related_root_ids": [],
@@ -6684,10 +7819,70 @@
       "modernity",
       "actuality",
       "domesticity",
-      "periodicity"
+      "periodicity",
+      "infirmity",
+      "lucidity",
+      "tranquility",
+      "mentality",
+      "liberality",
+      "geniality",
+      "generality",
+      "centrality",
+      "conventionality",
+      "inhumanity",
+      "mutuality",
+      "banality",
+      "morbidity",
+      "specificity",
+      "amorality",
+      "absurdity",
+      "seniority",
+      "heterosexuality",
+      "homosexuality",
+      "frugality",
+      "civility",
+      "modality",
+      "angularity",
+      "atonality",
+      "avidity",
+      "carnality",
+      "catholicity",
+      "causality",
+      "corporeality",
+      "criticality",
+      "directionality",
+      "dissimilarity",
+      "effectuality",
+      "egocentricity",
+      "electricity",
+      "fatality",
+      "frigidity",
+      "illiberality",
+      "impracticality",
+      "inequality",
+      "instrumentality",
+      "insularity",
+      "intellectuality",
+      "irregularity",
+      "jocularity",
+      "locality",
+      "nasality",
+      "perplexity",
+      "personality",
+      "publicity",
+      "regularity",
+      "rotundity",
+      "tepidity",
+      "tonality",
+      "turbidity",
+      "typicality",
+      "vitality"
     ],
     "family_id": "g_b7cdcb90d9054f03",
     "related_root_ids": [
+      "r_18ba25a38686151b",
+      "r_5daeec9b45238c73",
+      "r_afa7faa6a1ac39ff",
       "r_f09c8a53bd3c5e70"
     ],
     "source_entry": "-ty, -ity, -uity, -eity",
@@ -6750,11 +7945,57 @@
       "quantitative",
       "relative",
       "restive",
-      "subjective"
+      "subjective",
+      "possessive",
+      "predictive",
+      "preventive",
+      "reactive",
+      "recessive",
+      "reflective",
+      "refractive",
+      "repressive",
+      "resistive",
+      "restrictive",
+      "digestive",
+      "disruptive",
+      "elective",
+      "expressive",
+      "impressive",
+      "inductive",
+      "instructive",
+      "inventive",
+      "obsessive",
+      "obstructive",
+      "oppressive",
+      "assertive",
+      "compressive",
+      "connective",
+      "constrictive",
+      "deductive",
+      "destructive",
+      "suggestive",
+      "suppressive"
     ],
     "family_id": "g_b14aa3fd7e6677e0",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_9c7b9cfb7104c0dc"
+    ],
     "source_entry": "-ive, -ative",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0f713da7991be6f8",
+    "root": "-iversary",
+    "source_form": "-iversary",
+    "meaning": "commemoration of an event at a specified interval",
+    "class": "suffix",
+    "origin": "English liberated element from anniversary; other analyses describe analogy or blending; informal or specialized usage",
+    "source_entry": "-iversary",
+    "family_id": "g_0f713da7991be6f8",
+    "example": [
+      "monthiversary"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -6790,7 +8031,9 @@
       "generalization"
     ],
     "family_id": "g_f69ff5b18e52b534",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_c798765e0c5b18eb"
+    ],
     "source_entry": "-ization",
     "pending_family_examples": 0
   },
@@ -6843,7 +8086,19 @@
       "victimize",
       "Americanize",
       "aggrandize",
-      "recognize"
+      "recognize",
+      "materialize",
+      "radicalize",
+      "serialize",
+      "specialize",
+      "stigmatize",
+      "democratize",
+      "dramatize",
+      "finalize",
+      "glamorize",
+      "ionize",
+      "magnetize",
+      "terrorize"
     ],
     "family_id": "g_7d0d9b893118be49",
     "related_root_ids": [],
@@ -7100,6 +8355,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_01891a0a5eb8551c",
+    "root": "-legged",
+    "source_form": "-legged",
+    "meaning": "having the specified number or kind of legs",
+    "class": "combining_form",
+    "origin": "English leg + adjectival -ed, in descriptive compound adjectives",
+    "source_entry": "-legged",
+    "family_id": "g_01891a0a5eb8551c",
+    "example": [
+      "three-legged"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_f52e0164e20df299",
     "root": "-lepsis",
     "source_form": "-lepsis",
@@ -7273,7 +8543,39 @@
       "remorseless",
       "clueless",
       "soulless",
-      "senseless"
+      "senseless",
+      "seamless",
+      "spineless",
+      "gutless",
+      "sexless",
+      "shapeless",
+      "skinless",
+      "passionless",
+      "keyless",
+      "armless",
+      "artless",
+      "changeless",
+      "characterless",
+      "comfortless",
+      "flowerless",
+      "handless",
+      "hatless",
+      "hornless",
+      "landless",
+      "luckless",
+      "measureless",
+      "numberless",
+      "ownerless",
+      "placeless",
+      "profitless",
+      "rainless",
+      "roadless",
+      "shiftless",
+      "spiritless",
+      "stingless",
+      "timeless",
+      "trackless",
+      "weaponless"
     ],
     "family_id": "g_c0abd211fdff83d9",
     "related_root_ids": [],
@@ -8028,7 +9330,313 @@
       "deliberately",
       "formally",
       "stubbornly",
-      "narrowly"
+      "narrowly",
+      "abjectly",
+      "abnormally",
+      "absolutely",
+      "abstractedly",
+      "abusively",
+      "accidentally",
+      "adequately",
+      "admiringly",
+      "adoringly",
+      "advantageously",
+      "adversely",
+      "advisedly",
+      "affectingly",
+      "affectionately",
+      "agonizingly",
+      "aimlessly",
+      "alarmingly",
+      "allegorically",
+      "alphabetically",
+      "ambivalently",
+      "amusedly",
+      "analogously",
+      "analytically",
+      "angelically",
+      "anonymously",
+      "anthropologically",
+      "anxiously",
+      "appreciatively",
+      "apprehensively",
+      "appropriately",
+      "approvingly",
+      "approximately",
+      "categorically",
+      "causally",
+      "certainly",
+      "charmingly",
+      "chronologically",
+      "circuitously",
+      "circumstantially",
+      "classically",
+      "clinically",
+      "coincidentally",
+      "commercially",
+      "compactly",
+      "compassionately",
+      "compellingly",
+      "competently",
+      "aptly",
+      "archaeologically",
+      "arithmetically",
+      "arrogantly",
+      "articulately",
+      "artlessly",
+      "assertively",
+      "assuredly",
+      "astronomically",
+      "attentively",
+      "attractively",
+      "confidently",
+      "confusedly",
+      "confusingly",
+      "conscientiously",
+      "considerately",
+      "consistently",
+      "constantly",
+      "constitutionally",
+      "constrainedly",
+      "constructively",
+      "consummately",
+      "contemporaneously",
+      "contemptuously",
+      "continually",
+      "continuously",
+      "conveniently",
+      "conventionally",
+      "conversationally",
+      "convincingly",
+      "copiously",
+      "correspondingly",
+      "corruptly",
+      "courageously",
+      "creatively",
+      "atypically",
+      "aurally",
+      "auspiciously",
+      "austerely",
+      "automatically",
+      "autonomously",
+      "beautifully",
+      "belligerently",
+      "benevolently",
+      "benignly",
+      "bilaterally",
+      "biologically",
+      "blackly",
+      "boastfully",
+      "boyishly",
+      "breathlessly",
+      "breathtakingly",
+      "brilliantly",
+      "competitively",
+      "comprehensively",
+      "compulsively",
+      "conclusively",
+      "confidentially",
+      "devastatingly",
+      "devilishly",
+      "deviously",
+      "devotedly",
+      "dexterously",
+      "diagonally",
+      "dialectically",
+      "differently",
+      "diffusely",
+      "directly",
+      "discretely",
+      "discursively",
+      "disdainfully",
+      "disgracefully",
+      "disgustedly",
+      "disgustingly",
+      "dishonestly",
+      "disjointedly",
+      "disrespectfully",
+      "dissolutely",
+      "distastefully",
+      "distinctively",
+      "critically",
+      "crookedly",
+      "crucially",
+      "culturally",
+      "cyclically",
+      "cynically",
+      "darkly",
+      "dazedly",
+      "dearly",
+      "deceptively",
+      "decidedly",
+      "decoratively",
+      "decorously",
+      "defensively",
+      "deferentially",
+      "definitely",
+      "definitively",
+      "delightfully",
+      "demonstratively",
+      "depressingly",
+      "derisively",
+      "descriptively",
+      "determinedly",
+      "guardedly",
+      "distinctly",
+      "distractedly",
+      "distressingly",
+      "distrustfully",
+      "disturbingly",
+      "diversely",
+      "docilely",
+      "dogmatically",
+      "dolefully",
+      "dreadfully",
+      "dryly",
+      "dubiously",
+      "dynamically",
+      "ecologically",
+      "economically",
+      "effectively",
+      "effortlessly",
+      "egregiously",
+      "elaborately",
+      "electrically",
+      "eloquently",
+      "elusively",
+      "encouragingly",
+      "endearingly",
+      "engagingly",
+      "entertainingly",
+      "equivalently",
+      "ethically",
+      "evasively",
+      "guiltlessly",
+      "haltingly",
+      "handsomely",
+      "haphazardly",
+      "harmlessly",
+      "exaggeratedly",
+      "excellently",
+      "excitedly",
+      "exhaustively",
+      "expeditiously",
+      "explicitly",
+      "expressively",
+      "faultlessly",
+      "fervently",
+      "flagrantly",
+      "flamboyantly",
+      "foolishly",
+      "forbiddingly",
+      "forcefully",
+      "fraudulently",
+      "fruitfully",
+      "fruitlessly",
+      "gainfully",
+      "girlishly",
+      "glamorously",
+      "gleefully",
+      "gracefully",
+      "gracelessly",
+      "graciously",
+      "gradually",
+      "gratefully",
+      "harmoniously",
+      "hatefully",
+      "hazardously",
+      "heartlessly",
+      "helpfully",
+      "helplessly",
+      "hesitantly",
+      "hopefully",
+      "humanely",
+      "humorously",
+      "hurtfully",
+      "hypocritically",
+      "hysterically",
+      "identically",
+      "ignorantly",
+      "illegitimately",
+      "illogically",
+      "imaginatively",
+      "immoderately",
+      "immodestly",
+      "immorally",
+      "impartially",
+      "impassively",
+      "impatiently",
+      "imperfectly",
+      "impersonally",
+      "impetuously",
+      "imprecisely",
+      "impressively",
+      "improperly",
+      "impulsively",
+      "inaccurately",
+      "inadequately",
+      "inappropriately",
+      "inarticulately",
+      "incautiously",
+      "inclusively",
+      "incompetently",
+      "incompletely",
+      "inconclusively",
+      "inconsiderately",
+      "inconsistently",
+      "inconspicuously",
+      "inconveniently",
+      "incorrectly",
+      "incrementally",
+      "indecently",
+      "independently",
+      "indifferently",
+      "indignantly",
+      "indirectly",
+      "indiscriminately",
+      "indistinctly",
+      "ineffectively",
+      "inelegantly",
+      "inexpertly",
+      "infectiously",
+      "inferentially",
+      "informally",
+      "ingeniously",
+      "ingloriously",
+      "inhumanely",
+      "inquiringly",
+      "insincerely",
+      "insistently",
+      "instinctively",
+      "insultingly",
+      "intensively",
+      "intentionally",
+      "interrogatively",
+      "intransitively",
+      "intricately",
+      "inventively",
+      "irrationally",
+      "irrelevantly",
+      "joylessly",
+      "joyously",
+      "judiciously",
+      "knowingly",
+      "laboriously",
+      "lawfully",
+      "legitimately",
+      "lifelessly",
+      "linearly",
+      "logically",
+      "loosely",
+      "lucidly",
+      "luminously",
+      "madly",
+      "magically",
+      "magnificently",
+      "malevolently",
+      "maliciously",
+      "masterfully",
+      "maternally"
     ],
     "family_id": "g_e87e5c07dddcb6d7",
     "related_root_ids": [],
@@ -8138,6 +9746,21 @@
     "family_id": "g_1d7e39fba5045a73",
     "related_root_ids": [],
     "source_entry": "-machy",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3b61beac6348b4d1",
+    "root": "-mageddon",
+    "source_form": "-mageddon",
+    "meaning": "a disastrous event involving the specified thing",
+    "class": "suffix",
+    "origin": "English expressive splinter from Armageddon; informal or playful use",
+    "source_entry": "-mageddon",
+    "family_id": "g_3b61beac6348b4d1",
+    "example": [
+      "snowmageddon"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -8361,7 +9984,55 @@
       "encouragement",
       "repayment",
       "rearrangement",
-      "resettlement"
+      "resettlement",
+      "abatement",
+      "attachment",
+      "establishment",
+      "disfigurement",
+      "discernment",
+      "discouragement",
+      "banishment",
+      "overstatement",
+      "consignment",
+      "curtailment",
+      "appointment",
+      "assignment",
+      "derailment",
+      "engagement",
+      "amusement",
+      "mismanagement",
+      "readjustment",
+      "redeployment",
+      "pronouncement",
+      "allotment",
+      "underpayment",
+      "procurement",
+      "understatement",
+      "acquirement",
+      "advisement",
+      "concealment",
+      "disappointment",
+      "disarmament",
+      "disarrangement",
+      "disenchantment",
+      "disentanglement",
+      "disestablishment",
+      "disillusionment",
+      "encampment",
+      "endearment",
+      "endowment",
+      "enjoyment",
+      "entrenchment",
+      "excitement",
+      "impalement",
+      "impingement",
+      "inducement",
+      "overpayment",
+      "preferment",
+      "rearmament",
+      "redevelopment",
+      "refreshment",
+      "requirement"
     ],
     "family_id": "g_b5e7951a290aa57d",
     "related_root_ids": [],
@@ -8499,10 +10170,30 @@
     ],
     "family_id": "g_04d81bd3e6c21d43",
     "related_root_ids": [
+      "r_117c1ebc9495040e",
       "r_511c0c899244ad42",
       "r_7be3def87a0623b5"
     ],
     "source_entry": "metr, -meter, -metry",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_117c1ebc9495040e",
+    "root": "-metrical",
+    "source_form": "-metrical",
+    "meaning": "concerning a particular art, method, or science of measurement",
+    "class": "suffix",
+    "origin": "French -métrique plus English -al; Greek metron measurement",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, -metric / -metrical sense 2",
+    "family_id": "g_04d81bd3e6c21d43",
+    "example": [
+      "geometrical"
+    ],
+    "related_root_ids": [
+      "r_511c0c899244ad42",
+      "r_7be3def87a0623b5",
+      "r_c134650af524e955"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -8531,10 +10222,28 @@
     ],
     "family_id": "g_04d81bd3e6c21d43",
     "related_root_ids": [
+      "r_117c1ebc9495040e",
       "r_7be3def87a0623b5",
       "r_c134650af524e955"
     ],
     "source_entry": "metr, -meter, -metry",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a2bf6a6e81e27fc7",
+    "root": "-minded",
+    "source_form": "-minded",
+    "meaning": "having the stated attitude or outlook",
+    "class": "combining_form",
+    "origin": "English mind + adjectival -ed, in compound-adjective formation",
+    "source_entry": "-minded",
+    "family_id": "g_38cd8ebd6aa3d8f0",
+    "example": [
+      "open-minded"
+    ],
+    "related_root_ids": [
+      "r_d964c91df66309c4"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -8560,6 +10269,22 @@
       "r_e8f089a58b2722e6"
     ],
     "source_entry": "mit, mis1, mitt, miss, -mise",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_bffa9edcd5b7e20c",
+    "root": "-mobile",
+    "source_form": "-mobile",
+    "meaning": "motorized vehicle; vehicle bringing services to the public",
+    "class": "suffix",
+    "origin": "English combining form extracted from automobile, ultimately Latin mobilis",
+    "source_entry": "Merriam-Webster, -mobile combining form, senses 1 and 2",
+    "family_id": "g_bffa9edcd5b7e20c",
+    "example": [
+      "snowmobile",
+      "bookmobile"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -8612,10 +10337,31 @@
     "related_root_ids": [
       "r_446db706db8936cf",
       "r_7f323ade0678ffd5",
-      "r_bd83ced28e85d336"
+      "r_bd83ced28e85d336",
+      "r_f9485316fab6bbce"
     ],
     "source_entry": "morph/o",
     "pending_family_examples": 1
+  },
+  {
+    "id": "r_f9485316fab6bbce",
+    "root": "-morphosis",
+    "source_form": "-morphosis",
+    "meaning": "change of form",
+    "class": "historical_stem",
+    "origin": "Latin from Greek morphōsis; historical/teaching index, not claimed as a productive English affix in the example",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes, and Combining Forms, mw-page36-line05009",
+    "family_id": "g_ca38fe64a4af5a12",
+    "example": [
+      "metamorphosis"
+    ],
+    "related_root_ids": [
+      "r_446db706db8936cf",
+      "r_7f323ade0678ffd5",
+      "r_8bb15eafcec420cd",
+      "r_bd83ced28e85d336"
+    ],
+    "pending_family_examples": 0
   },
   {
     "id": "r_446db706db8936cf",
@@ -8632,9 +10378,25 @@
     "related_root_ids": [
       "r_7f323ade0678ffd5",
       "r_8bb15eafcec420cd",
-      "r_bd83ced28e85d336"
+      "r_bd83ced28e85d336",
+      "r_f9485316fab6bbce"
     ],
     "source_entry": "morph/o",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ab75f4ca9e47d9eb",
+    "root": "-most",
+    "source_form": "-most",
+    "meaning": "the furthest",
+    "class": "suffix",
+    "origin": "Old English -mest, assimilated to most",
+    "source_entry": "extrem-",
+    "family_id": "g_ab75f4ca9e47d9eb",
+    "example": [
+      "inmost"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -8668,6 +10430,23 @@
     "family_id": "g_87efc1675fe721ed",
     "related_root_ids": [],
     "source_entry": "mycet-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_876e6a6729771e3c",
+    "root": "-n",
+    "source_form": "-n",
+    "meaning": "forms the past participle of certain irregular verbs",
+    "class": "suffix",
+    "origin": "Old English inherited past-participle inflection, a shorter form of the historical -en ending",
+    "source_entry": "Simon Fraser University, Linguistics 220/222/323, Strong Verbs; Samuel S. Haldeman, Affixes in Their Origin and Application, p. 142, -en participle past",
+    "family_id": "g_8b8f7ff18348fe26",
+    "example": [
+      "known"
+    ],
+    "related_root_ids": [
+      "r_8b8f7ff18348fe26"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -8834,7 +10613,185 @@
       "incompleteness",
       "incorrectness",
       "ineffectiveness",
-      "inventiveness"
+      "inventiveness",
+      "absoluteness",
+      "acquisitiveness",
+      "aloneness",
+      "aptness",
+      "artfulness",
+      "articulateness",
+      "bigness",
+      "blueness",
+      "boundlessness",
+      "boyishness",
+      "casualness",
+      "classlessness",
+      "compulsiveness",
+      "conscientiousness",
+      "contentiousness",
+      "crispness",
+      "crookedness",
+      "deliberateness",
+      "descriptiveness",
+      "discursiveness",
+      "dryness",
+      "dumbness",
+      "evasiveness",
+      "exclusiveness",
+      "extensiveness",
+      "falseness",
+      "gayness",
+      "girlishness",
+      "godlessness",
+      "grandness",
+      "gregariousness",
+      "grossness",
+      "guiltlessness",
+      "hatefulness",
+      "hugeness",
+      "inappropriateness",
+      "inarticulateness",
+      "painfulness",
+      "passiveness",
+      "permissiveness",
+      "persuasiveness",
+      "pervasiveness",
+      "playfulness",
+      "pleasantness",
+      "pointlessness",
+      "poorness",
+      "porousness",
+      "possessiveness",
+      "powerlessness",
+      "preciousness",
+      "pretentiousness",
+      "progressiveness",
+      "promptness",
+      "inattentiveness",
+      "inclusiveness",
+      "indebtedness",
+      "interconnectedness",
+      "joblessness",
+      "joyfulness",
+      "justness",
+      "largeness",
+      "lavishness",
+      "lawfulness",
+      "lawlessness",
+      "relentlessness",
+      "remoteness",
+      "resoluteness",
+      "resourcefulness",
+      "responsiveness",
+      "restfulness",
+      "restiveness",
+      "revengefulness",
+      "richness",
+      "righteousness",
+      "rightness",
+      "robustness",
+      "roguishness",
+      "rootlessness",
+      "rudeness",
+      "sacredness",
+      "secretiveness",
+      "seductiveness",
+      "selflessness",
+      "senselessness",
+      "separateness",
+      "shallowness",
+      "shamefulness",
+      "shamelessness",
+      "shapelessness",
+      "leanness",
+      "lifelessness",
+      "limitlessness",
+      "literalness",
+      "littleness",
+      "looseness",
+      "massiveness",
+      "mellowness",
+      "mildness",
+      "mindfulness",
+      "mindlessness",
+      "mournfulness",
+      "naturalness",
+      "nearness",
+      "niceness",
+      "noiselessness",
+      "noxiousness",
+      "obviousness",
+      "oppressiveness",
+      "protectiveness",
+      "purposelessness",
+      "rawness",
+      "realness",
+      "reasonableness",
+      "rebelliousness",
+      "stylishness",
+      "submissiveness",
+      "suddenness",
+      "suppleness",
+      "sureness",
+      "talkativeness",
+      "tallness",
+      "tastefulness",
+      "tenaciousness",
+      "thanklessness",
+      "thinness",
+      "thoroughness",
+      "timelessness",
+      "toughness",
+      "unawareness",
+      "unconsciousness",
+      "unevenness",
+      "unfaithfulness",
+      "unpleasantness",
+      "unreasonableness",
+      "unwillingness",
+      "uprightness",
+      "vagueness",
+      "vastness",
+      "viciousness",
+      "sheepishness",
+      "shiftlessness",
+      "shortsightedness",
+      "skillfulness",
+      "sleeplessness",
+      "slightness",
+      "sluggishness",
+      "smallness",
+      "smoothness",
+      "smugness",
+      "snobbishness",
+      "soreness",
+      "sorrowfulness",
+      "soulfulness",
+      "soullessness",
+      "sparseness",
+      "spinelessness",
+      "spitefulness",
+      "spotlessness",
+      "squareness",
+      "stiffness",
+      "straightness",
+      "strangeness",
+      "strictness",
+      "stubbornness",
+      "vileness",
+      "vindictiveness",
+      "vividness",
+      "wakefulness",
+      "wastefulness",
+      "watchfulness",
+      "weightlessness",
+      "weirdness",
+      "wholesomeness",
+      "wildness",
+      "wonderfulness",
+      "worthlessness",
+      "yellowness",
+      "zealousness"
     ],
     "family_id": "g_2e94b10a5733577d",
     "related_root_ids": [],
@@ -8855,7 +10812,8 @@
       "autonomy",
       "economy",
       "gastronomy",
-      "taxonomy"
+      "taxonomy",
+      "Deuteronomy"
     ],
     "family_id": "g_13017faa54574f02",
     "related_root_ids": [
@@ -8901,6 +10859,21 @@
     "related_root_ids": [],
     "source_entry": "-cracy, -crat",
     "pending_family_examples": 2
+  },
+  {
+    "id": "r_d6de44c39f4ddb81",
+    "root": "-odd",
+    "source_form": "-odd",
+    "meaning": "a little more than a stated number",
+    "class": "combining_form",
+    "origin": "From English odd in sense additional remainder; Old Norse oddi (historical origin of odd).",
+    "source_entry": "-odd",
+    "family_id": "g_d6de44c39f4ddb81",
+    "example": [
+      "twenty-odd"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_6c1f9db88c1366f6",
@@ -8978,6 +10951,24 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_264dc47e7518cd08",
+    "root": "-oholic",
+    "source_form": "-oholic",
+    "meaning": "person exceedingly fond of",
+    "class": "suffix",
+    "origin": "English splinter abstracted from alcoholic",
+    "source_entry": "-holic",
+    "family_id": "g_38dd843ee57d7565",
+    "example": [
+      "chocoholic"
+    ],
+    "related_root_ids": [
+      "r_1a46bb5781b39731",
+      "r_cc28ac12581d7e58"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_eb16d5b9515e53ce",
     "root": "-oid",
     "source_form": "-oid",
@@ -8999,6 +10990,21 @@
     "family_id": "g_eb16d5b9515e53ce",
     "related_root_ids": [],
     "source_entry": "-oid",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_7a79df368b768be1",
+    "root": "-ola",
+    "source_form": "-ola",
+    "meaning": "commercial suffix",
+    "class": "suffix",
+    "origin": "English commercial naming suffix, chiefly American; deeper source uncertain; commercial-name function, not a cereal-specific meaning",
+    "source_entry": "-ola (Online Etymology Dictionary)",
+    "family_id": "g_7a79df368b768be1",
+    "example": [
+      "granola"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -9030,6 +11036,23 @@
     "family_id": "g_f54a7808872f1381",
     "related_root_ids": [],
     "source_entry": "log-, -logy",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a607314eb60ae7e3",
+    "root": "-ologist",
+    "source_form": "-ologist",
+    "meaning": "an expert in a subject of study",
+    "class": "suffix",
+    "origin": "Greek -logia plus English -ist; biologist is also analyzed as biology + -ist",
+    "source_entry": "Oxford Advanced Learner’s Dictionary, -ologist combining form",
+    "family_id": "g_a607314eb60ae7e3",
+    "example": [
+      "biologist",
+      "psychologist",
+      "sociologist"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -9242,6 +11265,24 @@
     "pending_family_examples": 3
   },
   {
+    "id": "r_7101696413349033",
+    "root": "-onymous",
+    "source_form": "-onymous",
+    "meaning": "having a specified kind or status of name",
+    "class": "combining_form",
+    "origin": "Greek name-related combining form, later used in English adjectives; historical and teaching analyses vary",
+    "source_entry": "-onymous",
+    "family_id": "g_f5a594e2414a35bd",
+    "example": [
+      "anonymous"
+    ],
+    "related_root_ids": [
+      "r_32e0bc618c8a0dcc",
+      "r_cd146740d8730fdb"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_af051c91396369d3",
     "root": "-oon",
     "source_form": "-oon",
@@ -9286,7 +11327,7 @@
     "id": "r_9e4dd92c17d2d574",
     "root": "-opia",
     "source_form": "-opia",
-    "meaning": "eye, visual condition, vision, sight, inspection",
+    "meaning": "vision or a condition of sight",
     "class": "suffix",
     "origin": "Greek",
     "example": [
@@ -9404,7 +11445,33 @@
       "sailor",
       "sculptor",
       "survivor",
-      "vendor"
+      "vendor",
+      "interceptor",
+      "investor",
+      "oppressor",
+      "possessor",
+      "predictor",
+      "protector",
+      "reactor",
+      "reflector",
+      "resistor",
+      "detector",
+      "detractor",
+      "editor",
+      "ejector",
+      "elector",
+      "exhibitor",
+      "governor",
+      "inhibitor",
+      "inspector",
+      "instructor",
+      "abettor",
+      "compressor",
+      "conqueror",
+      "consignor",
+      "constrictor",
+      "suppressor",
+      "transgressor"
     ],
     "family_id": "g_79af09ef592cb0e8",
     "related_root_ids": [],
@@ -9712,6 +11779,21 @@
     "pending_family_examples": 2
   },
   {
+    "id": "r_d439e86e28e02ffe",
+    "root": "-our",
+    "source_form": "-our",
+    "meaning": "making nouns of quality, state, or condition",
+    "class": "suffix",
+    "origin": "Middle English and Anglo-French -our, historically related to Latin -or; British/Commonwealth spelling; historical quality/state suffix; distinct from agent -or",
+    "source_entry": "Online Etymology Dictionary, -or (quality/state sense); Chambers 1908, Prefixes and Suffixes",
+    "family_id": "g_d439e86e28e02ffe",
+    "example": [
+      "favour"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_4e7d369a68252a85",
     "root": "-ous",
     "source_form": "-ous",
@@ -9834,6 +11916,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_e9d46fd45f94b1f3",
+    "root": "-pants",
+    "source_form": "-pants",
+    "meaning": "a person characterized by the specified trait, often teasingly",
+    "class": "combining_form",
+    "origin": "English pants in expressive person-label constructions; later suffixoid analysis.",
+    "source_entry": "-pants",
+    "family_id": "g_e9d46fd45f94b1f3",
+    "example": [
+      "smarty-pants"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_e006c8037666985e",
     "root": "-parous",
     "source_form": "-parous",
@@ -9855,8 +11952,8 @@
     "id": "r_7d7a290cbfea28d6",
     "root": "-pathic",
     "source_form": "-pathic",
-    "meaning": "suffer, feel; disease",
-    "class": "root",
+    "meaning": "pertaining to a disorder, feeling, or method of treatment",
+    "class": "suffix",
     "origin": "Greek",
     "example": [
       "psychopathic"
@@ -10001,6 +12098,7 @@
       "r_3834883ec57751c3",
       "r_42e5dc6640fbd86b",
       "r_49f7b31bc8e91ab8",
+      "r_967528a314267091",
       "r_c5f0e6836e31f768"
     ],
     "source_entry": "phag, -phage, -phagy",
@@ -10028,9 +12126,31 @@
       "r_0264587768d63764",
       "r_42e5dc6640fbd86b",
       "r_49f7b31bc8e91ab8",
+      "r_967528a314267091",
       "r_c5f0e6836e31f768"
     ],
     "source_entry": "phag-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_967528a314267091",
+    "root": "-phagous",
+    "source_form": "-phagous",
+    "meaning": "eat",
+    "class": "suffix",
+    "origin": "Greek -phagos from phagein, via Latin -phagus",
+    "source_entry": "phag-",
+    "family_id": "g_0890ce354826f725",
+    "example": [
+      "androphagous"
+    ],
+    "related_root_ids": [
+      "r_0264587768d63764",
+      "r_3834883ec57751c3",
+      "r_42e5dc6640fbd86b",
+      "r_49f7b31bc8e91ab8",
+      "r_c5f0e6836e31f768"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -10051,6 +12171,7 @@
       "r_0264587768d63764",
       "r_3834883ec57751c3",
       "r_49f7b31bc8e91ab8",
+      "r_967528a314267091",
       "r_c5f0e6836e31f768"
     ],
     "source_entry": "phag, -phage, -phagy",
@@ -10072,6 +12193,7 @@
       "r_266d02f3b04dd89f",
       "r_43d2d4fb231e49ac",
       "r_4c019a67eeaa4c92",
+      "r_559242d1b82f11db",
       "r_7dcaf21a2c71b020",
       "r_b589a56f50699588",
       "r_d6cfe018394d26bb",
@@ -10095,6 +12217,7 @@
     "related_root_ids": [
       "r_266d02f3b04dd89f",
       "r_4c019a67eeaa4c92",
+      "r_559242d1b82f11db",
       "r_7dcaf21a2c71b020",
       "r_b589a56f50699588",
       "r_c1c770c141659792",
@@ -10155,7 +12278,7 @@
     "id": "r_c8b7ce87d7356a84",
     "root": "-phobe",
     "source_form": "-phobe",
-    "meaning": "fear, dread",
+    "meaning": "person or thing that fears or has an aversion to",
     "class": "suffix",
     "origin": "Greek",
     "example": [
@@ -10179,7 +12302,7 @@
     "id": "r_9032e18fd087c6f2",
     "root": "-phobic",
     "source_form": "-phobic",
-    "meaning": "fear, dread",
+    "meaning": "relating to fear, aversion, or lack of affinity",
     "class": "suffix",
     "origin": "Greek",
     "example": [
@@ -10220,10 +12343,12 @@
       "phonetic alphabet",
       "phonetics",
       "telephone",
-      "xylophone"
+      "xylophone",
+      "dictaphone"
     ],
     "family_id": "g_3534094a46c512ec",
     "related_root_ids": [
+      "r_1f7b81784a43fff3",
       "r_62b7db4ddab906a5",
       "r_ce14f6eadf8f27dc",
       "r_d3312ca743a34514",
@@ -10251,6 +12376,27 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_1f7b81784a43fff3",
+    "root": "-phonic",
+    "source_form": "-phonic",
+    "meaning": "relating to sound",
+    "class": "combining_form",
+    "origin": "English phonic, ultimately Greek phōnē sound",
+    "source_entry": "-phonic",
+    "family_id": "g_3534094a46c512ec",
+    "example": [
+      "stereophonic"
+    ],
+    "related_root_ids": [
+      "r_62b7db4ddab906a5",
+      "r_9fd963e23cb4d070",
+      "r_ce14f6eadf8f27dc",
+      "r_d3312ca743a34514",
+      "r_e26097739dc40c6d"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_62b7db4ddab906a5",
     "root": "-phony",
     "source_form": "-phony",
@@ -10273,6 +12419,7 @@
     ],
     "family_id": "g_3534094a46c512ec",
     "related_root_ids": [
+      "r_1f7b81784a43fff3",
       "r_9fd963e23cb4d070",
       "r_ce14f6eadf8f27dc",
       "r_d3312ca743a34514",
@@ -10305,7 +12452,8 @@
       "melanophore",
       "odontophore",
       "oophorectomy",
-      "phosphorescence"
+      "phosphorescence",
+      "cyanophore"
     ],
     "family_id": "g_ad74fa81f6767140",
     "related_root_ids": [
@@ -10313,6 +12461,21 @@
       "r_51f7fb2f2b540b71"
     ],
     "source_entry": "phor, pher, -phore",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_6290405b90059658",
+    "root": "-phoria",
+    "source_form": "-phoria",
+    "meaning": "bearing; state; tendency",
+    "class": "suffix",
+    "origin": "Greek -phoros bearing + -ia, via New Latin; historical borrowing",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, mw-page44-line06243",
+    "family_id": "g_6290405b90059658",
+    "example": [
+      "euphoria"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -10487,6 +12650,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_a2b3fd0bcbbc0ca7",
+    "root": "-pocalypse",
+    "source_form": "-pocalypse",
+    "meaning": "a catastrophic or supposedly catastrophic event involving the specified thing",
+    "class": "suffix",
+    "origin": "English reanalysis from apocalypse; informal or playful use",
+    "source_entry": "-pocalypse",
+    "family_id": "g_a2b3fd0bcbbc0ca7",
+    "example": [
+      "snowpocalypse"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_c31b4707801c5f07",
     "root": "-pone",
     "source_form": "-pone",
@@ -10516,12 +12694,27 @@
     "pending_family_examples": 3
   },
   {
+    "id": "r_b65683e52d349e47",
+    "root": "-poo",
+    "source_form": "-poo",
+    "meaning": "used as a disparaging diminutive",
+    "class": "suffix",
+    "origin": "unknown according to MW; Collins separately suggests possible relation to pie in cutesy-pie; informal, often playful or disparaging, distinct from poodle-derived -poo",
+    "source_entry": "Merriam-Webster A Dictionary of Prefixes, Suffixes, and Combining Forms, mw-page47-line06579",
+    "family_id": "g_b65683e52d349e47",
+    "example": [
+      "cutesy-poo"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_93a88804387907a7",
     "root": "-pose",
     "source_form": "-pose",
     "meaning": "put, place",
     "class": "root",
-    "origin": "Latin",
+    "origin": "French, from Late Latin pausare",
     "example": [
       "composed",
       "decompose",
@@ -10598,6 +12791,21 @@
       "r_1c1be990648907b6"
     ],
     "source_entry": "pris, -prise, prehens, -prehend",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_60e8897d16f07fca",
+    "root": "-preneur",
+    "source_form": "-preneur",
+    "meaning": "a person running a specified kind of business",
+    "class": "combining_form",
+    "origin": "English splinter from entrepreneur; chiefly business usage",
+    "source_entry": "-preneur",
+    "family_id": "g_60e8897d16f07fca",
+    "example": [
+      "solopreneur"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -10741,6 +12949,36 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_7219001a78000c04",
+    "root": "-quel",
+    "source_form": "-quel",
+    "meaning": "a related story or installment",
+    "class": "suffix",
+    "origin": "Modern English, reanalysed from sequel",
+    "source_entry": "Hamans, Folia linguistica et litteraria, sequel reanalysis",
+    "family_id": "g_7219001a78000c04",
+    "example": [
+      "prequel"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_fedca522219b1c31",
+    "root": "-ridden",
+    "source_form": "-ridden",
+    "meaning": "full of something unpleasant or bad",
+    "class": "suffix",
+    "origin": "English combining form from the past participle ridden, with developed affliction sense; figurative combining form also analyzed as a compound",
+    "source_entry": "Cambridge Advanced Learner’s Dictionary, -ridden",
+    "family_id": "g_fedca522219b1c31",
+    "example": [
+      "guilt-ridden"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_e83f893aa8bc1be0",
     "root": "-rium",
     "source_form": "-rium",
@@ -10850,6 +13088,41 @@
     "pending_family_examples": 8
   },
   {
+    "id": "r_b4915b852f8c4ab0",
+    "root": "-saurus",
+    "source_form": "-saurus",
+    "meaning": "a lizard or reptile, especially in extinct animal names",
+    "class": "combining_form",
+    "origin": "Greek sauros lizard, adapted in scientific and common dinosaur names",
+    "source_entry": "-saurus",
+    "family_id": "g_30558920da17b1e4",
+    "example": [
+      "tyrannosaurus"
+    ],
+    "related_root_ids": [
+      "r_3f0095b944a72871",
+      "r_96bb28b3fec71adf"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_3674a59c8866aa6d",
+    "root": "-scape",
+    "source_form": "-scape",
+    "meaning": "view; pictorial representation of a specified type of view",
+    "class": "suffix",
+    "origin": "Modern English combining form abstracted from landscape; later English combining form distinct from historical -scap in landscape",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, -scape",
+    "family_id": "g_3674a59c8866aa6d",
+    "example": [
+      "cityscape",
+      "seascape",
+      "moonscape"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_a5920994c55726da",
     "root": "-scope",
     "source_form": "-scope",
@@ -10881,14 +13154,36 @@
       "synchroscope",
       "telescope",
       "ultramicroscope",
-      "urethroscope"
+      "urethroscope",
+      "radio telescope"
     ],
     "family_id": "g_3e2d659c82b8fa59",
     "related_root_ids": [
       "r_40a110f4a37d4cfc",
+      "r_719651d87e85b0c2",
       "r_9e52cc4870a9c2c1"
     ],
     "source_entry": "scop, -scope, -scopy",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_719651d87e85b0c2",
+    "root": "-scopic",
+    "source_form": "-scopic",
+    "meaning": "directing sight in a particular way; viewing or observation",
+    "class": "suffix",
+    "origin": "Greek skopein observe + English -ic",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, mw-page50-line07119",
+    "family_id": "g_3e2d659c82b8fa59",
+    "example": [
+      "telescopic",
+      "microscopic"
+    ],
+    "related_root_ids": [
+      "r_40a110f4a37d4cfc",
+      "r_9e52cc4870a9c2c1",
+      "r_a5920994c55726da"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -10904,10 +13199,28 @@
     ],
     "family_id": "g_3e2d659c82b8fa59",
     "related_root_ids": [
+      "r_719651d87e85b0c2",
       "r_9e52cc4870a9c2c1",
       "r_a5920994c55726da"
     ],
     "source_entry": "scop, -scope, -scopy",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_aa5842c4e6bd09a6",
+    "root": "-seater",
+    "source_form": "-seater",
+    "meaning": "having space for a specified number of people",
+    "class": "combining_form",
+    "origin": "English seat + -er, as a final combining form",
+    "source_entry": "-seater",
+    "family_id": "g_cf48d2f50c9cbe4e",
+    "example": [
+      "two-seater"
+    ],
+    "related_root_ids": [
+      "r_f13519285d69ae81"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -10968,7 +13281,15 @@
       "trusteeship",
       "professorship",
       "receivership",
-      "partisanship"
+      "partisanship",
+      "sportsmanship",
+      "relationship",
+      "scholarship",
+      "acquaintanceship",
+      "championship",
+      "craftsmanship",
+      "readership",
+      "salesmanship"
     ],
     "family_id": "g_b8fb3ffcaa949bb2",
     "related_root_ids": [],
@@ -11063,6 +13384,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_e3f7808e06ba53b3",
+    "root": "-something",
+    "source_form": "-something",
+    "meaning": "(informal) approximate age within a named decade",
+    "class": "suffix",
+    "origin": "English something, reanalysed as a final word-forming element",
+    "source_entry": "Cambridge Advanced Learner’s Dictionary, -something suffix, age sense",
+    "family_id": "g_e3f7808e06ba53b3",
+    "example": [
+      "thirty-something"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_2c8cec10e9427a67",
     "root": "-sophy",
     "source_form": "-sophy",
@@ -11154,6 +13490,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_9aec994d0711f36b",
+    "root": "-ster",
+    "source_form": "-ster",
+    "meaning": "one who is involved in",
+    "class": "suffix",
+    "origin": "Old English -estre",
+    "source_entry": "-ster",
+    "family_id": "g_9aec994d0711f36b",
+    "example": [
+      "gangster"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_f912dfc24bbd94b8",
     "root": "-stomy",
     "source_form": "-stomy",
@@ -11184,6 +13535,70 @@
     "related_root_ids": [],
     "source_entry": "-stress",
     "pending_family_examples": 1
+  },
+  {
+    "id": "r_00bfc1a09f49ba08",
+    "root": "-t",
+    "source_form": "-t",
+    "meaning": "marks a past tense or past participle for certain verbs",
+    "class": "suffix",
+    "origin": "English irregular weak-verb inflection, related to the dental past endings; an allomorph of the dental past ending, not an arbitrary final t",
+    "source_entry": "The Oxford Companion to the English Language, weak-verb classification",
+    "family_id": "g_410ef9dc3a621436",
+    "example": [
+      "learnt",
+      "burnt"
+    ],
+    "related_root_ids": [
+      "r_4d2ccea15291b812",
+      "r_fab8c7463613d23a"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_ec70d600d8afe82c",
+    "root": "-tacular",
+    "source_form": "-tacular",
+    "meaning": "forming playful adjectives that intensify the specified quality",
+    "class": "suffix",
+    "origin": "English reanalysis from spectacular; informal or playful use",
+    "source_entry": "-tacular",
+    "family_id": "g_ec70d600d8afe82c",
+    "example": [
+      "spooktacular"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9257a40ce99ed442",
+    "root": "-tainment",
+    "source_form": "-tainment",
+    "meaning": "entertainment combined with a specified other purpose",
+    "class": "combining_form",
+    "origin": "English final splinter of entertainment, reanalysed in an analogical series; a final blend splinter, with conventional suffix status debated",
+    "source_entry": "-tainment",
+    "family_id": "g_9257a40ce99ed442",
+    "example": [
+      "edutainment"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_309b16f963a03dcd",
+    "root": "-tarian",
+    "source_form": "-tarian",
+    "meaning": "a person with a specified dietary restriction",
+    "class": "suffix",
+    "origin": "English suffix-like element reinterpreted from vegetarian; informal or specialized usage",
+    "source_entry": "-tarian",
+    "family_id": "g_309b16f963a03dcd",
+    "example": [
+      "pescetarian"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_39c2cb1a927aeeec",
@@ -11240,6 +13655,71 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_9b4fdfa4781b546c",
+    "root": "-theism",
+    "source_form": "-theism",
+    "meaning": "belief or position concerning deities, their existence or number",
+    "class": "suffix",
+    "origin": "Middle French -théisme, thé- + -isme; Greek theos god",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, -theism",
+    "family_id": "g_9a4a291343707ce9",
+    "example": [
+      "monotheism",
+      "polytheism",
+      "atheism"
+    ],
+    "related_root_ids": [
+      "r_1f1e5a932b6a34cd",
+      "r_5e263a1aec9008f0",
+      "r_8565afbee58e90a8",
+      "r_de031acbc6e2cc1f",
+      "r_e8a1aa7a5d46e454"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_5e263a1aec9008f0",
+    "root": "-theist",
+    "source_form": "-theist",
+    "meaning": "a person holding a belief or position about the existence or number of gods",
+    "class": "suffix",
+    "origin": "Middle French -théiste, from thé- + -iste",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes, and Combining Forms, mw-page56-line07964",
+    "family_id": "g_9a4a291343707ce9",
+    "example": [
+      "monotheist"
+    ],
+    "related_root_ids": [
+      "r_1f1e5a932b6a34cd",
+      "r_8565afbee58e90a8",
+      "r_9b4fdfa4781b546c",
+      "r_de031acbc6e2cc1f",
+      "r_e8a1aa7a5d46e454"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e8a1aa7a5d46e454",
+    "root": "-theistic",
+    "source_form": "-theistic",
+    "meaning": "relating to belief in a god or gods",
+    "class": "suffix",
+    "origin": "English adjectival combining form related to -theist and -ic; teaching and historical analyses differ",
+    "source_entry": "-theistic; Core Knowledge Grade 3 and Merriam-Webster inline combining-form note",
+    "family_id": "g_9a4a291343707ce9",
+    "example": [
+      "monotheistic"
+    ],
+    "related_root_ids": [
+      "r_1f1e5a932b6a34cd",
+      "r_5e263a1aec9008f0",
+      "r_8565afbee58e90a8",
+      "r_9b4fdfa4781b546c",
+      "r_de031acbc6e2cc1f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_db33b245ad26961f",
     "root": "-ther",
     "source_form": "-ther",
@@ -11253,6 +13733,41 @@
       "neither"
     ],
     "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_8cc7d5f02d52fcf2",
+    "root": "-thes-",
+    "source_form": "thes",
+    "meaning": "to place, put",
+    "class": "root",
+    "origin": "Greek tithenai (to put, place); thes is a documented English historical/educational root form, within the thesis/synthesis family",
+    "source_entry": "thes",
+    "family_id": "g_5ee087825ccf61d0",
+    "example": [
+      "synthesize"
+    ],
+    "related_root_ids": [
+      "r_67d88b064099f1ad",
+      "r_6e825dfee02a9415"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_4391bb4ecb70aa59",
+    "root": "-thon",
+    "source_form": "-thon",
+    "meaning": "a large-scale or prolonged event or activity of a specified kind",
+    "class": "suffix",
+    "origin": "English, extracted and reanalysed from marathon; a variant of -athon",
+    "source_entry": "Collins English Dictionary: -thon; Merriam-Webster: telethon",
+    "family_id": "g_c9c22d9390fd8550",
+    "example": [
+      "telethon"
+    ],
+    "related_root_ids": [
+      "r_2ea02f84ee34b9fa"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -11290,6 +13805,27 @@
     "pending_family_examples": 1
   },
   {
+    "id": "r_6482043bee89fe1c",
+    "root": "-tinu-",
+    "source_form": "tinu",
+    "meaning": "to hold",
+    "class": "historical_stem",
+    "origin": "Latin tenere to hold, via continere and continuus",
+    "source_entry": "95 Percent Group, Grade 5 Phonics Core, Teacher’s Edition, p.183: tinu, to hold",
+    "family_id": "g_1b4b51408b2cd3be",
+    "example": [
+      "continue"
+    ],
+    "related_root_ids": [
+      "r_0f47bd49c0867a11",
+      "r_10bf2bb123c38d54",
+      "r_2689996d560595a4",
+      "r_5d7a4cdba21cc495",
+      "r_f55ebfb56336f1ab"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_c58a4b6622337dad",
     "root": "-tion",
     "source_form": "-tion",
@@ -11306,6 +13842,38 @@
     ],
     "source_entry": "-tion",
     "pending_family_examples": 2
+  },
+  {
+    "id": "r_9c7b9cfb7104c0dc",
+    "root": "-tive",
+    "source_form": "-tive",
+    "meaning": "tendency; disposition",
+    "class": "suffix",
+    "origin": "Latin -tivus, analogical expansion of adjectival -ivus; transmitted through French and learned English forms; historical analysis of sensitive; alternative modern analyses exist",
+    "source_entry": "-tive; Oxford Linguistics, Latin Suffixal Derivatives in English, §5.5",
+    "family_id": "g_b14aa3fd7e6677e0",
+    "example": [
+      "sensitive"
+    ],
+    "related_root_ids": [
+      "r_b14aa3fd7e6677e0"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_28673af99cd4e392",
+    "root": "-to-be",
+    "source_form": "-to-be",
+    "meaning": "in the near future",
+    "class": "suffix",
+    "origin": "English infinitival phrase to be used as a final combining element; alternatives include an independently used phrase or compound",
+    "source_entry": "Cambridge English Dictionary, to-be suffix",
+    "family_id": "g_28673af99cd4e392",
+    "example": [
+      "bride-to-be"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
   },
   {
     "id": "r_19fee83b0e8ac734",
@@ -11354,6 +13922,24 @@
       "r_a75f63c40e270577"
     ],
     "source_entry": "tom, -tome, -tomy, -stomy",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_d11f70bc2f8055ac",
+    "root": "-trait",
+    "source_form": "trait",
+    "meaning": "draw, drawn",
+    "class": "historical_stem",
+    "origin": "French trait past participle of traire draw, from Latin trahere, tractus",
+    "source_entry": "Kennedy, A Stem Dictionary of the English Language (1890), p. 207, Trait = draw, drawn",
+    "family_id": "g_a8772a3f246e2c6c",
+    "example": [
+      "portrait"
+    ],
+    "related_root_ids": [
+      "r_487d64f6c36d5c6f",
+      "r_e069ab4d2a7f69d6"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -11455,7 +14041,8 @@
       "atrophy",
       "dystrophy",
       "hypertrophy",
-      "pogonotrophy"
+      "pogonotrophy",
+      "muscular dystrophy"
     ],
     "family_id": "g_2f41af5f3088f4e0",
     "related_root_ids": [
@@ -11484,6 +14071,7 @@
       "r_003fc59c4935ce79",
       "r_14d5ca46cc9e8b20",
       "r_2e9ad988e1677a48",
+      "r_8ebdcf5d1ac41733",
       "r_9c0cd5a4228746d4",
       "r_cd41f8f10bc09a7c",
       "r_d593dad4d993aa26"
@@ -11501,12 +14089,14 @@
     "example": [
       "anemotropism",
       "geotropism",
-      "heliotropism"
+      "heliotropism",
+      "ergotropism"
     ],
     "family_id": "g_5bb99c1aa48ec08f",
     "related_root_ids": [
       "r_14d5ca46cc9e8b20",
       "r_2e9ad988e1677a48",
+      "r_8ebdcf5d1ac41733",
       "r_9c0cd5a4228746d4",
       "r_cd41f8f10bc09a7c",
       "r_d593dad4d993aa26",
@@ -11534,6 +14124,7 @@
       "r_003fc59c4935ce79",
       "r_14d5ca46cc9e8b20",
       "r_2e9ad988e1677a48",
+      "r_8ebdcf5d1ac41733",
       "r_9c0cd5a4228746d4",
       "r_d593dad4d993aa26",
       "r_f341fbc20c361423"
@@ -11559,6 +14150,7 @@
       "r_003fc59c4935ce79",
       "r_14d5ca46cc9e8b20",
       "r_2e9ad988e1677a48",
+      "r_8ebdcf5d1ac41733",
       "r_cd41f8f10bc09a7c",
       "r_d593dad4d993aa26",
       "r_f341fbc20c361423"
@@ -11610,6 +14202,23 @@
     "pending_family_examples": 32
   },
   {
+    "id": "r_b27e79bd8ffbbf11",
+    "root": "-ture",
+    "source_form": "-ture",
+    "meaning": "act, process, or result",
+    "class": "suffix",
+    "origin": "Latin -tura / -ura; historic suffix analysis may overlap a participial stem ending in t; picture also analyzed as pict- + -ure",
+    "source_entry": "Latin Suffixal Derivatives in English, section 3.9; PBS English spelling lesson",
+    "family_id": "g_3f2169dc71dbf5c6",
+    "example": [
+      "picture"
+    ],
+    "related_root_ids": [
+      "r_3f2169dc71dbf5c6"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_f09c8a53bd3c5e70",
     "root": "-ty",
     "source_form": "-ty",
@@ -11654,6 +14263,9 @@
       "dainty"
     ],
     "related_root_ids": [
+      "r_18ba25a38686151b",
+      "r_5daeec9b45238c73",
+      "r_afa7faa6a1ac39ff",
       "r_b7cdcb90d9054f03"
     ],
     "pending_family_examples": 0
@@ -11758,6 +14370,21 @@
     "pending_family_examples": 5
   },
   {
+    "id": "r_728528643fa9e45d",
+    "root": "-ular",
+    "source_form": "-ular",
+    "meaning": "pertaining to or resembling",
+    "class": "suffix",
+    "origin": "Latin -ularis, related to -ule and -ar; larger teaching segmentation is distinct from historical derivation",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, p.58, -ular adjective suffix",
+    "family_id": "g_728528643fa9e45d",
+    "example": [
+      "tubular"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_de41073eda708174",
     "root": "-ule",
     "source_form": "-ule",
@@ -11841,6 +14468,21 @@
     "related_root_ids": [
       "r_b6ebc003bda8517b"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e2b570c08efa70aa",
+    "root": "-umentary",
+    "source_form": "-umentary",
+    "meaning": "a documentary or work presented in documentary form",
+    "class": "combining_form",
+    "origin": "English suffix-like splinter from documentary",
+    "source_entry": "-umentary",
+    "family_id": "g_e2b570c08efa70aa",
+    "example": [
+      "mockumentary"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -11933,7 +14575,9 @@
       "superstructure"
     ],
     "family_id": "g_3f2169dc71dbf5c6",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_b27e79bd8ffbbf11"
+    ],
     "source_entry": "-ure",
     "pending_family_examples": 4
   },
@@ -12204,6 +14848,29 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_a80e16dc97fba881",
+    "root": "-volve",
+    "source_form": "-volve",
+    "meaning": "roll, turn",
+    "class": "root",
+    "origin": "English bound form associated historically with Latin volvere, to roll",
+    "source_entry": "Carstairs-McCarthy, An Introduction to English Morphology: Words and Their Structure (2002), p. 25; California Department of Education, My Vocabulary Connections, Roots – Action Words",
+    "family_id": "g_7e6ff8ae5391deac",
+    "example": [
+      "revolve"
+    ],
+    "related_root_ids": [
+      "r_5585dfe1db7065ff",
+      "r_6483ac0f37e3cc57",
+      "r_6996df0696c34702",
+      "r_91bb7c7dc70220c3",
+      "r_91bc202eee97cb4b",
+      "r_b4d5e4e263dceb9a",
+      "r_df31d70f56252f7f"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_ad744ab76881d811",
     "root": "-ward",
     "source_form": "-ward",
@@ -12261,6 +14928,22 @@
       "freeware",
       "software",
       "firmware"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_b483cebc9d450da5",
+    "root": "-washing",
+    "source_form": "-washing",
+    "meaning": "misleading image-making or diversion to conceal less favorable conduct",
+    "class": "suffix",
+    "origin": "English reanalyzed final element from figurative whitewashing / whitewash",
+    "source_entry": "-washing; Kramar and Ilchenko 2023",
+    "family_id": "g_b483cebc9d450da5",
+    "example": [
+      "greenwashing",
+      "sportswashing"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -12408,6 +15091,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_4425b2781f68115d",
+    "root": "-wright",
+    "source_form": "-wright",
+    "meaning": "a person who creates, builds, or repairs something specified",
+    "class": "suffix",
+    "origin": "Old English wryhta, worker or maker, historically related to work; historical free noun also used as final compound element",
+    "source_entry": "Collins English Dictionary, wright² in combination",
+    "family_id": "g_4425b2781f68115d",
+    "example": [
+      "playwright"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_2dcaf6f7bb5b5990",
     "root": "-y",
     "source_form": "-y",
@@ -12510,6 +15208,23 @@
       "modesty"
     ],
     "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_2825b4ffc2520e9a",
+    "root": "-yer",
+    "source_form": "-yer",
+    "meaning": "a person engaged in an occupation or activity",
+    "class": "suffix",
+    "origin": "Middle English -iere; variant of -ier/-er, with Old French -ier influence",
+    "source_entry": "Affixes.org, -ier / -yer; Online Etymology Dictionary, -yer",
+    "family_id": "g_7c6b0dd0b13e5d0e",
+    "example": [
+      "lawyer"
+    ],
+    "related_root_ids": [
+      "r_7c6b0dd0b13e5d0e"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -12684,7 +15399,8 @@
       "anesthesia",
       "ambrosia",
       "arrhythmia",
-      "neurasthenia"
+      "neurasthenia",
+      "aplastic anemia"
     ],
     "related_root_ids": [
       "r_5cc46d35f74281c1"
@@ -12801,7 +15517,8 @@
       "unable",
       "disabled",
       "disable",
-      "enabler"
+      "enabler",
+      "able"
     ],
     "related_root_ids": [
       "r_da47fb22c7ecf82b"
@@ -13024,7 +15741,8 @@
       "academic",
       "academically",
       "academy",
-      "academia"
+      "academia",
+      "academician"
     ],
     "family_id": "g_e7810df8342cdc6c",
     "related_root_ids": [],
@@ -13196,7 +15914,8 @@
       "acidosis",
       "acidulation",
       "acidulous",
-      "antacid"
+      "antacid",
+      "acidify"
     ],
     "family_id": "g_f68c5c035c171fba",
     "related_root_ids": [
@@ -13445,7 +16164,11 @@
       "reactor",
       "retroactive",
       "transact",
-      "transaction"
+      "transaction",
+      "psychoactive",
+      "radioactively",
+      "radioactivity",
+      "actuate"
     ],
     "family_id": "g_7cb461aec5ae5c05",
     "related_root_ids": [
@@ -13476,7 +16199,9 @@
       "actinomyces",
       "actinophryid",
       "actinopod",
-      "actinotherapy"
+      "actinotherapy",
+      "Actinopterygii",
+      "Actinozoa"
     ],
     "family_id": "g_12b559095987e9be",
     "related_root_ids": [
@@ -13504,7 +16229,9 @@
       "actinopod",
       "actinomyces",
       "actinocerid",
-      "actinophryid"
+      "actinophryid",
+      "Actinozoa",
+      "Actinopterygii"
     ],
     "related_root_ids": [
       "r_5c3c54d6bb04c305"
@@ -13625,7 +16352,8 @@
       "added",
       "additionally",
       "additive",
-      "addend"
+      "addend",
+      "add"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -13833,9 +16561,28 @@
     ],
     "family_id": "g_c46dbab1ab3f542d",
     "related_root_ids": [
-      "r_22e79fe7d2789aa9"
+      "r_22e79fe7d2789aa9",
+      "r_c7b691cf11576f4e"
     ],
     "source_entry": "aer, aero",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_c7b691cf11576f4e",
+    "root": "aeri-",
+    "source_form": "aeri-",
+    "meaning": "air",
+    "class": "prefix",
+    "origin": "Late Latin aeri-, from Latin aer, ultimately Greek aēr",
+    "source_entry": "aer-",
+    "family_id": "g_c46dbab1ab3f542d",
+    "example": [
+      "aeriferous"
+    ],
+    "related_root_ids": [
+      "r_22e79fe7d2789aa9",
+      "r_57e614f4a597fe5c"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -13867,11 +16614,13 @@
       "anaerobe",
       "anaerobic",
       "aerotitis",
-      "aerorrhachia"
+      "aerorrhachia",
+      "aerate"
     ],
     "family_id": "g_c46dbab1ab3f542d",
     "related_root_ids": [
-      "r_57e614f4a597fe5c"
+      "r_57e614f4a597fe5c",
+      "r_c7b691cf11576f4e"
     ],
     "source_entry": "aer, aero",
     "pending_family_examples": 0
@@ -14025,11 +16774,13 @@
       "affectionate",
       "affectional",
       "affected",
-      "affecting"
+      "affecting",
+      "affected role"
     ],
     "related_root_ids": [
       "r_2f61faaa0ff9d97c",
       "r_4fd8fb4f6d9e3e85",
+      "r_51f813baad59903d",
       "r_6cadab5c886b0057",
       "r_72f8a30d2e7a602f",
       "r_765498906cbbf450",
@@ -14039,6 +16790,21 @@
       "r_d2b30a7aa64ac857",
       "r_d96ab84612ae3ff1"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e74060b9b040a668",
+    "root": "Afro-",
+    "source_form": "Afro-",
+    "meaning": "relating to Africa",
+    "class": "prefix",
+    "origin": "Latin Afer, Afr- (African)",
+    "source_entry": "Afro",
+    "family_id": "g_e74060b9b040a668",
+    "example": [
+      "Afrocentric"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -14053,7 +16819,8 @@
     "example": [
       "afterlife",
       "aftershock",
-      "afternoon"
+      "afternoon",
+      "aftermath"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14286,7 +17053,8 @@
       "agronomist",
       "agronomy",
       "agrotechnique",
-      "nonagricultural"
+      "nonagricultural",
+      "agricorporation"
     ],
     "family_id": "g_ed847209556b3074",
     "related_root_ids": [
@@ -14308,7 +17076,10 @@
     "example": [
       "agribusiness",
       "agriculture",
-      "agricultural"
+      "agricultural",
+      "agriculturalist",
+      "nonagricultural",
+      "agriculturist"
     ],
     "family_id": "g_ed847209556b3074",
     "related_root_ids": [
@@ -14355,7 +17126,8 @@
     "example": [
       "aided",
       "aide",
-      "unaided"
+      "unaided",
+      "aid"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14371,7 +17143,8 @@
       "ailuromancy",
       "ailurophile",
       "ailurophilia",
-      "ailurophobia"
+      "ailurophobia",
+      "Ailuroedus"
     ],
     "family_id": "g_654ad298ba414415",
     "related_root_ids": [],
@@ -14390,7 +17163,8 @@
     "example": [
       "aimless",
       "aimlessness",
-      "aimlessly"
+      "aimlessly",
+      "aim"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14410,7 +17184,11 @@
       "airily",
       "airless",
       "airiness",
-      "aired"
+      "aired",
+      "air",
+      "airborne",
+      "airworthy",
+      "airport"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14532,6 +17310,23 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_17ed1f1e3e65cae0",
+    "root": "alco-",
+    "source_form": "alco-",
+    "meaning": "alcohol",
+    "class": "prefix",
+    "origin": "English combining form representing alcohol, clipped from alcohol; British example is a blend, with alternative reanalysis of alcohol noted in review",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, 2002, PDF page 4, alco- or alcoo- entry",
+    "family_id": "g_bc3ea9126e9a7673",
+    "example": [
+      "alcopop"
+    ],
+    "related_root_ids": [
+      "r_8f76095999e6309e"
+    ],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_8f76095999e6309e",
     "root": "alcohol",
     "source_form": "alcohol",
@@ -14543,9 +17338,12 @@
     "example": [
       "alcoholic",
       "alcoholism",
-      "nonalcoholic"
+      "nonalcoholic",
+      "alcohol"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_17ed1f1e3e65cae0"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -14817,7 +17615,8 @@
       "allow",
       "allowable",
       "allowance",
-      "allowed"
+      "allowed",
+      "disallow"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14893,7 +17692,8 @@
       "alphabetically",
       "alphabetized",
       "panalphabetic",
-      "polyalphabetic"
+      "polyalphabetic",
+      "alphabet"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -14964,7 +17764,9 @@
       "subaltern",
       "unalterable",
       "unaltered",
-      "alteration"
+      "alteration",
+      "alterable",
+      "altered"
     ],
     "family_id": "g_587c3f0b9e363ed2",
     "related_root_ids": [
@@ -14986,7 +17788,9 @@
       "alternation",
       "alternative",
       "alternator",
-      "subaltern"
+      "subaltern",
+      "alternatively",
+      "alternating"
     ],
     "family_id": "g_587c3f0b9e363ed2",
     "related_root_ids": [
@@ -15068,7 +17872,8 @@
     "example": [
       "aluminous",
       "aluminite",
-      "alumina"
+      "alumina",
+      "alum"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -15127,6 +17932,7 @@
     "related_root_ids": [
       "r_018b1e85798df1b1",
       "r_3b99d809f0a090a7",
+      "r_56f8d6bd25e53776",
       "r_ef0bc7d75a5703b5",
       "r_f410f421ea236a8e"
     ],
@@ -15150,6 +17956,7 @@
       "r_018b1e85798df1b1",
       "r_2ed4886efd7c64c3",
       "r_3b99d809f0a090a7",
+      "r_56f8d6bd25e53776",
       "r_f410f421ea236a8e"
     ],
     "source_entry": "am, ama, amor",
@@ -15171,6 +17978,7 @@
     "related_root_ids": [
       "r_2ed4886efd7c64c3",
       "r_3b99d809f0a090a7",
+      "r_56f8d6bd25e53776",
       "r_ef0bc7d75a5703b5",
       "r_f410f421ea236a8e"
     ],
@@ -15188,7 +17996,8 @@
     "example": [
       "ambition",
       "ambivalent",
-      "ambidexterity"
+      "ambidexterity",
+      "ambiguous"
     ],
     "related_root_ids": [
       "r_11c0c2c1ebd35777",
@@ -15197,35 +18006,6 @@
       "r_4b599cfadf8afba2",
       "r_b94bb2d62f2d9511"
     ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_fa3dbff33301d0ce",
-    "root": "amb",
-    "source_form": "amb",
-    "meaning": "walk",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "amble",
-      "ambler",
-      "ambulance",
-      "ambulatory",
-      "perambulate",
-      "ambulant",
-      "ambulate",
-      "ambulation",
-      "circumambulate",
-      "circumambulation",
-      "preamble",
-      "preambulate"
-    ],
-    "family_id": "g_4092b04269726faf",
-    "related_root_ids": [
-      "r_60b37d0f4b136eeb",
-      "r_7a05856742af2a0a"
-    ],
-    "source_entry": "amb, ambl, ambul",
     "pending_family_examples": 0
   },
   {
@@ -15241,7 +18021,9 @@
       "ambience",
       "ambiguity",
       "ambiance",
-      "circumambient"
+      "circumambient",
+      "ambient",
+      "ambition"
     ],
     "related_root_ids": [
       "r_1536653f99aeae6f",
@@ -15265,7 +18047,8 @@
       "ambivalent",
       "ambivalence",
       "ambidextrous",
-      "ambidexterity"
+      "ambidexterity",
+      "ambiguous"
     ],
     "related_root_ids": [
       "r_11c0c2c1ebd35777",
@@ -15285,12 +18068,12 @@
     "origin": "Latin",
     "example": [
       "amble",
-      "preamble"
+      "preamble",
+      "ambler"
     ],
     "family_id": "g_4092b04269726faf",
     "related_root_ids": [
-      "r_7a05856742af2a0a",
-      "r_fa3dbff33301d0ce"
+      "r_7a05856742af2a0a"
     ],
     "source_entry": "amb, ambl, ambul",
     "pending_family_examples": 0
@@ -15329,12 +18112,17 @@
       "funambulist",
       "perambulate",
       "perambulator",
-      "somnambulist"
+      "somnambulist",
+      "ambulant",
+      "ambulate",
+      "ambulation",
+      "circumambulate",
+      "circumambulation",
+      "preambulate"
     ],
     "family_id": "g_4092b04269726faf",
     "related_root_ids": [
-      "r_60b37d0f4b136eeb",
-      "r_fa3dbff33301d0ce"
+      "r_60b37d0f4b136eeb"
     ],
     "source_entry": "amb, ambl, ambul",
     "pending_family_examples": 0
@@ -15370,6 +18158,7 @@
       "r_018b1e85798df1b1",
       "r_2ed4886efd7c64c3",
       "r_3b99d809f0a090a7",
+      "r_56f8d6bd25e53776",
       "r_ef0bc7d75a5703b5"
     ],
     "source_entry": "amic",
@@ -15409,6 +18198,7 @@
     "related_root_ids": [
       "r_018b1e85798df1b1",
       "r_2ed4886efd7c64c3",
+      "r_56f8d6bd25e53776",
       "r_ef0bc7d75a5703b5",
       "r_f410f421ea236a8e"
     ],
@@ -15432,7 +18222,8 @@
       "amphibious",
       "amphibole",
       "amphoterism",
-      "amphistyly"
+      "amphistyly",
+      "Amphipoda"
     ],
     "related_root_ids": [
       "r_a43ad166cd8e1d97",
@@ -15646,7 +18437,8 @@
       "anecdote",
       "abranchiate",
       "aneroid",
-      "anomie"
+      "anomie",
+      "aplastic anemia"
     ],
     "related_root_ids": [
       "r_f9b1df84a5445b31"
@@ -15740,6 +18532,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_8184fa67567fba80",
+    "root": "anarch",
+    "source_form": "anarch-",
+    "meaning": "without government",
+    "class": "root",
+    "origin": "Greek anarchos through Medieval Latin and French; modern English combining stem; larger teaching segmentation is distinct from historical derivation",
+    "source_entry": "Merriam-Webster, A Dictionary of Prefixes, Suffixes, and Combining Forms, p.5, anarch- sense 1",
+    "family_id": "g_8184fa67567fba80",
+    "example": [
+      "anarchist"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_355c182961c31398",
     "root": "andr",
     "source_form": "andr",
@@ -15801,7 +18608,8 @@
       "androcentrism",
       "androspore",
       "androgenous",
-      "andrology"
+      "andrology",
+      "polyandry"
     ],
     "family_id": "g_4473c69d884ae6f8",
     "related_root_ids": [
@@ -15906,7 +18714,9 @@
       "angelically",
       "angelet",
       "angelology",
-      "angelophany"
+      "angelophany",
+      "angel",
+      "archangel"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -15944,6 +18754,21 @@
     "related_root_ids": [
       "r_a020e4873b486c10"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_9bddc2cf110a5b4b",
+    "root": "Anglo-",
+    "source_form": "Anglo-",
+    "meaning": "relating to England",
+    "class": "prefix",
+    "origin": "New Latin Anglo-, from Latin Angli (the English people)",
+    "source_entry": "Anglo",
+    "family_id": "g_9bddc2cf110a5b4b",
+    "example": [
+      "Anglophile"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -16148,7 +18973,9 @@
       "superannuate",
       "superannuated",
       "superannuation",
-      "anniversarian"
+      "anniversarian",
+      "per annum",
+      "bicentennial"
     ],
     "family_id": "g_dd83b1053ed5c2c2",
     "related_root_ids": [
@@ -16371,7 +19198,8 @@
       "anthozoa",
       "anthozoan",
       "anthodite",
-      "anthophore"
+      "anthophore",
+      "anthologist"
     ],
     "family_id": "g_fbcb921c748dc94a",
     "related_root_ids": [
@@ -16488,7 +19316,8 @@
       "anthropomorphic",
       "anthropomorphism",
       "anthropophagy",
-      "anthroposophy"
+      "anthroposophy",
+      "anthropological"
     ],
     "family_id": "g_807578a53242ff62",
     "related_root_ids": [
@@ -16885,7 +19714,9 @@
       "aquatile",
       "aquatint",
       "aquavit",
-      "semiaquatic"
+      "semiaquatic",
+      "Aquarius",
+      "aqualung"
     ],
     "family_id": "g_19d695965985b4eb",
     "related_root_ids": [
@@ -17086,7 +19917,8 @@
       "arborescent",
       "arboretum",
       "arborist",
-      "arborvitae"
+      "arborvitae",
+      "Arbor Day"
     ],
     "family_id": "g_b86c24fb6243540a",
     "related_root_ids": [
@@ -17166,7 +19998,6 @@
     "class": "root",
     "origin": "Greek",
     "example": [
-      "anarchy",
       "archaeologic",
       "archaeologist",
       "archaeology",
@@ -17188,22 +20019,13 @@
       "archetype",
       "archetypical",
       "archfiend",
-      "archipelago",
       "architect",
       "architectonics",
-      "archon",
-      "autarchy",
-      "heptarchy",
-      "hierarchy",
-      "matriarch",
-      "monarch",
-      "monarchy",
-      "oligarchy",
-      "patriarch",
       "tetrarch",
-      "tetrarchy",
       "archaeological",
-      "archaeologically"
+      "archaeologically",
+      "archbishopric",
+      "anarchism"
     ],
     "family_id": "g_928e383fc1f59e53",
     "related_root_ids": [
@@ -17256,7 +20078,21 @@
       "octarchy",
       "gynarchy",
       "polyarchy",
-      "plutarchy"
+      "plutarchy",
+      "anarchy",
+      "autarchy",
+      "heptarchy",
+      "hierarchy",
+      "matriarch",
+      "monarch",
+      "monarchy",
+      "oligarchy",
+      "patriarch",
+      "tetrarchy",
+      "archon",
+      "monarchical",
+      "patriarchal",
+      "patriarchate"
     ],
     "related_root_ids": [
       "r_07f41913a56a9a2a",
@@ -17322,7 +20158,8 @@
     "example": [
       "archaeoastronomy",
       "archaeologic",
-      "archaeological"
+      "archaeological",
+      "archaeocryptography"
     ],
     "related_root_ids": [
       "r_07f41913a56a9a2a",
@@ -17375,11 +20212,12 @@
     "id": "r_07f41913a56a9a2a",
     "root": "archaeo",
     "source_form": "archaeo",
-    "meaning": "first in rank or time",
+    "meaning": "ancient, old, primitive",
     "class": "root",
     "origin": "Greek",
     "example": [
-      "archaeology"
+      "archaeology",
+      "archaeological"
     ],
     "family_id": "g_928e383fc1f59e53",
     "related_root_ids": [
@@ -17413,7 +20251,9 @@
       "archaeologic",
       "archaeological",
       "archaeologist",
-      "archaeoastronomy"
+      "archaeoastronomy",
+      "archaeology",
+      "archaeocryptography"
     ],
     "related_root_ids": [
       "r_07f41913a56a9a2a",
@@ -17470,11 +20310,11 @@
     "origin": "Greek",
     "example": [
       "archegonium",
-      "archenemy",
       "archenteron",
       "archeology",
       "archeozoic",
-      "archetype"
+      "archetype",
+      "archetypal"
     ],
     "family_id": "g_928e383fc1f59e53",
     "related_root_ids": [
@@ -17595,7 +20435,8 @@
     "source_entry": "arct-",
     "family_id": "g_4ee980b56ee63958",
     "example": [
-      "arctic"
+      "arctic",
+      "Arctic Ocean"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17642,7 +20483,8 @@
     "family_id": "g_b3b63451f96ed3fd",
     "example": [
       "areology",
-      "areobotany"
+      "areobotany",
+      "areographer"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17697,7 +20539,8 @@
     "example": [
       "argue",
       "arguer",
-      "argument"
+      "argument",
+      "overargue"
     ],
     "family_id": "g_58b792137e4816b1",
     "related_root_ids": [],
@@ -17717,7 +20560,26 @@
       "aristocrat",
       "aristocracy"
     ],
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_0a947e7b81be365c"
+    ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_0a947e7b81be365c",
+    "root": "aristo-",
+    "source_form": "aristo-",
+    "meaning": "best",
+    "class": "combining_form",
+    "origin": "Greek aristos, best; via Latin/French in aristocracy",
+    "source_entry": "aristo-",
+    "family_id": "g_b083f0a7c89f6cbc",
+    "example": [
+      "aristocracy"
+    ],
+    "related_root_ids": [
+      "r_64f80fc2e3ee74b1"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -17755,7 +20617,9 @@
       "armhole",
       "armpit",
       "armful",
-      "armless"
+      "armless",
+      "overarm",
+      "underarm"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17835,7 +20699,8 @@
     "family_id": "g_03f5789661b360e1",
     "example": [
       "aromatherapy",
-      "aromatic"
+      "aromatic",
+      "aroma"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -17956,7 +20821,8 @@
       "arteritis",
       "arteriolar",
       "arteriolosclerosis",
-      "arteriole"
+      "arteriole",
+      "arteriosclerosis obliterans"
     ],
     "family_id": "g_3bb8c09a1c6cf572",
     "related_root_ids": [
@@ -17979,7 +20845,8 @@
       "arteriosclerosis",
       "arteriosclerotic",
       "arteriovenous",
-      "arteriolosclerosis"
+      "arteriolosclerosis",
+      "arteriosclerosis obliterans"
     ],
     "family_id": "g_3bb8c09a1c6cf572",
     "related_root_ids": [
@@ -18166,7 +21033,8 @@
       "ascus",
       "ascocarp",
       "ascoma",
-      "ascomycete"
+      "ascomycete",
+      "Ascomycota"
     ],
     "related_root_ids": [
       "r_47af6119a9d3da61"
@@ -18240,7 +21108,8 @@
     "family_id": "g_e49abab8e509c269",
     "example": [
       "asking",
-      "unasked"
+      "unasked",
+      "ask"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -18274,7 +21143,8 @@
     "example": [
       "assassinate",
       "assassination",
-      "assassinated"
+      "assassinated",
+      "assassin"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -18321,7 +21191,8 @@
       "asteroid",
       "disaster",
       "diasterism",
-      "monaster"
+      "monaster",
+      "geaster"
     ],
     "family_id": "g_53de6393a39fa8f4",
     "related_root_ids": [
@@ -18397,7 +21268,8 @@
       "astrophysics",
       "bioastronautics",
       "astrogate",
-      "astrogator"
+      "astrogator",
+      "astronomical unit"
     ],
     "family_id": "g_53de6393a39fa8f4",
     "related_root_ids": [
@@ -18435,7 +21307,10 @@
       "astrodynamics",
       "astrogate",
       "astrogator",
-      "astroglia"
+      "astroglia",
+      "astronomical unit",
+      "astronomically",
+      "aster"
     ],
     "family_id": "g_53de6393a39fa8f4",
     "related_root_ids": [
@@ -18602,7 +21477,9 @@
       "incorporate",
       "cerebrate",
       "elaborate",
-      "aspirate"
+      "aspirate",
+      "mediate",
+      "collaborate"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -18643,8 +21520,28 @@
       "nonathlete"
     ],
     "family_id": "g_7cadac1a741ce645",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_3f3ac15f10f0d76d"
+    ],
     "source_entry": "athl-",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_e722c0097bb9571a",
+    "root": "atm",
+    "source_form": "atm-",
+    "meaning": "vapor; air",
+    "class": "root",
+    "origin": "New Latin atmo-, from Greek atm-, atmo-, from atmos vapor",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, p.8, atm- / atmo- grouped entry",
+    "family_id": "g_dcceb9b644c29458",
+    "example": [
+      "atmosphere",
+      "atmospheric"
+    ],
+    "related_root_ids": [
+      "r_0a1d164be6ae0544"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -18661,7 +21558,9 @@
       "atmospherical"
     ],
     "family_id": "g_dcceb9b644c29458",
-    "related_root_ids": [],
+    "related_root_ids": [
+      "r_e722c0097bb9571a"
+    ],
     "source_entry": "atmo-",
     "pending_family_examples": 0
   },
@@ -19022,7 +21921,8 @@
     "source_entry": "austere",
     "family_id": "g_9dd0361557c66013",
     "example": [
-      "austerely"
+      "austerely",
+      "austere"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19035,7 +21935,8 @@
     "class": "root",
     "origin": "Latin",
     "example": [
-      "austral"
+      "austral",
+      "Australia"
     ],
     "family_id": "g_7686837f3bdcc619",
     "related_root_ids": [],
@@ -19147,11 +22048,27 @@
       "autonomy",
       "automaton",
       "autocracy",
-      "semiautomatic"
+      "semiautomatic",
+      "autonomic nervous system"
     ],
     "related_root_ids": [
       "r_eadcf19092bc88f2"
     ],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_a292f8214b6bc0d6",
+    "root": "automat",
+    "source_form": "automat-",
+    "meaning": "operating or regulating itself; automatic",
+    "class": "root",
+    "origin": "Greek automatos, self-acting; ultimately autos self and matos thinking; teaching surface segmentation does not assert a modern English coinage",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, p. 9, automat- / automato- entry",
+    "family_id": "g_a292f8214b6bc0d6",
+    "example": [
+      "automatic"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -19228,7 +22145,8 @@
     "family_id": "g_d496a7cba30a743a",
     "example": [
       "averaged",
-      "averageness"
+      "averageness",
+      "average"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19296,7 +22214,8 @@
       "awed",
       "awedness",
       "awesomely",
-      "awedly"
+      "awedly",
+      "awe"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19328,7 +22247,6 @@
     "example": [
       "axial",
       "axis",
-      "axle",
       "axon",
       "biaxial",
       "coaxial",
@@ -19402,7 +22320,8 @@
     "family_id": "g_f4d569324697c2d3",
     "example": [
       "babyish",
-      "babyhood"
+      "babyhood",
+      "baby"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19515,7 +22434,12 @@
       "backless",
       "crookback",
       "sweptback",
-      "swayback"
+      "swayback",
+      "back",
+      "backward",
+      "backwards",
+      "halfback",
+      "background"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19579,7 +22503,8 @@
       "bacteriophagous",
       "bacteriostasis",
       "bacteriostat",
-      "bacteriostatic"
+      "bacteriostatic",
+      "mycobacteria"
     ],
     "family_id": "g_b3773ed4160c149b",
     "related_root_ids": [
@@ -19630,7 +22555,8 @@
     "family_id": "g_ce69dc8af45cbef9",
     "example": [
       "badly",
-      "badness"
+      "badness",
+      "bad"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19648,7 +22574,9 @@
       "bagged",
       "bagger",
       "bagging",
-      "baggy"
+      "baggy",
+      "bag",
+      "carpetbag"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19664,7 +22592,8 @@
     "family_id": "g_37b0d27287dca3f3",
     "example": [
       "baited",
-      "baiting"
+      "baiting",
+      "bait"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19685,7 +22614,8 @@
       "bakeshop",
       "baked",
       "prebaked",
-      "prebake"
+      "prebake",
+      "bake"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19767,7 +22697,8 @@
       "banished",
       "banish",
       "banishment",
-      "banal"
+      "banal",
+      "ban"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19803,7 +22734,8 @@
       "disbanding",
       "disbanded",
       "disband",
-      "bandana"
+      "bandana",
+      "sweatband"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19825,7 +22757,8 @@
       "databank",
       "banknote",
       "nonbank",
-      "bankable"
+      "bankable",
+      "bankrupt"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19898,7 +22831,8 @@
       "barycentre",
       "barytone",
       "barysphere",
-      "baritone"
+      "baritone",
+      "aneroid barometer"
     ],
     "family_id": "g_77236e0b1221dc7f",
     "related_root_ids": [
@@ -19921,7 +22855,8 @@
       "barbed",
       "barbate",
       "barbershop",
-      "barber"
+      "barber",
+      "barb"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -19957,7 +22892,8 @@
     "example": [
       "barely",
       "barefoot",
-      "barefaced"
+      "barefaced",
+      "bare"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20020,7 +22956,8 @@
       "barophobia",
       "barostat",
       "barogram",
-      "abarognosis"
+      "abarognosis",
+      "aneroid barometer"
     ],
     "family_id": "g_77236e0b1221dc7f",
     "related_root_ids": [
@@ -20028,6 +22965,21 @@
       "r_d21caa326108e32b"
     ],
     "source_entry": "bar, baro",
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_accaeab9918fd1f9",
+    "root": "barr-",
+    "source_form": "barr",
+    "meaning": "a bar",
+    "class": "root",
+    "origin": "French barre, bar; deeper origin disputed",
+    "source_entry": "John Kennedy, A Stem Dictionary of the English Language (1890), p. 53, Barr",
+    "family_id": "g_accaeab9918fd1f9",
+    "example": [
+      "barrier"
+    ],
+    "related_root_ids": [],
     "pending_family_examples": 0
   },
   {
@@ -20156,7 +23108,8 @@
       "rebate",
       "unabated",
       "noncombatant",
-      "bated"
+      "bated",
+      "bat"
     ],
     "family_id": "g_ca5bcec12f716f44",
     "related_root_ids": [],
@@ -20197,7 +23150,9 @@
       "sunbather",
       "bathe",
       "bather",
-      "bathing"
+      "bathing",
+      "bath",
+      "bathrobe"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20264,7 +23219,10 @@
       "behold",
       "berate",
       "behavior",
-      "beseech"
+      "beseech",
+      "beloved",
+      "bestow",
+      "betray"
     ],
     "related_root_ids": [
       "r_3dbe9e5c99a35e15"
@@ -20316,7 +23274,15 @@
       "bespatter",
       "betake",
       "bedim",
-      "bedeviled"
+      "bedeviled",
+      "befit",
+      "beget",
+      "begrudge",
+      "beloved",
+      "bespeak",
+      "bestow",
+      "bethink",
+      "betray"
     ],
     "related_root_ids": [
       "r_217c89354de45823"
@@ -20334,7 +23300,8 @@
     "family_id": "g_225023966470fdcc",
     "example": [
       "beachcomber",
-      "beachy"
+      "beachy",
+      "beach"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20382,7 +23349,8 @@
     "source_entry": "bean",
     "family_id": "g_f479b3bd53d7a6de",
     "example": [
-      "soybean"
+      "soybean",
+      "bean"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20435,7 +23403,8 @@
       "beardless",
       "longbeard",
       "bearded",
-      "graybeard"
+      "graybeard",
+      "beard"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20455,7 +23424,9 @@
       "beaten",
       "unbeatable",
       "beating",
-      "unbeaten"
+      "unbeaten",
+      "beat",
+      "downbeat"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20499,7 +23470,9 @@
       "embed",
       "embedding",
       "abed",
-      "bedded"
+      "bedded",
+      "bed",
+      "bedfellow"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20515,7 +23488,8 @@
     "family_id": "g_45bb66ab4649f2d8",
     "example": [
       "beefy",
-      "beefsteak"
+      "beefsteak",
+      "beef"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20530,7 +23504,9 @@
     "source_entry": "bel",
     "family_id": "g_3d1d700f63e0efd8",
     "example": [
-      "embellish"
+      "embellish",
+      "belle",
+      "belvedere"
     ],
     "related_root_ids": [
       "r_762839c3eb5b7deb"
@@ -20550,6 +23526,23 @@
       "beleaguered"
     ],
     "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
+    "id": "r_90d2c32fa301dc1f",
+    "root": "believe",
+    "source_form": "believe",
+    "meaning": "accept as true; have faith in",
+    "class": "root",
+    "origin": "Old English belyfan; Germanic",
+    "source_entry": "believe",
+    "family_id": "g_0c2d545eb6e05a61",
+    "example": [
+      "unbelievable"
+    ],
+    "related_root_ids": [
+      "r_68272986ea64f37e"
+    ],
     "pending_family_examples": 0
   },
   {
@@ -20634,7 +23627,8 @@
       "greenbelt",
       "belted",
       "sunbelt",
-      "unbelted"
+      "unbelted",
+      "belt"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20679,7 +23673,8 @@
       "workbench",
       "benching",
       "benched",
-      "benchmark"
+      "benchmark",
+      "bench"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20699,7 +23694,8 @@
       "bendable",
       "bended",
       "unbending",
-      "unbend"
+      "unbend",
+      "bend"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -20721,7 +23717,9 @@
       "beneficiary",
       "benefit",
       "benevolence",
-      "benevolent"
+      "benevolent",
+      "benevolently",
+      "benefaction"
     ],
     "family_id": "g_71f2c893906fc240",
     "related_root_ids": [
@@ -20845,7 +23843,8 @@
       "biomorphism",
       "biochron",
       "biomorph",
-      "biostasis"
+      "biostasis",
+      "molecular biology"
     ],
     "family_id": "g_f8e55093e18663e2",
     "related_root_ids": [
@@ -20971,6 +23970,21 @@
     "pending_family_examples": 0
   },
   {
+    "id": "r_a7d211576acce0d2",
+    "root": "biblic",
+    "source_form": "biblic-",
+    "meaning": "Bible",
+    "class": "root",
+    "origin": "Medieval Latin biblicus, from biblia Bible and Latin -icus; compare obsolete English biblic; teaching surface segmentation does not assert a modern English coinage",
+    "source_entry": "Merriam-Webster Dictionary of Prefixes, Suffixes and Combining Forms, p. 10, biblic- / biblico-, Bible sense",
+    "family_id": "g_a7d211576acce0d2",
+    "example": [
+      "biblical"
+    ],
+    "related_root_ids": [],
+    "pending_family_examples": 0
+  },
+  {
     "id": "r_6a721558aa5f77c7",
     "root": "biblio",
     "source_form": "biblio",
@@ -21053,7 +24067,9 @@
     "example": [
       "bigness",
       "bigwig",
-      "biggie"
+      "biggie",
+      "big",
+      "bigger"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21068,7 +24084,10 @@
     "source_entry": "bike",
     "family_id": "g_2830df97c7e8633d",
     "example": [
-      "biker"
+      "biker",
+      "bike",
+      "biking",
+      "motorbike"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21085,7 +24104,8 @@
     "example": [
       "billable",
       "billed",
-      "billing"
+      "billing",
+      "bill"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21132,7 +24152,8 @@
     "example": [
       "unbind",
       "binder",
-      "binding"
+      "binding",
+      "bind"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21228,7 +24249,8 @@
       "symbiotic",
       "biome",
       "biosemiotic",
-      "biota"
+      "biota",
+      "biographical"
     ],
     "family_id": "g_f8e55093e18663e2",
     "related_root_ids": [
@@ -21250,7 +24272,9 @@
     "example": [
       "birdie",
       "hummingbird",
-      "birder"
+      "birder",
+      "bird",
+      "seabird"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21268,7 +24292,9 @@
       "rebirth",
       "stillbirth",
       "birthrate",
-      "birthing"
+      "birthing",
+      "birth",
+      "birthday"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21302,7 +24328,8 @@
       "archbishop",
       "archbishopric",
       "bishopric",
-      "unbishop"
+      "unbishop",
+      "bishop"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21335,7 +24362,8 @@
     "source_entry": "bit",
     "family_id": "g_e1c4bb3b14718c28",
     "example": [
-      "bitty"
+      "bitty",
+      "bit"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21367,7 +24395,10 @@
       "inky-black",
       "greyish-black",
       "jet-black",
-      "pitch-black"
+      "pitch-black",
+      "bluish black",
+      "black",
+      "blackmail"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21383,7 +24414,10 @@
     "family_id": "g_7c25fe8347505e8f",
     "example": [
       "blameless",
-      "blamed"
+      "blamed",
+      "blame",
+      "blaming",
+      "blameworthy"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21398,7 +24432,8 @@
     "source_entry": "blanch",
     "family_id": "g_84c24e7023dadf39",
     "example": [
-      "blanched"
+      "blanched",
+      "blanch"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21413,7 +24448,8 @@
     "source_entry": "blank",
     "family_id": "g_e83f626396aa52ef",
     "example": [
-      "blanket"
+      "blanket",
+      "blank"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21672,7 +24708,8 @@
       "unbleached",
       "bleaching",
       "bleached",
-      "bleacher"
+      "bleacher",
+      "bleach"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21689,7 +24726,8 @@
     "example": [
       "bleeder",
       "nosebleed",
-      "bleeding"
+      "bleeding",
+      "bleed"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21706,7 +24744,8 @@
     "example": [
       "blended",
       "blender",
-      "blending"
+      "blending",
+      "blend"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21723,7 +24762,8 @@
     "example": [
       "blennorrhagia",
       "blennophobia",
-      "blennadenitis"
+      "blennadenitis",
+      "Blennosperma"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21814,7 +24854,9 @@
       "blocked",
       "blockbuster",
       "unblocked",
-      "blocker"
+      "blocker",
+      "block",
+      "roadblock"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21833,7 +24875,9 @@
       "bloodily",
       "bloodless",
       "bloody",
-      "bloodied"
+      "bloodied",
+      "blood",
+      "bloodstream"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21850,7 +24894,8 @@
     "example": [
       "blown",
       "blower",
-      "blowing"
+      "blowing",
+      "blow"
     ],
     "related_root_ids": [
       "r_8a7e7a923494dda8"
@@ -21918,7 +24963,11 @@
       "powdery-blue",
       "grey-blue",
       "gray-blue",
-      "true-blue"
+      "true-blue",
+      "powder blue",
+      "bright blue",
+      "pale blue",
+      "blue"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21950,7 +24999,8 @@
     "example": [
       "bluntly",
       "bluntness",
-      "blunted"
+      "blunted",
+      "blunt"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21966,7 +25016,11 @@
     "family_id": "g_f8b35c49ee56f00d",
     "example": [
       "aboard",
-      "larboard"
+      "larboard",
+      "inboard",
+      "outboard",
+      "board",
+      "overboard"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -21984,7 +25038,8 @@
       "boaster",
       "boastfully",
       "boasting",
-      "boastful"
+      "boastful",
+      "boast"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22000,7 +25055,9 @@
     "family_id": "g_8bb7c61de4816de2",
     "example": [
       "boating",
-      "boater"
+      "boater",
+      "boat",
+      "motorboat"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22023,7 +25080,10 @@
       "disembody",
       "anybody",
       "antibody",
-      "somebody"
+      "somebody",
+      "body",
+      "bodywork",
+      "bodily"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22041,7 +25101,8 @@
       "boiling",
       "parboil",
       "boiler",
-      "boiled"
+      "boiled",
+      "boil"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22094,7 +25155,8 @@
       "symbolisation",
       "symbololatry",
       "symbolization",
-      "symbolic"
+      "symbolic",
+      "hyperbola"
     ],
     "related_root_ids": [
       "r_89b19cdb0f895242"
@@ -22146,7 +25208,9 @@
     "example": [
       "bombed",
       "bomber",
-      "bombing"
+      "bombing",
+      "bombardment",
+      "bombard"
     ],
     "family_id": "g_27a1a2bc7d03ad9a",
     "related_root_ids": [],
@@ -22187,7 +25251,8 @@
     "family_id": "g_cb622262df527b56",
     "example": [
       "bonding",
-      "bonded"
+      "bonded",
+      "bond"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22207,7 +25272,8 @@
       "boney",
       "bonesetting",
       "boneless",
-      "debone"
+      "debone",
+      "bone"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22230,7 +25296,10 @@
       "bookcase",
       "overbooked",
       "bookseller",
-      "bookshop"
+      "bookshop",
+      "book",
+      "booklet",
+      "bankbook"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22248,7 +25317,8 @@
       "bootstrap",
       "bootstrapping",
       "bootable",
-      "reboot"
+      "reboot",
+      "boot"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22289,7 +25359,8 @@
     "source_entry": "boss",
     "family_id": "g_736908c90a1997a4",
     "example": [
-      "bossy"
+      "bossy",
+      "boss"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22350,7 +25421,8 @@
     "example": [
       "bothered",
       "unbothered",
-      "bothersome"
+      "bothersome",
+      "bother"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22496,7 +25568,9 @@
     "example": [
       "unbowed",
       "bowed",
-      "bowing"
+      "bowing",
+      "bow",
+      "bowstring"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22563,7 +25637,8 @@
       "boyishly",
       "boyhood",
       "boyishness",
-      "boyish"
+      "boyish",
+      "boy"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22600,7 +25675,11 @@
       "embrace",
       "bracer",
       "embraceable",
-      "bracelet"
+      "bracelet",
+      "brace",
+      "bracing",
+      "bracingly",
+      "embracing"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22716,7 +25795,8 @@
       "unbraid",
       "braided",
       "unbraided",
-      "braiding"
+      "braiding",
+      "braid"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22734,7 +25814,9 @@
       "brainstorm",
       "brainstorming",
       "brainless",
-      "brainy"
+      "brainy",
+      "brain",
+      "brainwash"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22751,7 +25833,8 @@
     "example": [
       "unbranched",
       "branched",
-      "branching"
+      "branching",
+      "branch"
     ],
     "related_root_ids": [],
     "pending_family_examples": 0
@@ -22829,2021 +25912,10 @@
       "branded",
       "brandy",
       "brandied",
-      "branding"
+      "branding",
+      "brand"
     ],
     "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_a05b0c30cc11b06a",
-    "root": "brass",
-    "source_form": "brass",
-    "meaning": "brass, metal alloy",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "brass",
-    "family_id": "g_5383d937fb88d531",
-    "example": [
-      "brassy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_9410bf07bad679d1",
-    "root": "brave",
-    "source_form": "brave",
-    "meaning": "brave, courageous",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "brave",
-    "family_id": "g_b4541db9782f0973",
-    "example": [
-      "bravery",
-      "bravely"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_33730ce6036edda9",
-    "root": "bread",
-    "source_form": "bread",
-    "meaning": "bread, baked food",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "bread",
-    "family_id": "g_3535face1fac0698",
-    "example": [
-      "cornbread",
-      "breadcrumb"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_369646ecc607a84c",
-    "root": "break",
-    "source_form": "break",
-    "meaning": "break, split or interrupt",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "break",
-    "family_id": "g_4621c63ce1843065",
-    "example": [
-      "breakage",
-      "breaking",
-      "breakable",
-      "breakthrough",
-      "breakfast",
-      "breakdown",
-      "unbreakable",
-      "breakup",
-      "breaker"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_ef413ff4fda0328d",
-    "root": "breath",
-    "source_form": "breath",
-    "meaning": "air inhaled or exhaled",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "breath",
-    "family_id": "g_ec7a73ab2d143e94",
-    "example": [
-      "breathy",
-      "breathe",
-      "breathlessly",
-      "breathtaking",
-      "breathtakingly",
-      "breathlessness",
-      "breathless",
-      "breather",
-      "breathing"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_7cbeb514334b6a9f",
-    "root": "breed",
-    "source_form": "breed",
-    "meaning": "produce offspring; reproduce",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "breed",
-    "family_id": "g_b601efdd0b980169",
-    "example": [
-      "breeding",
-      "crossbreed",
-      "interbreed",
-      "inbreeding",
-      "breeder",
-      "inbreed",
-      "crossbreeding"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_54fdb6f39a1f279a",
-    "root": "brev",
-    "source_form": "brev",
-    "meaning": "short",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "abbreviate",
-      "abbreviated",
-      "abbreviation",
-      "abbreviator",
-      "breve",
-      "brevextensor",
-      "breviary",
-      "brevicaudate",
-      "brevity"
-    ],
-    "family_id": "g_4cc129bb920749d3",
-    "related_root_ids": [
-      "r_aed9ee6be3227c38"
-    ],
-    "source_entry": "brev",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_aed9ee6be3227c38",
-    "root": "brevi",
-    "source_form": "brevi",
-    "meaning": "short",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "abbreviate",
-      "abbreviated",
-      "abbreviation",
-      "abbreviator",
-      "breviary",
-      "brevicaudate",
-      "brevity"
-    ],
-    "family_id": "g_4cc129bb920749d3",
-    "related_root_ids": [
-      "r_54fdb6f39a1f279a"
-    ],
-    "source_entry": "brev",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_8c104d0a3c90a4d6",
-    "root": "brew",
-    "source_form": "brew",
-    "meaning": "prepare a beverage by steeping or fermentation",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "brew",
-    "family_id": "g_852c4d5eb1f1f96d",
-    "example": [
-      "brewpub",
-      "brewmaster",
-      "brewer",
-      "brewing",
-      "microbrewery",
-      "microbrew",
-      "brewery"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_34d5043b1f890314",
-    "root": "bribe",
-    "source_form": "bribe",
-    "meaning": "offer something to improperly influence someone",
-    "class": "root",
-    "origin": "Old French",
-    "source_entry": "bribe",
-    "family_id": "g_cebb4cb224d193a2",
-    "example": [
-      "bribee",
-      "bribery",
-      "briber",
-      "bribeable"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_8f30f67125ed891f",
-    "root": "brick",
-    "source_form": "brick",
-    "meaning": "a rectangular block used for construction",
-    "class": "root",
-    "origin": "Old French, probably Germanic",
-    "source_entry": "brick",
-    "family_id": "g_fff5438415adf3f2",
-    "example": [
-      "brickbat",
-      "brickwork",
-      "brickyard",
-      "bricklaying",
-      "bricklayer"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_c08ba2c5fef3b1a4",
-    "root": "bride",
-    "source_form": "bride",
-    "meaning": "a woman who is marrying or newly married",
-    "class": "root",
-    "origin": "Old English",
-    "source_entry": "bride",
-    "family_id": "g_6ddc9631d24a4b19",
-    "example": [
-      "bridesman",
-      "bridegroom",
-      "bridesmaid",
-      "bridecake"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_94f8e4d2837aa3b4",
-    "root": "bridg",
-    "source_form": "bridg",
-    "meaning": "a bridge for crossing; to span or connect",
-    "class": "root",
-    "origin": "historical English bridg, variant of bridge",
-    "source_entry": "bridg",
-    "family_id": "g_d3e93fa257a5eea1",
-    "example": [
-      "bridge",
-      "bridgeable",
-      "bridging",
-      "unbridgeable"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_ebfff44105cc9314",
-    "root": "brief",
-    "source_form": "brief",
-    "meaning": "short in duration or extent",
-    "class": "root",
-    "origin": "Old French from Latin",
-    "source_entry": "brief",
-    "family_id": "g_9ffc010e29a5159f",
-    "example": [
-      "briefer",
-      "briefness",
-      "briefly",
-      "briefing"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_98bc1efc3fc623f1",
-    "root": "brig",
-    "source_form": "brig",
-    "meaning": "strife, quarrel, fight",
-    "class": "root",
-    "origin": "Italian briga, brigare (brig- stem)",
-    "source_entry": "brig",
-    "family_id": "g_323f1ca6d0648f59",
-    "example": [
-      "brigade",
-      "brigadier",
-      "brigandism",
-      "brigandage",
-      "brigand",
-      "brigantine",
-      "brigandish"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d13e1fc22b6c9b34",
-    "root": "bright",
-    "source_form": "bright",
-    "meaning": "bright, shining",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "bright",
-    "family_id": "g_dd681e2541a18e64",
-    "example": [
-      "brightly",
-      "brightening",
-      "brighten",
-      "brightness"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d815ff0ac5ac37f8",
-    "root": "brilliant",
-    "source_form": "brilliant",
-    "meaning": "brilliant, shining or excellent",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "brilliant",
-    "family_id": "g_3386abfbfd3d2c5d",
-    "example": [
-      "brilliantly"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_3fe9bc7082a8b45c",
-    "root": "brisk",
-    "source_form": "brisk",
-    "meaning": "brisk, lively",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "brisk",
-    "family_id": "g_30bc1d81705209a9",
-    "example": [
-      "briskly",
-      "briskness"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_c4ca7fdce32bc212",
-    "root": "broad",
-    "source_form": "broad",
-    "meaning": "broad, wide",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "broad",
-    "family_id": "g_cb3ecc2800175f8b",
-    "example": [
-      "broadband",
-      "broadly",
-      "abroad",
-      "broaden",
-      "broadening",
-      "broadened",
-      "broadloom",
-      "broadside",
-      "broad-minded",
-      "broad-headed",
-      "broad-leafed",
-      "broad-leaved",
-      "broadnosed",
-      "broad-shouldered",
-      "broadleaf"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_1bc36d2fc7340a1c",
-    "root": "broil",
-    "source_form": "broil",
-    "meaning": "mix up, entangle, quarrel",
-    "class": "root",
-    "origin": "English; from French brouiller",
-    "source_entry": "broil",
-    "family_id": "g_b004778f9f119a65",
-    "example": [
-      "embroil",
-      "embroiled"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_41477b3a123092b5",
-    "root": "broil",
-    "source_form": "broil",
-    "meaning": "cook by direct heat",
-    "class": "root",
-    "origin": "English; from French bruller",
-    "source_entry": "broil",
-    "family_id": "g_dfbd0eb02243e50a",
-    "example": [
-      "broiled",
-      "broiling",
-      "broiler"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_daea5e77767b0d9a",
-    "root": "broken",
-    "source_form": "broken-",
-    "meaning": "broken, damaged",
-    "class": "word_base",
-    "origin": "English break participle",
-    "source_entry": "broken-",
-    "family_id": "g_d275c2e3c28674ba",
-    "example": [
-      "brokenhearted"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_9629afbb11ab4d05",
-    "root": "brom",
-    "source_form": "brom-",
-    "meaning": "stench; bromine",
-    "class": "root",
-    "origin": "Greek bromos",
-    "source_entry": "brom-",
-    "family_id": "g_a812b0b0dcf702a6",
-    "example": [
-      "bromate",
-      "bromoderma",
-      "bromide",
-      "bromine"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_4af103c9cf4cdc0f",
-    "root": "broma",
-    "source_form": "broma-",
-    "meaning": "food",
-    "class": "root",
-    "origin": "Greek broma, bromatos",
-    "source_entry": "broma-",
-    "family_id": "g_72691e2192258f47",
-    "example": [
-      "bromatology",
-      "bromatium",
-      "bromateccrisis",
-      "bromatherapy"
-    ],
-    "related_root_ids": [
-      "r_34734d6e0b66fe44",
-      "r_f4c4e5fb7fab4ef5"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_f4c4e5fb7fab4ef5",
-    "root": "bromat",
-    "source_form": "bromat-",
-    "meaning": "food",
-    "class": "root",
-    "origin": "Greek broma, bromatos",
-    "source_entry": "bromat-",
-    "family_id": "g_72691e2192258f47",
-    "example": [
-      "bromatology",
-      "bromatium",
-      "bromateccrisis",
-      "bromatherapy"
-    ],
-    "related_root_ids": [
-      "r_34734d6e0b66fe44",
-      "r_4af103c9cf4cdc0f"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_34734d6e0b66fe44",
-    "root": "bromato",
-    "source_form": "bromato-",
-    "meaning": "food",
-    "class": "root",
-    "origin": "Greek broma, bromatos",
-    "source_entry": "bromato-",
-    "family_id": "g_72691e2192258f47",
-    "example": [
-      "bromatology"
-    ],
-    "related_root_ids": [
-      "r_4af103c9cf4cdc0f",
-      "r_f4c4e5fb7fab4ef5"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_08fdbd0fcdba99b9",
-    "root": "bronch",
-    "source_form": "bronch-",
-    "meaning": "bronchus, airway",
-    "class": "root",
-    "origin": "Greek bronchos",
-    "source_entry": "bronch-",
-    "family_id": "g_89b8a4fd62df9ae6",
-    "example": [
-      "bronchial",
-      "bronchoscope",
-      "bronchospasm",
-      "bronchopneumonia",
-      "bronchomalacia",
-      "bronchus",
-      "bronchitis",
-      "bronchiole",
-      "bronchoscopic",
-      "bronchion",
-      "bronchia"
-    ],
-    "related_root_ids": [
-      "r_891ca351930ab949",
-      "r_94d48114c74107f7",
-      "r_fb03043d12688583"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_891ca351930ab949",
-    "root": "bronchi",
-    "source_form": "bronchi-",
-    "meaning": "windpipe, throat, lung",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "bronchia",
-      "bronchial",
-      "bronchiole",
-      "bronchitis"
-    ],
-    "family_id": "g_89b8a4fd62df9ae6",
-    "related_root_ids": [
-      "r_08fdbd0fcdba99b9",
-      "r_94d48114c74107f7",
-      "r_fb03043d12688583"
-    ],
-    "source_entry": "bronch-",
-    "pending_family_examples": 9
-  },
-  {
-    "id": "r_94d48114c74107f7",
-    "root": "bronchio",
-    "source_form": "bronchio-",
-    "meaning": "bronchus, airway",
-    "class": "root",
-    "origin": "Greek bronchos",
-    "source_entry": "bronchio-",
-    "family_id": "g_89b8a4fd62df9ae6",
-    "example": [
-      "bronchiole"
-    ],
-    "related_root_ids": [
-      "r_08fdbd0fcdba99b9",
-      "r_891ca351930ab949",
-      "r_fb03043d12688583"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_fb03043d12688583",
-    "root": "broncho",
-    "source_form": "broncho-",
-    "meaning": "bronchus, airway",
-    "class": "root",
-    "origin": "Greek bronchos",
-    "source_entry": "broncho-",
-    "family_id": "g_89b8a4fd62df9ae6",
-    "example": [
-      "bronchospasm",
-      "bronchopneumonia",
-      "bronchoscope",
-      "bronchoscopic",
-      "bronchomalacia"
-    ],
-    "related_root_ids": [
-      "r_08fdbd0fcdba99b9",
-      "r_891ca351930ab949",
-      "r_94d48114c74107f7"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_5a4c6db130de38de",
-    "root": "bront",
-    "source_form": "bront",
-    "meaning": "thunder",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "brontology",
-      "brontophobia",
-      "brontosaurus"
-    ],
-    "family_id": "g_5f6b00d54e9b2ef2",
-    "related_root_ids": [],
-    "source_entry": "bront-",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d44d11c82ce4db35",
-    "root": "brother",
-    "source_form": "brother",
-    "meaning": "brother; male sibling",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "brother",
-    "family_id": "g_c004f0a3c5d858ec",
-    "example": [
-      "brotherly",
-      "brotherhood"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_646417110e74aefc",
-    "root": "brow",
-    "source_form": "brow",
-    "meaning": "eyebrow; forehead",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "brow",
-    "family_id": "g_46ea58ca382d0a95",
-    "example": [
-      "browbeat",
-      "eyebrow",
-      "lowbrow",
-      "highbrow",
-      "middlebrow"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_b01331fde25d3077",
-    "root": "brown",
-    "source_form": "brown",
-    "meaning": "brown color",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "brown",
-    "family_id": "g_1de1e413bbd3b68a",
-    "example": [
-      "brownish",
-      "red-brown",
-      "chocolate-brown",
-      "gray-brown",
-      "hazel-brown",
-      "olive-brown",
-      "yellow-brown",
-      "chestnut-brown",
-      "tawny-brown",
-      "rusty-brown",
-      "greyish-brown",
-      "dark-brown",
-      "purple-brown",
-      "snuff-brown",
-      "reddish-brown",
-      "orange-brown",
-      "blackish-brown",
-      "chukker-brown",
-      "nutbrown",
-      "buff-brown",
-      "purplish-brown",
-      "grey-brown",
-      "greenish-brown",
-      "golden-brown",
-      "mummy-brown",
-      "grayish-brown",
-      "rust-brown",
-      "brown-haired"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_872c541a7ba0a73a",
-    "root": "brush",
-    "source_form": "brush",
-    "meaning": "brush as a bristled instrument; clean or apply with a brush",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "brush",
-    "family_id": "g_930ae76a477f6d88",
-    "example": [
-      "brushless",
-      "brushed",
-      "brushstroke",
-      "brushwork",
-      "brushing"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d208535d9112da35",
-    "root": "brush",
-    "source_form": "brush",
-    "meaning": "shrubs, brushwood, undergrowth",
-    "class": "root",
-    "origin": "English free lexical morpheme",
-    "source_entry": "brush",
-    "family_id": "g_6d4904566edc9d3c",
-    "example": [
-      "underbrush",
-      "brushland",
-      "brushy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d9ee80f53ab5f615",
-    "root": "brut",
-    "source_form": "brut",
-    "meaning": "heavy, dull, raw, crude",
-    "class": "root",
-    "origin": "Latin",
-    "source_entry": "brut",
-    "family_id": "g_3b470a4e4681f26e",
-    "example": [
-      "brutify",
-      "brutish",
-      "brutally",
-      "brute",
-      "brutalism",
-      "brutality",
-      "brutalized",
-      "brutalize",
-      "brutal",
-      "brutalization",
-      "brutehood"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_b20309850a3d98d6",
-    "root": "bryo",
-    "source_form": "bryo-",
-    "meaning": "moss",
-    "class": "prefix",
-    "origin": "Greek bryon",
-    "source_entry": "bryo-",
-    "family_id": "g_0bb9a70b4ab09519",
-    "example": [
-      "bryozoan",
-      "bryophytic",
-      "bryophyte"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_39b1ca77e2cb4ffd",
-    "root": "bucc",
-    "source_form": "bucc-",
-    "meaning": "cheek, mouth",
-    "class": "root",
-    "origin": "Latin bucca",
-    "source_entry": "bucc-",
-    "family_id": "g_d383a70bbe714f6b",
-    "example": [
-      "buccolingual",
-      "buccal",
-      "buccilingual"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_2a642218467fb505",
-    "root": "buck",
-    "source_form": "buck",
-    "meaning": "a male deer or similar animal",
-    "class": "root",
-    "origin": "Old English",
-    "source_entry": "buck",
-    "family_id": "g_d2463415059ca1cf",
-    "example": [
-      "buckskin",
-      "bucking"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_fde9f90ce107d729",
-    "root": "buck",
-    "source_form": "buck",
-    "meaning": "a dollar or money",
-    "class": "root",
-    "origin": "American English, ultimate origin uncertain",
-    "source_entry": "buck",
-    "family_id": "g_96155d1fa5b37097",
-    "example": [
-      "megabuck"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_227cbe9ecfcaeac6",
-    "root": "bucket",
-    "source_form": "bucket",
-    "meaning": "an open container used for carrying liquids",
-    "class": "root",
-    "origin": "Old French",
-    "source_entry": "bucket",
-    "family_id": "g_f570fc8dc96b3a5c",
-    "example": [
-      "bucketful"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_fdfb5a08f1c69296",
-    "root": "buckle",
-    "source_form": "buckle",
-    "meaning": "a fastening for a belt or strap",
-    "class": "root",
-    "origin": "Old French from Latin",
-    "source_entry": "buckle",
-    "family_id": "g_aacf961c8813c151",
-    "example": [
-      "turnbuckle",
-      "buckled",
-      "unbuckle"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_455d4166de2c6b07",
-    "root": "budget",
-    "source_form": "budget",
-    "meaning": "a financial plan or allocation",
-    "class": "root",
-    "origin": "Old French",
-    "source_entry": "budget",
-    "family_id": "g_413ee0e7334da551",
-    "example": [
-      "budgeted",
-      "budgetary"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_dbc44a8c59959a07",
-    "root": "build",
-    "source_form": "build",
-    "meaning": "build, construct",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "build",
-    "family_id": "g_9089ca29e8e9d25d",
-    "example": [
-      "builder",
-      "buildable",
-      "rebuilding",
-      "rebuilder",
-      "building",
-      "rebuild"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_2e28e3c265075b92",
-    "root": "built",
-    "source_form": "-built",
-    "meaning": "built, constructed",
-    "class": "word_base",
-    "origin": "English build participle",
-    "source_entry": "-built",
-    "family_id": "g_ef419126b40d71d4",
-    "example": [
-      "clinker-built",
-      "purpose-built",
-      "carvel-built",
-      "jerry-built",
-      "clincher-built",
-      "custom-built",
-      "square-built"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_3bec8c0d2af2774a",
-    "root": "bulb",
-    "source_form": "bulb-",
-    "meaning": "bulbous",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "bulb",
-      "bulbiform",
-      "bulblet",
-      "bulbous",
-      "bulbule",
-      "flashbulb",
-      "lightbulb"
-    ],
-    "family_id": "g_d328d7070a93edfb",
-    "related_root_ids": [],
-    "source_entry": "bulb-",
-    "pending_family_examples": 5
-  },
-  {
-    "id": "r_dc5d40700138e973",
-    "root": "bull",
-    "source_form": "bull",
-    "meaning": "round swelling, bubble",
-    "class": "root",
-    "origin": "Latin bulla, bull-",
-    "source_entry": "bull",
-    "family_id": "g_395f01140532a30b",
-    "example": [
-      "bulletproof",
-      "bulletin",
-      "ebullient",
-      "bulliferous",
-      "bullectomy",
-      "ebullism"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_889146ee5e128aea",
-    "root": "bund",
-    "source_form": "bund",
-    "meaning": "bind, bundle",
-    "class": "root",
-    "origin": "Old English bund; Proto-Germanic *bund-",
-    "source_entry": "bund",
-    "family_id": "g_4542278c04152619",
-    "example": [
-      "unbundle",
-      "bundle",
-      "bundling",
-      "bundler",
-      "unbundling",
-      "bundled"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_5db74fe591db298d",
-    "root": "bur",
-    "source_form": "bur",
-    "meaning": "carry, bear",
-    "class": "root",
-    "origin": "West Germanic reconstructed *bur- stem of *beran",
-    "source_entry": "bur",
-    "family_id": "g_a3ff2cdad5dc0b72",
-    "example": [
-      "burdensome",
-      "overburdened",
-      "burdened",
-      "unburden",
-      "burden",
-      "overburden"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_70b7f7732d1764ac",
-    "root": "bureau",
-    "source_form": "bureau",
-    "meaning": "office or government department",
-    "class": "root",
-    "origin": "English free noun, via French",
-    "source_entry": "bureau",
-    "family_id": "g_3375250d813a1654",
-    "example": [
-      "bureaucratese",
-      "bureaucratization",
-      "bureaucratically",
-      "bureaucratize",
-      "bureaucrat",
-      "bureaucratized",
-      "bureaucratic",
-      "bureaucratism",
-      "bureaucracy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_50c62e79fd391338",
-    "root": "burglar",
-    "source_form": "burglar",
-    "meaning": "person who commits burglary",
-    "class": "root",
-    "origin": "English free noun",
-    "source_entry": "burglar",
-    "family_id": "g_2b327e28500e2be1",
-    "example": [
-      "burglarize",
-      "burglary"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_845384715055c638",
-    "root": "burn",
-    "source_form": "burn",
-    "meaning": "be on fire; consume or injure by fire",
-    "class": "root",
-    "origin": "English free verb",
-    "source_entry": "burn",
-    "family_id": "g_d74e76abcdca8b9c",
-    "example": [
-      "unburned",
-      "burned",
-      "burning",
-      "burnt",
-      "burner"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_9d7b8b48a6e27466",
-    "root": "burn",
-    "source_form": "burn",
-    "meaning": "shine; polish; brown",
-    "class": "root",
-    "origin": "Old French burnir, variant of brunir",
-    "source_entry": "burn",
-    "family_id": "g_e4ad811b616ee1bd",
-    "example": [
-      "burnished",
-      "burnish"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_43ed8f0fee685ee1",
-    "root": "burs",
-    "source_form": "-burs-",
-    "meaning": "pouch, purse",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "bursa",
-      "bursar",
-      "bursary",
-      "bursectomy",
-      "disburse",
-      "reimburse",
-      "bursiform",
-      "bursalogy"
-    ],
-    "family_id": "g_01b67c7990b9712e",
-    "related_root_ids": [
-      "r_75937b89c7c34cb8"
-    ],
-    "source_entry": "burs-",
-    "pending_family_examples": 2
-  },
-  {
-    "id": "r_5f03ceeaa660eed8",
-    "root": "bursa",
-    "source_form": "bursa-",
-    "meaning": "pouch, purse",
-    "class": "root",
-    "origin": "Latin bursa",
-    "source_entry": "bursa-",
-    "family_id": "g_9cdbbd1152bd0f04",
-    "example": [
-      "bursar",
-      "bursary",
-      "bursalogy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_75937b89c7c34cb8",
-    "root": "burse",
-    "source_form": "-burse",
-    "meaning": "pouch, purse",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "disburse",
-      "reimburse",
-      "bursectomy"
-    ],
-    "family_id": "g_01b67c7990b9712e",
-    "related_root_ids": [
-      "r_43ed8f0fee685ee1"
-    ],
-    "source_entry": "burs-",
-    "pending_family_examples": 2
-  },
-  {
-    "id": "r_f804b7b28e69a499",
-    "root": "bus",
-    "source_form": "bus",
-    "meaning": "bus, a vehicle for transporting passengers",
-    "class": "root",
-    "origin": "English free noun",
-    "source_entry": "bus",
-    "family_id": "g_380ed53deb22c7d7",
-    "example": [
-      "busing",
-      "busload",
-      "busman"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_6979c5660b7a6efe",
-    "root": "bush",
-    "source_form": "bush",
-    "meaning": "a shrub",
-    "class": "root",
-    "origin": "English free noun",
-    "source_entry": "bush",
-    "family_id": "g_2be2ffcab1844fcc",
-    "example": [
-      "bushy"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_a1dbf0ddba2cbde6",
-    "root": "bush",
-    "source_form": "bush",
-    "meaning": "metal lining or sleeve",
-    "class": "root",
-    "origin": "English free noun from Middle Dutch",
-    "source_entry": "bush",
-    "family_id": "g_b23d2f204fd5703e",
-    "example": [
-      "bushing"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_88381d630dc1e6f1",
-    "root": "bust",
-    "source_form": "bust",
-    "meaning": "burst or break",
-    "class": "root",
-    "origin": "English alteration of burst",
-    "source_entry": "bust",
-    "family_id": "g_a9e5280c1d4f8f71",
-    "example": [
-      "busted"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_b61196d1ad4e79dc",
-    "root": "bust",
-    "source_form": "bust",
-    "meaning": "upper torso; chest or bosom",
-    "class": "root",
-    "origin": "Italian via French",
-    "source_entry": "bust",
-    "family_id": "g_c130c623529769f8",
-    "example": [
-      "busty"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_55251220f18f123f",
-    "root": "busy",
-    "source_form": "busy",
-    "meaning": "occupied with activity",
-    "class": "root",
-    "origin": "Old English",
-    "source_entry": "busy",
-    "family_id": "g_d34e1a608ce61e10",
-    "example": [
-      "busyness"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_146c9c8258bede7c",
-    "root": "but",
-    "source_form": "but",
-    "meaning": "push, thrust, strike",
-    "class": "root",
-    "origin": "Old French buter/bouter, independently attested verbal noun but",
-    "source_entry": "but",
-    "family_id": "g_c2606ba58752e317",
-    "example": [
-      "button",
-      "buttoned",
-      "rebut",
-      "rebuttable",
-      "rebuttal",
-      "unbutton",
-      "unbuttoned"
-    ],
-    "related_root_ids": [
-      "r_15039c948a8c632d",
-      "r_74b6d46a31d158a0"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_5f5765ff3e6a98f3",
-    "root": "butter",
-    "source_form": "butter",
-    "meaning": "a fatty food made by churning cream",
-    "class": "root",
-    "origin": "Latin via Old English",
-    "source_entry": "butter",
-    "family_id": "g_648eadc7ffd7d908",
-    "example": [
-      "buttered"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_15039c948a8c632d",
-    "root": "button",
-    "source_form": "button",
-    "meaning": "a fastening or control",
-    "class": "root",
-    "origin": "English from Old French",
-    "source_entry": "button",
-    "family_id": "g_c2606ba58752e317",
-    "example": [
-      "buttoned",
-      "unbuttoned",
-      "unbutton"
-    ],
-    "related_root_ids": [
-      "r_146c9c8258bede7c",
-      "r_74b6d46a31d158a0"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_287e6fd726b3853b",
-    "root": "butyr",
-    "source_form": "butyr-",
-    "meaning": "butter",
-    "class": "root",
-    "origin": "Greek boutyron, Latin butyrum",
-    "source_entry": "butyr-",
-    "family_id": "g_59c4c87fd813ea89",
-    "example": [
-      "butyric"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_d218389a31a9e5c2",
-    "root": "by",
-    "source_form": "by-",
-    "meaning": "beside, past, aside",
-    "class": "prefix",
-    "origin": "Old English",
-    "source_entry": "by-",
-    "family_id": "g_0a8324c31b9cbed0",
-    "example": [
-      "bypass",
-      "bystander"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_04362aed663a08ed",
-    "root": "byss",
-    "source_form": "byss-",
-    "meaning": "fine flax, linen",
-    "class": "root",
-    "origin": "Greek byssos",
-    "source_entry": "byss-",
-    "family_id": "g_db97a077922bb297",
-    "example": [
-      "byssus"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_1306eeb0ee71bd43",
-    "root": "cabin",
-    "source_form": "cabin",
-    "meaning": "a small house or enclosed room",
-    "class": "root",
-    "origin": "Old French from Late Latin",
-    "source_entry": "cabin",
-    "family_id": "g_0789ecad2262b059",
-    "example": [
-      "cabined"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_a41e3123573d3b0e",
-    "root": "cable",
-    "source_form": "cable",
-    "meaning": "a thick rope or electrical conductor",
-    "class": "root",
-    "origin": "English from Old French",
-    "source_entry": "cable",
-    "family_id": "g_96e8e16b121e36b8",
-    "example": [
-      "cablegram"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_98272be34cee8df4",
-    "root": "cac",
-    "source_form": "-cac-",
-    "meaning": "bad",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "cachexia",
-      "cacodemon",
-      "cacoepy",
-      "cacography",
-      "cacophonous",
-      "cacophony",
-      "cacistocracy"
-    ],
-    "family_id": "g_4b4ade05d69d8427",
-    "related_root_ids": [
-      "r_83199b3142ed4c55",
-      "r_dba1e1c8fc66fcc9"
-    ],
-    "source_entry": "cac-, kak-",
-    "pending_family_examples": 4
-  },
-  {
-    "id": "r_dba1e1c8fc66fcc9",
-    "root": "caco",
-    "source_form": "caco-",
-    "meaning": "bad",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "cacodemon",
-      "cacoepy",
-      "cacography",
-      "cacophonous",
-      "cacophony"
-    ],
-    "family_id": "g_4b4ade05d69d8427",
-    "related_root_ids": [
-      "r_83199b3142ed4c55",
-      "r_98272be34cee8df4"
-    ],
-    "source_entry": "cac-, kak-",
-    "pending_family_examples": 4
-  },
-  {
-    "id": "r_67a08204e6c2df69",
-    "root": "cad",
-    "source_form": "cad",
-    "meaning": "to fall",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "cadence",
-      "cadenced",
-      "cadency",
-      "cadent",
-      "cadential",
-      "caducous",
-      "cascade",
-      "decadence",
-      "decadency",
-      "decadent",
-      "cadenza",
-      "caducity",
-      "demicadence"
-    ],
-    "family_id": "g_e3f062dffd946251",
-    "related_root_ids": [
-      "r_26557c17de99c8be",
-      "r_87d568a613ece60e"
-    ],
-    "source_entry": "cad, cas, cid2",
-    "pending_family_examples": 2
-  },
-  {
-    "id": "r_361af0ed2e217e07",
-    "root": "caen",
-    "source_form": "caen-",
-    "meaning": "new",
-    "class": "historical_stem",
-    "origin": "Greek kainos new via caeno-",
-    "source_entry": "cen-, caen-",
-    "family_id": "g_b2fe039f4d064988",
-    "example": [
-      "caenogastropod",
-      "caenogenesis"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_633ac14c352653ca",
-    "root": "caes",
-    "source_form": "caes-",
-    "meaning": "cut, kill",
-    "class": "root",
-    "origin": "Latin caesus, caedere",
-    "source_entry": "caes-",
-    "family_id": "g_2dc2f28914e6dc81",
-    "example": [
-      "caesura"
-    ],
-    "related_root_ids": [
-      "r_28546b2125a8cfbf",
-      "r_339a9af5bfb1ffc2",
-      "r_9f0010f49cab3234",
-      "r_c64e860ceb3de830",
-      "r_c9084eff196413a2",
-      "r_cdc7e76bfbaf321f"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_87ab862d26c387d8",
-    "root": "cage",
-    "source_form": "cage",
-    "meaning": "an enclosure with bars",
-    "class": "root",
-    "origin": "English from Old French",
-    "source_entry": "cage",
-    "family_id": "g_ebd9d245af30c376",
-    "example": [
-      "birdcage",
-      "caged"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_a593c79f48a1ee70",
-    "root": "cake",
-    "source_form": "cake",
-    "meaning": "cake, baked cake",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "cake",
-    "family_id": "g_13997b41cea5b0ad",
-    "example": [
-      "pancake",
-      "cupcake",
-      "fruitcake",
-      "cheesecake"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_5e0c30ec5acebc06",
-    "root": "cal",
-    "source_form": "cal-",
-    "meaning": "heat, warmth",
-    "class": "root",
-    "origin": "Latin calere",
-    "source_entry": "cal-",
-    "family_id": "g_12e00a22b88274c6",
-    "example": [
-      "caldera",
-      "calorie",
-      "calorimeter",
-      "calorigenic",
-      "calenture",
-      "caloric",
-      "calefaction",
-      "calefactory",
-      "calescent",
-      "calor",
-      "calefactive",
-      "calefacient",
-      "calid",
-      "caldarium",
-      "calorific",
-      "calorifacient"
-    ],
-    "related_root_ids": [
-      "r_17a06faf99b050a1",
-      "r_4219073d8ac00a77",
-      "r_52e840a18b26a794",
-      "r_db2494cf14c4a4e6"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_db9dc3b19116f58f",
-    "root": "cal",
-    "source_form": "cal-",
-    "meaning": "beautiful, beauty",
-    "class": "root",
-    "origin": "Greek kalos",
-    "source_entry": "cal-",
-    "family_id": "g_8ed615f157fb2a65",
-    "example": [
-      "calophyllous",
-      "calligraphy",
-      "calisthenics"
-    ],
-    "related_root_ids": [
-      "r_58e6c1b037a9eaba",
-      "r_c185e77224387428"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_0ab5891e196bb8b3",
-    "root": "calc",
-    "source_form": "calc",
-    "meaning": "lime, limestone, pebble",
-    "class": "root",
-    "origin": "Latin calx, calcis; relationship to calculus (pebble, calculation) is disputed",
-    "source_entry": "calc",
-    "family_id": "g_f4b7d9364fd1cf5b",
-    "example": [
-      "calculatedly",
-      "uncalculated",
-      "calculous",
-      "incalculably",
-      "calculative",
-      "miscalculation",
-      "recalculation",
-      "calcified",
-      "calculation",
-      "calculator",
-      "recalculate",
-      "calculating",
-      "calcification",
-      "calculable",
-      "miscalculate",
-      "incalculable",
-      "calcify",
-      "calculated",
-      "calcitic",
-      "calcite",
-      "calcine",
-      "calcium"
-    ],
-    "related_root_ids": [
-      "r_1db738a85469363d"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_4a57de26425b10c0",
-    "root": "calc",
-    "source_form": "calc",
-    "meaning": "heel; tread, kick",
-    "class": "historical_stem",
-    "origin": "Latin calx, calcis heel; calcare and calcitrare",
-    "source_entry": "calc",
-    "family_id": "g_5fedd61ba3ad9d96",
-    "example": [
-      "recalcitrant"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_1db738a85469363d",
-    "root": "calci",
-    "source_form": "calci-",
-    "meaning": "lime, calcium",
-    "class": "root",
-    "origin": "Latin calx, calcis",
-    "source_entry": "calci-",
-    "family_id": "g_f4b7d9364fd1cf5b",
-    "example": [
-      "calcite",
-      "calcitic",
-      "calcine",
-      "calcium"
-    ],
-    "related_root_ids": [
-      "r_0ab5891e196bb8b3"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_071860e5d8550370",
-    "root": "calcul",
-    "source_form": "calcul",
-    "meaning": "pebble; count, calculate",
-    "class": "historical_stem",
-    "origin": "Latin calculus, calculare",
-    "source_entry": "calcul",
-    "family_id": "g_c5444f7899aca6b6",
-    "example": [
-      "calculus",
-      "calculate",
-      "calculator"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_db2494cf14c4a4e6",
-    "root": "cald",
-    "source_form": "cald",
-    "meaning": "hot, warm",
-    "class": "root",
-    "origin": "Latin caldus, calidus",
-    "source_entry": "cald",
-    "family_id": "g_12e00a22b88274c6",
-    "example": [
-      "scald"
-    ],
-    "related_root_ids": [
-      "r_17a06faf99b050a1",
-      "r_4219073d8ac00a77",
-      "r_52e840a18b26a794",
-      "r_5e0c30ec5acebc06"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_4219073d8ac00a77",
-    "root": "cale",
-    "source_form": "cale-",
-    "meaning": "heat, be hot",
-    "class": "root",
-    "origin": "Latin calere",
-    "source_entry": "cale-",
-    "family_id": "g_12e00a22b88274c6",
-    "example": [
-      "calefaction",
-      "calenture",
-      "calefacient",
-      "calefactive",
-      "calefactory",
-      "calescent"
-    ],
-    "related_root_ids": [
-      "r_17a06faf99b050a1",
-      "r_52e840a18b26a794",
-      "r_5e0c30ec5acebc06",
-      "r_db2494cf14c4a4e6"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_58e6c1b037a9eaba",
-    "root": "call",
-    "source_form": "call-",
-    "meaning": "beautiful",
-    "class": "root",
-    "origin": "Greek kallos",
-    "source_entry": "call-",
-    "family_id": "g_8ed615f157fb2a65",
-    "example": [
-      "calligraphy"
-    ],
-    "related_root_ids": [
-      "r_c185e77224387428",
-      "r_db9dc3b19116f58f"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_9bb3284885b8c579",
-    "root": "call",
-    "source_form": "call",
-    "meaning": "call, summon",
-    "class": "root",
-    "origin": "English",
-    "source_entry": "call",
-    "family_id": "g_4b3bcda6a83c241f",
-    "example": [
-      "callback",
-      "callable",
-      "called",
-      "caller",
-      "calling",
-      "recall",
-      "recalled",
-      "recalling"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_c185e77224387428",
-    "root": "calli",
-    "source_form": "calli-",
-    "meaning": "beautiful",
-    "class": "root",
-    "origin": "Greek",
-    "example": [
-      "calligraphy"
-    ],
-    "family_id": "g_8ed615f157fb2a65",
-    "related_root_ids": [
-      "r_58e6c1b037a9eaba",
-      "r_db9dc3b19116f58f"
-    ],
-    "source_entry": "cal-, call-",
-    "pending_family_examples": 3
-  },
-  {
-    "id": "r_e6e6ba00b38c495e",
-    "root": "calm",
-    "source_form": "calm",
-    "meaning": "free from agitation or disturbance",
-    "class": "root",
-    "origin": "English free adjective and verb",
-    "source_entry": "calm",
-    "family_id": "g_2c51ef1910a27a1c",
-    "example": [
-      "calmly",
-      "calmness",
-      "becalm",
-      "becalmed",
-      "calming",
-      "calm"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_17a06faf99b050a1",
-    "root": "calor",
-    "source_form": "calor",
-    "meaning": "heat",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "calor",
-      "caloric",
-      "calorie",
-      "calorifacient",
-      "calorific",
-      "calorigenic",
-      "calorimeter"
-    ],
-    "family_id": "g_12e00a22b88274c6",
-    "related_root_ids": [
-      "r_4219073d8ac00a77",
-      "r_52e840a18b26a794",
-      "r_5e0c30ec5acebc06",
-      "r_db2494cf14c4a4e6"
-    ],
-    "source_entry": "cal-",
-    "pending_family_examples": 29
-  },
-  {
-    "id": "r_b2eb2a2a0c77538d",
-    "root": "calumn",
-    "source_form": "calumn-",
-    "meaning": "trick, lie, deceive",
-    "class": "prefix",
-    "origin": "Latin",
-    "source_entry": "calv-, calum-",
-    "family_id": "g_b2eb2a2a0c77538d",
-    "example": [
-      "calumnious",
-      "calumny"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_951422a6df6f2e35",
-    "root": "camer",
-    "source_form": "camer",
-    "meaning": "vault, chamber",
-    "class": "root",
-    "origin": "Latin camera",
-    "source_entry": "camer",
-    "family_id": "g_fb1bf27fa672581f",
-    "example": [
-      "cameraman",
-      "camerawork"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_e1aea7bffc964244",
-    "root": "camp",
-    "source_form": "camp",
-    "meaning": "field",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "camp",
-      "campaign",
-      "campaigner",
-      "camper",
-      "campesino",
-      "campestral",
-      "campfire",
-      "campground",
-      "camping",
-      "campo",
-      "campsite",
-      "campus",
-      "decamp",
-      "decampment",
-      "encamp",
-      "encampment",
-      "campicolous",
-      "campimetry"
-    ],
-    "family_id": "g_9dfaaaba04513a54",
-    "related_root_ids": [],
-    "source_entry": "camp-",
-    "pending_family_examples": 10
-  },
-  {
-    "id": "r_0bd3c6ed9d8cf4d6",
-    "root": "can",
-    "source_form": "can-",
-    "meaning": "reed, rod",
-    "class": "root",
-    "origin": "Greek kanna; Latin canna",
-    "source_entry": "can-",
-    "family_id": "g_1b5f3cbbf4a0f28e",
-    "example": [
-      "canister",
-      "canon",
-      "canonic",
-      "cane"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_9216d2289a868d66",
-    "root": "can",
-    "source_form": "can",
-    "meaning": "dog",
-    "class": "root",
-    "origin": "Latin canis",
-    "source_entry": "can",
-    "family_id": "g_ba2345e3317ebeda",
-    "example": [
-      "canid"
-    ],
-    "related_root_ids": [
-      "r_989f2a63cf2558d6"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_9d1fbe7f5a914586",
-    "root": "can",
-    "source_form": "can-",
-    "meaning": "sing, song",
-    "class": "root",
-    "origin": "Latin canere",
-    "source_entry": "can-",
-    "family_id": "g_6d8e361a4f4a61a9",
-    "example": [
-      "cantata",
-      "cantatrice",
-      "cantabile",
-      "canticle",
-      "cantillation",
-      "cantor",
-      "cantatory",
-      "canto",
-      "cantus",
-      "canzone",
-      "cantilena",
-      "cantation",
-      "canorous",
-      "cantillate",
-      "canzona",
-      "cant",
-      "canticum",
-      "cantion"
-    ],
-    "related_root_ids": [
-      "r_3439a1c240884d18",
-      "r_57b6c357c46328c9",
-      "r_8f745559301351f9",
-      "r_b18438493d4abe5a"
-    ],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_7c7d749ccdcd5a17",
-    "root": "cancel",
-    "source_form": "cancel",
-    "meaning": "make void; call off",
-    "class": "root",
-    "origin": "English free verb",
-    "source_entry": "cancel",
-    "family_id": "g_092237459d5d357c",
-    "example": [
-      "canceled"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_3a12a05eeb8a2ae4",
-    "root": "cancer",
-    "source_form": "cancer",
-    "meaning": "malignant tumor or disease",
-    "class": "root",
-    "origin": "English free noun",
-    "source_entry": "cancer",
-    "family_id": "g_22200793cd2468da",
-    "example": [
-      "cancerous",
-      "precancerous"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_0711baa9065c82e7",
-    "root": "cand",
-    "source_form": "cand",
-    "meaning": "shine; glow white",
-    "class": "root",
-    "origin": "Latin candere",
-    "source_entry": "cand",
-    "family_id": "g_3365adf03f3cac7d",
-    "example": [
-      "candidate",
-      "candelabrum",
-      "candleholder",
-      "candlelit",
-      "candelabra",
-      "candidly",
-      "candlestick",
-      "candidacy",
-      "incandescent",
-      "candela"
-    ],
-    "related_root_ids": [],
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_8098b37434cbc77b",
-    "root": "candid",
-    "source_form": "candid",
-    "meaning": "clear, sincere, white",
-    "class": "root",
-    "origin": "Latin",
-    "example": [
-      "candid",
-      "candidate"
-    ],
-    "family_id": "g_cce9d0031403d62e",
-    "related_root_ids": [],
-    "source_entry": "candid",
-    "pending_family_examples": 0
-  },
-  {
-    "id": "r_989f2a63cf2558d6",
-    "root": "cani",
-    "source_form": "cani-",
-    "meaning": "dog",
-    "class": "root",
-    "origin": "Latin canis",
-    "source_entry": "cani-",
-    "family_id": "g_ba2345e3317ebeda",
-    "example": [
-      "canicule",
-      "canine",
-      "canicular",
-      "canid"
-    ],
-    "related_root_ids": [
-      "r_9216d2289a868d66"
-    ],
     "pending_family_examples": 0
   }
 ]

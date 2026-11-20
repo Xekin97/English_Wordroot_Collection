@@ -1,6 +1,6 @@
 # 整理说明
 
-以 ECDICT 的词根、英文 meaning 和例词为基础，参考 morphemes、generated-english-roots-list、engra 的相关条目进行对照整理。
+以 ECDICT 的词根、英文 meaning 和例词为基础，参考 morphemes、generated-english-roots-list、engra 的相关条目进行对照整理，并补充 LexiRoot 的部分词根和词缀。
 
 1. 将一个分组中的词根写法分别列出，保留原分组和同族关联。
 2. 整理对应单词并去重；同族变体允许共享例词，同形异义词根分别保留。

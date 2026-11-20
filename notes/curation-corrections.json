@@ -1155,7 +1155,7 @@
       ]
     }
   ],
-  "roots_sha256": "3da6e1af5c1fe2bb94a5526bfe9ef3245ee9c8d0ce15411349ddf1726de9e2bb",
+  "roots_sha256": "74e98a005a04a461ab65945b9a88fff3b5b0e6bef0b5b8675790144d206f48b4",
   "canonical_root_aliases": [
     {
       "alias_id": "r_a6fbd12efdd62661",
@@ -1678,6 +1678,105 @@
           "https://www.etymonline.com/word/be-",
           "https://commons.princeton.edu/shakespeares-language/wp-content/uploads/sites/41/2017/09/Nevalainen-Early-Modern-English-Lexis-and-Semantics.pdf"
         ]
+      },
+      {
+        "id": "r_97c016f2928634d0",
+        "field": "origin",
+        "before": "Latin",
+        "after": "Latin platea; Medieval Latin placea; Old French place (historical family index)",
+        "reason": "Clarify the attested historical forms and educational family lookup without asserting that classical Latin plac was independently attested as a morpheme.",
+        "evidence_urls": [
+          "https://s3.amazonaws.com/arena-attachments/936593/0e5f7af17069a9cfb211e3ad0b1e6bdd.pdf",
+          "https://www.etymonline.com/word/place",
+          "https://ahdictionary.com/word/search.html?q=place"
+        ]
+      },
+      {
+        "id": "r_3386ea5b4bfd9672",
+        "field": "meaning",
+        "before": "excessive desire",
+        "after": "excessive desire; madness or frenzy (historical)",
+        "reason": "Preserve the original modern gloss while recording the historically attested Greek mania sense and the original source card madness; specialized modern compounds have distinct clinical meanings.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/mania",
+          "https://www.merriam-webster.com/dictionary/maniacal"
+        ]
+      },
+      {
+        "id": "r_bffa9edcd5b7e20c",
+        "field": "meaning",
+        "before": "motorized vehicle",
+        "after": "motorized vehicle; vehicle bringing services to the public",
+        "reason": "Retain the original vehicle sense and explicitly add the separately documented public-service-vehicle sense; bookmobile illustrates only the latter.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-mobile",
+          "https://www.dictionary.com/browse/mobile"
+        ]
+      },
+      {
+        "id": "r_bffa9edcd5b7e20c",
+        "field": "source_entry",
+        "before": "Laws and Ryder (2014), MorphoQuantics appendix, discovery only",
+        "after": "Merriam-Webster, -mobile combining form, senses 1 and 2",
+        "reason": "Correct attribution: the original root proposal used MorphoQuantics only for discovery, while its accepted meaning and both senses are documented by Merriam-Webster.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/-mobile",
+          "https://www.dictionary.com/browse/mobile"
+        ]
+      },
+      {
+        "id": "r_874f204134b67c4d",
+        "field": "meaning",
+        "before": "to make sticky",
+        "after": "to make sticky; sticky",
+        "reason": "Retain the original Debenham causative gloss while explicitly adding the independently documented sticky state, which accounts for the adjective viscous.",
+        "evidence_urls": [
+          "https://www.coloradonga.org/assets/Glossary%20of%20Latin%20roots.pdf",
+          "https://www.etymonline.com/word/viscous"
+        ],
+        "review_report": "evidence-work/quality-visc-private-1822/review.json"
+      },
+      {
+        "id": "r_0573c397230d8977",
+        "field": "meaning",
+        "before": "citrus; citric acid; citrate",
+        "after": "citrus",
+        "reason": "MW groups citr- with longer forms. Independently, Collins explicitly lists citr- as the pre-vowel variant for citrus/citrus fruits, and Dictionary.com gives citric from citr(us)+-ic. Exact surface and source sense are substantiated, with the independently valid citrus + -ic derivational history and alternative citri- grouping carefully kept separate. Dictionary.com categorizes citric as chemistry; the familiar food-label expression citric acid supplies general cultural value, but the word is not a synonym for an actual citrus fruit and its meaning depends on context. Accept source sense 1 citrus as demonstrated by this example. The source also lists citric acid and citrate as additional distinct senses, with different source examples; preserve them as separate pending meanings unless each is independently supported. Do not merge all three as equally demonstrated by citric. Avoid treating the i as belonging exclusively to both citri- and -ic at once.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/us/dictionary/english/citri",
+          "https://www.dictionary.com/browse/citric",
+          "https://wehd.com/16/Citr-.html",
+          "https://spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%20and%20Combining%20Forms.pdf"
+        ],
+        "review_report": "evidence-work/unified-cross-review-private-1831-r002-r001/review.json"
+      },
+      {
+        "id": "r_dd6f81e838468dbf",
+        "field": "meaning",
+        "before": "laurel; lauric acid",
+        "after": "laurel",
+        "reason": "MW records laur- laurel. Greenwald teaching table independently shows laurus, laur, laurel tree alongside laureate. More robustly, Partridge Origins, entry laurel, explicitly identifies Latin laurus stem laur- and lists laureate in its family. Etymonline traces Latin laureatus through laurea crown and laureus to laurus. The short form is a documented historical teaching stem, not a claim that English directly coined laureate as laur + eate. The modern award-recipient sense reflects honor rather than literal crowning. Accept laurel sense only for laureate; keep lauric-acid chemical sense separately pending until supported with its own exact example. Describe historical derivation and separate present sense. Partridge supplies a second specific root/stem source without relying on a Scribd upload alone.",
+        "evidence_urls": [
+          "https://ocw.ui.ac.id/pluginfile.php/1102/mod_folder/content/0/Origins%20-%20An%20Etymological%20Dictionary%20of%20Modern%20English.pdf?forcedownload=1",
+          "https://www.scribd.com/doc/165613929/Greenwald-s-Latin-Derivatives-Packet",
+          "https://www.etymonline.com/word/laureate",
+          "https://www.dictionary.com/browse/laureate"
+        ],
+        "review_report": "evidence-work/unified-cross-review-private-1831-r002-r001/review.json"
+      },
+      {
+        "id": "r_301abcf817bc5273",
+        "field": "meaning",
+        "before": "suitable or easy to use for a specified person or purpose",
+        "after": "suitable or easy to use for a specified person or purpose; not harmful to a specified part of nature",
+        "reason": "1846 contains -friendly r_301abcf817bc5273 as a final combining form with ease/suitability meaning and user-friendly; expanding the same entry to add the separately sourced non-harm sense is a meaning enrichment, zero new roots. No claim existing ease sense means non-harm. Collins Webster’s New World directly places environment-friendly under -friendly not harmful to and separately lists eco-friendly. The Office québécois de la langue française independently analyzes final friendly in compounds and expressly lists both environment-friendly product and eco-friendly product in the environmental non-harm category. Eco-friendly is eco- + friendly and environment-friendly is environment + friendly; a single hyphen separates left element and final adjective. The compound and combining-form classifications are compatible; do not treat environmentally friendly (adverb + adjective) as an exact spelling of either example. Merriam-Webster confirms eco-friendly as not environmentally harmful; Collins describes products/services less harmful than comparable ones. Both are lexical descriptions and do not prove any real product has zero harmful impact. Independent Quebec government source explains environment-friendly as not damaging environment. Both forms match the added environmental sense; eco-friendly is the more conventional independently verified headword, while environment-friendly has precise usage and word-form confirmation. Prior review evidence-work/corpus-affix-crossreview-private-1842-r001/review.json held environmental sense pending only because no supporting example had then been presented; new direct sources resolve this gap without changing that record. Earlier fri→friendly e_979da3bc619144ec1670 / s_6297aa6647c2a92b66c3 was related_only, later accepted as historical family lookup; -ly→friendly e_b332307d24fb7a63e642 / s_686ec597a412108a8ce2 was accepted. Neither determines -friendly→these new words. Existing friend/fri family g_3c10c276ee206ded remains valid; eco environment root r_51a2ac6a3575b262 is a different component, not a basis for merging roots. No matching exact example appears in imports/resolved-pending.json, quality-holds.json, corrected-edge-exclusions.json, or pending-consolidated.json; bounded check does not establish exhaustive nonexistence of any historical decision. Neither new example is present on the existing -friendly record.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/dictionary/english/friendly",
+          "https://vitrinelinguistique.oqlf.gouv.qc.ca/ressources-linguistiques/chroniques/comment-traduire-friendly-en-francais",
+          "https://www.merriam-webster.com/dictionary/eco-friendly",
+          "https://www.collinsdictionary.com/dictionary/english/eco-friendly"
+        ],
+        "review_report": "evidence-work/friendly-environment-crossreview-private-1846-r001/review.json"
       }
     ],
     "withdrawn_relations": [
@@ -1918,6 +2017,70 @@
           "https://www.tabers.com/tabersonline/view/Tabers-Dictionary/761169/9/granuloma",
           "https://www.etymonline.com/word/granuloma"
         ]
+      },
+      {
+        "published_root_id": "r_40d75b73ac97fc73",
+        "word": "irony",
+        "outcome": "pending",
+        "reason": "The rare adjective meaning of iron is attested, but the much more common noun irony means verbal or situational incongruity and has an unrelated Greek origin. A flat example without sense labels risks a misleading generation; preserve the rare-sense evidence while deferring this pair.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/irony",
+          "https://www.merriam-webster.com/dictionary/irony"
+        ]
+      },
+      {
+        "published_root_id": "r_f240930ceef2b964",
+        "word": "scaled",
+        "outcome": "pending",
+        "reason": "Scaled has attested uses from scale meaning mark or climb, but common scaled meaning covered with scales belongs to a separate scale etymology. The flat output lacks per-word sense and could mislead article generation; preserve the evidence and defer this pair.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/scale",
+          "https://www.merriam-webster.com/dictionary/scaled"
+        ]
+      },
+      {
+        "published_root_id": "r_42339ff970decb31",
+        "word": "connote",
+        "outcome": "pending",
+        "reason": "The specific historical source marks note- as initial, while the complete word has con- or de- first. The independently verified Latin stem is not- from notare, and the English ending -note alone does not establish an independent Latin note morpheme. Keep the separately evidenced not target; defer this note-target edge rather than infer a cross-boundary component.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/denote",
+          "https://www.ahdictionary.com/word/search.html?q=connote",
+          "https://s3.amazonaws.com/arena-attachments/936593/0e5f7af17069a9cfb211e3ad0b1e6bdd.pdf"
+        ],
+        "review_report": "evidence-work/pending-resolution/disputes-after500-1732/note-boundary-adjudication.json"
+      },
+      {
+        "published_root_id": "r_42339ff970decb31",
+        "word": "denote",
+        "outcome": "pending",
+        "reason": "The specific historical source marks note- as initial, while the complete word has con- or de- first. The independently verified Latin stem is not- from notare, and the English ending -note alone does not establish an independent Latin note morpheme. Keep the separately evidenced not target; defer this note-target edge rather than infer a cross-boundary component.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/denote",
+          "https://www.ahdictionary.com/word/search.html?q=connote",
+          "https://s3.amazonaws.com/arena-attachments/936593/0e5f7af17069a9cfb211e3ad0b1e6bdd.pdf"
+        ],
+        "review_report": "evidence-work/pending-resolution/disputes-after500-1732/note-boundary-adjudication.json"
+      },
+      {
+        "published_root_id": "r_3d066a6c1d03a643",
+        "word": "folder",
+        "outcome": "pending",
+        "reason": "Folder can mean a person or machine that folds, but its widespread meaning is a paper or computer document container, not an agent that folds. The dataset cannot identify the intended meaning per example, so preserve the evidence and defer this root-word association.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/folder",
+          "https://www.dictionary.com/browse/folder"
+        ]
+      },
+      {
+        "published_root_id": "r_98ef977b15db6c33",
+        "word": "cheapskate",
+        "outcome": "pending",
+        "reason": "The target meaning is low in price, but cheapskate describes a stingy person. This different human character sense is not directly covered by the published target gloss; defer the relation while retaining the historical review.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/cheapskate",
+          "https://www.worldwidewords.org/ww-che2.html"
+        ]
       }
     ],
     "root_id_migrations": [
@@ -2047,6 +2210,505 @@
           "https://www.ahdictionary.com/word/search.html?q=sapphire",
           "https://www.etymonline.com/word/sapphirine"
         ]
+      },
+      {
+        "retired_id": "r_8016f14285997fdb",
+        "canonical_id": "r_44c42ea0f4518308",
+        "reason": "Both refer to the same Greek discharge/flow suffix and have identical examples. The older unmarked root was classified generically; the dictionary and all listed examples establish suffix position.",
+        "evidence_urls": [
+          "https://nursing.unboundmedicine.com/nursingcentral/view/Tabers-Dictionary/755903/all/_rrhea___rhea",
+          "https://www.affixes.org/-rrhoea.html"
+        ],
+        "retired_record": {
+          "id": "r_8016f14285997fdb",
+          "root": "-rrhea",
+          "source_form": "-rrhea",
+          "meaning": "flow, gush, discharge",
+          "class": "suffix",
+          "origin": "Greek",
+          "example": [
+            "amenorrhea",
+            "diarrhea",
+            "dysmenorrhea",
+            "galactorrhea",
+            "gonorrhea",
+            "logorrhea",
+            "pyorrhea"
+          ],
+          "family_id": "g_8016f14285997fdb",
+          "related_root_ids": [],
+          "source_entry": "rrhea, rrhoea, rrhag",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "suffix",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_00094cd8b8ee9340",
+        "canonical_id": "r_352b658ab56d41ce",
+        "reason": "Same Latin sanitas-derived historical stem and identical examples; health and healthy are compatible senses.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/sanitary",
+          "https://www.etymonline.com/word/sanity"
+        ],
+        "retired_record": {
+          "id": "r_00094cd8b8ee9340",
+          "root": "sanit",
+          "source_form": "sanit-",
+          "meaning": "health",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "sanitarian",
+            "sanitarium",
+            "sanitary",
+            "sanitation",
+            "sanitize",
+            "sanity",
+            "unsanitary"
+          ],
+          "family_id": "g_00094cd8b8ee9340",
+          "related_root_ids": [],
+          "source_entry": "sanit-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_9b3bfbbde64e7f52",
+        "canonical_id": "r_e6d92dddcfc472fc",
+        "reason": "Both are initial sarco- from Greek sark- flesh. Dictionary classifies it as a combining form. Sarcodinian is historically related via Greek sarkodes and the taxon Sarcodina, rather than necessarily showing a modern morpheme segmentation.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/sarc-",
+          "https://www.dictionary.com/browse/sarcodinian"
+        ],
+        "retired_record": {
+          "id": "r_9b3bfbbde64e7f52",
+          "root": "sarco",
+          "source_form": "sarco-",
+          "meaning": "flesh",
+          "class": "combining_form",
+          "origin": "Greek",
+          "example": [
+            "sarcocele",
+            "sarcodinian",
+            "sarcoid",
+            "sarcoidosis",
+            "sarcolemma",
+            "sarcolemmal",
+            "sarcolemmic",
+            "sarcomere",
+            "sarcophagus",
+            "sarcophagy",
+            "sarcoplasm",
+            "sarcosomal",
+            "sarcosome"
+          ],
+          "family_id": "g_9b3bfbbde64e7f52",
+          "related_root_ids": [],
+          "source_entry": "sarc-",
+          "pending_family_examples": 3
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "combining_form",
+        "added_examples": [
+          "sarcodinian"
+        ],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_74f2222ac36b9d26",
+        "canonical_id": "r_181d02568a15dc21",
+        "reason": "Identical historical Latin-derived sati- stem, same examples and synonymous glosses; maintain family links to satis and satur.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/satiate",
+          "https://www.etymonline.com/word/satiety"
+        ],
+        "retired_record": {
+          "id": "r_74f2222ac36b9d26",
+          "root": "sati",
+          "source_form": "-sati-",
+          "meaning": "enough",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "insatiable",
+            "satiate",
+            "satiety"
+          ],
+          "family_id": "g_74f2222ac36b9d26",
+          "related_root_ids": [],
+          "source_entry": "satis-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_7f69d8a4fa6bae2f",
+        "canonical_id": "r_c04b3447c86f3c4f",
+        "reason": "Identical Latin satis form, identical examples and synonymous glosses; maintain family links to sati and satur.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/satisfy"
+        ],
+        "retired_record": {
+          "id": "r_7f69d8a4fa6bae2f",
+          "root": "satis",
+          "source_form": "satis-",
+          "meaning": "enough",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "satisfaction",
+            "satisfy",
+            "unsatisfactory"
+          ],
+          "family_id": "g_7f69d8a4fa6bae2f",
+          "related_root_ids": [],
+          "source_entry": "satis-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_bd9c4130c7639dd8",
+        "canonical_id": "r_4f0a8954c27f6d09",
+        "reason": "Same initial Greek combining form, compatible hollow/boat senses, and identical examples. Dictionary supports boat and the initial combining-form class. Preserve published gloss terms and family ID.",
+        "evidence_urls": [
+          "https://www.dictionary.com/browse/scapho",
+          "https://www.ahdictionary.com/word/search.html?q=scaphopod",
+          "https://www.etymonline.com/word/scaphoid"
+        ],
+        "retired_record": {
+          "id": "r_bd9c4130c7639dd8",
+          "root": "scapho",
+          "source_form": "scapho-",
+          "meaning": "hollow",
+          "class": "combining_form",
+          "origin": "Greek",
+          "example": [
+            "scaphocephaly",
+            "scaphopod"
+          ],
+          "family_id": "g_bd9c4130c7639dd8",
+          "related_root_ids": [],
+          "source_entry": "scaph-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "combining_form",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_643ad97b0a757a61",
+        "canonical_id": "r_026a4799197c1b93",
+        "reason": "Both records describe the Latin scrutari search/examine stem; hyphen indicates bound form, not a distinct position. Keep the published source form and meaning.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/scrutiny"
+        ],
+        "retired_record": {
+          "id": "r_643ad97b0a757a61",
+          "root": "scrut",
+          "source_form": "scrut-",
+          "meaning": "search",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "inscrutable",
+            "scrutiny"
+          ],
+          "family_id": "g_643ad97b0a757a61",
+          "related_root_ids": [],
+          "source_entry": "scrut",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_88dc01aa27a250f7",
+        "canonical_id": "r_2072f1bd37e93d43",
+        "reason": "The same Latin sebum tallow stem and identical source form and examples. Retain root as an etymological stem, not a claim that seb- is an independently attested combining-form entry.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/sebaceous",
+          "https://www.merriam-webster.com/dictionary/sebum"
+        ],
+        "retired_record": {
+          "id": "r_88dc01aa27a250f7",
+          "root": "seb",
+          "source_form": "seb-",
+          "meaning": "fatty",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "sebaceous",
+            "sebacic",
+            "seborrhea",
+            "sebum"
+          ],
+          "family_id": "g_88dc01aa27a250f7",
+          "related_root_ids": [],
+          "source_entry": "seb-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_e301daf1a031d331",
+        "canonical_id": "r_69246a88daa0409c",
+        "reason": "Both records refer to the Greek seismos component. Collins labels seism- a pre-vowel variant of combining form seismo-; Greek seiein supplies the historical shake sense. Listed examples can also contain the standalone noun or terminal form; the class labels the indexed component, not each segmentation.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/dictionary/english/seismo",
+          "https://www.merriam-webster.com/dictionary/seismic",
+          "https://www.merriam-webster.com/dictionary/seism"
+        ],
+        "retired_record": {
+          "id": "r_e301daf1a031d331",
+          "root": "seism",
+          "source_form": "seism-",
+          "meaning": "earthquake",
+          "class": "combining_form",
+          "origin": "Greek",
+          "example": [
+            "aseismic",
+            "microseism",
+            "microseismic",
+            "paleoseismology",
+            "seism",
+            "seismic",
+            "seismogram",
+            "seismograph",
+            "seismology",
+            "seismometer",
+            "seismonasty",
+            "teleseism",
+            "teleseismic"
+          ],
+          "family_id": "g_e301daf1a031d331",
+          "related_root_ids": [],
+          "source_entry": "seism-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "combining_form",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_0a016891a61f10ef",
+        "canonical_id": "r_551fd27c1bdcf537",
+        "reason": "Both records denote the same initial Greek combining form. MW defines earthquake and vibration and traces it to seismos; retain the published historical gloss shake. The added examples are inherited relations, with seismonasty supported by its headword.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/seismo-",
+          "https://www.merriam-webster.com/dictionary/seismic",
+          "https://www.merriam-webster.com/dictionary/seismonasty"
+        ],
+        "retired_record": {
+          "id": "r_0a016891a61f10ef",
+          "root": "seismo",
+          "source_form": "seismo-",
+          "meaning": "earthquake",
+          "class": "combining_form",
+          "origin": "Greek",
+          "example": [
+            "paleoseismology",
+            "seismogram",
+            "seismograph",
+            "seismology",
+            "seismometer",
+            "seismonasty"
+          ],
+          "family_id": "g_0a016891a61f10ef",
+          "related_root_ids": [],
+          "source_entry": "seism-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "combining_form",
+        "added_examples": [
+          "paleoseismology",
+          "seismonasty"
+        ],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_961a9f592c93ca62",
+        "canonical_id": "r_fd6b175b6da777a7",
+        "reason": "Both records refer to Latin serpere creep. Hyphenation in source notation does not establish a distinct morpheme or position. Preserve the published reptile gloss, although the dictionary supports reptile as a meaning of derivative serpent, not literally of serpere.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/serpent"
+        ],
+        "retired_record": {
+          "id": "r_961a9f592c93ca62",
+          "root": "serp",
+          "source_form": "serp",
+          "meaning": "crawl",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "serpent",
+            "serpentine"
+          ],
+          "family_id": "g_961a9f592c93ca62",
+          "related_root_ids": [],
+          "source_entry": "serp-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_baf8940252077f9f",
+        "canonical_id": "r_6aab23087b20a7b2",
+        "reason": "Both denote the Latin serra saw stem; the hyphen marks a bound form. Biserrate is bi- plus serrate and can be added to the merged examples.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/serrate",
+          "https://www.merriam-webster.com/dictionary/biserrate"
+        ],
+        "retired_record": {
+          "id": "r_baf8940252077f9f",
+          "root": "serr",
+          "source_form": "serr",
+          "meaning": "saw",
+          "class": "root",
+          "origin": "Latin",
+          "example": [
+            "biserrate",
+            "serrate",
+            "serration",
+            "serrature",
+            "serriform",
+            "serrulate"
+          ],
+          "family_id": "g_baf8940252077f9f",
+          "related_root_ids": [],
+          "source_entry": "serr-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [
+          "biserrate"
+        ],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_b17defc809346a91",
+        "canonical_id": "r_53e4d7e576f8b416",
+        "reason": "Both target the same Latin sit/settle historical stem, not independent modern English segmentation. Preside is traced to Latin praesidere from sedere. The union contains inherited relations via verified bases and inflection; preserve existing linked sed/sess family.",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/preside",
+          "https://www.merriam-webster.com/dictionary/reside",
+          "https://www.etymonline.com/word/reside"
+        ],
+        "retired_record": {
+          "id": "r_b17defc809346a91",
+          "root": "sid",
+          "source_form": "sid",
+          "meaning": "sit, settle",
+          "class": "historical_stem",
+          "origin": "Latin",
+          "example": [
+            "assiduous",
+            "dissidence",
+            "dissident",
+            "insidious",
+            "nonresident",
+            "nonresidential",
+            "preside",
+            "presidency",
+            "president",
+            "presidential",
+            "presidentially",
+            "presider",
+            "presiding",
+            "presidium",
+            "reside",
+            "residence",
+            "residency",
+            "resident",
+            "residential",
+            "residual",
+            "residuals",
+            "residue",
+            "residuum",
+            "subside",
+            "subsidence",
+            "subsidiarity",
+            "subsidiary",
+            "subsiding",
+            "subsidization",
+            "subsidize",
+            "subsidized",
+            "subsidy",
+            "unsubsidized"
+          ],
+          "family_id": "g_b17defc809346a91",
+          "related_root_ids": [],
+          "source_entry": "sed, sid, sess",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "historical_stem",
+        "added_examples": [
+          "nonresidential",
+          "presidentially",
+          "residuals",
+          "subsidiarity",
+          "subsidization",
+          "subsidized",
+          "unsubsidized"
+        ],
+        "source_note": "Original stage records remain unchanged; this unpublished duplicate was consolidated into the pre-existing published ID."
+      },
+      {
+        "retired_id": "r_4dcd0601ed647a64",
+        "canonical_id": "r_dd7918b87c0a6ef9",
+        "reason": "Both entries have identical meaning, class, origin and examples after the documented metadata reconciliation; retain the established public ID and archive the unpublished duplicate.",
+        "evidence_urls": [
+          "https://www.ahdictionary.com/word/search.html?q=sapphire",
+          "https://www.etymonline.com/word/sapphirine"
+        ],
+        "retired_record": {
+          "id": "r_4dcd0601ed647a64",
+          "root": "sapphir",
+          "source_form": "sapphir-",
+          "meaning": "a precious stone",
+          "class": "root",
+          "origin": "Greek; ultimate origin uncertain",
+          "example": [
+            "sapphire",
+            "sapphirine"
+          ],
+          "family_id": "g_4dcd0601ed647a64",
+          "related_root_ids": [
+            "r_dd7918b87c0a6ef9"
+          ],
+          "source_entry": "sapphir-",
+          "pending_family_examples": 0
+        },
+        "canonical_original_class": "root",
+        "canonical_class": "root",
+        "added_examples": [],
+        "source_note": "The unpublished duplicate was consolidated into the existing public ID; both original records are retained in the local migration ledger."
       }
     ],
     "root_holds": [
@@ -2237,6 +2899,377 @@
           "https://www.collinsdictionary.com/dictionary/english/anthropo",
           "https://www.etymonline.com/word/anthropo-"
         ]
+      },
+      {
+        "original": {
+          "id": "r_25aa2024faf4705d",
+          "root": "lit",
+          "source_form": "lit",
+          "meaning": "letter, reading",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_261203def0f951e6",
+          "related_root_ids": [
+            "r_efe991c6b9d1f7c4"
+          ],
+          "source_entry": "lit, litera",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_25aa2024faf4705d",
+        "root": "lit",
+        "meaning": "letter, reading",
+        "reason": "Latin litera/littera and stems liter/litter are attested; bare lit as a distinct letter stem is not independently established. Its occurrence at the beginning of a longer stem is insufficient.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/literate",
+          "https://www.etymonline.com/word/alliteration"
+        ],
+        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      },
+      {
+        "original": {
+          "id": "r_3ca5bbbce79e82d1",
+          "root": "noun",
+          "source_form": "noun",
+          "meaning": "declare",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_6074a8102510a746",
+          "related_root_ids": [
+            "r_1e1de0a3eb90e114",
+            "r_8fbe52de083cc26d",
+            "r_98e8a338873c7e4c"
+          ],
+          "source_entry": "noun, nunc",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_3ca5bbbce79e82d1",
+        "root": "noun",
+        "meaning": "declare",
+        "reason": "In pronounce and announce the supported historical base is Latin nuntiare and French -nonc-; bare noun is not documented here as an independent declare-form. English noun and pronoun derive from Latin nomen name, a different sense and family.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/announce",
+          "https://www.etymonline.com/word/pronounce",
+          "https://www.etymonline.com/word/pronoun"
+        ],
+        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      },
+      {
+        "original": {
+          "id": "r_2d51a8acfebc3563",
+          "root": "opt",
+          "source_form": "opt1",
+          "meaning": "best",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_ae6e7b9e0ea45419",
+          "related_root_ids": [],
+          "source_entry": "opt1",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_2d51a8acfebc3563",
+        "root": "opt",
+        "meaning": "best",
+        "reason": "Optimal/optimum are from Latin optimus best, whose historical decomposition has competing analyses; an independent opt stem meaning best is not established by these sources. Existing optim best is better supported.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/optimum",
+          "https://www.etymonline.com/word/optimal",
+          "https://www.etymonline.com/word/opt"
+        ],
+        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      },
+      {
+        "original": {
+          "id": "r_3f7f70d231ce61fa",
+          "root": "scen",
+          "source_form": "scen",
+          "meaning": "climb",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_0773264b3244883c",
+          "related_root_ids": [
+            "r_106b4c05acc2af08"
+          ],
+          "source_entry": "scen, scend",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_3f7f70d231ce61fa",
+        "root": "scen",
+        "meaning": "climb",
+        "withdrawn_examples": [
+          "ascend",
+          "ascent",
+          "descend",
+          "descendent",
+          "descent",
+          "transcend",
+          "transcendent"
+        ],
+        "reason": "Wordsmyth lists scen as a teaching lookup alongside scend, but historical dictionaries document scend/scens rather than an independently attested scen morpheme. Hold this truncated lookup under the independent word-formation policy; retain the separate Greek scen booth entry.",
+        "evidence_urls": [
+          "https://www.wordsmyth.net/?am=page&mode=wpar&offset=3&page=26",
+          "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Ascensus",
+          "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3873/"
+        ],
+        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0277/proposal.json"
+      },
+      {
+        "original": {
+          "id": "r_db02655e84f293cd",
+          "root": "surr",
+          "source_form": "surr",
+          "meaning": "rise",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_0c0dbdc8cf059e8a",
+          "related_root_ids": [
+            "r_22afb38fe53b9943",
+            "r_e04c5c03380bc087"
+          ],
+          "source_entry": "surg, surr",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_db02655e84f293cd",
+        "root": "surr",
+        "meaning": "rise",
+        "withdrawn_examples": [
+          "insurrection",
+          "resurrect"
+        ],
+        "reason": "The sequence surr crosses the Latin assimilated prefix sub- and the following regere-derived stem; it is not established as an independent root. The complete documented historical stem surrect is retained.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/surge",
+          "https://www.etymonline.com/word/insurrection",
+          "https://www.etymonline.com/word/resurrection"
+        ],
+        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0372/proposal.json"
+      },
+      {
+        "original": {
+          "id": "r_e1ac89c7616378b0",
+          "root": "anthr",
+          "source_form": "anthr",
+          "meaning": "human being",
+          "class": "root",
+          "origin": "Greek",
+          "example": [],
+          "family_id": "g_807578a53242ff62",
+          "related_root_ids": [
+            "r_60fa2b69e159480e",
+            "r_839265e1e0007ccc",
+            "r_982950af48da2da0",
+            "r_ad9765cef08e4752"
+          ],
+          "source_entry": "anthr, anthro, anthrop, anthropo",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_e1ac89c7616378b0",
+        "root": "anthr",
+        "meaning": "human being",
+        "withdrawn_examples": [
+          "anthropocentric",
+          "anthropogenesis",
+          "anthropoid",
+          "anthropology",
+          "anthropometry",
+          "anthropomorphism",
+          "anthropophagy",
+          "lycanthrope",
+          "lycanthropy",
+          "misanthrope",
+          "misanthropy",
+          "philanthropist",
+          "philanthropy",
+          "pithecanthropus"
+        ],
+        "reason": "Independent dictionaries attest Greek anthrop-/anthropo- for human, but a standalone anthr- meaning human was not established; anthr- in chemical terminology is a distinct form. Retain all 14 reviewed words under the already supported anthrop and anthro entries, and preserve the original target and examples as a reversible quality hold.",
+        "review_report": "evidence-work/pending-resolution/anthr-human-audit-1526/report.json",
+        "evidence_urls": [
+          "https://www.merriam-webster.com/dictionary/anthrop-",
+          "https://www.collinsdictionary.com/dictionary/english/anthropo",
+          "https://www.etymonline.com/word/anthropo-"
+        ]
+      },
+      {
+        "published_root_id": "r_fa3dbff33301d0ce",
+        "root": "amb",
+        "meaning": "walk",
+        "original": {
+          "id": "r_fa3dbff33301d0ce",
+          "root": "amb",
+          "source_form": "amb",
+          "meaning": "walk",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_4092b04269726faf",
+          "related_root_ids": [
+            "r_60b37d0f4b136eeb",
+            "r_7a05856742af2a0a"
+          ],
+          "source_entry": "amb, ambl, ambul",
+          "pending_family_examples": 0
+        },
+        "reason": "All 12 examples are descendants of Latin ambulare or shortened ambl-; none examined establishes amb alone as an independently functioning historical walk stem. Isolate as insufficiently supported, not disproven. Wordsmyth and GRE study guide explicitly list amb as a teaching root, so this is not an absence-of-all-sources claim: those lists do not demonstrate separate historical segmentation, and the same examples are explained by full ambul/ambl. A documented project policy might intentionally retain amb as a lookup-only clipped alias, but it must be labeled as such rather than as an independently substantiated stem.",
+        "evidence_urls": [
+          "https://www.wordsmyth.net/?am=page&mode=wpar&offset=11&page=2",
+          "https://static.zollege.in/public/image/Essential_Words_for_the_GRE_7dd44dfa9cab6c93f7cb1f14d39f59e1.pdf",
+          "https://andrewdunning.ca/latin-greek-scientific-terminology/vocabulary/latin-vocabulary.pdf",
+          "https://www.etymonline.com/word/amble"
+        ],
+        "review_report": "evidence-work/untraced-published-1660/work-cross-amb/proposal.json"
+      },
+      {
+        "published_root_id": "r_fa3f91bf8345e5df",
+        "root": "vint",
+        "meaning": "wine",
+        "original": {
+          "id": "r_fa3f91bf8345e5df",
+          "root": "vint",
+          "source_form": "vint",
+          "meaning": "wine",
+          "class": "root",
+          "origin": "Latin",
+          "example": [],
+          "family_id": "g_38420f53961c1295",
+          "related_root_ids": [
+            "r_4292feebb54f8ed2",
+            "r_c5613527820fc2ce"
+          ],
+          "source_entry": "vin, vini, vint",
+          "pending_family_examples": 0
+        },
+        "reason": "Both example words trace to Latin vinum or French descendants, but competing accounts do not establish an independent Latin vint = wine root. English vint is a later back-formation.",
+        "evidence_urls": [
+          "https://www.ahdictionary.com/word/search.html?q=vintage",
+          "https://www.dictionary.com/browse/vintner"
+        ],
+        "review_report": "evidence-work/untraced-published-1660/work-cross-vint/proposal.json"
+      },
+      {
+        "original": {
+          "id": "r_bd54e7a5a230c731",
+          "root": "lycan",
+          "source_form": "lycan-",
+          "meaning": "wolf",
+          "class": "prefix",
+          "origin": "Greek",
+          "example": [],
+          "family_id": "g_bd54e7a5a230c731",
+          "related_root_ids": [],
+          "source_entry": "lycan-",
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_bd54e7a5a230c731",
+        "root": "lycan",
+        "meaning": "wolf",
+        "withdrawn_examples": [
+          "lycanthrope",
+          "lycanthropy"
+        ],
+        "reason": "Greek source combines lykos wolf with anthropos human, so lycan crosses the historical boundary; one teaching list uses lycan as a lookup but does not independently establish a modern wolf prefix. The two disputed exact relations and root classification are held pending, with original source and past acceptances preserved.",
+        "review_report": "evidence-work/quality-review-lycan-1798/review.json",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/us/dictionary/english/lycanthrope",
+          "https://www.ahdictionary.com/word/search.html?q=lycanthrope",
+          "https://davidmoore.org.uk/21st_century_guidebook_to_fungi_platinum/Assets/Printed_documents/Latin-Greek%20Derivatives2018.pdf"
+        ]
+      },
+      {
+        "reason": "plac 现有来源支持 place 历史词族索引，但未确立独立的 Latin plac 构词词素，整条记录暂不发布。",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/place",
+          "https://ahdictionary.com/word/search.html?q=place"
+        ],
+        "original_record": {
+          "id": "r_97c016f2928634d0",
+          "root": "plac",
+          "source_form": "plac",
+          "meaning": "an open space",
+          "class": "root",
+          "origin": "Latin platea; Medieval Latin placea; Old French place (historical family index)",
+          "example": [
+            "anyplace",
+            "birthplace",
+            "commonplace",
+            "displace",
+            "homeplace",
+            "marketplace",
+            "place",
+            "placeless",
+            "placement",
+            "placer",
+            "someplace",
+            "workplace",
+            "displaced",
+            "displacement",
+            "irreplaceable",
+            "misplace",
+            "misplacement",
+            "replace",
+            "replaceable",
+            "replaced",
+            "replacement"
+          ],
+          "family_id": "g_cb5cf4fced1bb8e4",
+          "related_root_ids": [
+            "r_c54d3a21eab8b27e"
+          ],
+          "source_entry": "plac",
+          "pending_family_examples": 0
+        },
+        "removed_reciprocal_links": [
+          {
+            "root_id": "r_c54d3a21eab8b27e",
+            "root": "place",
+            "before": [
+              "r_97c016f2928634d0"
+            ],
+            "after": []
+          }
+        ],
+        "published_root_id": "r_97c016f2928634d0",
+        "original": {
+          "id": "r_97c016f2928634d0",
+          "root": "plac",
+          "source_form": "plac",
+          "meaning": "an open space",
+          "class": "root",
+          "origin": "Latin platea; Medieval Latin placea; Old French place (historical family index)",
+          "example": [
+            "anyplace",
+            "birthplace",
+            "commonplace",
+            "displace",
+            "homeplace",
+            "marketplace",
+            "place",
+            "placeless",
+            "placement",
+            "placer",
+            "someplace",
+            "workplace",
+            "displaced",
+            "displacement",
+            "irreplaceable",
+            "misplace",
+            "misplacement",
+            "replace",
+            "replaceable",
+            "replaced",
+            "replacement"
+          ],
+          "family_id": "g_cb5cf4fced1bb8e4",
+          "related_root_ids": [
+            "r_c54d3a21eab8b27e"
+          ],
+          "source_entry": "plac",
+          "pending_family_examples": 0
+        }
       }
     ],
     "family_id_migrations": [
@@ -2267,22 +3300,165 @@
         "reason": "Greek meninx and inflectional stem mening- are documented forms of one historical family; the forms and root IDs remain distinct."
       }
     ],
-    "new_root_evidence_count": 2365,
+    "gloss_changes": [
+      {
+        "id": "r_ea1e62b1a7ce57c9",
+        "root": "-ennial",
+        "field": "meaning",
+        "after": "occurring at intervals of a stated number of years, or commemorating such an interval",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/us/dictionary/english/centennial",
+          "https://www.etymonline.com/word/centennial",
+          "https://www.etymonline.com/word/biennial"
+        ]
+      },
+      {
+        "id": "r_86fe02e017a0d4ac",
+        "root": "-etum",
+        "field": "meaning",
+        "after": "a garden or collection planted with a particular kind of plant",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/arboretum",
+          "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=-etum",
+          "https://www.collinsdictionary.com/us/dictionary/english/arboretum"
+        ]
+      },
+      {
+        "id": "r_c90d4ee9d0cced58",
+        "root": "-graphical",
+        "field": "meaning",
+        "after": "relating to descriptions or writing about a particular subject or discipline",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.affixes.org/-graphy.html",
+          "https://etymologically.com/en/biographical",
+          "https://www.etymonline.com/word/biographical"
+        ]
+      },
+      {
+        "id": "r_117c1ebc9495040e",
+        "root": "-metrical",
+        "field": "meaning",
+        "after": "concerning a particular art, method, or science of measurement",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://wordinfo.info/units/view/1302/page%3A15/s%3Abarographs",
+          "https://www.affixes.org/-metric.html",
+          "https://www.etymonline.com/word/geometrical"
+        ]
+      },
+      {
+        "id": "r_719651d87e85b0c2",
+        "root": "-scopic",
+        "field": "meaning",
+        "after": "directing sight in a particular way; viewing or observation",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://dictionary.cambridge.org/us/dictionary/english/scopic",
+          "https://www.etymonline.com/word/telescopic",
+          "https://dictionary.cambridge.org/us/dictionary/english/scopic?topic=weighing-measuring-and-counting-devices"
+        ]
+      },
+      {
+        "id": "r_9b4fdfa4781b546c",
+        "root": "-theism",
+        "field": "meaning",
+        "after": "belief or position concerning deities, their existence or number",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/-theism",
+          "https://www.etymonline.com/word/monotheism",
+          "https://files.eric.ed.gov/fulltext/ED016380.pdf"
+        ]
+      },
+      {
+        "id": "r_5e263a1aec9008f0",
+        "root": "-theist",
+        "field": "meaning",
+        "after": "a person holding a belief or position about the existence or number of gods",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://ocw.ui.ac.id/pluginfile.php/1102/mod_folder/content/0/Origins%20-%20An%20Etymological%20Dictionary%20of%20Modern%20English.pdf?forcedownload=1",
+          "https://www.etymonline.com/word/monotheist"
+        ]
+      },
+      {
+        "id": "r_728528643fa9e45d",
+        "root": "-ular",
+        "field": "meaning",
+        "after": "pertaining to or resembling",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.sciedu.ca/journal/index.php/elr/article/download/9094/5538",
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/tubular"
+        ]
+      },
+      {
+        "id": "r_a292f8214b6bc0d6",
+        "root": "automat",
+        "field": "meaning",
+        "after": "operating or regulating itself; automatic",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://glnmedia.s3.amazonaws.com/pdf/products/sample_pages/sample_LAN1201.pdf",
+          "https://www.etymonline.com/word/automatic"
+        ]
+      },
+      {
+        "id": "r_934c34782ada2660",
+        "root": "Judaeo-",
+        "field": "meaning",
+        "after": "relating to Jews or Judaism; Jewish in combination",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.dictionary.com/browse/judaeo",
+          "https://dictionary.cambridge.org/dictionary/english/judaeo-christian?topic=christian-denominations",
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/judeo"
+        ]
+      },
+      {
+        "id": "r_e622787a66f3c17d",
+        "root": "Judeo-",
+        "field": "meaning",
+        "after": "relating to Jews or Judaism; Jewish in combination",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://www.collinsdictionary.com/dictionary/english/judeo",
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/judeo",
+          "https://www.collinsdictionary.com/dictionary/english/judeo-christian"
+        ]
+      },
+      {
+        "id": "r_00bfc1a09f49ba08",
+        "root": "-t",
+        "field": "meaning",
+        "after": "marks a past tense or past participle for certain verbs",
+        "reason": "Concise independently worded gloss, retaining the documented scope and examples; source citation remains in the entry.",
+        "evidence_urls": [
+          "https://content.fimsschools.com/academy.fims.org.pk/The%20Oxford%20Companion%20to%20the%20English%20Language.pdf",
+          "https://web.stanford.edu/~kiparsky/Papers/nels.pdf",
+          "https://www.sfu.ca/~dearmond/220/220.weak.t.htm"
+        ]
+      }
+    ],
+    "new_root_evidence_count": 2591,
     "new_root_evidence_parts": [
       {
         "file": "json/root-evidence-001.json",
         "count": 1000,
-        "sha256": "7311b49d158fa4e786b7fb3e026cfaaecc2bb6be5a5029be8f3ffd9daa19d78d"
+        "sha256": "15c5e45f48f2fb79cc9804cc8b4c065dc334dcdc591aeba936f97e00ebf683ff"
       },
       {
         "file": "json/root-evidence-002.json",
         "count": 1000,
-        "sha256": "13e1cd6f78463d2130c4f8a2396e2a529e31f081d90c4102632afaef605deb7a"
+        "sha256": "e4508e2428085b82de0d1152cee89862cebf06930acc7a6b1cb09edd2480d8cb"
       },
       {
         "file": "json/root-evidence-003.json",
-        "count": 365,
-        "sha256": "923015d60ddb694ad78851f7fdedabaa37bd0da02e479cd5f06bfe9568e081ec"
+        "count": 591,
+        "sha256": "d068249c98107133fd79b90bcf25da3dab2350defccca954f42cbfdb3a6d5d1b"
       }
     ]
   }

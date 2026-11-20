@@ -9,6 +9,8 @@ Copyright © 2026 新舰同学roXz（Xekin97）：本项目可受保护的原创
 - [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list) 的 [生成词根表](https://github.com/WithEnglishWeCan/generated-english-roots-list/blob/bf26e3842137d8f7bbc6e69ef39c05b43e3a22a6/english.roots.list.build.json)：词根、含义和例词的对照来源。该仓库 [README](https://github.com/WithEnglishWeCan/generated-english-roots-list/blob/bf26e3842137d8f7bbc6e69ef39c05b43e3a22a6/README.md#license) 声明“Licensed under MIT.”；所检查的仓库版本没有单独的许可证文件，也未在该 README 中找到版权人姓名。MIT 标准许可文本见 [Open Source Initiative](https://opensource.org/license/mit)；此项目未列明的版权人不作推测。
 - [engra](https://github.com/eslsoft/engra) 的 [词根数据](https://github.com/eslsoft/engra/tree/master/dict/roots)：词根及派生词关系的对照来源。上游仓库声明 MIT，Copyright © 2023 Ambor；[许可证副本](ENGRA-LICENSE)。engra 的 [README](https://github.com/eslsoft/engra#参考) 另列若干参考资料并描述从公开渠道补充数据；这些资料的具体权利及其与个别条目的关系需分别核实。
 
+- [LexiRoot](https://github.com/tcyeee/lexiroot)：部分词根、词缀及英文含义的补充来源。上游采用 MIT，Copyright (c) 2026 tcyeee；[许可证副本](LEXIROOT-LICENSE)。其[第三方说明](https://github.com/tcyeee/lexiroot/blob/main/THIRD_PARTY_NOTICES.md)列有 morphemes 和 generated-english-roots-list 等上游资料，相关说明亦见上文。
+
 上述来源中的部分条目和关系已纳入主表，并非将各来源完整数据集直接重新分发。MIT 许可文本要求在其规定的副本或实质部分中保留版权与许可声明；参见各项目原许可。各项目的许可声明仅能说明其声明的许可，不能据此确定任何项目对其所有上游资料享有何种权利。
 
 67 条词根关系核实及跨库补充参考 Etymonline、Merriam-Webster、The Century Dictionary、Collins、Affixes.org 等词源资料；部分具体页面链接保留在相应记录中。说明为本项目的简短整理，不包含第三方词典全文。
@@ -16,6 +18,8 @@ Copyright © 2026 新舰同学roXz（Xekin97）：本项目可受保护的原创
 词根及例词补充时另参考 [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en) 的构词标注，原数据采用 [CC BY-NC-SA 4.0](https://github.com/hugomailhot/MorphoLex-en/blob/master/LICENSE.md)。本项目不分发该标注语料或原始切分记录；针对参考记录保留可核对的哈希、资源标识和人工审核范围。上游材料及其适用的相同方式共享条款不受本项目原创贡献许可替代。
 
 其他辅助参考资料包括 [MorphyNet](https://github.com/kbatsuren/MorphyNet)（上游说明采用 CC BY-SA 3.0；本项目不分发其原始数据库行，参考记录仅留哈希、资源标识和人工审核范围）、[etymology-db](https://github.com/droher/etymology-db) 和 [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)。其来源、版权和许可条件请参阅各项目的说明；Wiktionary 衍生资料之间存在来源重叠。
+
+英文 Wiktionary 数据另通过 [Kaikki.org 英语词条](https://kaikki.org/dictionary/English/)用于查找和核对前后缀，与 Simple English 和其他 Wiktionary 衍生资料可能重叠；具体来源及其许可请参阅各自页面。部分新增英文含义参考 Merriam-Webster 的 *A Dictionary of Prefixes, Suffixes, and Combining Forms*；原词典及本地发现资料不随本项目分发。短释义的整理和来源标注并不替代对相关材料权利的单独判断。
 
 部分新增条目的英文含义或历史词形还参考了以下资料：
 

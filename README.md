@@ -2,7 +2,7 @@
 
 基于多个项目的公开资料整理的英语词根库，收录词根、前缀、后缀和部分构词形式，提供英文 `meaning` 及对应例词，保留同族变体之间的关联。
 
-当前 JSON 共收录 **5,269 个词根及词缀条目**，所有 `example` 合并去重后共有 **31,238 个例词和词组**，合计 **44,418 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
+当前 JSON 共收录 **5,491 个词根及词缀条目**，所有 `example` 合并去重后共有 **31,865 个例词和词组**，合计 **46,755 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
 
 ## 整理目的：词根平铺化
 
@@ -26,19 +26,20 @@
 - [morphemes](https://github.com/colingoldberg/morphemes)：词根、词缀及构词关系。
 - [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)：词根与例词。
 - [engra](https://github.com/eslsoft/engra)：词根及派生词关系。
+- [LexiRoot](https://github.com/tcyeee/lexiroot)：补充词根、词缀和英文含义；其部分数据来源与上述项目重叠。
 
 整理和核对时还参考了以下构词与词源资料：
 
 - [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en)：英语单词的构词标注。
 - [MorphyNet](https://github.com/kbatsuren/MorphyNet)：单词派生和词形变化关系。
 - [etymology-db](https://github.com/droher/etymology-db)：从 Wiktionary 词源数据整理的词源关系。
-- [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)：词条及其词源资料，用于辅助查找；与其他 Wiktionary 衍生数据存在来源重叠。
+- [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)及[英文 Wiktionary 数据](https://kaikki.org/dictionary/English/)：词条、前后缀及词源资料，用于发现和核对；与其他 Wiktionary 衍生数据存在来源重叠。
 - 词典与词源参考：[Online Etymology Dictionary](https://www.etymonline.com/)、[Merriam-Webster](https://www.merriam-webster.com/)、[Dictionary.com](https://www.dictionary.com/)、[Collins Dictionary](https://www.collinsdictionary.com/)、[Wiktionary](https://en.wiktionary.org/)、[American Heritage Dictionary](https://www.ahdictionary.com/)、[Oxford Learner’s Dictionaries](https://www.oxfordlearnersdictionaries.com/) 等；医学词缀另参考 [MedlinePlus 词素表](https://medlineplus.gov/appendixa.html)，部分历史词形参考大学教材及历史词典。
 - 部分英文词根含义和变体还参考词根词典、教材和学术资料，具体来源见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
 
 这些资料用于对照与核实，词形相似或出现在同一资料中并不自动证明词根关系。各来源的许可说明见 [notes/THIRD_PARTY_NOTICES.md](notes/THIRD_PARTY_NOTICES.md)。
 
-数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-006` 编号；每个文件最多 1,000 条，最后一份有 269 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
+数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-006` 编号；每个文件最多 1,000 条，最后一份有 491 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
 
 JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example` 八个常用字段；例词以 ` | ` 分隔，无例词时单元格为空。同族关联和待处理计数请使用 JSON。CSV 使用 UTF-8 BOM，字段中的逗号、引号和换行由 CSV 格式转义。
 
@@ -65,7 +66,7 @@ JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`�
 ## 审核状态与已知限制
 
 - [词根与例词审核状态索引](notes/edge-audit.json)按词根 `id` 和例词记录审核状态，审核关系及来源分别拆分到 `notes/json/`。索引中的 `roots_sha256` 绑定按编号拼接后的完整数据快照。`supported_scoped` 表示指定词义或来源范围有依据；`historical_accept_scoped` 表示找到该范围的历史接受记录，不能视为对所有义项的保证；未列出或标记 `untraced` 表示尚未找到对应的逐条审核记录，并不等于错误。`related_pending_candidate` 是旧快照中曾有待核相关来源候选的历史标记；标记对应的快照见 `related_pending_candidate_as_of_roots_sha256`，不能单凭它判断当前待确认状态，也不自动代表当前关系有误。若同一条记录含 `later_resolution`，以后者说明为准。
-- [待确认关系](notes/held-relations.json)记录从主表暂缓的例词关系、来源范围待核记录和整体暂缓的词根，并保留原因和参考资料；暂缓不等于判定关系错误。未找到精确审核记录的主表关系不能视为已逐条核实。
+- [待确认关系](notes/held-relations.json)记录从主表暂缓的例词关系、来源范围待核记录和整体暂缓的词根，并保留原因和参考资料；暂缓不等于判定关系错误。`plac` 因独立词素依据待核整条暂缓，`ment` 的 5 条关系因构词分析分歧暂缓。未找到精确审核记录的主表关系不能视为已逐条核实。
 - 部分旧条目因缺少独立构词依据而整体暂缓；原 ID 和原因保存在[待确认关系](notes/held-relations.json)。已公开的人义 `anthr`（`r_e1ac89c7616378b0`）也已暂缓，其例词保留在已核实的 `anthrop`／`anthro` 词族中，使用旧 ID 时请查阅该记录。
 - [修正与义项记录](notes/curation-corrections.json)包含来源错误修正、历史形式和同形词的适用范围、已迁移关系以及防护义 `para` 的重复条目对应。`porter` 的搬运工与守门人义项分别连接不同词根；`airport` 的机场义连接港口义 `port`。`tel` / `tele` 的远与终点已按义项拆分：原 ID 保留其中一个义项，引用旧例词关系时应查看迁移记录。`dur`（持续义）条目的 ID 保持不变，但 `family_id` 已由 `g_0537cb15b86036a7` 更新为 `g_20c4bc6568b296dd`；保存旧词族 ID 的使用方应参考修正记录。
 - 当前没有零例词或仅含自身例词的条目（比较自身例词时忽略两端连字符及大小写）。专名、古词和不同词形可出现在例词中，需按实际产品规则筛选；不要将每个例词的所有含义都归给该词根。
@@ -74,7 +75,8 @@ JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`�
 
 ## TODO
 
-- [ ] 暂停处理四个来源合并、去重后的待确认候选；当前有 **2,209 条待确认记录**，另有 **133 条未分配候选**未计入其中。这些记录包括不同义项、来源范围和证据不足的候选，不等于主表未审核关系的数量，也不表示已入库关系有误。
+- [ ] 按用户要求暂停新增词根的整理；此前计划补充 500 个不同写法，已确认 222 个，剩余 278 个待后续处理。该计划按不同写法统计，与本次相对公开仓库的条目增量口径不同。
+- [ ] 待确认候选仍包含不同义项、来源范围和证据不足的关系，恢复时按各自队列及证据重新判断。
 - [ ] 恢复处理待确认关系时，区分同形异义、同族变体、历史词形变化和跨越构词边界的字母匹配。
 - [ ] 检查现有条目中沿用自来源的例词及英文 `meaning`，修正发现的问题；当前数据尚未全部逐词核实。
 - [ ] 后续处理[待确认关系](notes/held-relations.json)和尚未关联到逐条审核记录的主表关系时，按词义与来源分别判断不同来源的同形条目。
