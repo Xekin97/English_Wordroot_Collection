@@ -612,7 +612,7 @@
       "qualifiers": []
     }
   },
-  "roots_sha256": "f7deb1c80e4dbd2dfebd034a30af27844ed2d0f6027165d1677aaa4299ba0765",
+  "roots_sha256": "e371043c81c1a78abb5ef6751d79bcc44c54720f8a6f6809d35ca4d5ea4f7790",
   "normalization_counts_scope": "Counts describe the source labels in the original 2,509-entry baseline, before manual corrections and new sense records.",
   "manual_overrides": "See curation-corrections.json and the current roots.json for subsequent corrections."
 }

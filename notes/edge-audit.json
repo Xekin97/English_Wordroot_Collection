@@ -8,7 +8,7 @@
     "needs_review": "An outstanding uncertainty affects this published relation; inspect overlap_review or the root hold before use."
   },
   "roots_sha256_encoding": "UTF-8 JSON array, ensure_ascii=False, indent=2, followed by a newline; array entries are concatenated in root_parts order.",
-  "roots_sha256": "f7deb1c80e4dbd2dfebd034a30af27844ed2d0f6027165d1677aaa4299ba0765",
+  "roots_sha256": "e371043c81c1a78abb5ef6751d79bcc44c54720f8a6f6809d35ca4d5ea4f7790",
   "description": "Numbered snapshot, audit relation and source parts; paths are relative to this index.",
   "root_quality_holds": [
     {
@@ -34,8 +34,7 @@
       "evidence_urls": [
         "https://www.etymonline.com/word/literate",
         "https://www.etymonline.com/word/alliteration"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      ]
     },
     {
       "original": {
@@ -63,8 +62,7 @@
         "https://www.etymonline.com/word/announce",
         "https://www.etymonline.com/word/pronounce",
         "https://www.etymonline.com/word/pronoun"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      ]
     },
     {
       "original": {
@@ -88,8 +86,7 @@
         "https://www.etymonline.com/word/optimum",
         "https://www.etymonline.com/word/optimal",
         "https://www.etymonline.com/word/opt"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      ]
     },
     {
       "original": {
@@ -124,8 +121,7 @@
         "https://www.wordsmyth.net/?am=page&mode=wpar&offset=3&page=26",
         "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Ascensus",
         "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3873/"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0277/proposal.json"
+      ]
     },
     {
       "original": {
@@ -156,8 +152,7 @@
         "https://www.etymonline.com/word/surge",
         "https://www.etymonline.com/word/insurrection",
         "https://www.etymonline.com/word/resurrection"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0372/proposal.json"
+      ]
     },
     {
       "original": {
@@ -198,7 +193,6 @@
         "pithecanthropus"
       ],
       "reason": "Independent dictionaries attest Greek anthrop-/anthropo- for human, but a standalone anthr- meaning human was not established; anthr- in chemical terminology is a distinct form. Retain all 14 reviewed words under the already supported anthrop and anthro entries, and preserve the original target and examples as a reversible quality hold.",
-      "review_report": "evidence-work/pending-resolution/anthr-human-audit-1526/report.json",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/anthrop-",
         "https://www.collinsdictionary.com/dictionary/english/anthropo",
@@ -231,8 +225,7 @@
         "https://static.zollege.in/public/image/Essential_Words_for_the_GRE_7dd44dfa9cab6c93f7cb1f14d39f59e1.pdf",
         "https://andrewdunning.ca/latin-greek-scientific-terminology/vocabulary/latin-vocabulary.pdf",
         "https://www.etymonline.com/word/amble"
-      ],
-      "review_report": "evidence-work/untraced-published-1660/work-cross-amb/proposal.json"
+      ]
     },
     {
       "published_root_id": "r_fa3f91bf8345e5df",
@@ -258,8 +251,7 @@
       "evidence_urls": [
         "https://www.ahdictionary.com/word/search.html?q=vintage",
         "https://www.dictionary.com/browse/vintner"
-      ],
-      "review_report": "evidence-work/untraced-published-1660/work-cross-vint/proposal.json"
+      ]
     },
     {
       "original": {
@@ -283,7 +275,6 @@
         "lycanthropy"
       ],
       "reason": "Greek source combines lykos wolf with anthropos human, so lycan crosses the historical boundary; one teaching list uses lycan as a lookup but does not independently establish a modern wolf prefix. The two disputed exact relations and root classification are held pending, with original source and past acceptances preserved.",
-      "review_report": "evidence-work/quality-review-lycan-1798/review.json",
       "evidence_urls": [
         "https://www.collinsdictionary.com/us/dictionary/english/lycanthrope",
         "https://www.ahdictionary.com/word/search.html?q=lycanthrope",
@@ -333,7 +324,6 @@
         "replacement"
       ],
       "reason": "plac 现有来源支持 place 历史词族索引，但未确立独立的 Latin plac 构词词素，整条记录暂不发布。",
-      "review_report": "evidence-work/release-hold-audit-1860-r001/release-holds.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/place",
         "https://ahdictionary.com/word/search.html?q=place"
@@ -372,7 +362,6 @@
         "mobocracy"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/a/old-pending-ten.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/mob",
         "https://www.merriam-webster.com/dictionary/mobbish"
@@ -397,8 +386,7 @@
             "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. English mob a productive noun and verb meaning crowd, often disorderly; historically clipped from mobile vulgus fickle common people, ultimately mobilis moving. This source only means crowd; the modern base is not an independent Latin mob- meaning move. Preserve the existing quality hold and previous move-sense acceptance as a separate conflict.",
             "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
             "independent_held_scope": true,
-            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
           },
           {
             "relation_id": "e_3ddc1c9365aa9eaa5272",
@@ -415,8 +403,7 @@
             "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. mob crowd + -ish, like a mob; Merriam-Webster gives the actual base. Prior move-sense relation has a quality hold; do not silently resolve it by redirecting source scope.",
             "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
             "independent_held_scope": true,
-            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
           },
           {
             "relation_id": "e_a038a3bbef7ea58c3e4f",
@@ -433,8 +420,7 @@
             "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. mob crowd + -ocracy, rule by a mob; source is crowd, prior move-sense relationship is separately held and must stay auditable.",
             "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
             "independent_held_scope": true,
-            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
           }
         ]
       }
@@ -471,7 +457,6 @@
         "fund"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/b/old-overlap-10.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/fund",
         "https://www.etymonline.com/word/refund"
@@ -492,7 +477,6 @@
               "https://www.dictionary.com/browse/funded"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -507,7 +491,6 @@
               "https://www.dictionary.com/browse/funder"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -523,7 +506,6 @@
               "https://www.dictionary.com/browse/funding"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -538,7 +520,6 @@
               "https://www.dictionary.com/browse/fundraise"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -553,7 +534,6 @@
               "https://www.dictionary.com/browse/superfund"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -568,7 +548,6 @@
               "https://www.dictionary.com/browse/underfund"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -582,7 +561,6 @@
               "https://www.merriam-webster.com/dictionary/underfunded"
             ],
             "note": "Source explicitly means financial fund; underfund + -ed, with under- + English fund. The existing Latin bottom sense does not adequately specify the financial meaning.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0068/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -596,7 +574,6 @@
               "https://www.merriam-webster.com/dictionary/unfunded"
             ],
             "note": "Source explicitly means financial fund; un- + funded, ultimately English fund. The existing Latin bottom sense does not adequately specify the financial meaning.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0068/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           }
         ],
@@ -615,8 +592,7 @@
               "https://www.ahdictionary.com/word/search.html?q=refund",
               "https://www.etymonline.com/word/refund"
             ],
-            "note": "The finance source supports a separate re-fund homograph meaning provide funds again, distinct from refund reimburse. Two distinct refund verbs: refund reimburse is from Latin refundere, re- + fundere pour; re-fund provide money again is independently from re- + English fund. Both are documented, so accept each source only for its own sense. Do not conflate ordinary reimbursement with refunding a fund.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json"
+            "note": "The finance source supports a separate re-fund homograph meaning provide funds again, distinct from refund reimburse. Two distinct refund verbs: refund reimburse is from Latin refundere, re- + fundere pour; re-fund provide money again is independently from re- + English fund. Both are documented, so accept each source only for its own sense. Do not conflate ordinary reimbursement with refunding a fund."
           }
         ]
       }
@@ -642,7 +618,6 @@
         "deplane"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/b/old-overlap-10.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/plane",
         "https://www.etymonline.com/word/aeroplane"
@@ -667,7 +642,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. deplane uses English plane meaning aircraft, shortened aeroplane, not direct flat meaning; etymologically related but semantically shifted. Source -plane ends the word, but its meaning is flat; a separate aircraft base is suggested. Exact historical exclusion is retained and requires explicit integrator review.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. deplane uses English plane meaning aircraft, shortened aeroplane, not direct flat meaning; etymologically related but semantically shifted. Source -plane ends the word, but its meaning is flat; a separate aircraft base is suggested. Exact historical exclusion is retained and requires explicit integrator review."
           }
@@ -703,7 +677,6 @@
         "replacement"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/c/old-pending-audit.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/place",
         "https://www.merriam-webster.com/dictionary/place"
@@ -728,7 +701,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -747,7 +719,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -766,7 +737,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→irreplaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→irreplaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -785,7 +755,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -804,7 +773,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -823,7 +791,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -842,7 +809,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -861,7 +827,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -880,7 +845,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           }
@@ -909,7 +873,6 @@
         "poser"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/c/old-pending-audit.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/pose",
         "https://www.merriam-webster.com/dictionary/pose"
@@ -936,7 +899,6 @@
             ],
             "note": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold.",
             "different_form_reason": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0234/proposal.json",
             "independent_held_scope": true,
             "held_source_review": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold."
           },
@@ -957,12 +919,41 @@
             ],
             "note": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold.",
             "different_form_reason": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0234/proposal.json",
             "independent_held_scope": true,
             "held_source_review": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold."
           }
         ]
       }
+    },
+    {
+      "original": {
+        "id": "r_d31f45bdc73d047f",
+        "root": "-iest",
+        "source_form": "-iest",
+        "meaning": "superlative spelling after final y",
+        "class": "suffix",
+        "origin": "English -y and -est",
+        "source_entry": "Wiktionary English suffix: -iest",
+        "family_id": "g_5a307a0819b610b8",
+        "example": [],
+        "related_root_ids": [
+          "r_5a307a0819b610b8"
+        ],
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_d31f45bdc73d047f",
+      "root": "-iest",
+      "meaning": "superlative spelling after final y",
+      "withdrawn_examples": [],
+      "historical_examples_before_withdrawal": [
+        "happiest"
+      ],
+      "reason": "The -iest spelling in happiest is explained by changing final y to i before inflectional -est; independent evidence that the assigned superlative form is a separate constructive suffix is still needed.",
+      "evidence_urls": [
+        "https://educacion.sanjuan.edu.ar/mesj/LinkClick.aspx?fileticket=N3tWpKD3h2k%3D&mid=1740&tabid=677",
+        "https://www.soundcityreading.net/uploads/3/7/6/1/37611941/advphonicswholebook-2008.pdf"
+      ],
+      "prior_scope_archive": null
     }
   ],
   "root_parts": [
@@ -970,293 +961,305 @@
       "json": "../json/roots-001.json",
       "csv": "../csv/roots-001.csv",
       "count": 1000,
-      "json_sha256": "c2bb24f04ffce788128972d9517259d2b268eaa65d02a1cdabb545c09d8e998a",
-      "csv_sha256": "ae4c33562347c0de223f69f99226fa2d63366d7205e323882e568be4ddef09cd"
+      "json_sha256": "9d0b4e5fefcb14bec01078692e0d235339872578ae3051a3331aade3ea27a888",
+      "csv_sha256": "2fdc75ebd200add1ede4036d1d2614c59960fe2adbdf08c02d248cbadc30dad1"
     },
     {
       "json": "../json/roots-002.json",
       "csv": "../csv/roots-002.csv",
       "count": 1000,
-      "json_sha256": "9d79426e560f1a46bc7f033a20d0093369bfc39818181d920056a2ab21992539",
-      "csv_sha256": "afacfaea5b2451314d34d82732a262c630870d4b282ef9ffc478143980266e7d"
+      "json_sha256": "8242218dac8d9d6122f098f64539e14b456cb9b5c5a2e74570e5d9a8c1d4f88a",
+      "csv_sha256": "d1257504deed1296c8a15dc8801d2680bf9f44bec7c1e075d1e42bae6aef6b71"
     },
     {
       "json": "../json/roots-003.json",
       "csv": "../csv/roots-003.csv",
       "count": 1000,
-      "json_sha256": "ac2f2ca2fc7588a0f6fe78a5c13736fbc1398c7b4aae255de219a2980a40620a",
-      "csv_sha256": "ef1a5b96a863b868adaad60cad7c34c2b9376cd6765a3f401d791012c4fb3dcb"
+      "json_sha256": "09a537fa52ed985ebeb0a75fa25e3e9ae4aef3759039290b9464785025e306cc",
+      "csv_sha256": "1542c71ee7746fd695aeb3857dc0fbb4cdd5c4882521acd1af4ec4c7d8c03275"
     },
     {
       "json": "../json/roots-004.json",
       "csv": "../csv/roots-004.csv",
       "count": 1000,
-      "json_sha256": "a9c84ccacc96a085fa23835350a23c7c2b1d2b97a7eae3be591de1c723297fab",
-      "csv_sha256": "549d2eaadd8920ae5146f7c7f37c410789966b4e097e20888a7c4833cbad540a"
+      "json_sha256": "f34a41a2d60bc5aa0ddeb4765c30ce8694ad397c5b4d7a06958c98dec1b82f79",
+      "csv_sha256": "385fd6d5f78360957042fb1ece09f742be4e0a7ad76b839aa06259c928ccf7fc"
     },
     {
       "json": "../json/roots-005.json",
       "csv": "../csv/roots-005.csv",
       "count": 1000,
-      "json_sha256": "9ac2f1d9617c0bdae3ede72c008eaea37cda8f94fef555affd130b320532583c",
-      "csv_sha256": "a792633ae325db545972effdfc9dc77630cf730f87958aae88bf1e7708a5d6d9"
+      "json_sha256": "14fa77fe9df5bde64834e87207006e7347bd841cf0122102775f08c208c3fc49",
+      "csv_sha256": "8dd85c8094a7b7712432551ced16d4a2f4d04b9c608755fe6894b2d1df38a82a"
     },
     {
       "json": "../json/roots-006.json",
       "csv": "../csv/roots-006.csv",
       "count": 1000,
-      "json_sha256": "ba5f00ea486ebe2ca19f236c24649884a0d2154973285d6a7c762fb2fc504c08",
-      "csv_sha256": "8304ff65f7c076e98c9dc5ba3bef026aec81c094b78faf253e94d289c3c91f3c"
+      "json_sha256": "5e40cdb977712e69904dedb55878e90d7c17651b8ab3bcc630cab3adafcebaa1",
+      "csv_sha256": "31c40883cbd43620a9248d2500d6aad9d7cc803af1fde3b73fc5cb4f5512daa3"
     },
     {
       "json": "../json/roots-007.json",
       "csv": "../csv/roots-007.csv",
-      "count": 424,
-      "json_sha256": "4524d762b95497d2f792e94acb3eea682352530dd6f78798da098a0aeee8d1e1",
-      "csv_sha256": "e911604dbc83d0297848a39ed75f64eb10f815af7899a7d32728d0f256c0f0c0"
+      "count": 1000,
+      "json_sha256": "f7299f914a89b0fb61ab110b8b2229bf92e14c73d2ffe02a11efb72621b0b8e6",
+      "csv_sha256": "2226c9bc09e61a84fac17059fd05b261e9c18f75ad97be12fa1056d8cedfa223"
+    },
+    {
+      "json": "../json/roots-008.json",
+      "csv": "../csv/roots-008.csv",
+      "count": 719,
+      "json_sha256": "5a94d6f27969e9ab179acd10ab506b99c4f8b3aa20ad482a191c2eda2cccd6d8",
+      "csv_sha256": "611a959ced5a39d57d646143f8bc3b8216c4c1861e7aba2f102ae34dddb87c77"
     }
   ],
-  "audit_relation_count": 47634,
+  "audit_relation_count": 48933,
   "audit_parts": [
     {
       "file": "json/edge-audit-001.json",
       "count": 1000,
-      "sha256": "c21c16a610e44c04f408d74b7c5327c6345275b18d5f69659ecc2d66c1dd409b"
+      "sha256": "2d713142612bdb8978007651f49b12f5dbc9a5fccdb22c2669a30ae7ed2cd88e"
     },
     {
       "file": "json/edge-audit-002.json",
       "count": 1000,
-      "sha256": "1ac5c3957e595cdebf0e3b697f9a71c803d1d96a98955e4b99d479126f5eb20c"
+      "sha256": "ea62f3039e81d3e70d27c79080fa11fb5b8d79f237ac7218ce6af3e3aedfff41"
     },
     {
       "file": "json/edge-audit-003.json",
       "count": 1000,
-      "sha256": "62687273cd4d1ef19bdb048e1a51eb5aafdb8d2dacb27a55045b6189088c2e93"
+      "sha256": "558c41135880524efdde05740f341d00d766243d9b5ff2f9773850a8f5c2cb3b"
     },
     {
       "file": "json/edge-audit-004.json",
       "count": 1000,
-      "sha256": "15836ea2f60c8bf55d4d70168ae8ede7ee778842782688d6702bdbcc732cae01"
+      "sha256": "06066c9274239f663713c3d6da44ff7321f5a054bc2780f6f6ee518921c97206"
     },
     {
       "file": "json/edge-audit-005.json",
       "count": 1000,
-      "sha256": "7b9463bd0890eafee0297ddaaeb0dc601d52282a5b30b1f56ccf66fcd059e7be"
+      "sha256": "da8a63cd2f51a5533187a5d6293fb1e262b633c147d8e183d579ec0f138a3086"
     },
     {
       "file": "json/edge-audit-006.json",
       "count": 1000,
-      "sha256": "9f7db63d5c4a22cc6267b3bf08bc181540c28713db0dfeff34ca8a7112945c66"
+      "sha256": "e7c5831635b0d48ee2d00da3e3f9bdb83daff183a089fcf6d071e30877c7f285"
     },
     {
       "file": "json/edge-audit-007.json",
       "count": 1000,
-      "sha256": "87a9032dc1a10ac194546debc4055984e1d11fa41ccd026a2a210c83359c8c64"
+      "sha256": "6c67661fcf718ddbc7d0618cc3a2a26eb59573b814c3b37b1565157bfbf5b771"
     },
     {
       "file": "json/edge-audit-008.json",
       "count": 1000,
-      "sha256": "5af7f6ea99d342848f82642274a63de516b39266ec7c448883f3c53f9f7b1657"
+      "sha256": "a3703b604692425c5dba89459a0c1db38d5a0e6a938d98d76de5a6ffc09023c3"
     },
     {
       "file": "json/edge-audit-009.json",
       "count": 1000,
-      "sha256": "93e31da7c194cd4b8332655c85ce7515fd63d2e3f207c688cf95fe22019b5044"
+      "sha256": "ccca11f9badc1a14ec487927f750b078066d54b407e499d4ccfe593919ed0c39"
     },
     {
       "file": "json/edge-audit-010.json",
       "count": 1000,
-      "sha256": "99a8c4e4fccb7754b61a6598efdb6e88962c1bd384e04172cf945c9b294483e7"
+      "sha256": "9fa52973242eb0e4b3fea8b61615471dbda406b7f0f8ffb3e678fa92ab992fa5"
     },
     {
       "file": "json/edge-audit-011.json",
       "count": 1000,
-      "sha256": "c090215e370dc6b189c6da0bb9ad0ab03a46b3256122d1fdd394405c2e01925b"
+      "sha256": "62d361bb539d28a55df87f2b9a15d435c9c3c777acbfad2e662823f322585116"
     },
     {
       "file": "json/edge-audit-012.json",
       "count": 1000,
-      "sha256": "60740b7698f408597e714dd825c7ba6f5bba90045485666a592e8b70ca2becbc"
+      "sha256": "29a96bd519484a6646ef138991e412a3f053fd4ca0e539aa36f5901d60b16c52"
     },
     {
       "file": "json/edge-audit-013.json",
       "count": 1000,
-      "sha256": "4f9ffa1af9a49c03d9e035035c6cd93050f76adfce3aa58030068a0eb92cd61f"
+      "sha256": "28178b68e99c51ce10b3dc6fa99bfe35a8398650dc3d57c7d41a775dac897a32"
     },
     {
       "file": "json/edge-audit-014.json",
       "count": 1000,
-      "sha256": "5f84c1070ef1b64d87f994b68872f5710683e55396e9f42d7ef6ba1e17c7b72b"
+      "sha256": "34531a021cc50bc16be0e942722bd4450f5d091eac5efa4b34fee5e184d26cbc"
     },
     {
       "file": "json/edge-audit-015.json",
       "count": 1000,
-      "sha256": "b4239b9f6d04f66135526a24a78220e6e358929182b009fbc17485a12c68d8a2"
+      "sha256": "b98bd2bfc69cdeccabd6d52c8f25d1c6f4a6da8c73b14fb1d5678bace5f85a9a"
     },
     {
       "file": "json/edge-audit-016.json",
       "count": 1000,
-      "sha256": "9172e3234c7812bd34b5e95ab449c4e59bc34a917dc0a713e4282724e4549513"
+      "sha256": "afe45ed02241d0647dff21ac4225e83cc8de029761d8de14eacfb82f338548b2"
     },
     {
       "file": "json/edge-audit-017.json",
       "count": 1000,
-      "sha256": "b449c840106a3e037560828325e710b46900e2a7029da6a7c88657f6e3aaa243"
+      "sha256": "6fd7b6e6159db3755ce2763a32ce232dfc63957ac774a5cf0f4001990e4e3452"
     },
     {
       "file": "json/edge-audit-018.json",
       "count": 1000,
-      "sha256": "20465a92c6a062d56b845c5a033e27d461623026b7d1e8b08cbb3a9541710cbf"
+      "sha256": "49931436840ac428ead19cc5e61dc5a2b3ad31f3b1b509142933ffa47e913286"
     },
     {
       "file": "json/edge-audit-019.json",
       "count": 1000,
-      "sha256": "a6343c3d17788947f3b6ec9ac81e466b116ae69f66291bd356585546a8c527fe"
+      "sha256": "783123fcdd2d0b8e1d94413c198cbd28b89c4753d455434fd613f6142d026990"
     },
     {
       "file": "json/edge-audit-020.json",
       "count": 1000,
-      "sha256": "8ffaa350904173b0fce32998956f7fd3a62e6c715111cfb229f9fa17e9a80e72"
+      "sha256": "38c89ac614995745d2ba2263fa8179cd8271a7a2fd6f360b919379760674c7d3"
     },
     {
       "file": "json/edge-audit-021.json",
       "count": 1000,
-      "sha256": "bf5693cae3df4328fecc548433d234219bca72d911995d63caede65408f854b8"
+      "sha256": "0cc38fa1770609a90938cd1539b9e71c74a47f7bd2b1ed7349dbf758dbd6700e"
     },
     {
       "file": "json/edge-audit-022.json",
       "count": 1000,
-      "sha256": "2e356a2fee7ea24d088bbfd400beaccad04b6b056503df9bbbbac23899f96831"
+      "sha256": "0d8e47b95e2bf4027004f52c054c0d0097611b6eff52c6131b70acac4562603c"
     },
     {
       "file": "json/edge-audit-023.json",
       "count": 1000,
-      "sha256": "65fa1dfad091f5da77370a77465684e11980e991e81dc64629bd618df0e3bb6f"
+      "sha256": "3f155fa1c5b55e33cf08459ea479c6ff32eb9627100fd580b84770245ffcd623"
     },
     {
       "file": "json/edge-audit-024.json",
       "count": 1000,
-      "sha256": "798b6f5661f796cf826ff22d86008f5be3f8051db037532b959df3cb1ab05be2"
+      "sha256": "c7169f2e6cc3431790ba518282083a0238a6b3a194a3f7244e60965d84e8e5ee"
     },
     {
       "file": "json/edge-audit-025.json",
       "count": 1000,
-      "sha256": "c8d1709b636fcbf13c4ca672369af20ef420e14c5bc058bd42f536a9333ce50a"
+      "sha256": "da40ab77eabca77f8f0f292ed60da3b65a9b20da299129564082a012c27bc1f3"
     },
     {
       "file": "json/edge-audit-026.json",
       "count": 1000,
-      "sha256": "40dba1dc242a3a232e4f7d8a05f7d88d21182e6d34c6c48a15bd94e5bfde0d5b"
+      "sha256": "bd51c777531647d6ef965d0e30368c089a4129fb58b6e084275a3c01c920b44f"
     },
     {
       "file": "json/edge-audit-027.json",
       "count": 1000,
-      "sha256": "495e26cd48c9c2b9a182d61afbc1f524f3135061534787ba77bb73de82930462"
+      "sha256": "8027f8d024637c308b0202d6d3ee26d3fffa5bff5cf642bda6724b1b033824f7"
     },
     {
       "file": "json/edge-audit-028.json",
       "count": 1000,
-      "sha256": "feb8be0abf94b4ea597bd678abedfc6a58a76a6b5ba12ada402f0b1ac2b7724b"
+      "sha256": "2fa9e718717fd4dd91850af2405bb5a4bae00486c6f34ea37d3e454705c71f94"
     },
     {
       "file": "json/edge-audit-029.json",
       "count": 1000,
-      "sha256": "a5a0e368d447897486dfc98dce32882ccfc797aa2b1cea6155a6d4f9e5ca3d20"
+      "sha256": "e1e17403b87a1994e895481170ab501f39c31856a07b12d7bb6bd09217dd705f"
     },
     {
       "file": "json/edge-audit-030.json",
       "count": 1000,
-      "sha256": "4bd7d0a0a6265521d2efe5bbd48df6bd609055c4cae4dd0e4e59ebeb3d093bfd"
+      "sha256": "0e7b9797178126d51e76cd6bfa828b12b6f4c02ba6c9e45ce8de12435c9bf16e"
     },
     {
       "file": "json/edge-audit-031.json",
       "count": 1000,
-      "sha256": "d609065e0377483e64255cb746459c62dc453c22a614d09cc9348b6fc4eb88f6"
+      "sha256": "b4b9388918315aecd067895f8a34c11a825b2cbfd0b0e609255211787d4091d3"
     },
     {
       "file": "json/edge-audit-032.json",
       "count": 1000,
-      "sha256": "cf4a79d9285520bbf36f6225d4190ca195cb73e4be5939c1c7f2213742ca4505"
+      "sha256": "e1f963526a0af3e8352837659d4b8fc2873119380aeaffb00d247bc3eccb348f"
     },
     {
       "file": "json/edge-audit-033.json",
       "count": 1000,
-      "sha256": "d02ae17b00377cd9d2d1d5bae61a1bf935a23e377fdfbeb896a0e0d4b1b95494"
+      "sha256": "1985e344316b5166d7fe771901bfe8c3dbadb7b12c7b0269c009edf3a5b94448"
     },
     {
       "file": "json/edge-audit-034.json",
       "count": 1000,
-      "sha256": "67ce6efe92f0936774a14ca2af8a3f9bbe6ff43cfe5bda0d5ea81a28dc1a0f12"
+      "sha256": "03d50f661297c5a9fea33493afeb6667cc78d3ea557ae52713acb77ec395d436"
     },
     {
       "file": "json/edge-audit-035.json",
       "count": 1000,
-      "sha256": "9425582108883a2e78f8b2f9c96aae51b30f41821dfb34fd0e5d0f62e7fa1702"
+      "sha256": "d82dfec8ba97561a5cefac64b57a69b451125e6901ad70b2d324450905d1872e"
     },
     {
       "file": "json/edge-audit-036.json",
       "count": 1000,
-      "sha256": "abb8854128e68520fa551099c68d5b42794f07e5b0a46213ee2cd44675d84d97"
+      "sha256": "afb8732551d7aa71bcfdf3769145dc9a8f05fa3afd13d54134a1cb2fd6835e02"
     },
     {
       "file": "json/edge-audit-037.json",
       "count": 1000,
-      "sha256": "063afb3c205fcbc527578ac383e8a1699cfa7293e0877eb3dd9cc832980be685"
+      "sha256": "730ca58bec2df9dbe02aaa24a0f5eb031e5f6c1ac78c4677753c0b9946760d3a"
     },
     {
       "file": "json/edge-audit-038.json",
       "count": 1000,
-      "sha256": "4d718e930e25f9d0f914a1683f175b46afff6e2f073f9887173d6d4f0e1aa59c"
+      "sha256": "87699ae2def94a2a29f75aa33f2001657808216695d60974fd05b8fe2164e09b"
     },
     {
       "file": "json/edge-audit-039.json",
       "count": 1000,
-      "sha256": "503697b2607f9583022489a162e65187d8ee74fd675b8e3f73fdbdce9f4e54c8"
+      "sha256": "58b08b9eba6cc487681bf983b452202ba3178a1c02d6cb145b406996f505f98d"
     },
     {
       "file": "json/edge-audit-040.json",
       "count": 1000,
-      "sha256": "c292ea64cc512cf50ce83642c0cba3f1a691b09c5c1f2af356ecc4aa5e014242"
+      "sha256": "6943b82e359bd11b0262d84417d1ad9fa03af7427c9d2f12a9860d2650e54269"
     },
     {
       "file": "json/edge-audit-041.json",
       "count": 1000,
-      "sha256": "29070a80aec4e7b3d48fb3fff4936418d0bc58a8f4ea14b9a9b01815249dc777"
+      "sha256": "2f80daa8d595a9db504e28f4a2a71bdc6d3a35f9d78aae788cd23c71d265b049"
     },
     {
       "file": "json/edge-audit-042.json",
       "count": 1000,
-      "sha256": "be78a6751d5a78024b1c2c66fb6cd0d1957f6559e3137ba9dcdaa3231b79d50b"
+      "sha256": "78c44f7ab6a3e277677236e3c8f859c82d61c4c10514ed7c66b82b56bb738a65"
     },
     {
       "file": "json/edge-audit-043.json",
       "count": 1000,
-      "sha256": "e194769b36a41845742c0a1cece741015b062fd94fe675f168099f39d05beea7"
+      "sha256": "17efe21eca201f65441b4536343c1291e2629b9e62ae5a0bf8266eaca8efdb13"
     },
     {
       "file": "json/edge-audit-044.json",
       "count": 1000,
-      "sha256": "0d77729873e37689968707a2079f6ac41538d24f950e771658486d39b71de8e7"
+      "sha256": "c0ab10bcb9f461ad5e7ce25ffd7006d11463298f1c8372b164fa1053bd487964"
     },
     {
       "file": "json/edge-audit-045.json",
       "count": 1000,
-      "sha256": "aa881b2e72a42e132b8a007b2375e51bf829a2ae3aee99167e3c4e1ed7d545d2"
+      "sha256": "ab1993d80a20296e0ebea234d8cb110688fa4ebe38843bce5c8e588ee225fc5e"
     },
     {
       "file": "json/edge-audit-046.json",
       "count": 1000,
-      "sha256": "6215a50adeb86a8deaa15f70c337a348943d8d1887168d11ecaec088744e3a83"
+      "sha256": "253766906e358748aecbc1ffb1cfddb39bf2edd0857502b3a8122bff2c3ff6b4"
     },
     {
       "file": "json/edge-audit-047.json",
       "count": 1000,
-      "sha256": "3ce0d185e54f9ea9d653662f8552e3d1528392a52ef7a3fdf8e9c6c3ccc0585e"
+      "sha256": "740bb15071619bf97a858a9f7f4751949751161c664c4f3488acae2d3376f547"
     },
     {
       "file": "json/edge-audit-048.json",
-      "count": 634,
-      "sha256": "ae7eee8b195ab43011f614131435a134df9a5098ff90e2b65f74fd682410adea"
+      "count": 1000,
+      "sha256": "320a8c9d99cd030618e1d42866fa45fc54e2c7afbab9330d468453089cc8bb5f"
+    },
+    {
+      "file": "json/edge-audit-049.json",
+      "count": 933,
+      "sha256": "73d75cf0f515704f6d904b25ff4b48ca355020a6c1f6ff7b2e6030e1cb85d68e"
     }
   ],
   "source_count": 5894,
@@ -1264,32 +1267,32 @@
     {
       "file": "json/edge-sources-001.json",
       "count": 1000,
-      "sha256": "dea40a79fdf6d45196c7485709614d8b087bafc08b5c0b7cfddbf985401b34c1"
+      "sha256": "f7e8b4cc93d959f56eb07d20e6ef47c85e85450d6e11fefbfb764653bace34db"
     },
     {
       "file": "json/edge-sources-002.json",
       "count": 1000,
-      "sha256": "c1ebff2bec0aaaa04a83c11022779e27e8a1bafe9df8fa9e328d18ee8e7d9b4e"
+      "sha256": "43df5735cf4143356229a2544c2bbcb6b13d569fd1df73b23effd801297e7614"
     },
     {
       "file": "json/edge-sources-003.json",
       "count": 1000,
-      "sha256": "9cfdc3085bb554045dc3890151e1fc5391f1d2b410d5f50dffaa8627a98666b2"
+      "sha256": "00b4cf5b0cb80901e6bbf8a97845e6b600de797835838adf8b6a3897837a8107"
     },
     {
       "file": "json/edge-sources-004.json",
       "count": 1000,
-      "sha256": "6de8919a4f8ebc320ed8689973fb9a6f5457a3d4a771857a0693811fe1001e4d"
+      "sha256": "fcb9074db731cdeed4538bf39f603702cc3c27047d58f5a18f2d7a602990efc2"
     },
     {
       "file": "json/edge-sources-005.json",
       "count": 1000,
-      "sha256": "8c6eb375d41047b1138ce73bd47a496839f0a0d71f9e40ab571163590ec43155"
+      "sha256": "54dd57e915a50552a6a8e16c70f74cc2a5c655188e53801c412495a6f6bad6d0"
     },
     {
       "file": "json/edge-sources-006.json",
       "count": 894,
-      "sha256": "37ac293c9df63e46fcc68d24f16b12b7a032a9930886a826760079e5d632f408"
+      "sha256": "d5e04c74997398d204780c44e043989744fcae1a8269d9d5d8dc930355c8b739"
     }
   ]
 }

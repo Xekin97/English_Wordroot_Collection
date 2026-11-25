@@ -1155,7 +1155,7 @@
       ]
     }
   ],
-  "roots_sha256": "f7deb1c80e4dbd2dfebd034a30af27844ed2d0f6027165d1677aaa4299ba0765",
+  "roots_sha256": "e371043c81c1a78abb5ef6751d79bcc44c54720f8a6f6809d35ca4d5ea4f7790",
   "canonical_root_aliases": [
     {
       "alias_id": "r_a6fbd12efdd62661",
@@ -1733,8 +1733,7 @@
         "evidence_urls": [
           "https://www.coloradonga.org/assets/Glossary%20of%20Latin%20roots.pdf",
           "https://www.etymonline.com/word/viscous"
-        ],
-        "review_report": "evidence-work/quality-visc-private-1822/review.json"
+        ]
       },
       {
         "id": "r_0573c397230d8977",
@@ -1747,8 +1746,7 @@
           "https://www.dictionary.com/browse/citric",
           "https://wehd.com/16/Citr-.html",
           "https://spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%20and%20Combining%20Forms.pdf"
-        ],
-        "review_report": "evidence-work/unified-cross-review-private-1831-r002-r001/review.json"
+        ]
       },
       {
         "id": "r_dd6f81e838468dbf",
@@ -1761,8 +1759,7 @@
           "https://www.scribd.com/doc/165613929/Greenwald-s-Latin-Derivatives-Packet",
           "https://www.etymonline.com/word/laureate",
           "https://www.dictionary.com/browse/laureate"
-        ],
-        "review_report": "evidence-work/unified-cross-review-private-1831-r002-r001/review.json"
+        ]
       },
       {
         "id": "r_301abcf817bc5273",
@@ -1775,8 +1772,7 @@
           "https://vitrinelinguistique.oqlf.gouv.qc.ca/ressources-linguistiques/chroniques/comment-traduire-friendly-en-francais",
           "https://www.merriam-webster.com/dictionary/eco-friendly",
           "https://www.collinsdictionary.com/dictionary/english/eco-friendly"
-        ],
-        "review_report": "evidence-work/friendly-environment-crossreview-private-1846-r001/review.json"
+        ]
       },
       {
         "id": "r_ea1e62b1a7ce57c9",
@@ -1929,6 +1925,864 @@
           "https://content.fimsschools.com/academy.fims.org.pk/The%20Oxford%20Companion%20to%20the%20English%20Language.pdf",
           "https://web.stanford.edu/~kiparsky/Papers/nels.pdf",
           "https://www.sfu.ca/~dearmond/220/220.weak.t.htm"
+        ]
+      },
+      {
+        "id": "r_0a243f01a1e4424a",
+        "field": "meaning",
+        "before": "Sicily",
+        "after": "Sicilian and",
+        "reason": "Narrow the source entry to the sense supported by the reviewed example; other senses remain independently quarantined. The source lists sicilo- for Sicily with Sicilo-Norman. A newly located historical architectural work uses Sicilo-Norman to describe Norman buildings in Sicily, independently of the previously cited Christies catalogue. Preserve the capitalization and hyphen of the attested example.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.christies.com/en/lot/lot-943965",
+          "https://upload.wikimedia.org/wikipedia/commons/2/29/Saracenic_and_Norman_remains_-_to_illustrate_the_Normans_in_Sicily_%28IA_gri_33125008651420%29.pdf"
+        ]
+      },
+      {
+        "id": "r_0a2f7696924411ed",
+        "field": "meaning",
+        "before": "spine : spinal : spinal and",
+        "after": "spine : spinal",
+        "reason": "Narrow the source entry to the sense supported by the reviewed example; other senses remain independently quarantined. Merriam-Webster identifies rhachi- as a spine combining form; a University of New South Wales medical history page uses the historical English term rhachischisis and explains its Greek components rhachis (spine) and schisis (splitting). The final s of rhachis is dropped at the boundary.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://embryology.med.unsw.edu.au/embryology/index.php?title=Paper_-_Anterior_and_posterior_rhachischisis_%281941%29"
+        ]
+      },
+      {
+        "id": "r_15747694aad339ab",
+        "field": "meaning",
+        "before": "lining : girdle",
+        "after": "lining",
+        "reason": "Narrow the source entry to the sense supported by the reviewed example; other senses remain independently quarantined. A botanical manual directly analyses endopleura as Greek endon (within) plus pleura (side), and the Flora of South Australia independently defines the English botanical term as the inner seed coat. This meaning is a botanical lining, not the pulmonary membrane.",
+        "evidence_urls": [
+          "https://upload.wikimedia.org/wikipedia/commons/9/9c/A_manual_of_botanic_terms_%28IA_manualofbotanict00cook%29.pdf",
+          "https://spapps.environment.sa.gov.au/SeedsOfSA/Flora5/glossary_Flora.html",
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf"
+        ]
+      },
+      {
+        "id": "r_bb994f749ecd1b90",
+        "field": "meaning",
+        "before": "Semite; Semitic",
+        "after": "Semitic",
+        "reason": "Narrow the public meaning to the source sense supported by the reviewed example; the other specified source senses remain preserved in quarantine. Merriam-Webster supplies Semito-Hamitic under semito-; Collins independently defines that exact historical language-family term. This is a dated classification term, not endorsement of its historical racial theories.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.collinsdictionary.com/dictionary/english/semito-hamitic"
+        ]
+      },
+      {
+        "id": "r_de74ada2e2d5cf82",
+        "field": "meaning",
+        "before": "having such or so many seeds; seeded",
+        "after": "having specified seeds; seeded",
+        "reason": "Narrow the public meaning to the source sense supported by the reviewed example; the other specified source senses remain preserved in quarantine. Merriam-Webster gives angiospermatous under -spermatous; an independently authored historical medical dictionary records the exact botanical adjective for having seeds in a vessel. The historical combining-form boundary is retained as a lookup analysis.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a3/A_comprehensive_medical_dictionary_..._containing_the_pronunciation%2C_etymology%2C_and_signification_of_the_terms_made_use_of_in_medicine_and_the_kindred_sciences_.._%28IA_comemed00thom%29.pdf"
+        ]
+      },
+      {
+        "id": "r_704f590fad5bed5c",
+        "field": "meaning",
+        "before": "tartar; tartaric acid",
+        "after": "tartaric acid",
+        "reason": "Narrow the public meaning to the source sense supported by the reviewed example; the other specified source senses remain preserved in quarantine. The historical English dictionary explicitly treats tartromethylic acid under tartro-, and defines it as methyltartaric acid; Merriam-Webster independently identifies tartro- with tartaric acid.",
+        "evidence_urls": [
+          "https://wehd.com/93/Tartro-.html",
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf"
+        ]
+      },
+      {
+        "id": "r_ec5eaa3db328a3df",
+        "field": "meaning",
+        "before": "global : spherical : globular",
+        "after": "spherical; globular",
+        "reason": "Narrow the public meaning to the source sense supported by the reviewed example; the other specified source senses remain preserved in quarantine. The original dictionary explicitly lists globo-cumulus under the spherical or globular sense of globo-. A separate historical aviation dictionary defines it as a cloud of hemispherical masses. This decision addresses that globular sense only; the separate worldwide and globe senses are not established by this edge.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://upload.wikimedia.org/wikipedia/commons/d/db/Dictionary_of_aviation_%28IA_dictionaryofavia00pierrich%29.pdf"
+        ]
+      },
+      {
+        "id": "r_a3703872ca1edc1b",
+        "field": "meaning",
+        "before": "forms names of quinoline derivatives, especially antimalarial drugs",
+        "after": "quinoline-derived antimalarial drug names",
+        "reason": "Narrow the public meaning to the source sense supported by the reviewed example; the other specified source senses remain preserved in quarantine. The World Health Organization explicitly identifies quine as a drug-name element for antimalarials containing a quinoline group and lists chloroquine in its stem compendium. This confirms the quinoline derivative sense in the antimalarial naming subset.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-quine",
+          "https://iris.who.int/bitstream/handle/10665/39007/9241540141_eng.pdf",
+          "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+        ]
+      },
+      {
+        "id": "r_2a83b512a830f8d8",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "noun ending for a large accumulation of a specified substance or quality",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-berg",
+          "https://www.wellformedness.com/blog/libfix-report-gler-what-learn-from/",
+          "https://www-macquariedictionary-com-au.eplibresources.health.wa.gov.au/wp-content/uploads/2024/05/Macquarie_Dictionary_Word_of_the_Year_2016_Longlist.pdf"
+        ]
+      },
+      {
+        "id": "r_b2584889b47779ea",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "barbiturate drugs, in generic names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://step1.medbullets.com/pharmacology/107027/medication-nomenclature",
+          "https://syntheticdrugs.unodc.org/uploads/syntheticdrugs/res/library/forensics_html/Recommended_methods_for_the_Identification_and_Analysis_of_Barbiturates_and_Benzodiazepines_under_International_Control_ST-NAR-46.pdf",
+          "https://en.wiktionary.org/wiki/-bital"
+        ]
+      },
+      {
+        "id": "r_99c7234ee01b6715",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "China or Chinese, in nouns about Chinese popular culture",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/C-",
+          "https://service.ddex.net/dd/DD-AVS-003/dd/ddex_ChinesePop.html"
+        ]
+      },
+      {
+        "id": "r_a716ea80c9fb8f73",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "science names made by replacing initial psy-; especially disciplines of mind, behavior or humanity",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-chology",
+          "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371403/aromachologie"
+        ]
+      },
+      {
+        "id": "r_0e43cca161a6477b",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of muscarinic receptor agonists or antagonists",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.arca.inc/tools/drug-name-stems/clidine",
+          "https://www.ncbi.nlm.nih.gov/mesh?term=Procyclidine"
+        ]
+      },
+      {
+        "id": "r_c3bfa844addb902f",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "a material serving a function like concrete",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-crete",
+          "https://www.azobuild.com/article.aspx?ArticleID=7850"
+        ]
+      },
+      {
+        "id": "r_e772371bb07da7af",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "Catalan people, language or culture",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Catalano-",
+          "https://www.mhcat.cat/enmhc/exhibitions/the_memory_of_a_country/the_birth_of_a_nation_from_the_8th_to_the_13th_century"
+        ]
+      },
+      {
+        "id": "r_888005c9dc90b716",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "sudoku-like puzzle game names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-doku",
+          "https://support.arkadium.com/en/support/solutions/articles/44002863209--mathdoku-how-to-play-scoring"
+        ]
+      },
+      {
+        "id": "r_2f5af5e2b5ef7325",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "bisphosphonate drug names, nonproprietary",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://pressbooks.openeducationalberta.ca/medicalterminologyii/open/download?type=pdf",
+          "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020560s070lbl.pdf",
+          "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+        ]
+      },
+      {
+        "id": "r_822ad6c7ab1c4165",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "Croatia, Croatian or Croat",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Croato-",
+          "https://iucat.iu.edu/iub/887254"
+        ]
+      },
+      {
+        "id": "r_1a62e2e63de96e82",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "noun ending for a way of achieving orgasm",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://libra.unine.ch/server/api/core/bitstreams/4f6b7b0e-5fe9-41cb-a01c-e18a5a27b999/content",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12675600/",
+          "https://en.wiktionary.org/wiki/-gasm"
+        ]
+      },
+      {
+        "id": "r_0886d0dc1043631c",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "sunrise or sunset alignment with a street, building or other human-made structure on a particular day of the year",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-henge",
+          "https://www.skyatnightmagazine.com/advice/manhattanhenge"
+        ]
+      },
+      {
+        "id": "r_6568ad9bb257e9b5",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "an epic named for the indicated subject",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://journals.ltn.lodz.pl/Zagadnienia-Rodzajow-Literackich/issue/download/132/141",
+          "https://harvest.usask.ca/items/49bbec8e-c714-4801-a1b7-e60ae6d9a6c3"
+        ]
+      },
+      {
+        "id": "r_cdeab45eb3d37300",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "a constructed language derived from or based on the named language, typically itself constructed",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ido",
+          "https://www.frathwiki.com/Dil"
+        ]
+      },
+      {
+        "id": "r_6261abba91754312",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "uncommon nonstandard plurals of nouns ending in -us, -is or a similar sound; often humorous",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ii",
+          "https://itre.cis.upenn.edu/~myl/languagelog/archives/000813.html"
+        ]
+      },
+      {
+        "id": "r_ae233ed0ff43dfdf",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "male, especially of an animal",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictiopt100whituoft%29.pdf",
+          "https://ahdictionary.com/word/search.html?q=he",
+          "https://en.wiktionary.org/wiki/he-"
+        ]
+      },
+      {
+        "id": "r_aacd552e2e38c5e0",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of number bases or radixes",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-imal",
+          "https://www.numberbases.com/terms/basename.html"
+        ]
+      },
+      {
+        "id": "r_5e440af5a5c5e4d8",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "immunosuppressant names, excluding antineoplastics",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/12020052/"
+        ]
+      },
+      {
+        "id": "r_ad0fab2e9b75949b",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "resembling; adjective ending derived from nouns in -ium or -ia",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ioid",
+          "https://dermnetnz.org/glossary.html",
+          "https://www.dictionary.com/browse/epithelioid"
+        ]
+      },
+      {
+        "id": "r_2f849d294f2c9397",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "other, different or another; hetero- in chemical nomenclature",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/hetarene",
+          "https://goldbook.iupac.org/terms/view/H02791"
+        ]
+      },
+      {
+        "id": "r_4a719029f3e7d51c",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "hexa- variant multiplying another numerical prefix",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://upload.wikimedia.org/wikipedia/commons/a/a7/A_text-book_of_mineralogy._With_an_extended_treatise_on_crystallography_and_physical_mineralogy_%28IA_textmineralogy00danarich%29.pdf",
+          "https://files02.sl.nsw.gov.au/fotoweb/pdf/1625/162581210.pdf",
+          "https://en.wiktionary.org/wiki/hexakis-"
+        ]
+      },
+      {
+        "id": "r_310bd918f42e1b8d",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "a fictional or figurative place associated with the named person or thing",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Trumplandia",
+          "https://www.theatlantic.com/ideas/archive/2024/11/pam-bondi-nominated-attorney-general/680768/",
+          "https://en.wiktionary.org/wiki/-landia"
+        ]
+      },
+      {
+        "id": "r_0b512e7186dc3bcf",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "bearing pollen with one or more leptomata: thin areas near the pole",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://mis.alagappauniversity.ac.in/siteAdmin/dde-admin/uploads/2/PG_M.Sc._Botony_346%2022_Plant%20Anatomy%20and%20Embryology_MSc%20Botany.pdf",
+          "https://en.wiktionary.org/wiki/-lept"
+        ]
+      },
+      {
+        "id": "r_60289335aa866a67",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "in-game romance subplot or mechanic named for a noun or character",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-mance",
+          "https://www.rpgfan.com/feature/25-years-25-rpg-moments-part-2/"
+        ]
+      },
+      {
+        "id": "r_d844818d62d619f2",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "a player who romances the named video-game character",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-mancer",
+          "https://www.reddit.com/r/masseffect/comments/1jww0p9/why_the_obsession_over_the_garrus_romance/"
+        ]
+      },
+      {
+        "id": "r_7bc66b27bc6ec92b",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "characteristic of, having or relating to a threadlike structure",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/nemat-",
+          "https://www.du.edu.eg/upFilesCenter/sci/1711533969.pdf",
+          "https://www.etymonline.com/word/nematode"
+        ]
+      },
+      {
+        "id": "r_dec00fa0da25b5ac",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of Wojak characters or caricatured embodiments of traits and qualities",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-oomer",
+          "https://bpb-us-w2.wpmucdn.com/hawksites.newpaltz.edu/dist/d/17440/files/2023/12/The-Wojak.pdf",
+          "https://knowyourmeme.com/memes/zoomer-wojak"
+        ]
+      },
+      {
+        "id": "r_b804f832aed95692",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "nonadeca- variant placed before a vowel",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/nonadec-",
+          "https://webbook.nist.gov/cgi/formula?ID=C629925&Mask=4"
+        ]
+      },
+      {
+        "id": "r_bdc08e18505d4b1a",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "Norman language or people; Normandy",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Normanno-",
+          "https://api.pageplace.de/preview/DT0400.9780192527479_A30390808/preview-9780192527479_A30390808.pdf"
+        ]
+      },
+      {
+        "id": "r_53e81a8568d3a0ca",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having or equipped with a specified structure or feature",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ote",
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/eukaryote"
+        ]
+      },
+      {
+        "id": "r_e150427836e079d7",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "plural ending for some Hebrew borrowings in -a or -ah",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.dictionary.com/browse/halacha",
+          "https://en.wiktionary.org/wiki/-oth",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d2/Catalogue_of_the_Hebraica_and_Judaica_in_the_Library_of_the_Corporation_of_the_city_of_London_%28IA_catalogueofhebra00guilrich%29.pdf"
+        ]
+      },
+      {
+        "id": "r_fb2ced52f5be3506",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "variant of -a-palooza without the initial a, sometimes after a word ending in a vowel",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.cjr.org/language_corner/palooza_lollapalooza_athon.php",
+          "https://dailyvoice.com/article/tiktok-star-julia-molinari-to-appear-at-pizzapalooza-during-hey-stamford-food-festival-d/",
+          "https://en.wiktionary.org/wiki/-palooza"
+        ]
+      },
+      {
+        "id": "r_b72581a369d1af97",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of heparin derivatives, including low-molecular-mass heparins",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf",
+          "https://medlineplus.gov/druginfo/meds/a601210.html"
+        ]
+      },
+      {
+        "id": "r_6cb089cfb16709b8",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "adjective ending for fear of a specified thing",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://slovar-vocab.com/english/websters-international-vocab/claustrophobiac-8699038.html",
+          "https://en.wiktionary.org/wiki/-phobiac"
+        ]
+      },
+      {
+        "id": "r_722d92bcddc90fff",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "the pope or the papacy",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/papa-",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictipt1500whituoft%29.pdf"
+        ]
+      },
+      {
+        "id": "r_36951ff4ab938d7e",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "various deoxynucleotide polymers and their derivatives",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/polydeoxy-",
+          "https://catalogimages.wiley.com/images/db/pdf/9781119437970.excerpt.pdf"
+        ]
+      },
+      {
+        "id": "r_051cfc1acbaf43e3",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "antineoplastic derivatives of daunorubicin, in drug names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7123643/"
+        ]
+      },
+      {
+        "id": "r_017033d973ef493f",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of various deoxyribonucleotide polymers and their derivatives",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/polydeoxyribo-",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC355481/?page=12"
+        ]
+      },
+      {
+        "id": "r_61092ea31e44aeaf",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having a particular kind or number of meanings",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-semous",
+          "https://web.stanford.edu/~jurafsky/slp3/old_dec21/ed3book_dec292021.pdf"
+        ]
+      },
+      {
+        "id": "r_c306a572dd0ee242",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of polyribonucleotides and words derived from them",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/polyribo-",
+          "https://pubmed.ncbi.nlm.nih.gov/789366/"
+        ]
+      },
+      {
+        "id": "r_5190f06bf92d8b71",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "diminutive adding affection, informality, childishness or levity",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-sies",
+          "https://ir.library.knu.ua/server/api/core/bitstreams/b2408c14-32f6-4490-96c1-78eb393bdb8a/content"
+        ]
+      },
+      {
+        "id": "r_1bc93d3660c7df0d",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having a specified yearly number of broods or generations",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.invemar.org.co/redcostera1/invemar/docs/2342Dictionary_invert_S.pdf",
+          "https://en.wiktionary.org/wiki/-voltine"
+        ]
+      },
+      {
+        "id": "r_ad338d5536dcc76c",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "names of zidovudine-type antivirals and antineoplastics",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf",
+          "https://medlineplus.gov/druginfo/meds/a694033.html"
+        ]
+      },
+      {
+        "id": "r_56d51e6cff1aba31",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "Somalia or the Somali peninsula; the Somali people, culture or language",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Somalo-",
+          "https://sudantribune.com/article/19877"
+        ]
+      },
+      {
+        "id": "r_28f84c23d85efa56",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "German-style foods, notably sausages and wurst",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www0.ff.uns.ac.rs/fakultet/izdavacka_delatnost/fakultet/godisnjak/GODISNJAK_XXXIV-1_09.pdf",
+          "https://en.wiktionary.org/wiki/chickenfurter",
+          "https://en.wiktionary.org/wiki/-furter"
+        ]
+      },
+      {
+        "id": "r_728da4fe42bc41e0",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "plants of an indicated kind, in botanical taxon names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://ahdictionary.com/word/search.html?q=monoecious"
+        ]
+      },
+      {
+        "id": "r_164c2e8661de94f0",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "animals with a specified type of jaw, in zoological taxon names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3b/California_Digital_Library_%28IA_americandiction00lyon%29.pdf"
+        ]
+      },
+      {
+        "id": "r_445fe06bbb6476f9",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "saw; sawlike in appearance or action",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://kuscholarworks.ku.edu/bitstreams/e8cbe6ea-fc79-4d16-9b97-ae37287ae03f/download",
+          "https://citeseerx.ist.psu.edu/document?doi=2a1a80a8c711f5e312971ae96f54a3341b9567af&repid=rep1&type=pdf"
+        ]
+      },
+      {
+        "id": "r_0f9493c8018dfc52",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "knowing; relating to or characterized by specified knowledge",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.collinsdictionary.com/dictionary/english/geognostical",
+          "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictipt900whituoft%29.pdf"
+        ]
+      },
+      {
+        "id": "r_0eb10e4b36ad7050",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "eyes of an indicated shape or condition",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://upload.wikimedia.org/wikipedia/commons/0/08/The_Dublin_journal_of_medical_science._Volume_27%2C_March_-_July_1845._%28IA_s2400id1378610%29.pdf"
+        ]
+      },
+      {
+        "id": "r_7a6e47dc99b17d04",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having sulfur in a double bond to another atom",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://iris.who.int/bitstream/handle/10665/40198/9241542632-eng.pdf",
+          "https://patents.google.com/patent/US2862949A/en",
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf"
+        ]
+      },
+      {
+        "id": "r_74f75c9ae36e1565",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "saw; sawlike in appearance or action",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://olivirv.myspecies.info/sites/olivirv.myspecies.info/files/Marine%20shells%20of%20the%20western%20co%20-%20Perry%2C%20L.M.%20%28Louise%20M.%20%29.pdf"
+        ]
+      },
+      {
+        "id": "r_f10a8d4b29bb947c",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having an indicated number of prosodic time units",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.wordnik.com/words/decasemic"
+        ]
+      },
+      {
+        "id": "r_8a60173c5a4e367e",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "one with a specified part, in genus names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://bibleofbotany.com/index/glossary-introduction/glossary-page-6/",
+          "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A23252-1"
+        ]
+      },
+      {
+        "id": "r_78b496cfc6561a0c",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "formed or formative material, as in a cell or tissue",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://link.springer.com/content/pdf/10.2478/s11756-019-00368-y.pdf"
+        ]
+      },
+      {
+        "id": "r_caae1bdfd9f48613",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "sodium replacing hydrogen, in organic-compound names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://uomustansiriyah.edu.iq/media/lectures/6/6_2019_03_07%2108_26_32_AM.pdf"
+        ]
+      },
+      {
+        "id": "r_ad0402ac565d8299",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "a creature with a specified sawlike part, in genus names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.summagallicana.it/Agassiz_nomenclator_zoologicus/Agassiz_Nomenclator_zoologicus_traduzione.pdf",
+          "https://tidcf.nrcan.gc.ca/en/insects/factsheet/6552"
+        ]
+      },
+      {
+        "id": "r_cd1a28dad4dbb70b",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "sponges, in names of sponge orders or higher taxonomic groups",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.sciencedirect.com/science/article/abs/pii/S1055790304000867"
+        ]
+      },
+      {
+        "id": "r_30ffb8070a74025a",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "animals with an indicated breathing mode, in names of higher taxa",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://dictionary.englishtest.info/browse/enteropneust"
+        ]
+      },
+      {
+        "id": "r_6806cf2241016d4e",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "one with a specified limb abnormality",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://digirepo.nlm.nih.gov/ext/dw/101623361/PDF/101623361.pdf"
+        ]
+      },
+      {
+        "id": "r_0efe71f2a4b6d954",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "relating to, involving or intended for material quantities below micro quantities; at a scale below micro",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://jamanetwork.com/journals/jama/article-abstract/292775",
+          "https://goldbook.iupac.org/terms/view/09085/plain"
+        ]
+      },
+      {
+        "id": "r_22d1129c2ede0fbb",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "the condition of exhibiting an indicated type of tooth formation",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.collinsdictionary.com/dictionary/english/selenodont"
+        ]
+      },
+      {
+        "id": "r_e2f0f5e0d6946292",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "containing a triple bond, in acid names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02794b"
+        ]
+      },
+      {
+        "id": "r_0387f6e20d6fd6d9",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "movement of a specified substance into a tract other than its own",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.ncbi.nlm.nih.gov/medgen/534935"
+        ]
+      },
+      {
+        "id": "r_15350e6cb9bc9ead",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "relating to or associated with the gums",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.finedictionary.com/Ulorrhagia"
+        ]
+      },
+      {
+        "id": "r_ceb52c5cdbd6067c",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having a deficiency of a specified thing or element",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/13518678/"
+        ]
+      },
+      {
+        "id": "r_bcdc1448405fa69b",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "an organism with an indicated type of scale, in genus names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/flore/fiches-especes-floristiques/conopholis-amerique"
+        ]
+      },
+      {
+        "id": "r_f2e2f101268b9697",
+        "field": "meaning",
+        "before": "[source gloss omitted]",
+        "after": "having a stated type or number of steles",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566f9cf20e4c117c7c65281b/1450155250361/1900_Jackson_A%2BGlossary%2Bof%2BBotanic%2BTerms.pdf"
         ]
       }
     ],
@@ -2200,8 +3054,7 @@
           "https://www.etymonline.com/word/denote",
           "https://www.ahdictionary.com/word/search.html?q=connote",
           "https://s3.amazonaws.com/arena-attachments/936593/0e5f7af17069a9cfb211e3ad0b1e6bdd.pdf"
-        ],
-        "review_report": "evidence-work/pending-resolution/disputes-after500-1732/note-boundary-adjudication.json"
+        ]
       },
       {
         "published_root_id": "r_42339ff970decb31",
@@ -2212,8 +3065,7 @@
           "https://www.etymonline.com/word/denote",
           "https://www.ahdictionary.com/word/search.html?q=connote",
           "https://s3.amazonaws.com/arena-attachments/936593/0e5f7af17069a9cfb211e3ad0b1e6bdd.pdf"
-        ],
-        "review_report": "evidence-work/pending-resolution/disputes-after500-1732/note-boundary-adjudication.json"
+        ]
       },
       {
         "published_root_id": "r_3d066a6c1d03a643",
@@ -2364,6 +3216,98 @@
         "published_root_id": "r_97c016f2928634d0",
         "word": "workplace",
         "reason": "plac 现有来源支持 place 历史词族索引，但未确立独立的 Latin plac 构词词素，整条记录暂不发布。"
+      },
+      {
+        "published_root_id": "r_19a195b73b0ebe6a",
+        "word": "thiachroman",
+        "outcome": "related_only",
+        "reason": "Thiachroman involves sulfur replacing oxygen in chroman; the selected source sense here concerns replacement of a carbon atom. Keep this alternate chemical scope out of the current root meaning and replace with independently documented thiacyclohexane.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://mau.ac.in/LMS/SBAS/SBAS%20Heterocyclic%20by%20Dr.%20Ajay.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_d31f45bdc73d047f",
+        "word": "happiest",
+        "outcome": "pending",
+        "reason": "The -iest spelling in happiest is explained by changing final y to i before inflectional -est; independent evidence that the assigned superlative form is a separate constructive suffix is still needed.",
+        "evidence_urls": [
+          "https://educacion.sanjuan.edu.ar/mesj/LinkClick.aspx?fileticket=N3tWpKD3h2k%3D&mid=1740&tabid=677",
+          "https://www.soundcityreading.net/uploads/3/7/6/1/37611941/advphonicswholebook-2008.pdf"
+        ]
+      },
+      {
+        "published_root_id": "r_46dc49ced67a0b1a",
+        "word": "iconoclast",
+        "outcome": "related_only",
+        "reason": "The existing clast- record is scoped to broken, while iconoclast and osteoclast use the final agent element -clast meaning breaker. Both derive from the Greek breaking family but do not establish the same exact suffix sense. Move each to the separately documented agent suffix; preserve the old relation as related-only.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://ahdictionary.com/word/search.html?q=iconoclast",
+          "https://www.ahdictionary.com/word/search.html?q=osteoclast"
+        ]
+      },
+      {
+        "published_root_id": "r_46dc49ced67a0b1a",
+        "word": "osteoclast",
+        "outcome": "related_only",
+        "reason": "The existing clast- record is scoped to broken, while iconoclast and osteoclast use the final agent element -clast meaning breaker. Both derive from the Greek breaking family but do not establish the same exact suffix sense. Move each to the separately documented agent suffix; preserve the old relation as related-only.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://ahdictionary.com/word/search.html?q=iconoclast",
+          "https://www.ahdictionary.com/word/search.html?q=osteoclast"
+        ]
+      },
+      {
+        "published_root_id": "r_09deefdea1efc0fc",
+        "word": "funded",
+        "outcome": "related_only",
+        "reason": "English funded and funding are inflections or derivatives of the financial English word fund. The noun is historically related to Latin fundus (bottom), but the intervening financial sense does not itself directly express the narrowly published bottom meaning. Preserve this as a historical relationship, not a direct example of this sense.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/fund",
+          "https://helda.helsinki.fi/server/api/core/bitstreams/d46ec6e6-66ef-4d7b-8949-d53f8a88b5be/content"
+        ]
+      },
+      {
+        "published_root_id": "r_09deefdea1efc0fc",
+        "word": "funding",
+        "outcome": "related_only",
+        "reason": "English funded and funding are inflections or derivatives of the financial English word fund. The noun is historically related to Latin fundus (bottom), but the intervening financial sense does not itself directly express the narrowly published bottom meaning. Preserve this as a historical relationship, not a direct example of this sense.",
+        "evidence_urls": [
+          "https://www.etymonline.com/word/fund",
+          "https://helda.helsinki.fi/server/api/core/bitstreams/d46ec6e6-66ef-4d7b-8949-d53f8a88b5be/content"
+        ]
+      },
+      {
+        "published_root_id": "r_09deefdea1efc0fc",
+        "word": "fund",
+        "outcome": "related_only",
+        "reason": "The English noun fund historically had the now obsolete sense bottom, foundation or groundwork, in addition to its later and common financial sense. This example list contains no word-sense or obsolete-use annotation, so preserving the bare word as a direct bottom-sense example is liable to imply that its current ordinary financial meaning is bottom. Keep the documented obsolete sense and its historical relation in this review record rather than asserting that the word is unrelated.",
+        "evidence_urls": [
+          "https://truthbook.com/urantia-book-viewer-core/1924-Websters-Dictionary-Edition/LETTER-F.pdf",
+          "https://www.etymonline.com/word/fund"
+        ]
+      },
+      {
+        "published_root_id": "r_9271355010f888d3",
+        "word": "all_right",
+        "outcome": "related_only",
+        "reason": "The original record uses all_right as a source encoding, but standard English dictionaries write the established expression as all right. Preserve the attested expression using spaces while retaining the original spelling in this correction record.",
+        "evidence_urls": [
+          "https://dictionary.cambridge.org/dictionary/english/all-right",
+          "https://www.collinsdictionary.com/dictionary/english/all-right"
+        ]
+      },
+      {
+        "published_root_id": "r_cfe743fd0d98fd6b",
+        "word": "round_the_bend",
+        "outcome": "related_only",
+        "reason": "The source string round_the_bend is an underscored multiword idiom, not an English word; dictionary evidence attests the idiomatic expression, while its original figurative motivation is uncertain. Isolate the original relation for source-scope review instead of asserting a direct word-formation link to the root round.",
+        "evidence_urls": [
+          "https://dictionary.cambridge.org/dictionary/learner-english/drive-send-sb-round-the-bend",
+          "https://www.worldwidewords.org/qa-rou2.html"
+        ]
       }
     ],
     "root_id_migrations": [
@@ -3206,8 +4150,7 @@
         "evidence_urls": [
           "https://www.etymonline.com/word/literate",
           "https://www.etymonline.com/word/alliteration"
-        ],
-        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+        ]
       },
       {
         "original": {
@@ -3235,8 +4178,7 @@
           "https://www.etymonline.com/word/announce",
           "https://www.etymonline.com/word/pronounce",
           "https://www.etymonline.com/word/pronoun"
-        ],
-        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+        ]
       },
       {
         "original": {
@@ -3260,8 +4202,7 @@
           "https://www.etymonline.com/word/optimum",
           "https://www.etymonline.com/word/optimal",
           "https://www.etymonline.com/word/opt"
-        ],
-        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+        ]
       },
       {
         "original": {
@@ -3296,8 +4237,7 @@
           "https://www.wordsmyth.net/?am=page&mode=wpar&offset=3&page=26",
           "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Ascensus",
           "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3873/"
-        ],
-        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0277/proposal.json"
+        ]
       },
       {
         "original": {
@@ -3328,8 +4268,7 @@
           "https://www.etymonline.com/word/surge",
           "https://www.etymonline.com/word/insurrection",
           "https://www.etymonline.com/word/resurrection"
-        ],
-        "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0372/proposal.json"
+        ]
       },
       {
         "original": {
@@ -3370,7 +4309,6 @@
           "pithecanthropus"
         ],
         "reason": "Independent dictionaries attest Greek anthrop-/anthropo- for human, but a standalone anthr- meaning human was not established; anthr- in chemical terminology is a distinct form. Retain all 14 reviewed words under the already supported anthrop and anthro entries, and preserve the original target and examples as a reversible quality hold.",
-        "review_report": "evidence-work/pending-resolution/anthr-human-audit-1526/report.json",
         "evidence_urls": [
           "https://www.merriam-webster.com/dictionary/anthrop-",
           "https://www.collinsdictionary.com/dictionary/english/anthropo",
@@ -3403,8 +4341,7 @@
           "https://static.zollege.in/public/image/Essential_Words_for_the_GRE_7dd44dfa9cab6c93f7cb1f14d39f59e1.pdf",
           "https://andrewdunning.ca/latin-greek-scientific-terminology/vocabulary/latin-vocabulary.pdf",
           "https://www.etymonline.com/word/amble"
-        ],
-        "review_report": "evidence-work/untraced-published-1660/work-cross-amb/proposal.json"
+        ]
       },
       {
         "published_root_id": "r_fa3f91bf8345e5df",
@@ -3430,8 +4367,7 @@
         "evidence_urls": [
           "https://www.ahdictionary.com/word/search.html?q=vintage",
           "https://www.dictionary.com/browse/vintner"
-        ],
-        "review_report": "evidence-work/untraced-published-1660/work-cross-vint/proposal.json"
+        ]
       },
       {
         "original": {
@@ -3455,7 +4391,6 @@
           "lycanthropy"
         ],
         "reason": "Greek source combines lykos wolf with anthropos human, so lycan crosses the historical boundary; one teaching list uses lycan as a lookup but does not independently establish a modern wolf prefix. The two disputed exact relations and root classification are held pending, with original source and past acceptances preserved.",
-        "review_report": "evidence-work/quality-review-lycan-1798/review.json",
         "evidence_urls": [
           "https://www.collinsdictionary.com/us/dictionary/english/lycanthrope",
           "https://www.ahdictionary.com/word/search.html?q=lycanthrope",
@@ -3597,7 +4532,6 @@
           "replacement"
         ],
         "reason": "plac 现有来源支持 place 历史词族索引，但未确立独立的 Latin plac 构词词素，整条记录暂不发布。",
-        "review_report": "evidence-work/release-hold-audit-1860-r001/release-holds.json",
         "evidence_urls": [
           "https://www.etymonline.com/word/place",
           "https://ahdictionary.com/word/search.html?q=place"
@@ -3636,7 +4570,6 @@
           "mobocracy"
         ],
         "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-        "review_report": "evidence-work/resolve-all-20261120/a/old-pending-ten.json",
         "evidence_urls": [
           "https://www.etymonline.com/word/mob",
           "https://www.merriam-webster.com/dictionary/mobbish"
@@ -3661,8 +4594,7 @@
               "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. English mob a productive noun and verb meaning crowd, often disorderly; historically clipped from mobile vulgus fickle common people, ultimately mobilis moving. This source only means crowd; the modern base is not an independent Latin mob- meaning move. Preserve the existing quality hold and previous move-sense acceptance as a separate conflict.",
               "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
               "independent_held_scope": true,
-              "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+              "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
             },
             {
               "relation_id": "e_3ddc1c9365aa9eaa5272",
@@ -3679,8 +4611,7 @@
               "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. mob crowd + -ish, like a mob; Merriam-Webster gives the actual base. Prior move-sense relation has a quality hold; do not silently resolve it by redirecting source scope.",
               "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
               "independent_held_scope": true,
-              "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+              "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
             },
             {
               "relation_id": "e_a038a3bbef7ea58c3e4f",
@@ -3697,8 +4628,7 @@
               "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. mob crowd + -ocracy, rule by a mob; source is crowd, prior move-sense relationship is separately held and must stay auditable.",
               "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
               "independent_held_scope": true,
-              "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+              "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
             }
           ]
         }
@@ -3735,7 +4665,6 @@
           "fund"
         ],
         "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-        "review_report": "evidence-work/resolve-all-20261120/b/old-overlap-10.json",
         "evidence_urls": [
           "https://www.etymonline.com/word/fund",
           "https://www.etymonline.com/word/refund"
@@ -3756,7 +4685,6 @@
                 "https://www.dictionary.com/browse/funded"
               ],
               "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3771,7 +4699,6 @@
                 "https://www.dictionary.com/browse/funder"
               ],
               "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3787,7 +4714,6 @@
                 "https://www.dictionary.com/browse/funding"
               ],
               "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3802,7 +4728,6 @@
                 "https://www.dictionary.com/browse/fundraise"
               ],
               "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3817,7 +4742,6 @@
                 "https://www.dictionary.com/browse/superfund"
               ],
               "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3832,7 +4756,6 @@
                 "https://www.dictionary.com/browse/underfund"
               ],
               "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3846,7 +4769,6 @@
                 "https://www.merriam-webster.com/dictionary/underfunded"
               ],
               "note": "Source explicitly means financial fund; underfund + -ed, with under- + English fund. The existing Latin bottom sense does not adequately specify the financial meaning.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0068/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             },
             {
@@ -3860,7 +4782,6 @@
                 "https://www.merriam-webster.com/dictionary/unfunded"
               ],
               "note": "Source explicitly means financial fund; un- + funded, ultimately English fund. The existing Latin bottom sense does not adequately specify the financial meaning.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0068/proposal.json",
               "published_root_id": "r_1c81cada5b9fca6f"
             }
           ],
@@ -3879,8 +4800,7 @@
                 "https://www.ahdictionary.com/word/search.html?q=refund",
                 "https://www.etymonline.com/word/refund"
               ],
-              "note": "The finance source supports a separate re-fund homograph meaning provide funds again, distinct from refund reimburse. Two distinct refund verbs: refund reimburse is from Latin refundere, re- + fundere pour; re-fund provide money again is independently from re- + English fund. Both are documented, so accept each source only for its own sense. Do not conflate ordinary reimbursement with refunding a fund.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json"
+              "note": "The finance source supports a separate re-fund homograph meaning provide funds again, distinct from refund reimburse. Two distinct refund verbs: refund reimburse is from Latin refundere, re- + fundere pour; re-fund provide money again is independently from re- + English fund. Both are documented, so accept each source only for its own sense. Do not conflate ordinary reimbursement with refunding a fund."
             }
           ]
         }
@@ -3906,7 +4826,6 @@
           "deplane"
         ],
         "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-        "review_report": "evidence-work/resolve-all-20261120/b/old-overlap-10.json",
         "evidence_urls": [
           "https://www.etymonline.com/word/plane",
           "https://www.etymonline.com/word/aeroplane"
@@ -3931,7 +4850,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. deplane uses English plane meaning aircraft, shortened aeroplane, not direct flat meaning; etymologically related but semantically shifted. Source -plane ends the word, but its meaning is flat; a separate aircraft base is suggested. Exact historical exclusion is retained and requires explicit integrator review.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. deplane uses English plane meaning aircraft, shortened aeroplane, not direct flat meaning; etymologically related but semantically shifted. Source -plane ends the word, but its meaning is flat; a separate aircraft base is suggested. Exact historical exclusion is retained and requires explicit integrator review."
             }
@@ -3967,7 +4885,6 @@
           "replacement"
         ],
         "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-        "review_report": "evidence-work/resolve-all-20261120/c/old-pending-audit.json",
         "evidence_urls": [
           "https://www.etymonline.com/word/place",
           "https://www.merriam-webster.com/dictionary/place"
@@ -3992,7 +4909,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4011,7 +4927,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4030,7 +4945,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→irreplaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→irreplaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4049,7 +4963,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4068,7 +4981,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4087,7 +4999,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4106,7 +5017,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4125,7 +5035,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             },
@@ -4144,7 +5053,6 @@
               ],
               "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
               "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
               "independent_mixed_scope": true,
               "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
             }
@@ -4173,7 +5081,6 @@
           "poser"
         ],
         "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-        "review_report": "evidence-work/resolve-all-20261120/c/old-pending-audit.json",
         "evidence_urls": [
           "https://www.etymonline.com/word/pose",
           "https://www.merriam-webster.com/dictionary/pose"
@@ -4200,7 +5107,6 @@
               ],
               "note": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold.",
               "different_form_reason": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0234/proposal.json",
               "independent_held_scope": true,
               "held_source_review": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold."
             },
@@ -4221,12 +5127,41 @@
               ],
               "note": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold.",
               "different_form_reason": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold.",
-              "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0234/proposal.json",
               "independent_held_scope": true,
               "held_source_review": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold."
             }
           ]
         }
+      },
+      {
+        "original": {
+          "id": "r_d31f45bdc73d047f",
+          "root": "-iest",
+          "source_form": "-iest",
+          "meaning": "superlative spelling after final y",
+          "class": "suffix",
+          "origin": "English -y and -est",
+          "source_entry": "Wiktionary English suffix: -iest",
+          "family_id": "g_5a307a0819b610b8",
+          "example": [],
+          "related_root_ids": [
+            "r_5a307a0819b610b8"
+          ],
+          "pending_family_examples": 0
+        },
+        "published_root_id": "r_d31f45bdc73d047f",
+        "root": "-iest",
+        "meaning": "superlative spelling after final y",
+        "withdrawn_examples": [],
+        "historical_examples_before_withdrawal": [
+          "happiest"
+        ],
+        "reason": "The -iest spelling in happiest is explained by changing final y to i before inflectional -est; independent evidence that the assigned superlative form is a separate constructive suffix is still needed.",
+        "evidence_urls": [
+          "https://educacion.sanjuan.edu.ar/mesj/LinkClick.aspx?fileticket=N3tWpKD3h2k%3D&mid=1740&tabid=677",
+          "https://www.soundcityreading.net/uploads/3/7/6/1/37611941/advphonicswholebook-2008.pdf"
+        ],
+        "prior_scope_archive": null
       }
     ],
     "family_id_migrations": [
@@ -4398,29 +5333,801 @@
           "https://web.stanford.edu/~kiparsky/Papers/nels.pdf",
           "https://www.sfu.ca/~dearmond/220/220.weak.t.htm"
         ]
+      },
+      {
+        "id": "r_2a83b512a830f8d8",
+        "root": "-berg",
+        "field": "meaning",
+        "after": "noun ending for a large accumulation of a specified substance or quality",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-berg",
+          "https://www.wellformedness.com/blog/libfix-report-gler-what-learn-from/",
+          "https://www-macquariedictionary-com-au.eplibresources.health.wa.gov.au/wp-content/uploads/2024/05/Macquarie_Dictionary_Word_of_the_Year_2016_Longlist.pdf"
+        ]
+      },
+      {
+        "id": "r_b2584889b47779ea",
+        "root": "-bital",
+        "field": "meaning",
+        "after": "barbiturate drugs, in generic names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://step1.medbullets.com/pharmacology/107027/medication-nomenclature",
+          "https://syntheticdrugs.unodc.org/uploads/syntheticdrugs/res/library/forensics_html/Recommended_methods_for_the_Identification_and_Analysis_of_Barbiturates_and_Benzodiazepines_under_International_Control_ST-NAR-46.pdf",
+          "https://en.wiktionary.org/wiki/-bital"
+        ]
+      },
+      {
+        "id": "r_99c7234ee01b6715",
+        "root": "C",
+        "field": "meaning",
+        "after": "China or Chinese, in nouns about Chinese popular culture",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/C-",
+          "https://service.ddex.net/dd/DD-AVS-003/dd/ddex_ChinesePop.html"
+        ]
+      },
+      {
+        "id": "r_a716ea80c9fb8f73",
+        "root": "-chology",
+        "field": "meaning",
+        "after": "science names made by replacing initial psy-; especially disciplines of mind, behavior or humanity",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-chology",
+          "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371403/aromachologie"
+        ]
+      },
+      {
+        "id": "r_0e43cca161a6477b",
+        "root": "-clidine",
+        "field": "meaning",
+        "after": "names of muscarinic receptor agonists or antagonists",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.arca.inc/tools/drug-name-stems/clidine",
+          "https://www.ncbi.nlm.nih.gov/mesh?term=Procyclidine"
+        ]
+      },
+      {
+        "id": "r_c3bfa844addb902f",
+        "root": "-crete",
+        "field": "meaning",
+        "after": "a material serving a function like concrete",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-crete",
+          "https://www.azobuild.com/article.aspx?ArticleID=7850"
+        ]
+      },
+      {
+        "id": "r_e772371bb07da7af",
+        "root": "Catalano",
+        "field": "meaning",
+        "after": "Catalan people, language or culture",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Catalano-",
+          "https://www.mhcat.cat/enmhc/exhibitions/the_memory_of_a_country/the_birth_of_a_nation_from_the_8th_to_the_13th_century"
+        ]
+      },
+      {
+        "id": "r_888005c9dc90b716",
+        "root": "-doku",
+        "field": "meaning",
+        "after": "sudoku-like puzzle game names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-doku",
+          "https://support.arkadium.com/en/support/solutions/articles/44002863209--mathdoku-how-to-play-scoring"
+        ]
+      },
+      {
+        "id": "r_2f5af5e2b5ef7325",
+        "root": "-dronate",
+        "field": "meaning",
+        "after": "bisphosphonate drug names, nonproprietary",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://pressbooks.openeducationalberta.ca/medicalterminologyii/open/download?type=pdf",
+          "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020560s070lbl.pdf",
+          "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+        ]
+      },
+      {
+        "id": "r_822ad6c7ab1c4165",
+        "root": "Croato",
+        "field": "meaning",
+        "after": "Croatia, Croatian or Croat",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Croato-",
+          "https://iucat.iu.edu/iub/887254"
+        ]
+      },
+      {
+        "id": "r_1a62e2e63de96e82",
+        "root": "-gasm",
+        "field": "meaning",
+        "after": "noun ending for a way of achieving orgasm",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://libra.unine.ch/server/api/core/bitstreams/4f6b7b0e-5fe9-41cb-a01c-e18a5a27b999/content",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12675600/",
+          "https://en.wiktionary.org/wiki/-gasm"
+        ]
+      },
+      {
+        "id": "r_0886d0dc1043631c",
+        "root": "-henge",
+        "field": "meaning",
+        "after": "sunrise or sunset alignment with a street, building or other human-made structure on a particular day of the year",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-henge",
+          "https://www.skyatnightmagazine.com/advice/manhattanhenge"
+        ]
+      },
+      {
+        "id": "r_6568ad9bb257e9b5",
+        "root": "-iad",
+        "field": "meaning",
+        "after": "an epic named for the indicated subject",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://journals.ltn.lodz.pl/Zagadnienia-Rodzajow-Literackich/issue/download/132/141",
+          "https://harvest.usask.ca/items/49bbec8e-c714-4801-a1b7-e60ae6d9a6c3"
+        ]
+      },
+      {
+        "id": "r_cdeab45eb3d37300",
+        "root": "-ido",
+        "field": "meaning",
+        "after": "a constructed language derived from or based on the named language, typically itself constructed",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ido",
+          "https://www.frathwiki.com/Dil"
+        ]
+      },
+      {
+        "id": "r_6261abba91754312",
+        "root": "-ii",
+        "field": "meaning",
+        "after": "uncommon nonstandard plurals of nouns ending in -us, -is or a similar sound; often humorous",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ii",
+          "https://itre.cis.upenn.edu/~myl/languagelog/archives/000813.html"
+        ]
+      },
+      {
+        "id": "r_ae233ed0ff43dfdf",
+        "root": "he",
+        "field": "meaning",
+        "after": "male, especially of an animal",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictiopt100whituoft%29.pdf",
+          "https://ahdictionary.com/word/search.html?q=he",
+          "https://en.wiktionary.org/wiki/he-"
+        ]
+      },
+      {
+        "id": "r_aacd552e2e38c5e0",
+        "root": "-imal",
+        "field": "meaning",
+        "after": "names of number bases or radixes",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-imal",
+          "https://www.numberbases.com/terms/basename.html"
+        ]
+      },
+      {
+        "id": "r_5e440af5a5c5e4d8",
+        "root": "-imus",
+        "field": "meaning",
+        "after": "immunosuppressant names, excluding antineoplastics",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/12020052/"
+        ]
+      },
+      {
+        "id": "r_ad0fab2e9b75949b",
+        "root": "-ioid",
+        "field": "meaning",
+        "after": "resembling; adjective ending derived from nouns in -ium or -ia",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ioid",
+          "https://dermnetnz.org/glossary.html",
+          "https://www.dictionary.com/browse/epithelioid"
+        ]
+      },
+      {
+        "id": "r_2f849d294f2c9397",
+        "root": "het",
+        "field": "meaning",
+        "after": "other, different or another; hetero- in chemical nomenclature",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/hetarene",
+          "https://goldbook.iupac.org/terms/view/H02791"
+        ]
+      },
+      {
+        "id": "r_4a719029f3e7d51c",
+        "root": "hexakis",
+        "field": "meaning",
+        "after": "hexa- variant multiplying another numerical prefix",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://upload.wikimedia.org/wikipedia/commons/a/a7/A_text-book_of_mineralogy._With_an_extended_treatise_on_crystallography_and_physical_mineralogy_%28IA_textmineralogy00danarich%29.pdf",
+          "https://files02.sl.nsw.gov.au/fotoweb/pdf/1625/162581210.pdf",
+          "https://en.wiktionary.org/wiki/hexakis-"
+        ]
+      },
+      {
+        "id": "r_310bd918f42e1b8d",
+        "root": "-landia",
+        "field": "meaning",
+        "after": "a fictional or figurative place associated with the named person or thing",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Trumplandia",
+          "https://www.theatlantic.com/ideas/archive/2024/11/pam-bondi-nominated-attorney-general/680768/",
+          "https://en.wiktionary.org/wiki/-landia"
+        ]
+      },
+      {
+        "id": "r_0b512e7186dc3bcf",
+        "root": "-lept",
+        "field": "meaning",
+        "after": "bearing pollen with one or more leptomata: thin areas near the pole",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://mis.alagappauniversity.ac.in/siteAdmin/dde-admin/uploads/2/PG_M.Sc._Botony_346%2022_Plant%20Anatomy%20and%20Embryology_MSc%20Botany.pdf",
+          "https://en.wiktionary.org/wiki/-lept"
+        ]
+      },
+      {
+        "id": "r_60289335aa866a67",
+        "root": "-mance",
+        "field": "meaning",
+        "after": "in-game romance subplot or mechanic named for a noun or character",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-mance",
+          "https://www.rpgfan.com/feature/25-years-25-rpg-moments-part-2/"
+        ]
+      },
+      {
+        "id": "r_d844818d62d619f2",
+        "root": "-mancer",
+        "field": "meaning",
+        "after": "a player who romances the named video-game character",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-mancer",
+          "https://www.reddit.com/r/masseffect/comments/1jww0p9/why_the_obsession_over_the_garrus_romance/"
+        ]
+      },
+      {
+        "id": "r_7bc66b27bc6ec92b",
+        "root": "nemat",
+        "field": "meaning",
+        "after": "characteristic of, having or relating to a threadlike structure",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/nemat-",
+          "https://www.du.edu.eg/upFilesCenter/sci/1711533969.pdf",
+          "https://www.etymonline.com/word/nematode"
+        ]
+      },
+      {
+        "id": "r_dec00fa0da25b5ac",
+        "root": "-oomer",
+        "field": "meaning",
+        "after": "names of Wojak characters or caricatured embodiments of traits and qualities",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-oomer",
+          "https://bpb-us-w2.wpmucdn.com/hawksites.newpaltz.edu/dist/d/17440/files/2023/12/The-Wojak.pdf",
+          "https://knowyourmeme.com/memes/zoomer-wojak"
+        ]
+      },
+      {
+        "id": "r_b804f832aed95692",
+        "root": "nonadec",
+        "field": "meaning",
+        "after": "nonadeca- variant placed before a vowel",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/nonadec-",
+          "https://webbook.nist.gov/cgi/formula?ID=C629925&Mask=4"
+        ]
+      },
+      {
+        "id": "r_bdc08e18505d4b1a",
+        "root": "Normanno",
+        "field": "meaning",
+        "after": "Norman language or people; Normandy",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Normanno-",
+          "https://api.pageplace.de/preview/DT0400.9780192527479_A30390808/preview-9780192527479_A30390808.pdf"
+        ]
+      },
+      {
+        "id": "r_53e81a8568d3a0ca",
+        "root": "-ote",
+        "field": "meaning",
+        "after": "having or equipped with a specified structure or feature",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-ote",
+          "https://www.oxfordlearnersdictionaries.com/us/definition/english/eukaryote"
+        ]
+      },
+      {
+        "id": "r_e150427836e079d7",
+        "root": "-oth",
+        "field": "meaning",
+        "after": "plural ending for some Hebrew borrowings in -a or -ah",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.dictionary.com/browse/halacha",
+          "https://en.wiktionary.org/wiki/-oth",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d2/Catalogue_of_the_Hebraica_and_Judaica_in_the_Library_of_the_Corporation_of_the_city_of_London_%28IA_catalogueofhebra00guilrich%29.pdf"
+        ]
+      },
+      {
+        "id": "r_fb2ced52f5be3506",
+        "root": "-palooza",
+        "field": "meaning",
+        "after": "variant of -a-palooza without the initial a, sometimes after a word ending in a vowel",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.cjr.org/language_corner/palooza_lollapalooza_athon.php",
+          "https://dailyvoice.com/article/tiktok-star-julia-molinari-to-appear-at-pizzapalooza-during-hey-stamford-food-festival-d/",
+          "https://en.wiktionary.org/wiki/-palooza"
+        ]
+      },
+      {
+        "id": "r_b72581a369d1af97",
+        "root": "-parin",
+        "field": "meaning",
+        "after": "names of heparin derivatives, including low-molecular-mass heparins",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf",
+          "https://medlineplus.gov/druginfo/meds/a601210.html"
+        ]
+      },
+      {
+        "id": "r_6cb089cfb16709b8",
+        "root": "-phobiac",
+        "field": "meaning",
+        "after": "adjective ending for fear of a specified thing",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://slovar-vocab.com/english/websters-international-vocab/claustrophobiac-8699038.html",
+          "https://en.wiktionary.org/wiki/-phobiac"
+        ]
+      },
+      {
+        "id": "r_722d92bcddc90fff",
+        "root": "papa",
+        "field": "meaning",
+        "after": "the pope or the papacy",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/papa-",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictipt1500whituoft%29.pdf"
+        ]
+      },
+      {
+        "id": "r_36951ff4ab938d7e",
+        "root": "polydeoxy",
+        "field": "meaning",
+        "after": "various deoxynucleotide polymers and their derivatives",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/polydeoxy-",
+          "https://catalogimages.wiley.com/images/db/pdf/9781119437970.excerpt.pdf"
+        ]
+      },
+      {
+        "id": "r_051cfc1acbaf43e3",
+        "root": "-rubicin",
+        "field": "meaning",
+        "after": "antineoplastic derivatives of daunorubicin, in drug names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7123643/"
+        ]
+      },
+      {
+        "id": "r_017033d973ef493f",
+        "root": "polydeoxyribo",
+        "field": "meaning",
+        "after": "names of various deoxyribonucleotide polymers and their derivatives",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/polydeoxyribo-",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC355481/?page=12"
+        ]
+      },
+      {
+        "id": "r_61092ea31e44aeaf",
+        "root": "-semous",
+        "field": "meaning",
+        "after": "having a particular kind or number of meanings",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-semous",
+          "https://web.stanford.edu/~jurafsky/slp3/old_dec21/ed3book_dec292021.pdf"
+        ]
+      },
+      {
+        "id": "r_c306a572dd0ee242",
+        "root": "polyribo",
+        "field": "meaning",
+        "after": "names of polyribonucleotides and words derived from them",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/polyribo-",
+          "https://pubmed.ncbi.nlm.nih.gov/789366/"
+        ]
+      },
+      {
+        "id": "r_5190f06bf92d8b71",
+        "root": "-sies",
+        "field": "meaning",
+        "after": "diminutive adding affection, informality, childishness or levity",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/-sies",
+          "https://ir.library.knu.ua/server/api/core/bitstreams/b2408c14-32f6-4490-96c1-78eb393bdb8a/content"
+        ]
+      },
+      {
+        "id": "r_1bc93d3660c7df0d",
+        "root": "-voltine",
+        "field": "meaning",
+        "after": "having a specified yearly number of broods or generations",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.invemar.org.co/redcostera1/invemar/docs/2342Dictionary_invert_S.pdf",
+          "https://en.wiktionary.org/wiki/-voltine"
+        ]
+      },
+      {
+        "id": "r_ad338d5536dcc76c",
+        "root": "-vudine",
+        "field": "meaning",
+        "after": "names of zidovudine-type antivirals and antineoplastics",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf",
+          "https://medlineplus.gov/druginfo/meds/a694033.html"
+        ]
+      },
+      {
+        "id": "r_56d51e6cff1aba31",
+        "root": "Somalo",
+        "field": "meaning",
+        "after": "Somalia or the Somali peninsula; the Somali people, culture or language",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://en.wiktionary.org/wiki/Somalo-",
+          "https://sudantribune.com/article/19877"
+        ]
+      },
+      {
+        "id": "r_28f84c23d85efa56",
+        "root": "-furter",
+        "field": "meaning",
+        "after": "German-style foods, notably sausages and wurst",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www0.ff.uns.ac.rs/fakultet/izdavacka_delatnost/fakultet/godisnjak/GODISNJAK_XXXIV-1_09.pdf",
+          "https://en.wiktionary.org/wiki/chickenfurter",
+          "https://en.wiktionary.org/wiki/-furter"
+        ]
+      },
+      {
+        "id": "r_728da4fe42bc41e0",
+        "root": "-oecia",
+        "field": "meaning",
+        "after": "plants of an indicated kind, in botanical taxon names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://ahdictionary.com/word/search.html?q=monoecious"
+        ]
+      },
+      {
+        "id": "r_164c2e8661de94f0",
+        "root": "-gnathae",
+        "field": "meaning",
+        "after": "animals with a specified type of jaw, in zoological taxon names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3b/California_Digital_Library_%28IA_americandiction00lyon%29.pdf"
+        ]
+      },
+      {
+        "id": "r_445fe06bbb6476f9",
+        "root": "prion",
+        "field": "meaning",
+        "after": "saw; sawlike in appearance or action",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://kuscholarworks.ku.edu/bitstreams/e8cbe6ea-fc79-4d16-9b97-ae37287ae03f/download",
+          "https://citeseerx.ist.psu.edu/document?doi=2a1a80a8c711f5e312971ae96f54a3341b9567af&repid=rep1&type=pdf"
+        ]
+      },
+      {
+        "id": "r_0f9493c8018dfc52",
+        "root": "-gnostical",
+        "field": "meaning",
+        "after": "knowing; relating to or characterized by specified knowledge",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.collinsdictionary.com/dictionary/english/geognostical",
+          "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Century_dictionary_-_an_encyclopedic_lexicon_of_the_English_language-_prepared_under_the_superintendence_of_William_Dwight_Whitney_%28IA_centurydictipt900whituoft%29.pdf"
+        ]
+      },
+      {
+        "id": "r_0eb10e4b36ad7050",
+        "root": "-ophthalmus",
+        "field": "meaning",
+        "after": "eyes of an indicated shape or condition",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://upload.wikimedia.org/wikipedia/commons/0/08/The_Dublin_journal_of_medical_science._Volume_27%2C_March_-_July_1845._%28IA_s2400id1378610%29.pdf"
+        ]
+      },
+      {
+        "id": "r_7a6e47dc99b17d04",
+        "root": "thiono",
+        "field": "meaning",
+        "after": "having sulfur in a double bond to another atom",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://iris.who.int/bitstream/handle/10665/40198/9241542632-eng.pdf",
+          "https://patents.google.com/patent/US2862949A/en",
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf"
+        ]
+      },
+      {
+        "id": "r_74f75c9ae36e1565",
+        "root": "priono",
+        "field": "meaning",
+        "after": "saw; sawlike in appearance or action",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://olivirv.myspecies.info/sites/olivirv.myspecies.info/files/Marine%20shells%20of%20the%20western%20co%20-%20Perry%2C%20L.M.%20%28Louise%20M.%20%29.pdf"
+        ]
+      },
+      {
+        "id": "r_f10a8d4b29bb947c",
+        "root": "-semic",
+        "field": "meaning",
+        "after": "having an indicated number of prosodic time units",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.wordnik.com/words/decasemic"
+        ]
+      },
+      {
+        "id": "r_8a60173c5a4e367e",
+        "root": "-meris",
+        "field": "meaning",
+        "after": "one with a specified part, in genus names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://bibleofbotany.com/index/glossary-introduction/glossary-page-6/",
+          "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A23252-1"
+        ]
+      },
+      {
+        "id": "r_78b496cfc6561a0c",
+        "root": "-plasma",
+        "field": "meaning",
+        "after": "formed or formative material, as in a cell or tissue",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://link.springer.com/content/pdf/10.2478/s11756-019-00368-y.pdf"
+        ]
+      },
+      {
+        "id": "r_caae1bdfd9f48613",
+        "root": "sodio",
+        "field": "meaning",
+        "after": "sodium replacing hydrogen, in organic-compound names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://uomustansiriyah.edu.iq/media/lectures/6/6_2019_03_07%2108_26_32_AM.pdf"
+        ]
+      },
+      {
+        "id": "r_ad0402ac565d8299",
+        "root": "-prion",
+        "field": "meaning",
+        "after": "a creature with a specified sawlike part, in genus names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.summagallicana.it/Agassiz_nomenclator_zoologicus/Agassiz_Nomenclator_zoologicus_traduzione.pdf",
+          "https://tidcf.nrcan.gc.ca/en/insects/factsheet/6552"
+        ]
+      },
+      {
+        "id": "r_cd1a28dad4dbb70b",
+        "root": "-spongiae",
+        "field": "meaning",
+        "after": "sponges, in names of sponge orders or higher taxonomic groups",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.sciencedirect.com/science/article/abs/pii/S1055790304000867"
+        ]
+      },
+      {
+        "id": "r_30ffb8070a74025a",
+        "root": "-pneusta",
+        "field": "meaning",
+        "after": "animals with an indicated breathing mode, in names of higher taxa",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://dictionary.englishtest.info/browse/enteropneust"
+        ]
+      },
+      {
+        "id": "r_6806cf2241016d4e",
+        "root": "-melus",
+        "field": "meaning",
+        "after": "one with a specified limb abnormality",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://digirepo.nlm.nih.gov/ext/dw/101623361/PDF/101623361.pdf"
+        ]
+      },
+      {
+        "id": "r_0efe71f2a4b6d954",
+        "root": "ultramicro",
+        "field": "meaning",
+        "after": "relating to, involving or intended for material quantities below micro quantities; at a scale below micro",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://jamanetwork.com/journals/jama/article-abstract/292775",
+          "https://goldbook.iupac.org/terms/view/09085/plain"
+        ]
+      },
+      {
+        "id": "r_22d1129c2ede0fbb",
+        "root": "-odonty",
+        "field": "meaning",
+        "after": "the condition of exhibiting an indicated type of tooth formation",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.collinsdictionary.com/dictionary/english/selenodont"
+        ]
+      },
+      {
+        "id": "r_e2f0f5e0d6946292",
+        "root": "-olic",
+        "field": "meaning",
+        "after": "containing a triple bond, in acid names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02794b"
+        ]
+      },
+      {
+        "id": "r_0387f6e20d6fd6d9",
+        "root": "-plania",
+        "field": "meaning",
+        "after": "movement of a specified substance into a tract other than its own",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.ncbi.nlm.nih.gov/medgen/534935"
+        ]
+      },
+      {
+        "id": "r_15350e6cb9bc9ead",
+        "root": "ulo",
+        "field": "meaning",
+        "after": "relating to or associated with the gums",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.finedictionary.com/Ulorrhagia"
+        ]
+      },
+      {
+        "id": "r_ceb52c5cdbd6067c",
+        "root": "-privic",
+        "field": "meaning",
+        "after": "having a deficiency of a specified thing or element",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/13518678/"
+        ]
+      },
+      {
+        "id": "r_bcdc1448405fa69b",
+        "root": "-pholis",
+        "field": "meaning",
+        "after": "an organism with an indicated type of scale, in genus names",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/flore/fiches-especes-floristiques/conopholis-amerique"
+        ]
+      },
+      {
+        "id": "r_f2e2f101268b9697",
+        "root": "-stelic",
+        "field": "meaning",
+        "after": "having a stated type or number of steles",
+        "reason": "Concise independent wording preserves the same documented English meaning, scope and register; the upstream source remains attributed.",
+        "evidence_urls": [
+          "https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf",
+          "https://static1.squarespace.com/static/5657eb54e4b022a250fc2de4/t/566f9cf20e4c117c7c65281b/1450155250361/1900_Jackson_A%2BGlossary%2Bof%2BBotanic%2BTerms.pdf"
+        ]
       }
     ],
-    "new_root_evidence_count": 3536,
+    "new_root_evidence_count": 4831,
     "new_root_evidence_parts": [
       {
         "file": "json/root-evidence-001.json",
         "count": 1000,
-        "sha256": "56b8abf27cff742c3916044d50bd72cc737938da841665b791f7c392c344c75e"
+        "sha256": "767e5a85b93ec9b9ba169d3e0abc7f477b102d9758c774bb25f741dd4fc3a9eb"
       },
       {
         "file": "json/root-evidence-002.json",
         "count": 1000,
-        "sha256": "f1b58a019cc56746f866539ee4c4a0b2824176488c51373760040fef096c0d60"
+        "sha256": "019aa68f7b4111fda49f99e585c5ee17d86d2dee5e1973f2c3dcbeff9ea27ee1"
       },
       {
         "file": "json/root-evidence-003.json",
         "count": 1000,
-        "sha256": "477ea5f26c1a450ed42d41fe88d9e409e417034bf59ac46943e4ae4a26f27582"
+        "sha256": "9509185f79203d0dbfd1f54d684770ef606c465a4a7ed1ce88d6b6d10a8c6503"
       },
       {
         "file": "json/root-evidence-004.json",
-        "count": 536,
-        "sha256": "edb46a6e8a960699dbe9ea1d3d143b326d9e1c1a9bf02615b89646e6dc598c57"
+        "count": 1000,
+        "sha256": "a552e7546b3e16a728bdd9a750167bfaa0a7b4d2809cb21a0f9df06beb146877"
+      },
+      {
+        "file": "json/root-evidence-005.json",
+        "count": 831,
+        "sha256": "c18158719ea8cb1b4ef5a2f68ac1b6f01f75d2bb8af42ac4b32b70a06c82e967"
       }
     ]
   }

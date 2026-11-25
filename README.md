@@ -2,7 +2,7 @@
 
 基于多个项目的公开资料整理的英语词根库，收录词根、前缀、后缀和部分构词形式，提供英文 `meaning` 及对应例词，保留同族变体之间的关联。
 
-当前 JSON 共收录 **6,424 个词根及词缀条目**，所有 `example` 合并去重后共有 **32,629 个例词和词组**，合计 **47,717 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
+当前 JSON 共收录 **7,719 个词根及词缀条目**，所有 `example` 合并去重后共有 **33,811 个例词和词组**，合计 **49,015 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
 
 ## 整理目的：词根平铺化
 
@@ -33,14 +33,15 @@
 - [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en)：英语单词的构词标注。
 - [MorphyNet](https://github.com/kbatsuren/MorphyNet)：单词派生和词形变化关系。
 - [etymology-db](https://github.com/droher/etymology-db)：从 Wiktionary 词源数据整理的词源关系。
-- [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)及[英文 Wiktionary 数据](https://kaikki.org/dictionary/English/)：词条、前后缀及词源资料，用于发现和核对；与其他 Wiktionary 衍生数据存在来源重叠。
+- [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)及[英文 Wiktionary 数据](https://kaikki.org/dictionary/English/)：部分词素、英文含义及例词关系的发现、整理和核对来源；与其他 Wiktionary 衍生数据存在来源重叠。具体来源及许可见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)和[逐条归属](notes/wiktionary-attribution.json)。
 - 词典与词源参考：[Online Etymology Dictionary](https://www.etymonline.com/)、[Merriam-Webster](https://www.merriam-webster.com/)、[Dictionary.com](https://www.dictionary.com/)、[Collins Dictionary](https://www.collinsdictionary.com/)、[Wiktionary](https://en.wiktionary.org/)、[American Heritage Dictionary](https://www.ahdictionary.com/)、[Oxford Learner’s Dictionaries](https://www.oxfordlearnersdictionaries.com/) 等；医学词缀另参考 [MedlinePlus 词素表](https://medlineplus.gov/appendixa.html)，部分历史词形参考大学教材及历史词典。
+- [WHO 国际非专利药名词干资料](https://www.who.int/teams/health-product-policy-and-standards/inn)：药物命名词干的参考资料，所参考的页面见[来源索引](notes/who-references.json)；各资料的许可参见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
 - [Merriam-Webster《A Dictionary of Prefixes, Suffixes, and Combining Forms》](https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf)：补充词根、前后缀和构词形式；未确认的候选另行保存。
 - 部分英文词根含义和变体还参考词根词典、教材和学术资料，具体来源见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
 
 这些资料用于对照与核实，词形相似或出现在同一资料中并不自动证明词根关系。各来源的许可说明见 [notes/THIRD_PARTY_NOTICES.md](notes/THIRD_PARTY_NOTICES.md)。
 
-数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-007` 编号；每个文件最多 1,000 条，最后一份有 424 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
+数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-008` 编号；每个文件最多 1,000 条，最后一份有 719 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
 
 JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example` 八个常用字段；例词以 ` | ` 分隔，无例词时单元格为空。同族关联和待处理计数请使用 JSON。CSV 使用 UTF-8 BOM，字段中的逗号、引号和换行由 CSV 格式转义。
 
@@ -68,7 +69,7 @@ JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`�
 
 - 本轮还将 [67 条历史待核来源关系](notes/legacy-unverified-relations.json)保留为独立记录；已有其他来源支持的同形关系按各自词义处理。`mob`（人群）、`fund`（资金）、`plane`（飞机）、`place` 和 `pose`（摆姿势）五个英语整词词基按现有范围暂缓，其原关系和原因见[待确认关系](notes/held-relations.json)。
 
-- 本次固定队列中未能确认的候选已单独保存于[未收录候选](notes/unverified-candidates.json)，不会因词形相似自动进入主表。这个文件不代表项目所有历史待核关系。
+- 最近一轮复核覆盖 989 个既有待确认来源项及 121 个额外来源义项：775 项至少确认一个关系，330 项因证据不足隔离，5 项在指定来源范围内排除。另有 56 个已部分确认的来源项仍有其他义项待核；这些数量按来源项统计，并不等于不重复词根数。未确认范围及原因见[未收录候选](notes/unverified-candidates.json)，不代表已证伪，也不包含项目全部历史待核关系。
 
 - [词根与例词审核状态索引](notes/edge-audit.json)按词根 `id` 和例词记录审核状态，审核关系及来源分别拆分到 `notes/json/`。索引中的 `roots_sha256` 绑定按编号拼接后的完整数据快照。`supported_scoped` 表示指定词义或来源范围有依据；`historical_accept_scoped` 表示找到该范围的历史接受记录，不能视为对所有义项的保证；未列出或标记 `untraced` 表示尚未找到对应的逐条审核记录，并不等于错误。`related_pending_candidate` 是旧快照中曾有待核相关来源候选的历史标记；标记对应的快照见 `related_pending_candidate_as_of_roots_sha256`，不能单凭它判断当前待确认状态，也不自动代表当前关系有误。若同一条记录含 `later_resolution`，以后者说明为准。
 - [待确认关系](notes/held-relations.json)记录从主表暂缓的例词关系、来源范围待核记录和整体暂缓的词根，并保留原因和参考资料；暂缓不等于判定关系错误。`plac` 因独立词素依据待核整条暂缓，`ment` 的 5 条关系因构词分析分歧暂缓。未找到精确审核记录的主表关系不能视为已逐条核实。
@@ -87,4 +88,4 @@ JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`�
 
 当前为整理中的阶段性数据；主 JSON 和 CSV 的例词字段不内嵌审核状态，使用时请同时参考上述状态文件。
 
-原创整理成果采用 [CC BY-NC 4.0 非商业许可](LICENSE)，上游资料保留原许可，详见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
+本项目有权单独许可的原创整理贡献采用 [CC BY-NC 4.0 非商业许可](LICENSE)。上游资料及其适用的署名和相同方式共享条件不因此改变；包括 Wiktionary 和 WHO 资料在内的具体来源与许可见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。

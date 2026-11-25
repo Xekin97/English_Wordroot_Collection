@@ -3737,7 +3737,7 @@
       ]
     }
   ],
-  "roots_sha256": "f7deb1c80e4dbd2dfebd034a30af27844ed2d0f6027165d1677aaa4299ba0765",
+  "roots_sha256": "e371043c81c1a78abb5ef6751d79bcc44c54720f8a6f6809d35ca4d5ea4f7790",
   "sources": {
     "s_d80926857517979fbd99": {
       "project": "morphemes",
@@ -3897,8 +3897,7 @@
       "evidence_urls": [
         "https://www.etymonline.com/word/literate",
         "https://www.etymonline.com/word/alliteration"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      ]
     },
     {
       "original": {
@@ -3926,8 +3925,7 @@
         "https://www.etymonline.com/word/announce",
         "https://www.etymonline.com/word/pronounce",
         "https://www.etymonline.com/word/pronoun"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      ]
     },
     {
       "original": {
@@ -3951,8 +3949,7 @@
         "https://www.etymonline.com/word/optimum",
         "https://www.etymonline.com/word/optimal",
         "https://www.etymonline.com/word/opt"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0170/empty-example-audit.json"
+      ]
     },
     {
       "original": {
@@ -3987,8 +3984,7 @@
         "https://www.wordsmyth.net/?am=page&mode=wpar&offset=3&page=26",
         "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=Ascensus",
         "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3873/"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0277/proposal.json"
+      ]
     },
     {
       "original": {
@@ -4019,8 +4015,7 @@
         "https://www.etymonline.com/word/surge",
         "https://www.etymonline.com/word/insurrection",
         "https://www.etymonline.com/word/resurrection"
-      ],
-      "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0372/proposal.json"
+      ]
     },
     {
       "original": {
@@ -4061,7 +4056,6 @@
         "pithecanthropus"
       ],
       "reason": "Independent dictionaries attest Greek anthrop-/anthropo- for human, but a standalone anthr- meaning human was not established; anthr- in chemical terminology is a distinct form. Retain all 14 reviewed words under the already supported anthrop and anthro entries, and preserve the original target and examples as a reversible quality hold.",
-      "review_report": "evidence-work/pending-resolution/anthr-human-audit-1526/report.json",
       "evidence_urls": [
         "https://www.merriam-webster.com/dictionary/anthrop-",
         "https://www.collinsdictionary.com/dictionary/english/anthropo",
@@ -4094,8 +4088,7 @@
         "https://static.zollege.in/public/image/Essential_Words_for_the_GRE_7dd44dfa9cab6c93f7cb1f14d39f59e1.pdf",
         "https://andrewdunning.ca/latin-greek-scientific-terminology/vocabulary/latin-vocabulary.pdf",
         "https://www.etymonline.com/word/amble"
-      ],
-      "review_report": "evidence-work/untraced-published-1660/work-cross-amb/proposal.json"
+      ]
     },
     {
       "published_root_id": "r_fa3f91bf8345e5df",
@@ -4121,8 +4114,7 @@
       "evidence_urls": [
         "https://www.ahdictionary.com/word/search.html?q=vintage",
         "https://www.dictionary.com/browse/vintner"
-      ],
-      "review_report": "evidence-work/untraced-published-1660/work-cross-vint/proposal.json"
+      ]
     },
     {
       "original": {
@@ -4146,7 +4138,6 @@
         "lycanthropy"
       ],
       "reason": "Greek source combines lykos wolf with anthropos human, so lycan crosses the historical boundary; one teaching list uses lycan as a lookup but does not independently establish a modern wolf prefix. The two disputed exact relations and root classification are held pending, with original source and past acceptances preserved.",
-      "review_report": "evidence-work/quality-review-lycan-1798/review.json",
       "evidence_urls": [
         "https://www.collinsdictionary.com/us/dictionary/english/lycanthrope",
         "https://www.ahdictionary.com/word/search.html?q=lycanthrope",
@@ -4196,7 +4187,6 @@
         "replacement"
       ],
       "reason": "plac 现有来源支持 place 历史词族索引，但未确立独立的 Latin plac 构词词素，整条记录暂不发布。",
-      "review_report": "evidence-work/release-hold-audit-1860-r001/release-holds.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/place",
         "https://ahdictionary.com/word/search.html?q=place"
@@ -4235,7 +4225,6 @@
         "mobocracy"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/a/old-pending-ten.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/mob",
         "https://www.merriam-webster.com/dictionary/mobbish"
@@ -4260,8 +4249,7 @@
             "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. English mob a productive noun and verb meaning crowd, often disorderly; historically clipped from mobile vulgus fickle common people, ultimately mobilis moving. This source only means crowd; the modern base is not an independent Latin mob- meaning move. Preserve the existing quality hold and previous move-sense acceptance as a separate conflict.",
             "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
             "independent_held_scope": true,
-            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
           },
           {
             "relation_id": "e_3ddc1c9365aa9eaa5272",
@@ -4278,8 +4266,7 @@
             "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. mob crowd + -ish, like a mob; Merriam-Webster gives the actual base. Prior move-sense relation has a quality hold; do not silently resolve it by redirecting source scope.",
             "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
             "independent_held_scope": true,
-            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
           },
           {
             "relation_id": "e_a038a3bbef7ea58c3e4f",
@@ -4296,8 +4283,7 @@
             "note": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged. mob crowd + -ocracy, rule by a mob; source is crowd, prior move-sense relationship is separately held and must stay auditable.",
             "different_form_reason": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
             "independent_held_scope": true,
-            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0188/proposal.json"
+            "held_source_review": "The source explicitly means crowd; the independent English mob crowd word family is well attested. The earlier association with Latin move remains held and unchanged."
           }
         ]
       }
@@ -4334,7 +4320,6 @@
         "fund"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/b/old-overlap-10.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/fund",
         "https://www.etymonline.com/word/refund"
@@ -4355,7 +4340,6 @@
               "https://www.dictionary.com/browse/funded"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4370,7 +4354,6 @@
               "https://www.dictionary.com/browse/funder"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4386,7 +4369,6 @@
               "https://www.dictionary.com/browse/funding"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4401,7 +4383,6 @@
               "https://www.dictionary.com/browse/fundraise"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4416,7 +4397,6 @@
               "https://www.dictionary.com/browse/superfund"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4431,7 +4411,6 @@
               "https://www.dictionary.com/browse/underfund"
             ],
             "note": "English free noun/verb fund money or finance is independently used in fundraiser/fundraise and underfund. It historically develops from fundus bottom but is a distinct financial target from existing bottom root; retain separate source scopes.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4445,7 +4424,6 @@
               "https://www.merriam-webster.com/dictionary/underfunded"
             ],
             "note": "Source explicitly means financial fund; underfund + -ed, with under- + English fund. The existing Latin bottom sense does not adequately specify the financial meaning.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0068/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           },
           {
@@ -4459,7 +4437,6 @@
               "https://www.merriam-webster.com/dictionary/unfunded"
             ],
             "note": "Source explicitly means financial fund; un- + funded, ultimately English fund. The existing Latin bottom sense does not adequately specify the financial meaning.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0068/proposal.json",
             "published_root_id": "r_1c81cada5b9fca6f"
           }
         ],
@@ -4478,8 +4455,7 @@
               "https://www.ahdictionary.com/word/search.html?q=refund",
               "https://www.etymonline.com/word/refund"
             ],
-            "note": "The finance source supports a separate re-fund homograph meaning provide funds again, distinct from refund reimburse. Two distinct refund verbs: refund reimburse is from Latin refundere, re- + fundere pour; re-fund provide money again is independently from re- + English fund. Both are documented, so accept each source only for its own sense. Do not conflate ordinary reimbursement with refunding a fund.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0067/proposal.json"
+            "note": "The finance source supports a separate re-fund homograph meaning provide funds again, distinct from refund reimburse. Two distinct refund verbs: refund reimburse is from Latin refundere, re- + fundere pour; re-fund provide money again is independently from re- + English fund. Both are documented, so accept each source only for its own sense. Do not conflate ordinary reimbursement with refunding a fund."
           }
         ]
       }
@@ -4505,7 +4481,6 @@
         "deplane"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/b/old-overlap-10.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/plane",
         "https://www.etymonline.com/word/aeroplane"
@@ -4530,7 +4505,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. deplane uses English plane meaning aircraft, shortened aeroplane, not direct flat meaning; etymologically related but semantically shifted. Source -plane ends the word, but its meaning is flat; a separate aircraft base is suggested. Exact historical exclusion is retained and requires explicit integrator review.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. deplane uses English plane meaning aircraft, shortened aeroplane, not direct flat meaning; etymologically related but semantically shifted. Source -plane ends the word, but its meaning is flat; a separate aircraft base is suggested. Exact historical exclusion is retained and requires explicit integrator review."
           }
@@ -4566,7 +4540,6 @@
         "replacement"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/c/old-pending-audit.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/place",
         "https://www.merriam-webster.com/dictionary/place"
@@ -4591,7 +4564,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4610,7 +4582,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→displacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4629,7 +4600,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→irreplaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→irreplaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4648,7 +4618,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4667,7 +4636,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→misplacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4686,7 +4654,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replace exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4705,7 +4672,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaceable exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4724,7 +4690,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replaced exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           },
@@ -4743,7 +4708,6 @@
             ],
             "note": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision.",
             "different_form_reason": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0225/proposal.json",
             "independent_mixed_scope": true,
             "mixed_source_review": "The separately attested productive English base has the documented meaning; the original disputed or historically held source assignment remains unchanged. The word is a derivative in English place/put-in-position family, from French place and Latin platea open space; it is unrelated to existing plac calm/please. A separate exact English base place is demonstrably productive. Historical review acceptance and exact existing plac→replacement exclusion must both be retained: plac as independently historical segment is not proved by Latin platea, so do not re-add excluded edge without a scoped integrator decision."
           }
@@ -4772,7 +4736,6 @@
         "poser"
       ],
       "reason": "The target is a complete English word used as a modern word base; under the current collection scope that category is deferred. Its derived-word relations are not asserted to be false; other senses and separate historical roots remain unaffected.",
-      "review_report": "evidence-work/resolve-all-20261120/c/old-pending-audit.json",
       "evidence_urls": [
         "https://www.etymonline.com/word/pose",
         "https://www.merriam-webster.com/dictionary/pose"
@@ -4799,7 +4762,6 @@
             ],
             "note": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold.",
             "different_form_reason": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0234/proposal.json",
             "independent_held_scope": true,
             "held_source_review": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold."
           },
@@ -4820,12 +4782,41 @@
             ],
             "note": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold.",
             "different_form_reason": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold.",
-            "review_report": "evidence-work/pending-resolution/all-pending-queue-1231/A0234/proposal.json",
             "independent_held_scope": true,
             "held_source_review": "This independently documented complete word base or distinct homograph is established without resolving the original disputed source or releasing any prior hold. Existing quality quarantine remains: posture/affected-person sense is French poser < pausare rather than direct Latin positus; puzzle/question sense may involve appose/oppose and remains unresolved. Separate English posture-family target is optional and does not lift the Latin source hold."
           }
         ]
       }
+    },
+    {
+      "original": {
+        "id": "r_d31f45bdc73d047f",
+        "root": "-iest",
+        "source_form": "-iest",
+        "meaning": "superlative spelling after final y",
+        "class": "suffix",
+        "origin": "English -y and -est",
+        "source_entry": "Wiktionary English suffix: -iest",
+        "family_id": "g_5a307a0819b610b8",
+        "example": [],
+        "related_root_ids": [
+          "r_5a307a0819b610b8"
+        ],
+        "pending_family_examples": 0
+      },
+      "published_root_id": "r_d31f45bdc73d047f",
+      "root": "-iest",
+      "meaning": "superlative spelling after final y",
+      "withdrawn_examples": [],
+      "historical_examples_before_withdrawal": [
+        "happiest"
+      ],
+      "reason": "The -iest spelling in happiest is explained by changing final y to i before inflectional -est; independent evidence that the assigned superlative form is a separate constructive suffix is still needed.",
+      "evidence_urls": [
+        "https://educacion.sanjuan.edu.ar/mesj/LinkClick.aspx?fileticket=N3tWpKD3h2k%3D&mid=1740&tabid=677",
+        "https://www.soundcityreading.net/uploads/3/7/6/1/37611941/advphonicswholebook-2008.pdf"
+      ],
+      "prior_scope_archive": null
     }
   ],
   "source_specific_quality_holds": [
@@ -6101,8 +6092,7 @@
         "https://www.etymonline.com/word/mob",
         "https://blog.oup.com/2007/08/mob/"
       ],
-      "original_review_directory": "uncontested-151",
-      "review_report": "evidence-work/mob-sense-review-432/review.json"
+      "original_review_directory": "uncontested-151"
     },
     {
       "relation_id": "e_3ddc1c9365aa9eaa5272",
@@ -6115,8 +6105,7 @@
         "https://www.merriam-webster.com/dictionary/mobbish",
         "https://www.etymonline.com/word/mob"
       ],
-      "original_review_directory": "uncontested-056",
-      "review_report": "evidence-work/mob-sense-review-432/review.json"
+      "original_review_directory": "uncontested-056"
     },
     {
       "relation_id": "e_a038a3bbef7ea58c3e4f",
@@ -6129,8 +6118,7 @@
         "https://www.etymonline.com/word/mobocracy",
         "https://www.etymonline.com/word/mob"
       ],
-      "original_review_directory": "uncontested-056",
-      "review_report": "evidence-work/mob-sense-review-432/review.json"
+      "original_review_directory": "uncontested-056"
     },
     {
       "relation_id": "e_7be43f59314233004c41",

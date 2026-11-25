@@ -12,7 +12,9 @@
 
 - [历史未确认关系](legacy-unverified-relations.json)：历史队列中 67 条原来源范围的记录；有同形或纠正目标时按词义区分。
 
-- [未收录候选](unverified-candidates.json)：本次固定队列中缺少充分依据的候选及原因；另有反证的条目与单纯尚未确认的条目分别标记。
+- [未收录候选](unverified-candidates.json)：最近一轮复核中 330 条证据不足的来源范围、5 条按指定来源范围排除的记录，以及 56 条仅部分义项已确认的来源记录；不将隔离视为证伪。历史待核范围另见其他记录。
+- [Wiktionary 逐条归属](wiktionary-attribution.json)：已接受来源义项与词根 ID、原词条及贡献者历史的对应。
+- [WHO 来源索引](who-references.json)：药物命名等条目使用的 WHO 参考文档及 2018 年词干手册的许可信息。
 
 - [67 条关系核实 JSON](adjudications.json) / [CSV](adjudications.csv)：逐条对应关系、说明和来源。
 - [历史及非字面关系](related-only.json)：保留未直接放入主词表的关系及适用限制。
