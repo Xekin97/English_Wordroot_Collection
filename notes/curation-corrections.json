@@ -1155,7 +1155,7 @@
       ]
     }
   ],
-  "roots_sha256": "3314884c4a2c8173d0840c53aaa68d848d6f7a04e27ca83713d790836cf76279",
+  "roots_sha256": "41275ea93f36866ecaee3f1928dc76c6243f6641c79b549b16952ed3bc0e7036",
   "canonical_root_aliases": [
     {
       "alias_id": "r_a6fbd12efdd62661",
@@ -7861,52 +7861,47 @@
         ]
       }
     ],
-    "new_root_evidence_count": 8758,
+    "new_root_evidence_count": 7976,
     "new_root_evidence_parts": [
       {
         "file": "json/root-evidence-001.json",
         "count": 1000,
-        "sha256": "14be2b256cf2d34493f525397fe9b6a0e3408e8054df37e9587ed3380f576daf"
+        "sha256": "3325027bf15cc0e2d21c7ab04fdc22311451d30cf35d34a59cf0ea20958d0f08"
       },
       {
         "file": "json/root-evidence-002.json",
         "count": 1000,
-        "sha256": "10e614d86fd46e87c6619d342caa9a55a115148a1ec8e44d68704a625d2ea60d"
+        "sha256": "5321642fd2a41312daf9fe19241ed083d3d3597577a3143d74fd5fa158d41334"
       },
       {
         "file": "json/root-evidence-003.json",
         "count": 1000,
-        "sha256": "296fc1a253261ca72cd21ce8352e7e6554fd280e87662ef20245627cb05caf2f"
+        "sha256": "ab4f9f4404951901d804260aa36fa32d4e23c98db2909b23da66790a27092d4c"
       },
       {
         "file": "json/root-evidence-004.json",
         "count": 1000,
-        "sha256": "7090aef9ec1f2dd9e1d4b2e3e193f8ec4e241ab0af60a88e2a7fa828648fc8cc"
+        "sha256": "f8c7f2268b67bd2cb477a28e7e4c24295aa4c833d8ccd071e81c888613577776"
       },
       {
         "file": "json/root-evidence-005.json",
         "count": 1000,
-        "sha256": "0171e6884715fbf42286c8a74852367309550a4f6c409e8b78ec64d2171146ec"
+        "sha256": "4c848010dbe28e37d85fde0967bc311e118944aadd4489840e9f8431cf455278"
       },
       {
         "file": "json/root-evidence-006.json",
         "count": 1000,
-        "sha256": "6f6dd060884e2ae1196a141d9a669539f4e00917f21583754108539c5e2b40c8"
+        "sha256": "ac855752f23731390e8d5b653565f25ab42dc29395ca15d619ad995fbd8c84fc"
       },
       {
         "file": "json/root-evidence-007.json",
         "count": 1000,
-        "sha256": "19aac221bf9d75e3a5a8cd64c0c528a1ea644ce5648464d81088c53534f1f6df"
+        "sha256": "679a2a27e909bd82e8e3db6bdc37ee836c101547cf5d21b5af3f96e117301753"
       },
       {
         "file": "json/root-evidence-008.json",
-        "count": 1000,
-        "sha256": "5ce09f09d52fcbb862754b466fc3e681a3e2cebdb0eb96a8fe7ae664cb6446f5"
-      },
-      {
-        "file": "json/root-evidence-009.json",
-        "count": 758,
-        "sha256": "8ed1401afcaed6c12d1f85b5961fdf8c102947264312a37e268bb117e2ef41be"
+        "count": 976,
+        "sha256": "6a257b83f130e549ffb154407c08606186686a1a721ed57f4f2138c452843938"
       }
     ]
   }

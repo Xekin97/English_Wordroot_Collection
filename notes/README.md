@@ -1,32 +1,16 @@
-# 整理说明
+# 来源与补充记录
 
-以 ECDICT 的词根、英文 meaning 和例词为基础，参考 morphemes、generated-english-roots-list、engra 的相关条目进行对照整理，并补充 LexiRoot 的部分词根和词缀。
+本目录提供数据来源、词根与例词关系的适用范围，以及未纳入主表的记录。词根数据和字段说明见[项目首页](../README.md)。
 
-1. 将一个分组中的词根写法分别列出，保留原分组和同族关联。
-2. 整理对应单词并去重；同族变体允许共享例词，同形异义词根分别保留。
-3. 优先保留来源中的英文 meaning；来源缺失、词义混合或存在明确错误时，根据参考资料修正，并保留原内容与依据。历史词形关系需标明适用范围，不按字符串相似度自动推定。
-4. 另对 67 个单词的词根对应关系补充校验核实，记录依据、义项限制及必要修正。
-5. 对照各库补充缺失词根写法和例词，分别保留确认关系、非字面联系、错拼、错误分组及尚未解决的关系；未确认的候选不进入主表，并保留来源和原因。
+- [来源与许可说明](THIRD_PARTY_NOTICES.md)：各来源的许可及使用说明。
+- [Wiktionary 逐条归属](wiktionary-attribution.json)：相关词根记录对应的词条、义项和贡献者历史。
+- [WHO 来源索引](who-references.json)：药物命名相关条目所参考的 WHO 文档。
+- [例词审核状态索引](edge-audit.json)：按词根 `id` 和例词查询审核状态、来源和适用范围；具体关系及来源存放于 [json](json/) 分片。
+- [修正与义项记录](curation-corrections.json)：词义修正、关系迁移及词根条目的补充依据。
+- [类别来源](class-provenance.json)：`class` 字段的来源类别及部分细分说明。
+- [待确认关系](held-relations.json)和[来源归属待核关系](legacy-pending-relations.json)：暂缓的关系及原因。已有独立依据的其他词义和关系可以保留。
+- [未收录候选](unverified-candidates.json)和[隔离例词关系](isolated-example-relations.json)：因证据不足或不符合来源范围而未纳入的记录；未收录不等于判定单词或词源错误。
+- [历史及非字面关系](related-only.json)、[排除记录](excluded.json)和[证据不足的关系](unconfirmed-relations-excluded.json)：保留来源范围与历史整理记录。
+- [67 条关系核实记录](adjudications.json)：部分例词与词根对应关系的依据和说明，也提供 [CSV 格式](adjudications.csv)。
 
-补充记录：
-
-- [来源归属待核关系](legacy-pending-relations.json)：44 条保留保护标记的历史来源关系；有独立支持的其他词义和关系继续保留。此前的 [67 条历史记录](legacy-unverified-relations.json)是历史快照。
-
-- [未收录候选](unverified-candidates.json)：最近复核中 970 个未纳入的来源范围，以及已收录范围内另行排除的子义项；不将隔离视为证伪。来源范围可能与历史待核关系重叠。
-- [隔离的具体例词关系](isolated-example-relations.json)：从主表移出的具体词根—例词关系，同词根其他例词和独立词义不受影响。
-- [Wiktionary 逐条归属](wiktionary-attribution.json)：已接受来源义项与词根 ID、原词条及贡献者历史的对应。
-- [WHO 来源索引](who-references.json)：药物命名等条目使用的 WHO 参考文档及 2018 年词干手册的许可信息。
-
-- [67 条关系核实 JSON](adjudications.json) / [CSV](adjudications.csv)：逐条对应关系、说明和来源。
-- [历史及非字面关系](related-only.json)：保留未直接放入主词表的关系及适用限制。
-- [排除记录](excluded.json)：保留原库中被排除的关系及原因。
-- [证据不足而未收录的关系](unconfirmed-relations-excluded.json)：记录依据用户选择未收录的 38 条关系、来源范围、先前分析与证据；不以此断言单词无效或有争议的词源已被否定。
-- [port、duc/duct、brev 跨库补充](batches/01-port-duc-brev.md)：本批新增例词、词根写法及逐条处理结果。
-- [词根及例词补充](batches/02-supported-additions.md)：来源、适用范围及已补充的对应关系。
-- [来源与许可说明](THIRD_PARTY_NOTICES.md)。
-- [已发布数据的修正与义项](curation-corrections.json)：保留原值、修正依据、例词义项、旧关系迁移和需要去重展示的条目。 新增词根依据按每份最多 1,000 条拆分至 `json/root-evidence-*.json`，分片路径、数量和校验值见该文件的 `subsequent_changes.new_root_evidence_parts`。
-- [例词审核状态索引](edge-audit.json)：列出 [审核关系及来源分片](json/)，按词根 ID 和单词查询来源范围、词义限制及已找到的审核记录；未列出表示未找到精确的逐条审核记录。审核关系和来源分片每份最多 1,000 条，同一词根的关系可能分布在相邻分片中。独立复核记录保留来源资源标识、哈希、词典链接和义项范围；发现快照以内容哈希标识，快照原文件不在此发布包中。
-- [暂缓的例词关系](held-relations.json)：保留从主表移出的待确认关系、整体暂缓的词根、来源范围待核记录、原因和参考资料；暂缓不代表关系一定错误。
-- [来源类别记录](class-provenance.json)：记录统一类别前的写法、细分信息及部分补充依据。
-
-上述四个状态文件中的 `roots_sha256` 用于确认其对应的数据快照；不同快照的记录不能直接混用。校验时按编号拼接所有 JSON 分片形成数组，使用 UTF-8、`ensure_ascii=False`、`indent=2` 并在末尾加换行后计算 SHA-256；分片路径、条目数和各文件的 SHA-256 均列于 `edge-audit.json`。审核来源和范围说明供核对使用。关系状态的含义见[项目说明](../README.md#审核状态与已知限制)。
+审核索引、待确认关系、修正记录和类别来源中的 `roots_sha256` 用于标识它们所对应的数据快照。审核状态只适用于记录注明的来源或义项，不代表单词的所有含义均已核实。

@@ -1,92 +1,68 @@
 # English Wordroot Collection
 
-基于多个项目的公开资料整理的英语词根库，收录词根、前缀、后缀和部分构词形式，提供英文 `meaning` 及对应例词，保留同族变体之间的关联。
+英语词根、前缀、后缀及其他构词形式的数据集。每条记录提供英文含义和对应例词，可用于词根检索、词汇学习及选词。
 
-当前 JSON 共收录 **9,191 个词根及词缀条目**，所有 `example` 合并去重后共有 **35,646 个例词和词组**，合计 **51,307 条词根与例词关系**。条目数量按平铺后的独立记录统计，同族变体与同形异义条目分别计数；例词或词组在多个词根下出现时只计一次，保留的不同词形分别计数。
+数据共收录 **9,191 条词根及词缀记录**、**35,646 个不同例词或词组**和 **51,306 条词根与例词关系**。例词按大小写精确去重；同一单词出现在多个词根下时，在例词总数中只计一次。
 
-## 整理目的：词根平铺化
+本项目将来源中多个词根共用一组例词的记录，整理为每个词根写法对应自己的例词列表。同族变体可以共享例词；拼写相同但含义不同的词根分别记录，并用 `id` 区分。
 
-将原资料中「多个词根写法共用一组例词」的结构，整理为「每个词根写法独立对应自己的例词列表」，便于按单个词根检索、选词，以及用于词根学习和数据使用。
+## 数据文件
 
-```text
-整理前：a, b, c → 混合例词列表
+- [JSON](json/)：包含全部字段及同族关联。
+- [CSV](csv/)：包含常用字段，例词以 ` | ` 分隔；文件使用 UTF-8 BOM。
 
-整理后：a → a 对应的例词列表
-        b → b 对应的例词列表
-        c → c 对应的例词列表
+两种格式均按词根（忽略大小写）和 `id` 排序，依次编号为 `roots-001` 至 `roots-010`。每份最多 1,000 条，最后一份包含 191 条。按编号拼接 JSON 数组即可得到完整数据；合并 CSV 时只保留一份表头。
+
+下面的 Python 示例读取全部 JSON 分片，并查找展示写法为 `port` 的记录：
+
+```python
+import json
+from pathlib import Path
+
+roots = []
+for path in sorted(Path("json").glob("roots-*.json")):
+    roots.extend(json.loads(path.read_text(encoding="utf-8")))
+
+for item in roots:
+    if item["root"].casefold() == "port":
+        print(item["id"], item["meaning"], item["example"])
 ```
 
-平铺后仍保留原分组和同族关联。同族变体可以共享例词；同形异义词根分别保留。例如，表示脚的 `ped1` 与表示儿童的 `ped2` 展示时都可以写作 `ped`，但它们是不同条目。
+`root` 可以重复，例如 `port` 包含不同含义；保存或关联记录时请使用 `id`。
 
-## 资料来源
+## JSON 字段
 
-词根与例词主要整理自以下项目：
-
-- [ECDICT](https://github.com/skywind3000/ECDICT)：基础词根与例词数据。
-- [morphemes](https://github.com/colingoldberg/morphemes)：词根、词缀及构词关系。
-- [generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)：词根与例词。
-- [engra](https://github.com/eslsoft/engra)：词根及派生词关系。
-- [LexiRoot](https://github.com/tcyeee/lexiroot)：补充词根、词缀和英文含义；其部分数据来源与上述项目重叠。
-
-整理和核对时还参考了以下构词与词源资料：
-
-- [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en)：英语单词的构词标注。
-- [MorphyNet](https://github.com/kbatsuren/MorphyNet)：单词派生和词形变化关系。
-- [etymology-db](https://github.com/droher/etymology-db)：从 Wiktionary 词源数据整理的词源关系。
-- [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)及[英文 Wiktionary 数据](https://kaikki.org/dictionary/English/)：部分词素、英文含义及例词关系的发现、整理和核对来源；与其他 Wiktionary 衍生数据存在来源重叠。具体来源及许可见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)和[逐条归属](notes/wiktionary-attribution.json)。
-- 词典与词源参考：[Online Etymology Dictionary](https://www.etymonline.com/)、[Merriam-Webster](https://www.merriam-webster.com/)、[Dictionary.com](https://www.dictionary.com/)、[Collins Dictionary](https://www.collinsdictionary.com/)、[Wiktionary](https://en.wiktionary.org/)、[American Heritage Dictionary](https://www.ahdictionary.com/)、[Oxford Learner’s Dictionaries](https://www.oxfordlearnersdictionaries.com/) 等；医学词缀另参考 [MedlinePlus 词素表](https://medlineplus.gov/appendixa.html)，部分历史词形参考大学教材及历史词典。
-- [WHO 国际非专利药名词干资料](https://www.who.int/teams/health-product-policy-and-standards/inn)：药物命名词干的参考资料，所参考的页面见[来源索引](notes/who-references.json)；各资料的许可参见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
-- [Merriam-Webster《A Dictionary of Prefixes, Suffixes, and Combining Forms》](https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf)：补充词根、前后缀和构词形式；未确认的候选另行保存。
-- 部分英文词根含义和变体还参考词根词典、教材和学术资料，具体来源见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
-
-这些资料用于对照与核实，词形相似或出现在同一资料中并不自动证明词根关系。各来源的许可说明见 [notes/THIRD_PARTY_NOTICES.md](notes/THIRD_PARTY_NOTICES.md)。
-
-数据文件：[JSON](json/) · [CSV](csv/)。两种格式均按词根（忽略大小写）和 ID 排序，分别以 `roots-001` 至 `roots-010` 编号；每个文件最多 1,000 条，最后一份有 191 条。按编号依次读取并拼接即可还原完整数据；CSV 每份都包含表头，合并时只保留一次。
-
-JSON 保存完整字段。CSV 提供 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example` 八个常用字段；例词以 ` | ` 分隔，无例词时单元格为空。同族关联和待处理计数请使用 JSON。CSV 使用 UTF-8 BOM，字段中的逗号、引号和换行由 CSV 格式转义。
-
-## JSON 字段说明
-
-每个 JSON 分片的顶层都是数组，每个对象代表一个独立的词根写法。
+每个分片的顶层是数组，每个对象代表一条词根记录。
 
 | 字段 | 类型 | 说明 |
 | --- | --- | --- |
-| `id` | string | 当前词根条目的唯一标识，用于关联和区分同形异义条目。 |
-| `root` | string | 展示用词根写法，去掉原资料中的末尾义项编号，例如 `ped1` 显示为 `ped`。展示写法不保证唯一。 |
-| `source_form` | string | 采用的来源写法，包括 `ped1`、`ped2` 这类义项编号及原有连字符。 |
-| `meaning` | string | 英文词根含义；优先保留原资料的释义。原资料缺少含义或将不同形式的含义混在一起时，采用参考资料中适用于该条目的英文含义。 |
-| `class` | string | 类别包括 `root`、`prefix`、`suffix`、`combining_form`（构词形式）、`historical_stem`（历史词干）、`historical_form`（历史形式）、`historical_lookup`（历史关系检索形式）、`lookup_alias`（查找别名）、`word_base`（英语词基）和 `proper_name_base`（专名词基）。检索形式不一定是独立的古典语词素；来源类别与细分标记见[类别记录](notes/class-provenance.json)。 |
-| `origin` | string | 词源语言，例如 `Latin`、`Greek`。 |
-| `example` | string[] | 当前词根写法对应的去重例词或词组列表，可以为空。不同同族条目的列表允许重叠。 |
-| `family_id` | string | 词根分组的标识；同一分组的写法及确认补充的同族写法共享此值。 |
-| `related_root_ids` | string[] | 同一分组内其他词根条目的 `id`，不包含当前条目自身。 |
-| `source_entry` | string | 作为基础的来源分组名称，例如 `ped1, pedi, -pede`；补充同族写法时可能沿用该名称。 |
-| `pending_family_examples` | integer | 整理过程中记录的分组级待处理数量；该历史计数尚未全面重新核算，不能作为当前待处理总数，`0` 也不代表所有例词均已核实。 |
+| `id` | string | 条目唯一标识。 |
+| `root` | string | 用于展示的词根写法，不保证唯一。 |
+| `source_form` | string | 采用的来源写法，可能包含连字符或义项编号。 |
+| `meaning` | string | 词根的英文含义。 |
+| `class` | string | 类别，如 `root`、`prefix`、`suffix`、`combining_form`；其他值包括历史词干和检索形式。 |
+| `origin` | string | 词源或来源说明。 |
+| `example` | string[] | 对应该记录的例词或词组。 |
+| `family_id` | string | 词族分组标识。 |
+| `related_root_ids` | string[] | 同一分组中其他条目的 `id`。 |
+| `source_entry` | string | 基础来源条目或分组名称。 |
+| `pending_family_examples` | integer | 历史分组待处理计数，未全面重新核算，不能用作当前待核总数。 |
 
-关联条目时使用 `id`，不要只用 `root`。`family_id` 和 `related_root_ids` 保留分组联系，不表示组内所有写法都可以互换；仍有部分已知同族条目尚未合并分组。`example` 包含历史变体关系，不一定是现代单词中可以直接切分的字母片段；部分非字面联系及来源范围见[补充记录](notes/related-only.json)与[例词审核状态](notes/edge-audit.json)。
+CSV 包含 `id`、`root`、`source_form`、`meaning`、`class`、`origin`、`source_entry` 和 `example`。如需词族关联，请使用 JSON。
 
-## 审核状态与已知限制
+## 使用说明
 
-- [历史来源归属待核记录](notes/legacy-pending-relations.json)保留 44 条尚需调和的来源关系；其中已有其他来源独立支持的同形关系按各自词义保留。此前记录的 [67 条历史待核关系](notes/legacy-unverified-relations.json)是历史快照，不代表当前待核总数。`mob`（人群）、`fund`（资金）、`plane`（飞机）、`place` 和 `pose`（摆姿势）等英语整词词基按现有范围暂缓，相关资料见[待确认关系](notes/held-relations.json)。
+- `meaning` 描述词根含义；`example` 没有逐词标注使用了该词根的哪个含义，也不意味着该单词的所有含义都与词根相关。
+- 部分例词是有来源依据的历史同族或变体关系，不一定能按现代英语直接拆分；同一 `family_id` 下的写法也不一定可以互换。具体关系的来源与范围可查阅[例词审核状态](notes/edge-audit.json)。
+- 例词中包含专名、古词和专业词汇，使用时可根据需要筛选。数据仍可能存在错误或遗漏。
+- 未确认的具体来源关系另见[待确认关系](notes/held-relations.json)和[来源归属待核关系](notes/legacy-pending-relations.json)；同一个词在其他词义下的关系可能有独立依据。
 
-- 最近一轮复核覆盖 1,612 个独立来源范围：642 个确认收录，970 个因证据不足或不符合指定来源范围而未纳入；另有部分已收录范围中的具体子义项未纳入。详见[未收录候选](notes/unverified-candidates.json)。这些数字按来源范围统计，不等于不重复词根数；未纳入不代表已证伪，且可能与历史待核记录重叠，不能直接相加。
+## 数据来源
 
-- [词根与例词审核状态索引](notes/edge-audit.json)按词根 `id` 和例词记录审核状态，审核关系及来源分别拆分到 `notes/json/`。索引中的 `roots_sha256` 绑定按编号拼接后的完整数据快照。`supported_scoped` 表示指定词义或来源范围有依据；`historical_accept_scoped` 表示找到该范围的历史接受记录，不能视为对所有义项的保证；未列出或标记 `untraced` 表示尚未找到对应的逐条审核记录，并不等于错误。`related_pending_candidate` 是旧快照中曾有待核相关来源候选的历史标记；标记对应的快照见 `related_pending_candidate_as_of_roots_sha256`，不能单凭它判断当前待确认状态，也不自动代表当前关系有误。若同一条记录含 `later_resolution`，以后者说明为准。
-- [待确认关系](notes/held-relations.json)记录从主表暂缓的例词关系、来源范围待核记录和整体暂缓的词根，并保留原因和参考资料；暂缓不等于判定关系错误。部分关系因独立词素依据或具体构词分析不足而暂缓；最近从主表移出的具体例词另见[隔离关系](notes/isolated-example-relations.json)。未找到精确审核记录的主表关系不能视为已逐条核实。
-- 部分旧条目因缺少独立构词依据而整体暂缓；原 ID 和原因保存在[待确认关系](notes/held-relations.json)。已公开的人义 `anthr`（`r_e1ac89c7616378b0`）也已暂缓，其例词保留在已核实的 `anthrop`／`anthro` 词族中，使用旧 ID 时请查阅该记录。
-- [修正与义项记录](notes/curation-corrections.json)包含来源错误修正、历史形式和同形词的适用范围、已迁移关系以及防护义 `para` 的重复条目对应。`porter` 的搬运工与守门人义项分别连接不同词根；`airport` 的机场义连接港口义 `port`。`tel` / `tele` 的远与终点已按义项拆分：原 ID 保留其中一个义项，引用旧例词关系时应查看迁移记录。`dur`（持续义）条目的 ID 保持不变，但 `family_id` 已由 `g_0537cb15b86036a7` 更新为 `g_20c4bc6568b296dd`；保存旧词族 ID 的使用方应参考修正记录。
-- 历史词尾 `-t` 和 `-ae` 表示语法屈折，与后续部分候选的筛选口径不完全一致；现有记录仍保留，适用时请按产品规则筛选。
-- 当前没有零例词或仅含自身例词的条目（比较自身例词时忽略两端连字符及大小写）。专名、古词和不同词形可出现在例词中，需按实际产品规则筛选；不要将每个例词的所有含义都归给该词根。
+主要整理自 [ECDICT](https://github.com/skywind3000/ECDICT)、[morphemes](https://github.com/colingoldberg/morphemes)、[generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)、[engra](https://github.com/eslsoft/engra) 和 [LexiRoot](https://github.com/tcyeee/lexiroot)。
 
-词根与例词关系已按词形、词义和来源范围进一步核查；对缺少例词或仅以自身为例的条目，补充了有依据的派生词或复合词，相关记录和整理说明见 [notes](notes/README.md)。`arbitr`（`r_6fbf5d1775a07073`）和 `meninx`（`r_37795f54894ee4f3`）保留原条目 ID，其 `family_id` 分别由 `g_630dbfcf24d085d4`、`g_21ce20ea114cdb4e` 更新为 `g_992fb9109879bc3a`、`g_dd46b9e6ed0499ce`；使用旧词族 ID 的程序需要更新。
+整理时还参考了 [MorphoLex-en](https://github.com/hugomailhot/MorphoLex-en)、[MorphyNet](https://github.com/kbatsuren/MorphyNet)、[etymology-db](https://github.com/droher/etymology-db)、[Wiktionary / Kaikki.org](https://kaikki.org/dictionary/English/)、[Merriam-Webster 构词词典](https://www.spellingbee.com/sites/default/files/inline-files/Merriam-Webster%27s%20Dictionary%20of%20Prefixes%2C%20Suffixes%2C%20and%20Combining%20Forms.pdf)、[WHO 药物命名资料](https://www.who.int/teams/health-product-policy-and-standards/inn)及其他词典和学术资料。逐条来源与补充记录见 [notes](notes/README.md)。
 
-## TODO
+## 许可
 
-- [ ] 对[未收录候选](notes/unverified-candidates.json)在有新证据时继续核对；未确认不代表已证伪。
-- [ ] 后续核对[暂缓关系](notes/held-relations.json)和未找到逐条审核记录的主表关系，区分不同词义、来源范围和历史变体。
-- [ ] 检查现有条目的例词及英文 `meaning`；数据尚未全部逐词核实。按产品需要筛选专名、古词和专业词。
-- [ ] 后续发布时以 JSON 为准生成 CSV，按每份最多 1,000 条分片并核对一致性。
-
-当前为整理中的阶段性数据；主 JSON 和 CSV 的例词字段不内嵌审核状态，使用时请同时参考上述状态文件。
-
-本项目有权单独许可的原创整理贡献采用 [CC BY-NC 4.0 非商业许可](LICENSE)。上游资料及其适用的署名和相同方式共享条件不因此改变；包括 Wiktionary 和 WHO 资料在内的具体来源与许可见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。
+本项目有权单独许可的原创整理贡献采用 [CC BY-NC 4.0](LICENSE)。上游资料适用的署名、相同方式共享或其他许可条件不因此改变；各来源及其许可见[来源与许可说明](notes/THIRD_PARTY_NOTICES.md)。

@@ -1,7 +1,5 @@
-# 词根及例词补充
+# 词根与例词参考记录
 
-对已有资料中词根与例词的对应关系进行补充，保留原始英文 `meaning`，并参考 MorphoLex-en 的构词标注及来源义项。相同拼写不必然代表相同词根含义；有歧义的候选暂不导入。
+这里保存部分词根与例词关系的来源对照，参考资料包括 MorphoLex-en 的构词标注。相同拼写不一定表示相同词义。
 
-本次新增 **24 个词根条目**、**152 个去重例词**，补充 **167 条词根与例词关系**。同一个例词可对应多个词根，因此关系数与去重单词数不同。
-
-[对应关系 JSON](02-supported-additions.json) · [CSV](02-supported-additions.csv)。资料来源及许可见[来源说明](../THIRD_PARTY_NOTICES.md)。这次仅处理部分候选关系，不表示所有资料均已核实。
+历史记录见 [JSON](02-supported-additions.json) 和 [CSV](02-supported-additions.csv)；当前收录内容以[词根数据](../../json/)为准，资料来源及许可见[来源说明](../THIRD_PARTY_NOTICES.md)。
