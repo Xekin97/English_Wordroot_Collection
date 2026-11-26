@@ -1,0 +1,29 @@
+{
+  "description": "从主表移出的具体词根与例词关系；隔离不表示单词或历史词源错误，同词根其余例词不受影响。",
+  "roots_sha256": "3314884c4a2c8173d0840c53aaa68d848d6f7a04e27ca83713d790836cf76279",
+  "record_count": 2,
+  "records": [
+    {
+      "published_root_id": "r_379bce393771fe15",
+      "word": "scandal",
+      "outcome": "pending",
+      "reason": "The cited source labels scandal- as a prefix but scandal is a free-standing English noun; a source-scoped independent word-forming prefix relationship for that self-example was not established under the current corpus rule. Quarantine this exact example only; this is not a claim that its Greek etymological history is false. Preserve scandalize and all other independently supported records.",
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/scandal",
+        "https://www.etymonline.com/word/scandal",
+        "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json"
+      ]
+    },
+    {
+      "published_root_id": "r_6198f14f9f998a61",
+      "word": "dactylomancy",
+      "outcome": "pending",
+      "reason": "Dictionaries describe divination using finger rings and treat dactylomancy as a form of dactyliomancy; direct finger/toe dactylo- segmentation is not established consistently for this specific word. Quarantine this precise attribution without denying the historical connection or affecting the other finger examples.",
+      "evidence_urls": [
+        "https://m.kmle.co.kr/search.php?Page=4&Search=DA&SpecialSearch=DictDefCancerWEB",
+        "https://www.cyberlibrary.org/en/books/the-gutenberg-webster-s-unabridged-dictionary-673/chapters/384/",
+        "https://en.wiktionary.org/wiki/dactylo-"
+      ]
+    }
+  ]
+}

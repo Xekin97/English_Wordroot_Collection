@@ -1,0 +1,1052 @@
+{
+  "description": "历史来源归属尚需进一步调和的保护记录。记录按来源范围暂缓，不等于断言词源错误；其他来源独立支持的词根与例词关系可继续保留。",
+  "roots_sha256": "3314884c4a2c8173d0840c53aaa68d848d6f7a04e27ca83713d790836cf76279",
+  "record_count": 44,
+  "records": [
+    {
+      "relation_id": "e_3be81250ac0bafea15ca",
+      "root": "fund",
+      "word": "fund",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "mixed",
+      "reason": "fund: the finance sense builds on English fund; Etymonline traces fund through French fond to Latin fundus, and MW documents the noun and verb and funder. This does not make the modern finance sense identical to the existing fund = bottom target. base word or -ing form; verify full frozen senses and independent use. The pending record lists one source ID but the frozen relation has two; never resolve only its recorded partial scope.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_301fd781dfb5e88e337e",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "Source gloss is Latin bottom; the finance word is an indirect historical descendant through English fund, not direct bottom sense."
+        },
+        {
+          "source_entry_id": "s_4f6e7ddd2990f65c4bb3",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/fund.yml",
+          "recommendation": "quarantine",
+          "reason": "Self-word, ordinary inflection, or Superfund spelling/sense needs additional source-specific confirmation; do not add."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fund",
+        "https://www.merriam-webster.com/dictionary/fund",
+        "https://www.merriam-webster.com/dictionary/fundraise",
+        "https://www.merriam-webster.com/dictionary/underfund",
+        "https://www.etymonline.com/word/funding",
+        "https://www.merriam-webster.com/dictionary/unfunded"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_8ff012d35321b9d81f9f",
+      "root": "fund",
+      "word": "funding",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "mixed",
+      "reason": "funding: the finance sense builds on English fund; Etymonline traces fund through French fond to Latin fundus, and MW documents the noun and verb and funder. This does not make the modern finance sense identical to the existing fund = bottom target. base word or -ing form; verify full frozen senses and independent use. Its two sources have different existing scoped decisions (bottom related_only vs money pending), requiring mixed reconciliation.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_06c7b512c977e96c5973",
+          "source_url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+          "recommendation": "related_only",
+          "reason": "Source gloss is Latin bottom; the finance word is an indirect historical descendant through English fund, not direct bottom sense."
+        },
+        {
+          "source_entry_id": "s_4f6e7ddd2990f65c4bb3",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/fund.yml",
+          "recommendation": "quarantine",
+          "reason": "MW records funder; funding is documented as a verbal noun; MW attests fundraise, underfund, and unfunded. The source sense is finance; target eligibility follows the confirmed word-formation policy. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/fund",
+        "https://www.merriam-webster.com/dictionary/fund",
+        "https://www.merriam-webster.com/dictionary/fundraise",
+        "https://www.merriam-webster.com/dictionary/underfund",
+        "https://www.etymonline.com/word/funding",
+        "https://www.merriam-webster.com/dictionary/unfunded"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_4f9d2c3b1e1df29eb7fe",
+      "root": "luna",
+      "word": "luna",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "The source gives luna- as a prefix meaning moon, but the frozen example luna is a complete Latin form and is also homographic with an English moth name. Two sources support the moon meaning, not this unqualified self-example as a prefix; quarantine scope pending exact sense and root-eligibility review.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_d80926857517979fbd99",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/luna",
+        "https://mdc.mo.gov/discover-nature/field-guide/luna-moth"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_0e6a25c83e8487d7cc6a",
+      "root": "ment",
+      "word": "unmentioned",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "unmentioned is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_1c1c9b5a6e73f08ca8bc",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/ment.yml",
+          "recommendation": "related_only",
+          "reason": "unmentioned is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=mention",
+        "https://www.etymonline.com/word/mention",
+        "https://www.ahdictionary.com/word/indoeurop.html"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_4ab6dd63b6a02bd0f593",
+      "root": "ment",
+      "word": "aforementioned",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "aforementioned is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_1c1c9b5a6e73f08ca8bc",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/ment.yml",
+          "recommendation": "related_only",
+          "reason": "aforementioned is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=mention",
+        "https://www.etymonline.com/word/mention",
+        "https://www.ahdictionary.com/word/indoeurop.html"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_883dc5174fc6ccb60271",
+      "root": "ment",
+      "word": "mentioner",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "mentioner is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_1c1c9b5a6e73f08ca8bc",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/ment.yml",
+          "recommendation": "related_only",
+          "reason": "mentioner is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=mention",
+        "https://www.etymonline.com/word/mention",
+        "https://www.ahdictionary.com/word/indoeurop.html"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_ec820b3a751170010428",
+      "root": "ment",
+      "word": "mentionable",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "mentionable is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_1c1c9b5a6e73f08ca8bc",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/ment.yml",
+          "recommendation": "related_only",
+          "reason": "mentionable is a descendant or compound of mention, which AHD connects to Latin mentio and Etymonline traces through a root related to mens. That historical kinship does not establish direct descent from Latin mens/ment- mind. The source mind sense is therefore related_only, not a direct edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=mention",
+        "https://www.etymonline.com/word/mention",
+        "https://www.ahdictionary.com/word/indoeurop.html"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_00ed868beb7d694bb628",
+      "root": "morph",
+      "word": "morphine",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "Morphine is named after Morpheus, and Morpheus derives from Greek morphe shape. Both source cards mean form/shape; the proper-name connection is historical, not a transparent direct shape component.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_05bce469ea38e187ea8a",
+          "source_url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+          "recommendation": "related_only",
+          "reason": "Morphine is named after Morpheus, and Morpheus derives from Greek morphe shape. Both source cards mean form/shape; the proper-name connection is historical, not a transparent direct shape component."
+        },
+        {
+          "source_entry_id": "s_8e0bff0f392ec4d221a2",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "Morphine is named after Morpheus, and Morpheus derives from Greek morphe shape. Both source cards mean form/shape; the proper-name connection is historical, not a transparent direct shape component."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Morpheus",
+        "https://en.wiktionary.org/wiki/morphine"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_65aaa80de9a812c6d02b",
+      "root": "nihil",
+      "word": "nihil",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "The Latin dictionaries document nihil meaning nothing. The frozen example is the complete Latin word, whereas this source marks nihil- as a prefix and -nihil- embedded; neither reference establishes this self-example as an affixed form. Quarantine rather than infer eligibility from borrowing alone.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_8a588a09753e3f5e4bda",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/nihil",
+        "https://dcc.dickinson.edu/latin-core/nihil"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_de9ad4e39ec10be4a768",
+      "root": "note",
+      "word": "denote",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "denote traces through Latin notare/nota family. The existing note target specifically holds English note compounds; direct formation from English note is not established. Preserve the historical association without forcing an English note edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_553791d397418355277a",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "denote traces through Latin notare/nota family. The existing note target specifically holds English note compounds; direct formation from English note is not established. Preserve the historical association without forcing an English note edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/denote",
+        "https://www.etymonline.com/word/notation"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_e214bcc1fd5b6866566f",
+      "root": "note",
+      "word": "connote",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "connote traces through Latin notare/nota family. The existing note target specifically holds English note compounds; direct formation from English note is not established. Preserve the historical association without forcing an English note edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_553791d397418355277a",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "connote traces through Latin notare/nota family. The existing note target specifically holds English note compounds; direct formation from English note is not established. Preserve the historical association without forcing an English note edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://en.wiktionary.org/wiki/connote",
+        "https://www.etymonline.com/word/notation"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_e4a593b48c88ad6a29a9",
+      "root": "olig",
+      "word": "oligocene",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline explicitly gives Oligocene as oligo- few plus -cene; MW uses the capitalized geological term. The olig- source is initial as recorded, but frozen word is lowercase, while current baseline already includes Oligocene under oligo. Quarantine this specific additional edge until proper-name policy, capitalization correction, and mixed historic acceptance are reconciled.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_90e3bbea929023aaa582",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Oligocene",
+        "https://www.merriam-webster.com/dictionary/Oligocene"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_70ac24f7d330c036ed66",
+      "root": "pac",
+      "word": "compact",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "Etymonline distinguishes Latin compactus from compingere fasten in the dense sense, and compactum from compacisci agree in the agreement sense. Both sources label pac peace; common PIE ancestry does not prove a direct pac peace component.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_544814062671b0a48c8f",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "Etymonline distinguishes Latin compactus from compingere fasten in the dense sense, and compactum from compacisci agree in the agreement sense. Both sources label pac peace; common PIE ancestry does not prove a direct pac peace component."
+        },
+        {
+          "source_entry_id": "s_b543672aba12153a07c1",
+          "source_url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+          "recommendation": "related_only",
+          "reason": "Etymonline distinguishes Latin compactus from compingere fasten in the dense sense, and compactum from compacisci agree in the agreement sense. Both sources label pac peace; common PIE ancestry does not prove a direct pac peace component."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/compact",
+        "https://www.ahdictionary.com/word/search.html?q=compact"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_0ce6f496701b13beada9",
+      "root": "plac",
+      "word": "replace",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "replace belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "replace belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_324947ba0ff943ea78bd",
+      "root": "plac",
+      "word": "displaced",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "displaced is an ordinary past/participle form of a place-family verb, as documented by Etymonline; quarantine this new example under the inflection practice and retain the policy inconsistency observation without deleting old data.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "displaced is an ordinary past/participle form of a place-family verb, as documented by Etymonline; quarantine this new example under the inflection practice and retain the policy inconsistency observation without deleting old data."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/displace"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_334edfc9b4afd11b124b",
+      "root": "plane",
+      "word": "plane",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "The source has plane in the flat-surface and airplane family, but is a self-word with multiple homographs including the unrelated tree. Root participation in other formations is real; this self-example needs its exact intended sense and self-edge eligibility verified.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_c7de811c3ae91d908695",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "The source has plane in the flat-surface and airplane family, but is a self-word with multiple homographs including the unrelated tree. Root participation in other formations is real; this self-example needs its exact intended sense and self-edge eligibility verified."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/plane",
+        "https://www.dictionary.com/browse/deplane"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_39c2835f7b55ecd6a1a1",
+      "root": "plac",
+      "word": "replaceable",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "replaceable belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "replaceable belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_625c7f4c2944a0c53e22",
+      "root": "plac",
+      "word": "replacement",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "replacement belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "replacement belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_7c638861a9481080afd8",
+      "root": "plac",
+      "word": "replaced",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "replaced is an ordinary past/participle form of a place-family verb, as documented by Etymonline; quarantine this new example under the inflection practice and retain the policy inconsistency observation without deleting old data.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "replaced is an ordinary past/participle form of a place-family verb, as documented by Etymonline; quarantine this new example under the inflection practice and retain the policy inconsistency observation without deleting old data."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/displace"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_7db17e4c19e835d3165f",
+      "root": "plac",
+      "word": "misplace",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "misplace belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "misplace belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_a2970bc450d49444f14f",
+      "root": "plane",
+      "word": "deplane",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "Deplane concerns disembarkation from an airplane (MW); plane in that sense is an aircraft clipping related historically to the flat family. The existing target is plane = flat, so preserve this association as related_only until a separate aircraft word-base target and source sense are justified; do not treat the clipping as a direct flat component.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_c7de811c3ae91d908695",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "Deplane concerns disembarkation from an airplane (MW); plane in that sense is an aircraft clipping related historically to the flat family. The existing target is plane = flat, so preserve this association as related_only until a separate aircraft word-base target and source sense are justified; do not treat the clipping as a direct flat component."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/deplane",
+        "https://www.etymonline.com/word/plane"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_a4cfca3af338d0a56c38",
+      "root": "plac",
+      "word": "irreplaceable",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "irreplaceable belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "irreplaceable belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_abbbb677769530d4b8fb",
+      "root": "plac",
+      "word": "displacement",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "displacement belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "displacement belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_db863e9dcfaf2e132191",
+      "root": "plac",
+      "word": "misplacement",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "misplacement belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_49b6bf0d775d9251807e",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/plac.yml",
+          "recommendation": "quarantine",
+          "reason": "misplacement belongs to the place/location family and is independently formed through place or its documented derivative. Place derives from platea, not placare calm. The existing target plac calm is wrong; a separate place word-base target or documented plac lookup alias must be validated. Preserve the distinction between the family and the precise proposed root spelling. Formation through a whole English word alone is not sufficient to establish a curation-eligible independent morpheme; obtain independent root/affix evidence and separately confirm exact frozen form and target."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/replace",
+        "https://www.merriam-webster.com/dictionary/misplace",
+        "https://www.etymonline.com/word/place"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_dc985b28e8602d49e8fa",
+      "root": "pol",
+      "word": "indianapolis",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "The city name Indianapolis is Indiana + -polis, attested by Etymonline and MW. The source explicitly marks pol- initial but this occurrence is internal; the same source separately provides suffix -polis, and the baseline already has Indianapolis under polis. Treat frozen pol source scope as related_only while preserving the independently supported -polis city edge and uppercase name.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_83d5fe50d29738d64b6e",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "The city name Indianapolis is Indiana + -polis, attested by Etymonline and MW. The source explicitly marks pol- initial but this occurrence is internal; the same source separately provides suffix -polis, and the baseline already has Indianapolis under polis. Treat frozen pol source scope as related_only while preserving the independently supported -polis city edge and uppercase name."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/Indianapolis",
+        "https://www.merriam-webster.com/dictionary/Indianapolis"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_f8b5a13ff07322729706",
+      "root": "scandal",
+      "word": "scandal",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "eligibility whole_english_word_policy_pending: Scoped prior review: MW traces English scandal through Late Latin scandalum to Greek skandalon trap, stumbling block, offense. The modern English sense of disgrace is an historical extension, not literally a snare. Source notation marks a prefix, while the example is a free noun; do not create a root from the word.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_b391bf9e310a76d62b8f",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/scandal",
+        "https://www.etymonline.com/word/scandal"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_49c46629af9c42672262",
+      "root": "sent",
+      "word": "consenter",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "exclude",
+      "reason": "The source gloss is 存在 (exist), while consent and consenter are from consentire, sentire feel; reject that source-sense assertion. The separate preexisting sent=feel edge is already present and its independent acceptance must be reconciled, not deleted by this scope decision.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_06a63beaa31793e58b1c",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/sent.yml",
+          "recommendation": "exclude",
+          "reason": "The source gloss is 存在 (exist), while consent and consenter are from consentire, sentire feel; reject that source-sense assertion. The separate preexisting sent=feel edge is already present and its independent acceptance must be reconciled, not deleted by this scope decision."
+        }
+      ],
+      "evidence_urls": [
+        "https://ahdictionary.com/word/search.html?q=consenter",
+        "https://www.etymonline.com/word/consent"
+      ],
+      "independently_supported_targets_retained": [
+        {
+          "root_id": "r_f72c74d6805143df",
+          "meaning": "to feel, to perceive"
+        }
+      ]
+    },
+    {
+      "relation_id": "e_f970f23011ef18ab5bf3",
+      "root": "tent",
+      "word": "intentional",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "exclude",
+      "reason": "The source card says 帐篷 (shelter), whereas intentional concerns intention and Latin intendere. Exclude this source-sense assertion; the independently supported historical stretch target already contains the word and must be reconciled separately rather than deleted.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_f45f9ffa4d5d3fa3eb80",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/tent.yml",
+          "recommendation": "exclude",
+          "reason": "The source card says 帐篷 (shelter), whereas intentional concerns intention and Latin intendere. Exclude this source-sense assertion; the independently supported historical stretch target already contains the word and must be reconciled separately rather than deleted."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.ahdictionary.com/word/search.html?q=intentional",
+        "https://www.etymonline.com/word/intention"
+      ],
+      "independently_supported_targets_retained": [
+        {
+          "root_id": "r_81af32d722709ad3",
+          "meaning": "stretch"
+        }
+      ]
+    },
+    {
+      "relation_id": "e_e0b004689f8b08635331",
+      "root": "vol",
+      "word": "volitional",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "mixed_scope",
+      "reason": "Position-restricted source attribution is distinguished from the historical word-family edge already in the baseline. This is an index policy conclusion; it does not deny the historical ancestry.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_02c1ee06a57239103c76",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "s_02c1ee06a57239103c76: vol is marked -vol- (embedded), while volitional begins with vol. This source also explicitly lists the initial variant voli-; the relationship between the frozen vol decision and that variant needs validation. The other source does not carry this explicit position marker."
+        },
+        {
+          "source_entry_id": "s_0a2ab9e2f529c608eec7",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/vol.yml",
+          "recommendation": "accept",
+          "reason": "Engra source gives an unmarked vol will/wish sense; volitional begins vol and derives via volition from Latin volition-/velle. This source supports the will-family relation independently of the other source card’s position labels."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/volition",
+        "https://www.etymonline.com/word/volition"
+      ],
+      "independently_supported_targets_retained": [
+        {
+          "root_id": "r_993fa2c7dbb1b8ac",
+          "meaning": "wish, intention, will"
+        }
+      ]
+    },
+    {
+      "relation_id": "e_7199d0f1c812ef9d4183",
+      "root": "mob",
+      "word": "mob",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "The single source means crowd and the English word is a clipping from mobile, not an independent Latin move stem. The word has demonstrable derivations mobbish and mobocracy, but whether the base can be self-listed is separate from that evidence. Preserve the active quality hold for the self-edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_f5118e7e85763144e6de",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/mob.yml",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mobbish",
+        "https://www.etymonline.com/word/mob"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_3ddc1c9365aa9eaa5272",
+      "root": "mob",
+      "word": "mobbish",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "The source meaning is crowd. MW documents mob + -ish, and Etymonline documents mob + -cracy plus the historical clipping. These sources establish English word formation, but do not independently establish mob as a root or affix suitable for the chosen collection. Quarantine this source scope pending an independent morpheme-dictionary entry or equally explicit root evidence; do not map it to Latin move.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_f5118e7e85763144e6de",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/mob.yml",
+          "recommendation": "quarantine",
+          "reason": "The source meaning is crowd. MW documents mob + -ish, and Etymonline documents mob + -cracy plus the historical clipping. These sources establish English word formation, but do not independently establish mob as a root or affix suitable for the chosen collection. Quarantine this source scope pending an independent morpheme-dictionary entry or equally explicit root evidence; do not map it to Latin move."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mobbish",
+        "https://www.etymonline.com/word/mobocracy",
+        "https://www.etymonline.com/word/mob"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_a038a3bbef7ea58c3e4f",
+      "root": "mob",
+      "word": "mobocracy",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "The source meaning is crowd. MW documents mob + -ish, and Etymonline documents mob + -cracy plus the historical clipping. These sources establish English word formation, but do not independently establish mob as a root or affix suitable for the chosen collection. Quarantine this source scope pending an independent morpheme-dictionary entry or equally explicit root evidence; do not map it to Latin move.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_f5118e7e85763144e6de",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/mob.yml",
+          "recommendation": "quarantine",
+          "reason": "The source meaning is crowd. MW documents mob + -ish, and Etymonline documents mob + -cracy plus the historical clipping. These sources establish English word formation, but do not independently establish mob as a root or affix suitable for the chosen collection. Quarantine this source scope pending an independent morpheme-dictionary entry or equally explicit root evidence; do not map it to Latin move."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/mobbish",
+        "https://www.etymonline.com/word/mobocracy",
+        "https://www.etymonline.com/word/mob"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_7be43f59314233004c41",
+      "root": "-pose",
+      "word": "pose",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline documents Old French poser and Latin pausare with later influence from ponere; the puzzling/questioning sense has competing analyses. Existing put/place source does not establish every pose/poser sense as direct positus. Preserve unqualified quality hold; separate meanings before any source-specific decision.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_f52201643a74abb5b27d",
+          "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_d06f216d815223e9df12",
+      "root": "-pose",
+      "word": "poser",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline documents Old French poser and Latin pausare with later influence from ponere; the puzzling/questioning sense has competing analyses. Existing put/place source does not establish every pose/poser sense as direct positus. Preserve unqualified quality hold; separate meanings before any source-specific decision.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_f52201643a74abb5b27d",
+          "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/pose",
+        "https://www.merriam-webster.com/dictionary/pose"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_80b17853980664fcb5a4",
+      "root": "vict",
+      "word": "victim",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline calls Latin victima of uncertain origin; scholarship disputes linkage with vincere. No reliable conquer connection is established. Quarantine the alleged source-to-vict relation; do not state that uncertainty proves a particular alternate origin.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_28bde1736d19746bafa9",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_5931ef199c42aeb575ad",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/vict.yml",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_6aae1fdf2a9086cd45ec",
+          "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_99d695d913f725c32ccd",
+          "source_url": "https://raw.githubusercontent.com/WithEnglishWeCan/generated-english-roots-list/master/english.roots.list.build.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/victim",
+        "https://pure.uvt.nl/ws/files/1033774/vandijk_fletscher.pdf"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_03a796082f3374fce0a9",
+      "root": "cad",
+      "word": "cadaver",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_64889cb9e68aa508919f",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_d6076a526feace031a75",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/cad.yml",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_f19ad1fac829cc74c1a9",
+          "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/cadaver",
+        "https://www.ahdictionary.com/word/search.html?q=cadaver",
+        "https://www.etymonline.com/word/cadaver",
+        "https://wehd.com/13/Cadaver.html",
+        "https://accademiadellacrusca.it/it/consulenza/qualche-dubbio-sul-cadavere/1726"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_fb8c6485dd50949f59ca",
+      "root": "cad",
+      "word": "cadaveric",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_d6076a526feace031a75",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/cad.yml",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/cadaveric",
+        "https://www.ahdictionary.com/word/search.html?q=cadaver",
+        "https://www.etymonline.com/word/cadaver",
+        "https://wehd.com/13/Cadaver.html"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_da2811c42c9f04662160",
+      "root": "cad",
+      "word": "cadaverous",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Some authoritative dictionaries connect cadaver to cadere; others qualify the connection. Hold pending a consistent treatment of probable etymologies.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_64889cb9e68aa508919f",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_d6076a526feace031a75",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/cad.yml",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_f19ad1fac829cc74c1a9",
+          "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/cadaverous",
+        "https://wehd.com/13/Cadaverous.html",
+        "https://www.etymonline.com/word/cadaver",
+        "https://wehd.com/13/Cadaver.html"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_4389c0c96dc4bc8e7207",
+      "root": "psycho",
+      "word": "psychosis",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline traces psychosis through psyche + -osis, while earlier Collins evidence gives an alternate psycho analysis. The words belong to the psych mind family, but these references do not unambiguously establish psycho- as a separate direct component in this edge. Preserve the quality hold and the previously supported family evidence pending a lookup-alias policy decision.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_991982d0ac65a5f8ddd0",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        },
+        {
+          "source_entry_id": "s_b3642b684e38bcc88e22",
+          "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/wordroot.txt",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/psychosis",
+        "https://www.collinsdictionary.com/dictionary/english/psychosis"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_ea6faf81726778700b2e",
+      "root": "psycho",
+      "word": "psychotic",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline traces psychosis through psyche + -osis, while earlier Collins evidence gives an alternate psycho analysis. The words belong to the psych mind family, but these references do not unambiguously establish psycho- as a separate direct component in this edge. Preserve the quality hold and the previously supported family evidence pending a lookup-alias policy decision.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_991982d0ac65a5f8ddd0",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/psychosis",
+        "https://www.collinsdictionary.com/dictionary/english/psychosis"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_e52060002139e368e674",
+      "root": "psycho",
+      "word": "psychoticism",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "quarantine",
+      "reason": "Etymonline traces psychosis through psyche + -osis, while earlier Collins evidence gives an alternate psycho analysis. The words belong to the psych mind family, but these references do not unambiguously establish psycho- as a separate direct component in this edge. Preserve the quality hold and the previously supported family evidence pending a lookup-alias policy decision.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_991982d0ac65a5f8ddd0",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "quarantine",
+          "reason": "Preserve original scoped review and hold where applicable. This inventory does not claim a fresh two-domain headword and sense check for this source; exclude it from new additions until checked."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/psychosis",
+        "https://www.collinsdictionary.com/dictionary/english/psychosis"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_8363416c68dc5a510371",
+      "root": "ptero",
+      "word": "tetrapterous",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "MW and Collins support the wing family and the word ending -pterous; the source labels ptero- as a prefix while this form is internal. The same source separately records -pterous. Treat the ptero edge as related_only, retaining the valid wing family without claiming that the combining vowel is a unique independent initial component.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_937ddee259adfd17808c",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "MW and Collins support the wing family and the word ending -pterous; the source labels ptero- as a prefix while this form is internal. The same source separately records -pterous. Treat the ptero edge as related_only, retaining the valid wing family without claiming that the combining vowel is a unique independent initial component."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.merriam-webster.com/dictionary/tetrapterous",
+        "https://www.collinsdictionary.com/dictionary/english/tetrapterous"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_4d8961bae35f7d10de02",
+      "root": "fec",
+      "word": "feckless",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "Oxford and Etymonline trace feckless to Scots feck, itself a shortened form of effect; this makes fec=do/make a historical relation rather than proof that feck is the same directly functioning stem. The old quality hold currently excludes the baseline edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_bc3a05c48d8bfccf25bb",
+          "source_url": "https://raw.githubusercontent.com/colingoldberg/morphemes/master/data/morphemes.json",
+          "recommendation": "related_only",
+          "reason": "Oxford and Etymonline trace feckless to Scots feck, itself a shortened form of effect; this makes fec=do/make a historical relation rather than proof that feck is the same directly functioning stem. The old quality hold currently excludes the baseline edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/feckless",
+        "https://www.etymonline.com/word/feckless"
+      ],
+      "independently_supported_targets_retained": []
+    },
+    {
+      "relation_id": "e_345d26efeffbd8ac25a4",
+      "root": "flu",
+      "word": "flu",
+      "scope_status": "pending_source_attribution",
+      "review_recommendation": "related_only",
+      "reason": "Etymonline calls flu a shortening of influenza; CDC connects influenza historically to Latin influentia. This is historical relation to flow, not a direct Latin flu- component retained as such in the clipped disease word. The old quality hold currently excludes the baseline edge.",
+      "source_scopes": [
+        {
+          "source_entry_id": "s_41c340088a4ec08f5ffc",
+          "source_url": "https://github.com/eslsoft/engra/blob/master/dict/roots/flu.yml",
+          "recommendation": "related_only",
+          "reason": "Etymonline calls flu a shortening of influenza; CDC connects influenza historically to Latin influentia. This is historical relation to flow, not a direct Latin flu- component retained as such in the clipped disease word. The old quality hold currently excludes the baseline edge."
+        }
+      ],
+      "evidence_urls": [
+        "https://www.etymonline.com/word/flu",
+        "https://wwwnc.cdc.gov/eid/article/12/1/et-1201_article"
+      ],
+      "independently_supported_targets_retained": []
+    }
+  ]
+}

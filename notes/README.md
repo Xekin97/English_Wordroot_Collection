@@ -10,9 +10,10 @@
 
 补充记录：
 
-- [历史未确认关系](legacy-unverified-relations.json)：历史队列中 67 条原来源范围的记录；有同形或纠正目标时按词义区分。
+- [来源归属待核关系](legacy-pending-relations.json)：44 条保留保护标记的历史来源关系；有独立支持的其他词义和关系继续保留。此前的 [67 条历史记录](legacy-unverified-relations.json)是历史快照。
 
-- [未收录候选](unverified-candidates.json)：最近一轮复核中 330 条证据不足的来源范围、5 条按指定来源范围排除的记录，以及 56 条仅部分义项已确认的来源记录；不将隔离视为证伪。历史待核范围另见其他记录。
+- [未收录候选](unverified-candidates.json)：最近复核中 970 个未纳入的来源范围，以及已收录范围内另行排除的子义项；不将隔离视为证伪。来源范围可能与历史待核关系重叠。
+- [隔离的具体例词关系](isolated-example-relations.json)：从主表移出的具体词根—例词关系，同词根其他例词和独立词义不受影响。
 - [Wiktionary 逐条归属](wiktionary-attribution.json)：已接受来源义项与词根 ID、原词条及贡献者历史的对应。
 - [WHO 来源索引](who-references.json)：药物命名等条目使用的 WHO 参考文档及 2018 年词干手册的许可信息。
 

@@ -18,6 +18,12 @@
       ]
     },
     {
+      "root_id": "r_02c32c08b951692e",
+      "reference_urls": [
+        "https://publications.iarc.who.int/_publications/media/download/3776/3c115773857b0a3a2e8a3a82fe8137b89e99051c.pdf"
+      ]
+    },
+    {
       "root_id": "r_03450318f9b1eae9",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/addendum-stembook2018-202302.pdf?download=true",
@@ -40,6 +46,12 @@
       "root_id": "r_051cfc1acbaf43e3",
       "reference_urls": [
         "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_05fe8374b2520bbd",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf?download=true"
       ]
     },
     {
@@ -91,6 +103,12 @@
       ]
     },
     {
+      "root_id": "r_14d4743d577505fa",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/379226/9789240099388-eng.pdf?isAllowed=y&sequence=1"
+      ]
+    },
+    {
       "root_id": "r_19f07b39b760fc87",
       "reference_urls": [
         "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf"
@@ -112,6 +130,12 @@
       "root_id": "r_1b7d94c15bc0249e",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_1c75ad5ecb60f542",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/64455/WHO?sequence=1"
       ]
     },
     {
@@ -154,6 +178,18 @@
       "root_id": "r_276d89c862964ab1",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/medicines/norms-and-standards/guidelines/regulatory-standards/trs948-annex5.pdf"
+      ]
+    },
+    {
+      "root_id": "r_27ffe34790afb004",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf?download=true"
+      ]
+    },
+    {
+      "root_id": "r_288e870e74b129df",
+      "reference_urls": [
+        "https://applications.emro.who.int/dsaf/dsa564.pdf"
       ]
     },
     {
@@ -211,6 +247,12 @@
       ]
     },
     {
+      "root_id": "r_340aa429242a2d44",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/365543/9789240064935-eng.pdf"
+      ]
+    },
+    {
       "root_id": "r_37eac49650e607ac",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
@@ -250,6 +292,12 @@
       "root_id": "r_3dd8d329c0e0559a",
       "reference_urls": [
         "https://iris.who.int/bitstream/handle/10665/379226/9789240099388-eng.pdf?isAllowed=y&sequence=1"
+      ]
+    },
+    {
+      "root_id": "r_3e101ca7d0288a66",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
       ]
     },
     {
@@ -313,6 +361,18 @@
       ]
     },
     {
+      "root_id": "r_4e82287700b81a30",
+      "reference_urls": [
+        "https://publications.iarc.who.int/_publications/media/download/6401/73d38b0a29ca7f396c0f2331295a1dd7df1e41fb.pdf"
+      ]
+    },
+    {
+      "root_id": "r_5188a940a44fbdbe",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/379508/9789240098282-eng.pdf"
+      ]
+    },
+    {
       "root_id": "r_51cc43b47df39233",
       "reference_urls": [
         "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
@@ -327,7 +387,14 @@
     {
       "root_id": "r_535924ad4e84d72a",
       "reference_urls": [
-        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf",
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf?download=true"
+      ]
+    },
+    {
+      "root_id": "r_55119d337cbccee0",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf?download=true"
       ]
     },
     {
@@ -367,9 +434,21 @@
       ]
     },
     {
+      "root_id": "r_5d7154f49fad9f83",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/learning-pharmacology-2018.pdf?download=true"
+      ]
+    },
+    {
       "root_id": "r_5d7483d4b66832c0",
       "reference_urls": [
         "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf"
+      ]
+    },
+    {
+      "root_id": "r_5df30df5b3e3ccde",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
       ]
     },
     {
@@ -451,6 +530,12 @@
       ]
     },
     {
+      "root_id": "r_6a137bb26048bdcf",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/62903/Dictionary-of-Epilepsy-Part1-1973-eng.pdf"
+      ]
+    },
+    {
       "root_id": "r_6b2fb91ea311ee16",
       "reference_urls": [
         "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
@@ -499,6 +584,12 @@
       ]
     },
     {
+      "root_id": "r_72c0247203773967",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
+      ]
+    },
+    {
       "root_id": "r_73d31c9e2cc59b62",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
@@ -508,6 +599,12 @@
       "root_id": "r_73d97d6f85f7328e",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_751cfb5b39504df7",
+      "reference_urls": [
+        "https://applications.emro.who.int/dsaf/dsa564.pdf"
       ]
     },
     {
@@ -595,6 +692,12 @@
       ]
     },
     {
+      "root_id": "r_8242432cb12e3bd4",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf?download=true"
+      ]
+    },
+    {
       "root_id": "r_82c6fe762f2d17f8",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf?download=true"
@@ -637,6 +740,12 @@
       ]
     },
     {
+      "root_id": "r_8ec79eb509ca7c68",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf?download=true"
+      ]
+    },
+    {
       "root_id": "r_8ef3ec101d9c2098",
       "reference_urls": [
         "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
@@ -664,6 +773,12 @@
       "root_id": "r_93f1e28ac58c38db",
       "reference_urls": [
         "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf"
+      ]
+    },
+    {
+      "root_id": "r_943984bd5338d498",
+      "reference_urls": [
+        "https://applications.emro.who.int/imemrf/jcpsp/jcpsp_2008_18_6_386_387.pdf"
       ]
     },
     {
@@ -707,6 +822,12 @@
       "root_id": "r_a176ba0f7985b3bd",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_a2c54b3e2503e806",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
       ]
     },
     {
@@ -822,6 +943,30 @@
       "root_id": "r_b1b70f8a2f7cb48e",
       "reference_urls": [
         "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
+      ]
+    },
+    {
+      "root_id": "r_b20261126_a_plon_anxiety",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_b20261126_a_tide_peptide",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf?download=true"
+      ]
+    },
+    {
+      "root_id": "r_b20261126_a_vin_vinca",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_b20261126_c_rozole_imidazole",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
       ]
     },
     {
@@ -1053,6 +1198,12 @@
       ]
     },
     {
+      "root_id": "r_e7b661c642b08627",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/radicalbook2015.pdf"
+      ]
+    },
+    {
       "root_id": "r_ea1a0dea9aebdad2",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/learning-pharmacology-2018.pdf"
@@ -1182,6 +1333,78 @@
       "root_id": "r_ff89877687186e35",
       "reference_urls": [
         "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_pending20261126_b_opamine_antihypertensive",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_pending20261126_b_opamine_diuretic",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/68742/WHO_EDM_QSM_2004.5.pdf"
+      ]
+    },
+    {
+      "root_id": "r_pending20261126_b_pine_tricyclic",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_pending20261126_b_prim_antibacterial",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2013-final.pdf"
+      ]
+    },
+    {
+      "root_id": "r_pending20261126_b_stat_inhibitor",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_calci_vitamind",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2011-final.pdf?download=true"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_cort_drug_pre",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf?download=true"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_cort_drug_suf",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf?download=true"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_gli_antihyperglycemic",
+      "reference_urls": [
+        "https://cdn.who.int/media/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_oma_disease",
+      "reference_urls": [
+        "https://www.who.int/news-room/fact-sheets/detail/trachoma"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_orphan_opioid",
+      "reference_urls": [
+        "https://iris.who.int/bitstream/handle/10665/275695/WHO-EMP-RHT-TSN-2018.1-eng.pdf"
+      ]
+    },
+    {
+      "root_id": "r_rem20261125_b_vir_antiviral",
+      "reference_urls": [
+        "https://www.who.int/docs/default-source/international-nonproprietary-names-%28inn%29/stembook-2018.pdf"
       ]
     }
   ]

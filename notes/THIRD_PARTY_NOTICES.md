@@ -19,7 +19,7 @@ Copyright © 2026 新舰同学roXz（Xekin97）：本项目可受保护的原创
 
 其他辅助参考资料包括 [MorphyNet](https://github.com/kbatsuren/MorphyNet)（上游说明采用 CC BY-SA 3.0；本项目不分发其原始数据库行，参考记录仅留哈希、资源标识和人工审核范围）、[etymology-db](https://github.com/droher/etymology-db) 和 [Kaikki.org 的 Simple English Wiktionary 数据](https://kaikki.org/simplewiktionary/English/index.html)。其来源、版权和许可条件请参阅各项目的说明；Wiktionary 衍生资料之间存在来源重叠。
 
-英文 Wiktionary 数据另通过 [Kaikki.org 英语词条](https://kaikki.org/dictionary/English/)用于发现、整理和核对部分词素、英文含义和例词；本项目对来源内容进行了选择、核实和部分文字改写。最近两组候选中，892 个已接受来源义项对应 876 个词根条目，逐条来源、义项标识及贡献者历史链接见 [Wiktionary 逐条归属](wiktionary-attribution.json)。Wiktionary 文本一般采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，具体条目和第三方材料还须检查各页面的声明；适用的署名和相同方式共享条件不因本项目许可而改变。该索引记录来源范围，不表示每一条都逐字转载，也不自行判定单条释义的版权状态。
+英文 Wiktionary 数据另通过 [Kaikki.org 英语词条](https://kaikki.org/dictionary/English/)用于发现、整理和核对部分词素、英文含义和例词；本项目对来源内容进行了选择、核实和部分文字改写。已整理的来源义项与词根条目对应关系、词条及贡献者历史链接见 [Wiktionary 逐条归属](wiktionary-attribution.json)；同一词根可能对应多个来源义项。Wiktionary 文本一般采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，具体条目和第三方材料还须检查各页面的声明；适用的署名和相同方式共享条件不因本项目许可而改变。该索引记录来源范围，不表示每一条都逐字转载，也不自行判定单条释义的版权状态。
 
 部分药物命名词干参考世界卫生组织（WHO）的公开资料，相关条目和文档链接见 [WHO 来源索引](who-references.json)。其中 *The use of stems in the selection of International Nonproprietary Names (INN) for pharmaceutical substances*（Geneva: WHO; 2018，WHO/EMP/RHT/TSN/2018.1）由 WHO 标明采用 [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)；其他 WHO 文档的许可请查看其各自声明。来源索引记录参考关系，不表示 WHO 认可本项目，也不表示所有参考记录都转载原文。
 
