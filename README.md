@@ -10,7 +10,7 @@
 
 - [JSON](json/)：包含全部字段及同族关联。
 - [CSV](csv/)：包含常用字段，例词以 ` | ` 分隔；文件使用 UTF-8 BOM。
-- [单词到词根的反向索引](word-roots/)：通过单词或词组查找对应的词根 ID、英文含义和同根例词。
+- [单词到词根的反向索引](word-roots/)：通过单词或词组查找对应的词根、英文含义和同根例词。
 
 词根 JSON 和 CSV 均按词根（忽略大小写）和 `id` 排序，依次编号为 `roots-001` 至 `roots-010`。每份最多 1,000 条，最后一份包含 191 条。按编号拼接 JSON 数组即可得到完整数据；合并 CSV 时只保留一份表头。
 
@@ -33,15 +33,16 @@ for item in roots:
 
 ## 从单词查词根
 
-反向索引将每个例词或词组映射到一个词根记录列表。例如 `airport` 对应 `air` 和港口义的 `port`。一个词可以对应多个词根，也可以对应相同写法的不同义项。每条记录包含：
+反向索引将单词、词组或归并后的名称映射到词根记录列表。例如 `airport` 对应 `air` 和港口义的 `port`。一个词可以对应多个词根，也可以对应相同写法的不同义项。每条记录包含：
 
-- `id`：对应词根的 ID，可用于查询词根写法等其他字段。
+- `id`：对应词根的 ID。
+- `root`：词根写法。
 - `meaning`：该词根的英文含义。
-- `peers`：该词根的完整例词列表，包含当前查询的词。
+- `peers`：该词根的完整原始例词列表。
 
-索引按原词形精确匹配，保留大小写、空格和标点；不在例词库中的词不会自动推断词根。索引共 36 个 JSON 分片，每份最多 1,000 个词；[manifest.json](word-roots/manifest.json) 记录各分片的词数、首尾词和校验值，首尾词按 Unicode 码点排序，可用于定位分片。
+索引保留大小写、空格和标点，不在索引或变体表中的词不会自动推断词根。少数含数字的名称或表达按词形归组，例如 `1,2-didehydrobenzene` 归为 `didehydrobenzene`，`3-sphere` 和 `50-burger` 分别归为 `sphere` 和 `burger`。[word-variants.json](word-roots/word-variants.json) 保存原始名称，`peers` 仍保留词根库里的原始例词。归组不表示不同数字对应同一个对象或含义。
 
-下面根据分片范围直接查找 `phenomena`：
+索引共 36 个 JSON 分片，每份最多 1,000 个词；[manifest.json](word-roots/manifest.json) 记录各分片的词数、首尾词和校验值，首尾词按 Unicode 码点排序，可用于定位分片。下面的示例同时支持原始名称和归并后的名称：
 
 ```python
 import json
@@ -49,12 +50,15 @@ from pathlib import Path
 
 directory = Path("word-roots")
 manifest = json.loads((directory / "manifest.json").read_text(encoding="utf-8"))
-word = "phenomena"
+variants = json.loads((directory / manifest["variants_file"]["file"]).read_text(encoding="utf-8"))
+aliases = {name: key for key, names in variants.items() for name in names}
+word = "1,2-didehydrobenzene"
+key = aliases.get(word, word)
 for part in manifest["parts"]:
-    if part["first_word"] <= word <= part["last_word"]:
+    if part["first_word"] <= key <= part["last_word"]:
         words = json.loads((directory / part["file"]).read_text(encoding="utf-8"))
-        for item in words.get(word, []):
-            print(item["id"], item["meaning"], item["peers"])
+        for item in words.get(key, []):
+            print(item["id"], item["root"], item["meaning"], item["peers"])
         break
 ```
 

@@ -1,40 +1,8 @@
 {
-  "waterproofness": [
-    {
-      "id": "r_e39cee8450060e83",
-      "meaning": "water; supply or treat with water",
-      "peers": [
-        "water-cooled",
-        "water-insoluble",
-        "water-repellent",
-        "water-resistant",
-        "water-soluble",
-        "water-washed",
-        "waterborne",
-        "watercress",
-        "watered",
-        "waterless",
-        "waterlogged",
-        "waterproof",
-        "waterproofed",
-        "watertight",
-        "waterworn",
-        "watery",
-        "watery-eyed",
-        "dewater",
-        "dewatered",
-        "dewatering",
-        "water",
-        "watering",
-        "waterproofing",
-        "waterproofness",
-        "underwater"
-      ]
-    }
-  ],
   "watertight": [
     {
       "id": "r_5f6d6a7002645ac1",
+      "root": "tight",
       "meaning": "not letting the specified substance pass through",
       "peers": [
         "air-tight",
@@ -45,6 +13,7 @@
     },
     {
       "id": "r_e39cee8450060e83",
+      "root": "water",
       "meaning": "water; supply or treat with water",
       "peers": [
         "water-cooled",
@@ -78,6 +47,7 @@
   "waterway": [
     {
       "id": "r_704a9553cc09f25d",
+      "root": "way",
       "meaning": "way, route, passage; manner",
       "peers": [
         "always",
@@ -111,6 +81,7 @@
   "waterworn": [
     {
       "id": "r_4ee0fb5df74803d5",
+      "root": "-worn",
       "meaning": "worn, deteriorated or exhausted to a specified extent or by a specified cause",
       "peers": [
         "careworn",
@@ -125,6 +96,7 @@
     },
     {
       "id": "r_e39cee8450060e83",
+      "root": "water",
       "meaning": "water; supply or treat with water",
       "peers": [
         "water-cooled",
@@ -158,6 +130,7 @@
   "watery": [
     {
       "id": "r_e39cee8450060e83",
+      "root": "water",
       "meaning": "water; supply or treat with water",
       "peers": [
         "water-cooled",
@@ -191,6 +164,7 @@
   "watery-eyed": [
     {
       "id": "r_e39cee8450060e83",
+      "root": "water",
       "meaning": "water; supply or treat with water",
       "peers": [
         "water-cooled",
@@ -224,6 +198,7 @@
   "wattmeter": [
     {
       "id": "r_c134650af524e955",
+      "root": "-meter",
       "meaning": "measure",
       "peers": [
         "accelerometer",
@@ -308,6 +283,7 @@
   "wave": [
     {
       "id": "r_b044dcbfe517b0fe",
+      "root": "wave",
       "meaning": "an undulating ridge or moving swell",
       "peers": [
         "wave",
@@ -319,6 +295,7 @@
   "waveform": [
     {
       "id": "r_7cbebcc8fd2ae037",
+      "root": "form",
       "meaning": "shape, form",
       "peers": [
         "aliform",
@@ -444,6 +421,7 @@
   "wavelet": [
     {
       "id": "r_b044dcbfe517b0fe",
+      "root": "wave",
       "meaning": "an undulating ridge or moving swell",
       "peers": [
         "wave",
@@ -455,6 +433,7 @@
   "wavelike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -645,6 +624,7 @@
   "waver": [
     {
       "id": "r_3ed196775144c297",
+      "root": "waver",
       "meaning": "to waver, fluctuate, be indecisive",
       "peers": [
         "unwavering",
@@ -656,6 +636,7 @@
   "wax": [
     {
       "id": "r_f98d3ebcacb66816",
+      "root": "wax",
       "meaning": "wax; material like beeswax; coat with wax",
       "peers": [
         "waxy",
@@ -669,6 +650,7 @@
   "waxed": [
     {
       "id": "r_f98d3ebcacb66816",
+      "root": "wax",
       "meaning": "wax; material like beeswax; coat with wax",
       "peers": [
         "waxy",
@@ -682,6 +664,7 @@
   "waxen": [
     {
       "id": "r_f98d3ebcacb66816",
+      "root": "wax",
       "meaning": "wax; material like beeswax; coat with wax",
       "peers": [
         "waxy",
@@ -695,6 +678,7 @@
   "waxing": [
     {
       "id": "r_f98d3ebcacb66816",
+      "root": "wax",
       "meaning": "wax; material like beeswax; coat with wax",
       "peers": [
         "waxy",
@@ -708,6 +692,7 @@
   "waxlike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -898,6 +883,7 @@
   "waxy": [
     {
       "id": "r_f98d3ebcacb66816",
+      "root": "wax",
       "meaning": "wax; material like beeswax; coat with wax",
       "peers": [
         "waxy",
@@ -911,6 +897,7 @@
   "way": [
     {
       "id": "r_704a9553cc09f25d",
+      "root": "way",
       "meaning": "way, route, passage; manner",
       "peers": [
         "always",
@@ -944,6 +931,7 @@
   "wayfarer": [
     {
       "id": "r_bb2bf1c771eb49ed",
+      "root": "fare",
       "meaning": "travel; journey, activity; condition; price of passage",
       "peers": [
         "airfare",
@@ -961,6 +949,7 @@
   "weak": [
     {
       "id": "r_c0daf716b1ed5873",
+      "root": "weak",
       "meaning": "lacking strength; make or become less strong",
       "peers": [
         "weak",
@@ -974,6 +963,7 @@
   "weaken": [
     {
       "id": "r_5a7e9353933f0068",
+      "root": "-en",
       "meaning": "to cause to be or become or have",
       "peers": [
         "bedizen",
@@ -1024,6 +1014,7 @@
     },
     {
       "id": "r_c0daf716b1ed5873",
+      "root": "weak",
       "meaning": "lacking strength; make or become less strong",
       "peers": [
         "weak",
@@ -1037,6 +1028,7 @@
   "weakening": [
     {
       "id": "r_c0daf716b1ed5873",
+      "root": "weak",
       "meaning": "lacking strength; make or become less strong",
       "peers": [
         "weak",
@@ -1050,6 +1042,7 @@
   "weakly": [
     {
       "id": "r_c0daf716b1ed5873",
+      "root": "weak",
       "meaning": "lacking strength; make or become less strong",
       "peers": [
         "weak",
@@ -1061,6 +1054,7 @@
     },
     {
       "id": "r_e87e5c07dddcb6d7",
+      "root": "-ly",
       "meaning": "in such a way or manner",
       "peers": [
         "actively",
@@ -1477,6 +1471,7 @@
   "weakness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -1772,6 +1767,7 @@
     },
     {
       "id": "r_c0daf716b1ed5873",
+      "root": "weak",
       "meaning": "lacking strength; make or become less strong",
       "peers": [
         "weak",
@@ -1785,6 +1781,7 @@
   "wealthy": [
     {
       "id": "r_eefd98c998cc841a",
+      "root": "wealth",
       "meaning": "abundance of possessions",
       "peers": [
         "wealthy"
@@ -1794,6 +1791,7 @@
   "weapon": [
     {
       "id": "r_c928176571456b08",
+      "root": "weapon",
       "meaning": "instrument used in fighting or defense",
       "peers": [
         "weapon",
@@ -1808,6 +1806,7 @@
   "weaponization": [
     {
       "id": "r_c928176571456b08",
+      "root": "weapon",
       "meaning": "instrument used in fighting or defense",
       "peers": [
         "weapon",
@@ -1822,6 +1821,7 @@
   "weaponize": [
     {
       "id": "r_c928176571456b08",
+      "root": "weapon",
       "meaning": "instrument used in fighting or defense",
       "peers": [
         "weapon",
@@ -1836,6 +1836,7 @@
   "weaponized": [
     {
       "id": "r_c928176571456b08",
+      "root": "weapon",
       "meaning": "instrument used in fighting or defense",
       "peers": [
         "weapon",
@@ -1850,6 +1851,7 @@
   "weaponless": [
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -2000,6 +2002,7 @@
     },
     {
       "id": "r_c928176571456b08",
+      "root": "weapon",
       "meaning": "instrument used in fighting or defense",
       "peers": [
         "weapon",
@@ -2014,6 +2017,7 @@
   "weaponry": [
     {
       "id": "r_c928176571456b08",
+      "root": "weapon",
       "meaning": "instrument used in fighting or defense",
       "peers": [
         "weapon",
@@ -2028,6 +2032,7 @@
   "wear": [
     {
       "id": "r_72e22f4ae70e9955",
+      "root": "wear",
       "meaning": "have clothing on; consume or deteriorate through use",
       "peers": [
         "wear",
@@ -2040,6 +2045,7 @@
   "wearable": [
     {
       "id": "r_72e22f4ae70e9955",
+      "root": "wear",
       "meaning": "have clothing on; consume or deteriorate through use",
       "peers": [
         "wear",
@@ -2052,6 +2058,7 @@
   "wearer": [
     {
       "id": "r_3d066a6c1d03a643",
+      "root": "-er",
       "meaning": "a person or thing that does",
       "peers": [
         "baker",
@@ -2272,6 +2279,7 @@
     },
     {
       "id": "r_72e22f4ae70e9955",
+      "root": "wear",
       "meaning": "have clothing on; consume or deteriorate through use",
       "peers": [
         "wear",
@@ -2284,6 +2292,7 @@
   "wearily": [
     {
       "id": "r_5444380b6f3816b6",
+      "root": "weary",
       "meaning": "tired; make tired",
       "peers": [
         "wearying",
@@ -2296,6 +2305,7 @@
   "weariness": [
     {
       "id": "r_5444380b6f3816b6",
+      "root": "weary",
       "meaning": "tired; make tired",
       "peers": [
         "wearying",
@@ -2308,6 +2318,7 @@
   "wearing": [
     {
       "id": "r_72e22f4ae70e9955",
+      "root": "wear",
       "meaning": "have clothing on; consume or deteriorate through use",
       "peers": [
         "wear",
@@ -2320,6 +2331,7 @@
   "wearisome": [
     {
       "id": "r_5444380b6f3816b6",
+      "root": "weary",
       "meaning": "tired; make tired",
       "peers": [
         "wearying",
@@ -2332,6 +2344,7 @@
   "wearying": [
     {
       "id": "r_5444380b6f3816b6",
+      "root": "weary",
       "meaning": "tired; make tired",
       "peers": [
         "wearying",
@@ -2344,6 +2357,7 @@
   "weather": [
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2360,6 +2374,7 @@
   "weather-beaten": [
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2376,6 +2391,7 @@
   "weather-bound": [
     {
       "id": "r_5e5c4ed2a8a0ec86",
+      "root": "-bound",
       "meaning": "bound, confined",
       "peers": [
         "rockbound",
@@ -2400,6 +2416,7 @@
     },
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2416,6 +2433,7 @@
   "weather-stripped": [
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2432,6 +2450,7 @@
   "weather-wise": [
     {
       "id": "r_21ac070e74556424",
+      "root": "-wise",
       "meaning": "in the matter of; with regard to",
       "peers": [
         "weather-wise"
@@ -2441,6 +2460,7 @@
   "weathered": [
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2457,6 +2477,7 @@
   "weatherman": [
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2473,6 +2494,7 @@
   "weatherproof": [
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2489,6 +2511,7 @@
   "weatherworn": [
     {
       "id": "r_4ee0fb5df74803d5",
+      "root": "-worn",
       "meaning": "worn, deteriorated or exhausted to a specified extent or by a specified cause",
       "peers": [
         "careworn",
@@ -2503,6 +2526,7 @@
     },
     {
       "id": "r_afffc6797c270bfc",
+      "root": "weather",
       "meaning": "atmospheric conditions; expose to the elements",
       "peers": [
         "weather-beaten",
@@ -2519,6 +2543,7 @@
   "weaver": [
     {
       "id": "r_412c69829990f4a2",
+      "root": "weave",
       "meaning": "interlace threads; interlace or combine",
       "peers": [
         "interweave",
@@ -2535,6 +2560,7 @@
   "weaving": [
     {
       "id": "r_412c69829990f4a2",
+      "root": "weave",
       "meaning": "interlace threads; interlace or combine",
       "peers": [
         "interweave",
@@ -2551,6 +2577,7 @@
   "web": [
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2569,6 +2596,7 @@
   "webcam": [
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2587,6 +2615,7 @@
   "webcast": [
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2605,6 +2634,7 @@
   "weblike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -2795,6 +2825,7 @@
   "weblog": [
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2813,6 +2844,7 @@
   "webmaster": [
     {
       "id": "r_622b3e6e3f4fb2f7",
+      "root": "master",
       "meaning": "master; skilled person; chief; have command or mastery",
       "peers": [
         "choirmaster",
@@ -2840,6 +2872,7 @@
     },
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2858,6 +2891,7 @@
   "webmeister": [
     {
       "id": "r_52ea499f0b5c6ec9",
+      "root": "-meister",
       "meaning": "person regarded as skilled or prominent in a specified activity",
       "peers": [
         "schlockmeister",
@@ -2870,6 +2904,7 @@
   "webpage": [
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2888,6 +2923,7 @@
   "website": [
     {
       "id": "r_1439340c4d6286e3",
+      "root": "site",
       "meaning": "a place or location; to locate at a place",
       "peers": [
         "homesite",
@@ -2899,6 +2935,7 @@
     },
     {
       "id": "r_c7a96bf855ffa462",
+      "root": "web",
       "meaning": "woven network; interconnected system; World Wide Web",
       "peers": [
         "cobweb",
@@ -2917,6 +2954,7 @@
   "wed": [
     {
       "id": "r_0ffa697beffb94ac",
+      "root": "wed",
       "meaning": "marry; pledge",
       "peers": [
         "unwed",
@@ -2930,6 +2968,7 @@
   "wedded": [
     {
       "id": "r_0ffa697beffb94ac",
+      "root": "wed",
       "meaning": "marry; pledge",
       "peers": [
         "unwed",
@@ -2943,6 +2982,7 @@
   "wedding": [
     {
       "id": "r_0ffa697beffb94ac",
+      "root": "wed",
       "meaning": "marry; pledge",
       "peers": [
         "unwed",
@@ -2956,6 +2996,7 @@
   "wedlock": [
     {
       "id": "r_0ffa697beffb94ac",
+      "root": "wed",
       "meaning": "marry; pledge",
       "peers": [
         "unwed",
@@ -2967,6 +3008,7 @@
     },
     {
       "id": "r_rem20261125_b_lock_action",
+      "root": "-lock",
       "meaning": "action, proceeding, or practice",
       "peers": [
         "wedlock"
@@ -2976,6 +3018,7 @@
   "wednesday": [
     {
       "id": "r_b2b2ac2b109ae82e",
+      "root": "day",
       "meaning": "a day; the interval of daylight or 24 hours",
       "peers": [
         "friday",
@@ -3001,6 +3044,7 @@
   "weed": [
     {
       "id": "r_00760c28b5bb0b0f",
+      "root": "weed",
       "meaning": "wild or unwanted plant; remove weeds",
       "peers": [
         "seaweed",
@@ -3014,6 +3058,7 @@
   "weeding": [
     {
       "id": "r_00760c28b5bb0b0f",
+      "root": "weed",
       "meaning": "wild or unwanted plant; remove weeds",
       "peers": [
         "seaweed",
@@ -3027,6 +3072,7 @@
   "weedless": [
     {
       "id": "r_00760c28b5bb0b0f",
+      "root": "weed",
       "meaning": "wild or unwanted plant; remove weeds",
       "peers": [
         "seaweed",
@@ -3040,6 +3086,7 @@
   "weedy": [
     {
       "id": "r_00760c28b5bb0b0f",
+      "root": "weed",
       "meaning": "wild or unwanted plant; remove weeds",
       "peers": [
         "seaweed",
@@ -3053,6 +3100,7 @@
   "week": [
     {
       "id": "r_89165b5e2094e94e",
+      "root": "week",
       "meaning": "a period of seven days",
       "peers": [
         "biweekly",
@@ -3069,6 +3117,7 @@
   "weekday": [
     {
       "id": "r_b2b2ac2b109ae82e",
+      "root": "day",
       "meaning": "a day; the interval of daylight or 24 hours",
       "peers": [
         "friday",
@@ -3094,6 +3143,7 @@
   "weekend": [
     {
       "id": "r_89165b5e2094e94e",
+      "root": "week",
       "meaning": "a period of seven days",
       "peers": [
         "biweekly",
@@ -3110,6 +3160,7 @@
   "weekender": [
     {
       "id": "r_89165b5e2094e94e",
+      "root": "week",
       "meaning": "a period of seven days",
       "peers": [
         "biweekly",
@@ -3126,6 +3177,7 @@
   "weekly": [
     {
       "id": "r_89165b5e2094e94e",
+      "root": "week",
       "meaning": "a period of seven days",
       "peers": [
         "biweekly",
@@ -3142,6 +3194,7 @@
   "weeknight": [
     {
       "id": "r_89165b5e2094e94e",
+      "root": "week",
       "meaning": "a period of seven days",
       "peers": [
         "biweekly",
@@ -3158,6 +3211,7 @@
   "weep": [
     {
       "id": "r_af75538b04ef5618",
+      "root": "weep",
       "meaning": "cry, shed tears; mourn",
       "peers": [
         "weep",
@@ -3171,6 +3225,7 @@
   "weeper": [
     {
       "id": "r_af75538b04ef5618",
+      "root": "weep",
       "meaning": "cry, shed tears; mourn",
       "peers": [
         "weep",
@@ -3184,6 +3239,7 @@
   "weeping": [
     {
       "id": "r_af75538b04ef5618",
+      "root": "weep",
       "meaning": "cry, shed tears; mourn",
       "peers": [
         "weep",
@@ -3197,6 +3253,7 @@
   "weepy": [
     {
       "id": "r_af75538b04ef5618",
+      "root": "weep",
       "meaning": "cry, shed tears; mourn",
       "peers": [
         "weep",
@@ -3210,6 +3267,7 @@
   "weigh": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3232,6 +3290,7 @@
   "weighable": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3254,6 +3313,7 @@
   "weighbridge": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3276,6 +3336,7 @@
   "weigher": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3298,6 +3359,7 @@
   "weighing": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3320,6 +3382,7 @@
   "weight": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3342,6 +3405,7 @@
   "weighted": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3364,6 +3428,7 @@
   "weighting": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3386,6 +3451,7 @@
   "weightless": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3406,6 +3472,7 @@
     },
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -3558,6 +3625,7 @@
   "weightlessness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -3853,6 +3921,7 @@
     },
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3875,6 +3944,7 @@
   "weighty": [
     {
       "id": "r_b4e99c18cbc174fc",
+      "root": "weigh",
       "meaning": "measure or have weight; consider",
       "peers": [
         "overweight",
@@ -3897,6 +3967,7 @@
   "weird": [
     {
       "id": "r_fb16f10c92de7827",
+      "root": "weird",
       "meaning": "fate, destiny; uncanny, strange",
       "peers": [
         "weird",
@@ -3909,6 +3980,7 @@
   "weirdly": [
     {
       "id": "r_e87e5c07dddcb6d7",
+      "root": "-ly",
       "meaning": "in such a way or manner",
       "peers": [
         "actively",
@@ -4323,6 +4395,7 @@
     },
     {
       "id": "r_fb16f10c92de7827",
+      "root": "weird",
       "meaning": "fate, destiny; uncanny, strange",
       "peers": [
         "weird",
@@ -4335,6 +4408,7 @@
   "weirdness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -4630,6 +4704,7 @@
     },
     {
       "id": "r_fb16f10c92de7827",
+      "root": "weird",
       "meaning": "fate, destiny; uncanny, strange",
       "peers": [
         "weird",
@@ -4642,6 +4717,7 @@
   "weirdo": [
     {
       "id": "r_bnew20261125_o_colloquial",
+      "root": "-o",
       "meaning": "forms a familiar or colloquial noun",
       "peers": [
         "kiddo",
@@ -4652,6 +4728,7 @@
     },
     {
       "id": "r_fb16f10c92de7827",
+      "root": "weird",
       "meaning": "fate, destiny; uncanny, strange",
       "peers": [
         "weird",
@@ -4664,6 +4741,7 @@
   "welcome": [
     {
       "id": "r_7d8c2e1e17c6de97",
+      "root": "come",
       "meaning": "come, arrive or approach",
       "peers": [
         "newcomer",
@@ -4690,6 +4768,7 @@
   "welfare": [
     {
       "id": "r_bb2bf1c771eb49ed",
+      "root": "fare",
       "meaning": "travel; journey, activity; condition; price of passage",
       "peers": [
         "airfare",
@@ -4707,6 +4786,7 @@
   "well": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -4743,6 +4823,7 @@
   "well-adjusted": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -4781,6 +4862,7 @@
   "well-advised": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -4819,6 +4901,7 @@
   "well-appointed": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -4857,6 +4940,7 @@
   "well-balanced": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -4895,6 +4979,7 @@
   "well-behaved": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -4933,6 +5018,7 @@
   "well-bound": [
     {
       "id": "r_5e5c4ed2a8a0ec86",
+      "root": "-bound",
       "meaning": "bound, confined",
       "peers": [
         "rockbound",
@@ -4957,6 +5043,7 @@
     },
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -4995,6 +5082,7 @@
   "well-bred": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -5033,6 +5121,7 @@
   "well-chosen": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -5071,6 +5160,7 @@
   "well-conducted": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -5109,6 +5199,7 @@
   "well-connected": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5145,6 +5236,7 @@
   "well-defined": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5181,6 +5273,7 @@
   "well-disposed": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5217,6 +5310,7 @@
   "well-done": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5253,6 +5347,7 @@
   "well-educated": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5289,6 +5384,7 @@
   "well-endowed": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5325,6 +5421,7 @@
   "well-favored": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5361,6 +5458,7 @@
   "well-favoured": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5397,6 +5495,7 @@
   "well-fed": [
     {
       "id": "r_9f82a23b03ac28e5",
+      "root": "fed",
       "meaning": "fed, nourished",
       "peers": [
         "breastfed",
@@ -5405,6 +5504,7 @@
     },
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5441,6 +5541,7 @@
   "well-fixed": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5477,6 +5578,7 @@
   "well-formed": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5513,6 +5615,7 @@
   "well-found": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5549,6 +5652,7 @@
   "well-founded": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5585,6 +5689,7 @@
   "well-grooved": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5621,6 +5726,7 @@
   "well-grounded": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5657,6 +5763,7 @@
   "well-heeled": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5693,6 +5800,7 @@
   "well-informed": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5729,6 +5837,7 @@
   "well-intentioned": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5765,6 +5874,7 @@
   "well-kept": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5801,6 +5911,7 @@
   "well-knit": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5835,6 +5946,7 @@
     },
     {
       "id": "r_d65e60f248ff4ee7",
+      "root": "knit",
       "meaning": "knit; join together",
       "peers": [
         "knit",
@@ -5852,6 +5964,7 @@
   "well-lighted": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5888,6 +6001,7 @@
   "well-lined": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5924,6 +6038,7 @@
   "well-made": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5960,6 +6075,7 @@
   "well-mannered": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -5996,6 +6112,7 @@
   "well-marked": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -6032,6 +6149,7 @@
   "well-meaning": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6070,6 +6188,7 @@
   "well-meant": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6108,6 +6227,7 @@
   "well-mined": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6146,6 +6266,7 @@
   "well-nourished": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6184,6 +6305,7 @@
   "well-off": [
     {
       "id": "r_30ae9254f802414e",
+      "root": "off",
       "meaning": "away, apart; departing from normal",
       "peers": [
         "far-off",
@@ -6197,6 +6319,7 @@
     },
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6235,6 +6358,7 @@
   "well-ordered": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6273,6 +6397,7 @@
   "well-preserved": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6311,6 +6436,7 @@
   "well-proportioned": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6349,6 +6475,7 @@
   "well-qualified": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6387,6 +6514,7 @@
   "well-read": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6425,6 +6553,7 @@
   "well-rounded": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6463,6 +6592,7 @@
   "well-set": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6501,6 +6631,7 @@
   "well-shaven": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6539,6 +6670,7 @@
   "well-situated": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6577,6 +6709,7 @@
   "well-spoken": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6615,6 +6748,7 @@
   "well-thought-of": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6653,6 +6787,7 @@
   "well-to-do": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6691,6 +6826,7 @@
   "well-tried": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6729,6 +6865,7 @@
   "well-turned": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6767,6 +6904,7 @@
   "well-worn": [
     {
       "id": "r_4ee0fb5df74803d5",
+      "root": "-worn",
       "meaning": "worn, deteriorated or exhausted to a specified extent or by a specified cause",
       "peers": [
         "careworn",
@@ -6781,6 +6919,7 @@
     },
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6819,6 +6958,7 @@
   "wellborn": [
     {
       "id": "r_974aa2166e148d21",
+      "root": "well-",
       "meaning": "well, good, appropriate",
       "peers": [
         "well-behaved",
@@ -6857,6 +6997,7 @@
   "wellness": [
     {
       "id": "r_c0246178a324fe01",
+      "root": "well",
       "meaning": "in a good, appropriate, or satisfactory manner; healthy or satisfactory",
       "peers": [
         "well-connected",
@@ -6893,6 +7034,7 @@
   "wept": [
     {
       "id": "r_af75538b04ef5618",
+      "root": "weep",
       "meaning": "cry, shed tears; mourn",
       "peers": [
         "weep",
@@ -6906,6 +7048,7 @@
   "werebear": [
     {
       "id": "r_c40772999c8aa4bd",
+      "root": "were",
       "meaning": "human who changes into the specified animal",
       "peers": [
         "werebear"
@@ -6915,6 +7058,7 @@
   "west": [
     {
       "id": "r_133e2260781793b9",
+      "root": "west",
       "meaning": "west; toward or situated in the west",
       "peers": [
         "midwest",
@@ -6931,6 +7075,7 @@
   "westaboo": [
     {
       "id": "r_35d6f2a855fc75c5",
+      "root": "-aboo",
       "meaning": "person with an intense or unhealthy fixation on a specified subject",
       "peers": [
         "westaboo"
@@ -6940,6 +7085,7 @@
   "westbound": [
     {
       "id": "r_4ddb33ae881b6c61",
+      "root": "west-",
       "meaning": "west; toward or situated in the west",
       "peers": [
         "westbound",
@@ -6949,6 +7095,7 @@
     },
     {
       "id": "r_d1ddb9d3067911a0",
+      "root": "-bound",
       "meaning": "headed",
       "peers": [
         "southbound",
@@ -6969,6 +7116,7 @@
   "westerly": [
     {
       "id": "r_4ddb33ae881b6c61",
+      "root": "west-",
       "meaning": "west; toward or situated in the west",
       "peers": [
         "westbound",
@@ -6978,6 +7126,7 @@
     },
     {
       "id": "r_ebfa46fc09af85e7",
+      "root": "-erly",
       "meaning": "direction",
       "peers": [
         "easterly",
@@ -6989,6 +7138,7 @@
   "western": [
     {
       "id": "r_133e2260781793b9",
+      "root": "west",
       "meaning": "west; toward or situated in the west",
       "peers": [
         "midwest",
@@ -7003,6 +7153,7 @@
     },
     {
       "id": "r_456825b6c08d5dbe",
+      "root": "-ern",
       "meaning": "direction",
       "peers": [
         "eastern",
@@ -7014,6 +7165,7 @@
   "westmost": [
     {
       "id": "r_4ddb33ae881b6c61",
+      "root": "west-",
       "meaning": "west; toward or situated in the west",
       "peers": [
         "westbound",
@@ -7025,6 +7177,7 @@
   "wet": [
     {
       "id": "r_a847fa57bd48f5d0",
+      "root": "wet",
       "meaning": "covered or saturated with water; make wet",
       "peers": [
         "wet",
@@ -7038,6 +7191,7 @@
   "wetly": [
     {
       "id": "r_a847fa57bd48f5d0",
+      "root": "wet",
       "meaning": "covered or saturated with water; make wet",
       "peers": [
         "wet",
@@ -7051,6 +7205,7 @@
   "wetness": [
     {
       "id": "r_a847fa57bd48f5d0",
+      "root": "wet",
       "meaning": "covered or saturated with water; make wet",
       "peers": [
         "wet",
@@ -7064,6 +7219,7 @@
   "wetsuit": [
     {
       "id": "r_663c361aed8ddf75",
+      "root": "suit",
       "meaning": "a matched set of clothing; a legal proceeding",
       "peers": [
         "jumpsuit",
@@ -7087,6 +7243,7 @@
     },
     {
       "id": "r_8d1e583b59efc270",
+      "root": "su",
       "meaning": "follow, pursue; seek or bring legal proceedings",
       "peers": [
         "ensue",
@@ -7124,6 +7281,7 @@
   "wetted": [
     {
       "id": "r_a847fa57bd48f5d0",
+      "root": "wet",
       "meaning": "covered or saturated with water; make wet",
       "peers": [
         "wet",
@@ -7137,6 +7295,7 @@
   "wetting": [
     {
       "id": "r_a847fa57bd48f5d0",
+      "root": "wet",
       "meaning": "covered or saturated with water; make wet",
       "peers": [
         "wet",
@@ -7150,6 +7309,7 @@
   "wheel": [
     {
       "id": "r_87084db91040528a",
+      "root": "wheel",
       "meaning": "wheel; move on or as if on wheels",
       "peers": [
         "wheel",
@@ -7161,6 +7321,7 @@
   "wheelchair": [
     {
       "id": "r_643bdd9a599e9068",
+      "root": "chair",
       "meaning": "chair, a seat; chairperson",
       "peers": [
         "chairwoman",
@@ -7175,6 +7336,7 @@
   "wheeled": [
     {
       "id": "r_87084db91040528a",
+      "root": "wheel",
       "meaning": "wheel; move on or as if on wheels",
       "peers": [
         "wheel",
@@ -7186,6 +7348,7 @@
   "wheeling": [
     {
       "id": "r_87084db91040528a",
+      "root": "wheel",
       "meaning": "wheel; move on or as if on wheels",
       "peers": [
         "wheel",
@@ -7197,6 +7360,7 @@
   "where": [
     {
       "id": "r_7804eae712e93a8e",
+      "root": "where",
       "meaning": "in or to what place; at or in which situation",
       "peers": [
         "anywhere",
@@ -7213,6 +7377,7 @@
   "whereas": [
     {
       "id": "r_7804eae712e93a8e",
+      "root": "where",
       "meaning": "in or to what place; at or in which situation",
       "peers": [
         "anywhere",
@@ -7229,6 +7394,7 @@
   "whereof": [
     {
       "id": "r_1c00494f75fd0584",
+      "root": "where-",
       "meaning": "which, what, or whom in compounds with prepositions",
       "peers": [
         "whereof"
@@ -7238,6 +7404,7 @@
   "wherever": [
     {
       "id": "r_7804eae712e93a8e",
+      "root": "where",
       "meaning": "in or to what place; at or in which situation",
       "peers": [
         "anywhere",
@@ -7254,6 +7421,7 @@
   "whiplike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -7444,6 +7612,7 @@
   "whirlpool": [
     {
       "id": "r_9802edf6fefa0653",
+      "root": "pool",
       "meaning": "pool or accumulation of water; form a pool",
       "peers": [
         "whirlpool",
@@ -7455,6 +7624,7 @@
   "whispered": [
     {
       "id": "r_6d220fd40763bfc9",
+      "root": "whisper",
       "meaning": "speak very softly; a softly spoken utterance",
       "peers": [
         "whispered",
@@ -7467,6 +7637,7 @@
   "whisperer": [
     {
       "id": "r_6d220fd40763bfc9",
+      "root": "whisper",
       "meaning": "speak very softly; a softly spoken utterance",
       "peers": [
         "whispered",
@@ -7479,6 +7650,7 @@
   "whispering": [
     {
       "id": "r_6d220fd40763bfc9",
+      "root": "whisper",
       "meaning": "speak very softly; a softly spoken utterance",
       "peers": [
         "whispered",
@@ -7491,6 +7663,7 @@
   "whispery": [
     {
       "id": "r_6d220fd40763bfc9",
+      "root": "whisper",
       "meaning": "speak very softly; a softly spoken utterance",
       "peers": [
         "whispered",
@@ -7503,6 +7676,7 @@
   "whistler": [
     {
       "id": "r_77c0f598649a7802",
+      "root": "whistle",
       "meaning": "make a high clear sound by blowing; a device making that sound",
       "peers": [
         "whistler",
@@ -7513,6 +7687,7 @@
   "whistling": [
     {
       "id": "r_77c0f598649a7802",
+      "root": "whistle",
       "meaning": "make a high clear sound by blowing; a device making that sound",
       "peers": [
         "whistler",
@@ -7523,6 +7698,7 @@
   "white": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7546,6 +7722,7 @@
   "white-collar": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7569,6 +7746,7 @@
   "white-haired": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7592,6 +7770,7 @@
   "white-hot": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7613,6 +7792,7 @@
     },
     {
       "id": "r_ef85164417b7d299",
+      "root": "-hot",
       "meaning": "hot; hot in final position of compounds",
       "peers": [
         "baking-hot",
@@ -7624,6 +7804,7 @@
   "white-lipped": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7647,6 +7828,7 @@
   "white-livered": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7670,6 +7852,7 @@
   "white-pink": [
     {
       "id": "r_1c22d0c58d045fcb",
+      "root": "pink",
       "meaning": "the color pink; to become or make pink",
       "peers": [
         "magenta-pink",
@@ -7694,6 +7877,7 @@
     },
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7717,6 +7901,7 @@
   "white-tie": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7740,6 +7925,7 @@
   "whitecap": [
     {
       "id": "r_db0dcd701f974b6f",
+      "root": "cap",
       "meaning": "a head covering; a covering or top; to cover or put a cap on",
       "peers": [
         "capful",
@@ -7777,6 +7963,7 @@
   "whitely": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7800,6 +7987,7 @@
   "whiten": [
     {
       "id": "r_5a7e9353933f0068",
+      "root": "-en",
       "meaning": "to cause to be or become or have",
       "peers": [
         "bedizen",
@@ -7850,6 +8038,7 @@
     },
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7873,6 +8062,7 @@
   "whitened": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7896,6 +8086,7 @@
   "whitener": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7919,6 +8110,7 @@
   "whiteness": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7942,6 +8134,7 @@
   "whitening": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7965,6 +8158,7 @@
   "whitewashed": [
     {
       "id": "r_cad5915176b1a076",
+      "root": "white",
       "meaning": "white in color; make or become white",
       "peers": [
         "white-collar",
@@ -7988,6 +8182,7 @@
   "whiting": [
     {
       "id": "r_ca27d2210df836df",
+      "root": "-ing",
       "meaning": "person or thing of a specified kind, origin or descent",
       "peers": [
         "atheling",
@@ -7998,6 +8193,7 @@
   "whitish": [
     {
       "id": "r_385893b20dadba39",
+      "root": "-ish",
       "meaning": "of, resembling; somewhat",
       "peers": [
         "amateurish",
@@ -8059,6 +8255,7 @@
   "whoever": [
     {
       "id": "r_276dde1669259a78",
+      "root": "-ever",
       "meaning": "forms free-choice or indefinite pronouns and adverbs",
       "peers": [
         "whoever"
@@ -8068,6 +8265,7 @@
   "wholehearted": [
     {
       "id": "r_acea7c5dd689c654",
+      "root": "heart",
       "meaning": "heart; central organ; seat of feeling or courage",
       "peers": [
         "heart",
@@ -8102,6 +8300,7 @@
   "wholeheartedly": [
     {
       "id": "r_acea7c5dd689c654",
+      "root": "heart",
       "meaning": "heart; central organ; seat of feeling or courage",
       "peers": [
         "heart",
@@ -8136,6 +8335,7 @@
   "wholeness": [
     {
       "id": "r_886661a269fd899c",
+      "root": "whol",
       "meaning": "entire, whole; sound, healthy",
       "peers": [
         "wholeness",
@@ -8147,6 +8347,7 @@
   "wholesome": [
     {
       "id": "r_886661a269fd899c",
+      "root": "whol",
       "meaning": "entire, whole; sound, healthy",
       "peers": [
         "wholeness",
@@ -8158,6 +8359,7 @@
   "wholesomeness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -8453,6 +8655,7 @@
     },
     {
       "id": "r_886661a269fd899c",
+      "root": "whol",
       "meaning": "entire, whole; sound, healthy",
       "peers": [
         "wholeness",
@@ -8464,6 +8667,7 @@
   "wide": [
     {
       "id": "r_c6969caa040cd8de",
+      "root": "wid",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide",
@@ -8477,6 +8681,7 @@
   "wide-awake": [
     {
       "id": "r_e9f2cae0373578b9",
+      "root": "wide",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide-awake",
@@ -8491,6 +8696,7 @@
   "wide-cut": [
     {
       "id": "r_15b29dff8a0d4fe4",
+      "root": "cut",
       "meaning": "cut, outline, shape",
       "peers": [
         "clear-cut",
@@ -8507,6 +8713,7 @@
     },
     {
       "id": "r_e9f2cae0373578b9",
+      "root": "wide",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide-awake",
@@ -8521,6 +8728,7 @@
   "wide-eyed": [
     {
       "id": "r_e9f2cae0373578b9",
+      "root": "wide",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide-awake",
@@ -8535,6 +8743,7 @@
   "wide-open": [
     {
       "id": "r_e9f2cae0373578b9",
+      "root": "wide",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide-awake",
@@ -8549,6 +8758,7 @@
   "wide-ranging": [
     {
       "id": "r_e9f2cae0373578b9",
+      "root": "wide",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide-awake",
@@ -8563,6 +8773,7 @@
   "wideband": [
     {
       "id": "r_e9f2cae0373578b9",
+      "root": "wide",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide-awake",
@@ -8577,6 +8788,7 @@
   "widely": [
     {
       "id": "r_c6969caa040cd8de",
+      "root": "wid",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide",
@@ -8590,6 +8802,7 @@
   "widen": [
     {
       "id": "r_5a7e9353933f0068",
+      "root": "-en",
       "meaning": "to cause to be or become or have",
       "peers": [
         "bedizen",
@@ -8640,6 +8853,7 @@
     },
     {
       "id": "r_c6969caa040cd8de",
+      "root": "wid",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide",
@@ -8653,6 +8867,7 @@
   "widened": [
     {
       "id": "r_c6969caa040cd8de",
+      "root": "wid",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide",
@@ -8666,6 +8881,7 @@
   "widening": [
     {
       "id": "r_c6969caa040cd8de",
+      "root": "wid",
       "meaning": "wide, broad, extensive",
       "peers": [
         "wide",
@@ -8679,6 +8895,7 @@
   "wife": [
     {
       "id": "r_75c47f2ba1684772",
+      "root": "wife",
       "meaning": "woman; married woman; woman in charge of household",
       "peers": [
         "alewife",
@@ -8694,6 +8911,7 @@
   "wifelike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -8882,6 +9100,7 @@
     },
     {
       "id": "r_75c47f2ba1684772",
+      "root": "wife",
       "meaning": "woman; married woman; woman in charge of household",
       "peers": [
         "alewife",
@@ -8897,6 +9116,7 @@
   "wifely": [
     {
       "id": "r_75c47f2ba1684772",
+      "root": "wife",
       "meaning": "woman; married woman; woman in charge of household",
       "peers": [
         "alewife",
@@ -8912,6 +9132,7 @@
   "wiggle": [
     {
       "id": "r_286564ec746e0801",
+      "root": "wiggle",
       "meaning": "move with short quick motions from side to side",
       "peers": [
         "wiggle",
@@ -8922,6 +9143,7 @@
     },
     {
       "id": "r_36a50e5bc36bc2b6",
+      "root": "wig",
       "meaning": "to move or rock from side to side",
       "peers": [
         "wiggle",
@@ -8934,6 +9156,7 @@
   "wiggler": [
     {
       "id": "r_286564ec746e0801",
+      "root": "wiggle",
       "meaning": "move with short quick motions from side to side",
       "peers": [
         "wiggle",
@@ -8944,6 +9167,7 @@
     },
     {
       "id": "r_36a50e5bc36bc2b6",
+      "root": "wig",
       "meaning": "to move or rock from side to side",
       "peers": [
         "wiggle",
@@ -8954,6 +9178,7 @@
     },
     {
       "id": "r_3d066a6c1d03a643",
+      "root": "-er",
       "meaning": "a person or thing that does",
       "peers": [
         "baker",
@@ -9176,6 +9401,7 @@
   "wiggling": [
     {
       "id": "r_286564ec746e0801",
+      "root": "wiggle",
       "meaning": "move with short quick motions from side to side",
       "peers": [
         "wiggle",
@@ -9186,6 +9412,7 @@
     },
     {
       "id": "r_36a50e5bc36bc2b6",
+      "root": "wig",
       "meaning": "to move or rock from side to side",
       "peers": [
         "wiggle",
@@ -9198,6 +9425,7 @@
   "wiggly": [
     {
       "id": "r_286564ec746e0801",
+      "root": "wiggle",
       "meaning": "move with short quick motions from side to side",
       "peers": [
         "wiggle",
@@ -9208,6 +9436,7 @@
     },
     {
       "id": "r_36a50e5bc36bc2b6",
+      "root": "wig",
       "meaning": "to move or rock from side to side",
       "peers": [
         "wiggle",
@@ -9218,6 +9447,7 @@
     },
     {
       "id": "r_9268c845cca8343c",
+      "root": "-y",
       "meaning": "characterized by; full of; tending to",
       "peers": [
         "springy",
@@ -9250,6 +9480,7 @@
   "wild": [
     {
       "id": "r_ca1c21a9762b17a4",
+      "root": "wild",
       "meaning": "undomesticated; uncultivated; uncontrolled",
       "peers": [
         "wild",
@@ -9264,6 +9495,7 @@
   "wildcat": [
     {
       "id": "r_ca1c21a9762b17a4",
+      "root": "wild",
       "meaning": "undomesticated; uncultivated; uncontrolled",
       "peers": [
         "wild",
@@ -9278,6 +9510,7 @@
   "wildcatter": [
     {
       "id": "r_3d066a6c1d03a643",
+      "root": "-er",
       "meaning": "a person or thing that does",
       "peers": [
         "baker",
@@ -9498,6 +9731,7 @@
     },
     {
       "id": "r_ca1c21a9762b17a4",
+      "root": "wild",
       "meaning": "undomesticated; uncultivated; uncontrolled",
       "peers": [
         "wild",
@@ -9512,6 +9746,7 @@
   "wilderness": [
     {
       "id": "r_ca1c21a9762b17a4",
+      "root": "wild",
       "meaning": "undomesticated; uncultivated; uncontrolled",
       "peers": [
         "wild",
@@ -9526,6 +9761,7 @@
   "wildlife": [
     {
       "id": "r_be5aaccbd348159d",
+      "root": "lif",
       "meaning": "life; living existence",
       "peers": [
         "life",
@@ -9541,6 +9777,7 @@
   "wildly": [
     {
       "id": "r_ca1c21a9762b17a4",
+      "root": "wild",
       "meaning": "undomesticated; uncultivated; uncontrolled",
       "peers": [
         "wild",
@@ -9553,6 +9790,7 @@
     },
     {
       "id": "r_e87e5c07dddcb6d7",
+      "root": "-ly",
       "meaning": "in such a way or manner",
       "peers": [
         "actively",
@@ -9969,6 +10207,7 @@
   "wildness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -10264,6 +10503,7 @@
     },
     {
       "id": "r_ca1c21a9762b17a4",
+      "root": "wild",
       "meaning": "undomesticated; uncultivated; uncontrolled",
       "peers": [
         "wild",
@@ -10278,6 +10518,7 @@
   "will": [
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10296,6 +10537,7 @@
   "willful": [
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10312,6 +10554,7 @@
     },
     {
       "id": "r_b0e1099c6bae5d3d",
+      "root": "will",
       "meaning": "volition",
       "peers": [
         "willful"
@@ -10321,6 +10564,7 @@
   "willfully": [
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10339,6 +10583,7 @@
   "willfulness": [
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10357,6 +10602,7 @@
   "willing": [
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10375,6 +10621,7 @@
   "willingly": [
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10393,6 +10640,7 @@
   "willingness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -10688,6 +10936,7 @@
     },
     {
       "id": "r_783fce083ec7b15b",
+      "root": "wil",
       "meaning": "desire, wish, determination, will",
       "peers": [
         "unwilling",
@@ -10706,6 +10955,7 @@
   "willow": [
     {
       "id": "r_6e921dbb81a5496c",
+      "root": "willow",
       "meaning": "willow tree",
       "peers": [
         "willow",
@@ -10716,6 +10966,7 @@
   "willowy": [
     {
       "id": "r_6e921dbb81a5496c",
+      "root": "willow",
       "meaning": "willow tree",
       "peers": [
         "willow",
@@ -10726,6 +10977,7 @@
   "win": [
     {
       "id": "r_dfccaa5b9dfd974e",
+      "root": "win",
       "meaning": "gain, earn, succeed or be victorious",
       "peers": [
         "breadwinner",
@@ -10742,6 +10994,7 @@
   "windblown": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -10759,6 +11012,7 @@
     },
     {
       "id": "r_8a7e7a923494dda8",
+      "root": "blown",
       "meaning": "moved, shaped or exposed by blowing",
       "peers": [
         "windblown"
@@ -10768,6 +11022,7 @@
   "winded": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -10785,6 +11040,7 @@
     },
     {
       "id": "r_909803b25e140192",
+      "root": "wind",
       "meaning": "turn, twist, coil or move in a curving path",
       "peers": [
         "rewind",
@@ -10799,6 +11055,7 @@
   "winder": [
     {
       "id": "r_909803b25e140192",
+      "root": "wind",
       "meaning": "turn, twist, coil or move in a curving path",
       "peers": [
         "rewind",
@@ -10813,6 +11070,7 @@
   "windfall": [
     {
       "id": "r_e4f027a6301be78e",
+      "root": "fall",
       "meaning": "fall, drop; happen",
       "peers": [
         "befall",
@@ -10831,6 +11089,7 @@
   "winding": [
     {
       "id": "r_909803b25e140192",
+      "root": "wind",
       "meaning": "turn, twist, coil or move in a curving path",
       "peers": [
         "rewind",
@@ -10845,6 +11104,7 @@
   "windless": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -10864,6 +11124,7 @@
   "window": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -10883,6 +11144,7 @@
   "windowed": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -10902,6 +11164,7 @@
   "windowless": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -10919,6 +11182,7 @@
     },
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -11071,6 +11335,7 @@
   "windowpane": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -11090,6 +11355,7 @@
   "windowsill": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -11109,6 +11375,7 @@
   "windproof": [
     {
       "id": "r_7798c4565bbb488d",
+      "root": "-proof",
       "meaning": "proof",
       "peers": [
         "burglarproof",
@@ -11134,6 +11401,7 @@
   "windshield": [
     {
       "id": "r_4357813c2df6446f",
+      "root": "shield",
       "meaning": "shield; defensive covering; protect",
       "peers": [
         "shield",
@@ -11147,6 +11415,7 @@
   "windswept": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -11166,6 +11435,7 @@
   "windward": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -11185,6 +11455,7 @@
   "windy": [
     {
       "id": "r_26498894470c8d87",
+      "root": "wind",
       "meaning": "moving air; breath",
       "peers": [
         "windblown",
@@ -11204,6 +11475,7 @@
   "winebottle": [
     {
       "id": "r_3ec950ddcdd41a0a",
+      "root": "bot",
       "meaning": "cask, barrel",
       "peers": [
         "bottled",
@@ -11219,6 +11491,7 @@
     },
     {
       "id": "r_5e6aa77df6c55535",
+      "root": "bott",
       "meaning": "cask, barrel",
       "peers": [
         "bottleful",
@@ -11236,6 +11509,7 @@
   "wing": [
     {
       "id": "r_a29dd46f35bc092a",
+      "root": "wing",
       "meaning": "wing, part or appendage used in flight; lateral part",
       "peers": [
         "wing",
@@ -11250,6 +11524,7 @@
   "winged": [
     {
       "id": "r_a29dd46f35bc092a",
+      "root": "wing",
       "meaning": "wing, part or appendage used in flight; lateral part",
       "peers": [
         "wing",
@@ -11264,6 +11539,7 @@
   "winger": [
     {
       "id": "r_a29dd46f35bc092a",
+      "root": "wing",
       "meaning": "wing, part or appendage used in flight; lateral part",
       "peers": [
         "wing",
@@ -11278,6 +11554,7 @@
   "wingless": [
     {
       "id": "r_a29dd46f35bc092a",
+      "root": "wing",
       "meaning": "wing, part or appendage used in flight; lateral part",
       "peers": [
         "wing",
@@ -11290,6 +11567,7 @@
     },
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -11442,6 +11720,7 @@
   "winglike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -11632,6 +11911,7 @@
   "wingspan": [
     {
       "id": "r_a29dd46f35bc092a",
+      "root": "wing",
       "meaning": "wing, part or appendage used in flight; lateral part",
       "peers": [
         "wing",
@@ -11646,6 +11926,7 @@
   "wingtip": [
     {
       "id": "r_a29dd46f35bc092a",
+      "root": "wing",
       "meaning": "wing, part or appendage used in flight; lateral part",
       "peers": [
         "wing",
@@ -11660,6 +11941,7 @@
   "wink": [
     {
       "id": "r_87b14007b6af6ff8",
+      "root": "wink",
       "meaning": "close and open the eye; blink",
       "peers": [
         "eyewink",
@@ -11673,6 +11955,7 @@
   "winker": [
     {
       "id": "r_87b14007b6af6ff8",
+      "root": "wink",
       "meaning": "close and open the eye; blink",
       "peers": [
         "eyewink",
@@ -11686,6 +11969,7 @@
   "winking": [
     {
       "id": "r_87b14007b6af6ff8",
+      "root": "wink",
       "meaning": "close and open the eye; blink",
       "peers": [
         "eyewink",
@@ -11699,6 +11983,7 @@
   "winnable": [
     {
       "id": "r_dfccaa5b9dfd974e",
+      "root": "win",
       "meaning": "gain, earn, succeed or be victorious",
       "peers": [
         "breadwinner",
@@ -11715,6 +12000,7 @@
   "winner": [
     {
       "id": "r_dfccaa5b9dfd974e",
+      "root": "win",
       "meaning": "gain, earn, succeed or be victorious",
       "peers": [
         "breadwinner",
@@ -11731,6 +12017,7 @@
   "winning": [
     {
       "id": "r_dfccaa5b9dfd974e",
+      "root": "win",
       "meaning": "gain, earn, succeed or be victorious",
       "peers": [
         "breadwinner",
@@ -11747,6 +12034,7 @@
   "winningly": [
     {
       "id": "r_dfccaa5b9dfd974e",
+      "root": "win",
       "meaning": "gain, earn, succeed or be victorious",
       "peers": [
         "breadwinner",
@@ -11763,6 +12051,7 @@
   "winnings": [
     {
       "id": "r_dfccaa5b9dfd974e",
+      "root": "win",
       "meaning": "gain, earn, succeed or be victorious",
       "peers": [
         "breadwinner",
@@ -11779,6 +12068,7 @@
   "winter": [
     {
       "id": "r_94ce784f43ce2707",
+      "root": "winter",
       "meaning": "winter, the coldest season",
       "peers": [
         "midwinter",
@@ -11794,6 +12084,7 @@
   "wintering": [
     {
       "id": "r_94ce784f43ce2707",
+      "root": "winter",
       "meaning": "winter, the coldest season",
       "peers": [
         "midwinter",
@@ -11809,6 +12100,7 @@
   "wintery": [
     {
       "id": "r_94ce784f43ce2707",
+      "root": "winter",
       "meaning": "winter, the coldest season",
       "peers": [
         "midwinter",
@@ -11824,6 +12116,7 @@
   "wintry": [
     {
       "id": "r_9268c845cca8343c",
+      "root": "-y",
       "meaning": "characterized by; full of; tending to",
       "peers": [
         "springy",
@@ -11854,6 +12147,7 @@
     },
     {
       "id": "r_94ce784f43ce2707",
+      "root": "winter",
       "meaning": "winter, the coldest season",
       "peers": [
         "midwinter",
@@ -11869,6 +12163,7 @@
   "wire": [
     {
       "id": "r_f14c9d7f8f6d26ae",
+      "root": "wire",
       "meaning": "wire, a drawn metal strand; connect or equip with wire",
       "peers": [
         "rewire",
@@ -11883,6 +12178,7 @@
   "wired": [
     {
       "id": "r_f14c9d7f8f6d26ae",
+      "root": "wire",
       "meaning": "wire, a drawn metal strand; connect or equip with wire",
       "peers": [
         "rewire",
@@ -11897,6 +12193,7 @@
   "wireless": [
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -12047,6 +12344,7 @@
     },
     {
       "id": "r_f14c9d7f8f6d26ae",
+      "root": "wire",
       "meaning": "wire, a drawn metal strand; connect or equip with wire",
       "peers": [
         "rewire",
@@ -12061,6 +12359,7 @@
   "wiretap": [
     {
       "id": "r_899a20f6e2abd96f",
+      "root": "tap",
       "meaning": "a spigot or plug; to draw liquid from a container",
       "peers": [
         "tap",
@@ -12077,6 +12376,7 @@
   "wiretapped": [
     {
       "id": "r_899a20f6e2abd96f",
+      "root": "tap",
       "meaning": "a spigot or plug; to draw liquid from a container",
       "peers": [
         "tap",
@@ -12093,6 +12393,7 @@
   "wiretapping": [
     {
       "id": "r_899a20f6e2abd96f",
+      "root": "tap",
       "meaning": "a spigot or plug; to draw liquid from a container",
       "peers": [
         "tap",
@@ -12109,6 +12410,7 @@
   "wiring": [
     {
       "id": "r_f14c9d7f8f6d26ae",
+      "root": "wire",
       "meaning": "wire, a drawn metal strand; connect or equip with wire",
       "peers": [
         "rewire",
@@ -12123,6 +12425,7 @@
   "wisdom": [
     {
       "id": "r_9c5b17453ac47eb2",
+      "root": "wis",
       "meaning": "wise, prudent; having sound judgment",
       "peers": [
         "unwise",
@@ -12134,6 +12437,7 @@
     },
     {
       "id": "r_ea1bd4791a8cb399",
+      "root": "-dom",
       "meaning": "domain of; state of being",
       "peers": [
         "boredom",
@@ -12154,6 +12458,7 @@
   "wise": [
     {
       "id": "r_9c5b17453ac47eb2",
+      "root": "wis",
       "meaning": "wise, prudent; having sound judgment",
       "peers": [
         "unwise",
@@ -12167,6 +12472,7 @@
   "wisely": [
     {
       "id": "r_9c5b17453ac47eb2",
+      "root": "wis",
       "meaning": "wise, prudent; having sound judgment",
       "peers": [
         "unwise",
@@ -12178,6 +12484,7 @@
     },
     {
       "id": "r_e87e5c07dddcb6d7",
+      "root": "-ly",
       "meaning": "in such a way or manner",
       "peers": [
         "actively",
@@ -12594,6 +12901,7 @@
   "wish": [
     {
       "id": "r_c4197af5f91933ac",
+      "root": "wish",
       "meaning": "desire or hope for; a desire or hope",
       "peers": [
         "wish",
@@ -12606,6 +12914,7 @@
   "wishful": [
     {
       "id": "r_8e7eafaba7e19e15",
+      "root": "-ful",
       "meaning": "full of",
       "peers": [
         "awful",
@@ -12693,6 +13002,7 @@
     },
     {
       "id": "r_c4197af5f91933ac",
+      "root": "wish",
       "meaning": "desire or hope for; a desire or hope",
       "peers": [
         "wish",
@@ -12705,6 +13015,7 @@
   "wishfully": [
     {
       "id": "r_c4197af5f91933ac",
+      "root": "wish",
       "meaning": "desire or hope for; a desire or hope",
       "peers": [
         "wish",
@@ -12717,6 +13028,7 @@
   "wishing": [
     {
       "id": "r_c4197af5f91933ac",
+      "root": "wish",
       "meaning": "desire or hope for; a desire or hope",
       "peers": [
         "wish",
@@ -12729,6 +13041,7 @@
   "wisplike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -12919,6 +13232,7 @@
   "wit": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -12938,6 +13252,7 @@
   "witch": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -12959,6 +13274,7 @@
   "witchcraft": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -12980,6 +13296,7 @@
   "witchery": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -13001,6 +13318,7 @@
   "witching": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -13022,6 +13340,7 @@
   "witchlike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -13212,6 +13531,7 @@
   "witchman": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -13233,6 +13553,7 @@
   "witchwoman": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -13254,6 +13575,7 @@
   "witchy": [
     {
       "id": "r_801ba01cb4067cfc",
+      "root": "witch",
       "meaning": "a practitioner of witchcraft; to bewitch",
       "peers": [
         "witchcraft",
@@ -13275,6 +13597,7 @@
   "withdraw": [
     {
       "id": "r_43d2e5cd364e0bae",
+      "root": "with-",
       "meaning": "back, away; against, in opposition",
       "peers": [
         "withdraw",
@@ -13286,6 +13609,7 @@
     },
     {
       "id": "r_dcc8536cad83d445",
+      "root": "draw",
       "meaning": "draw, pull or make a picture",
       "peers": [
         "redrawing",
@@ -13301,6 +13625,7 @@
   "withdrawal": [
     {
       "id": "r_d1909ab82f08fc93",
+      "root": "-al",
       "meaning": "action, process, or result",
       "peers": [
         "abuttal",
@@ -13335,6 +13660,7 @@
     },
     {
       "id": "r_dcc8536cad83d445",
+      "root": "draw",
       "meaning": "draw, pull or make a picture",
       "peers": [
         "redrawing",
@@ -13350,6 +13676,7 @@
   "withershins": [
     {
       "id": "r_a763ebcfd1d89b33",
+      "root": "wither",
       "meaning": "against; in the opposite direction (historical or dialectal prefix)",
       "peers": [
         "withershins"
@@ -13359,6 +13686,7 @@
   "withhold": [
     {
       "id": "r_43d2e5cd364e0bae",
+      "root": "with-",
       "meaning": "back, away; against, in opposition",
       "peers": [
         "withdraw",
@@ -13370,6 +13698,7 @@
     },
     {
       "id": "r_626cc49f43a9fa74",
+      "root": "hold",
       "meaning": "hold; keep; possess",
       "peers": [
         "closely-held",
@@ -13391,6 +13720,7 @@
   "withholding": [
     {
       "id": "r_626cc49f43a9fa74",
+      "root": "hold",
       "meaning": "hold; keep; possess",
       "peers": [
         "closely-held",
@@ -13412,6 +13742,7 @@
   "within": [
     {
       "id": "r_43d2e5cd364e0bae",
+      "root": "with-",
       "meaning": "back, away; against, in opposition",
       "peers": [
         "withdraw",
@@ -13425,6 +13756,7 @@
   "without": [
     {
       "id": "r_43d2e5cd364e0bae",
+      "root": "with-",
       "meaning": "back, away; against, in opposition",
       "peers": [
         "withdraw",
@@ -13436,6 +13768,7 @@
     },
     {
       "id": "r_bc73b380d5fc7d90",
+      "root": "out",
       "meaning": "outside, outward; away",
       "peers": [
         "knockdown-dragout",
@@ -13453,6 +13786,7 @@
   "withstand": [
     {
       "id": "r_43d2e5cd364e0bae",
+      "root": "with-",
       "meaning": "back, away; against, in opposition",
       "peers": [
         "withdraw",
@@ -13464,6 +13798,7 @@
     },
     {
       "id": "r_8c90c508c85cd67e",
+      "root": "stand",
       "meaning": "to be upright or remain in a position",
       "peers": [
         "misunderstand",
@@ -13487,6 +13822,7 @@
   "withstood": [
     {
       "id": "r_8c90c508c85cd67e",
+      "root": "stand",
       "meaning": "to be upright or remain in a position",
       "peers": [
         "misunderstand",
@@ -13510,6 +13846,7 @@
   "witless": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13529,6 +13866,7 @@
   "witness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -13824,6 +14162,7 @@
     },
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13843,6 +14182,7 @@
   "witnessing": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13862,6 +14202,7 @@
   "wittily": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13881,6 +14222,7 @@
   "witting": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13900,6 +14242,7 @@
   "wittingly": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13919,6 +14262,7 @@
   "witty": [
     {
       "id": "r_3f5cbe2cb7a4a132",
+      "root": "wit",
       "meaning": "knowledge, understanding; know or be aware",
       "peers": [
         "eyewitness",
@@ -13938,6 +14282,7 @@
   "wizardry": [
     {
       "id": "r_f050c5eb332eda04",
+      "root": "-ry",
       "meaning": "act",
       "peers": [
         "chemistry",
@@ -13949,6 +14294,7 @@
   "wobbly": [
     {
       "id": "r_9268c845cca8343c",
+      "root": "-y",
       "meaning": "characterized by; full of; tending to",
       "peers": [
         "springy",
@@ -13981,6 +14327,7 @@
   "wofull": [
     {
       "id": "r_b20261126_a_full_suffix",
+      "root": "-full",
       "meaning": "full of; characterized by",
       "peers": [
         "wofull"
@@ -13990,6 +14337,7 @@
   "wolflike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -14180,6 +14528,7 @@
   "wolframophosphate": [
     {
       "id": "r_383b9e53a73a6083",
+      "root": "wolframo",
       "meaning": "wolfram; tungsten",
       "peers": [
         "wolframophosphate"
@@ -14189,6 +14538,7 @@
   "wolven": [
     {
       "id": "r_pending20261126_b_en_resembling",
+      "root": "-en",
       "meaning": "resembling; having qualities of",
       "peers": [
         "wolven"
@@ -14198,6 +14548,7 @@
   "womanhood": [
     {
       "id": "r_2ede950792ef5d35",
+      "root": "-hood",
       "meaning": "1. state, condition; 2.the whole group of",
       "peers": [
         "adulthood",
@@ -14224,6 +14575,7 @@
   "womankind": [
     {
       "id": "r_0fea7b8aef044594",
+      "root": "-kind",
       "meaning": "class; sort; people",
       "peers": [
         "mankind",
@@ -14234,6 +14586,7 @@
   "womanlike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -14424,6 +14777,7 @@
   "wonder": [
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14439,6 +14793,7 @@
   "wonder-struck": [
     {
       "id": "r_ebf9b532385c8f6c",
+      "root": "struck",
       "meaning": "affected strongly; struck",
       "peers": [
         "awestruck",
@@ -14457,6 +14812,7 @@
   "wonderful": [
     {
       "id": "r_8e7eafaba7e19e15",
+      "root": "-ful",
       "meaning": "full of",
       "peers": [
         "awful",
@@ -14544,6 +14900,7 @@
     },
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14559,6 +14916,7 @@
   "wonderfully": [
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14574,6 +14932,7 @@
   "wonderfulness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -14869,6 +15228,7 @@
     },
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14884,6 +15244,7 @@
   "wondering": [
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14899,6 +15260,7 @@
   "wonderingly": [
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14914,6 +15276,7 @@
   "wonderment": [
     {
       "id": "r_c632cea40a2e3fff",
+      "root": "wonder",
       "meaning": "amazement; to be astonished or curious",
       "peers": [
         "wonderful",
@@ -14929,6 +15292,7 @@
   "wondrous": [
     {
       "id": "r_d6be1a4797a1f97e",
+      "root": "-ous",
       "meaning": "full of, characterized by",
       "peers": [
         "adventurous",
@@ -15030,6 +15394,7 @@
   "wood": [
     {
       "id": "r_a46a25425d1f44a4",
+      "root": "wood",
       "meaning": "material of trees; a wooded area",
       "peers": [
         "woodcarver",
@@ -15044,6 +15409,7 @@
   "woodcarver": [
     {
       "id": "r_a46a25425d1f44a4",
+      "root": "wood",
       "meaning": "material of trees; a wooded area",
       "peers": [
         "woodcarver",
@@ -15058,6 +15424,7 @@
   "woodcarving": [
     {
       "id": "r_a46a25425d1f44a4",
+      "root": "wood",
       "meaning": "material of trees; a wooded area",
       "peers": [
         "woodcarver",
@@ -15072,6 +15439,7 @@
   "woodcut": [
     {
       "id": "r_a46a25425d1f44a4",
+      "root": "wood",
       "meaning": "material of trees; a wooded area",
       "peers": [
         "woodcarver",
@@ -15086,6 +15454,7 @@
   "woodcutter": [
     {
       "id": "r_a46a25425d1f44a4",
+      "root": "wood",
       "meaning": "material of trees; a wooded area",
       "peers": [
         "woodcarver",
@@ -15100,6 +15469,7 @@
   "wooded": [
     {
       "id": "r_a46a25425d1f44a4",
+      "root": "wood",
       "meaning": "material of trees; a wooded area",
       "peers": [
         "woodcarver",
@@ -15114,6 +15484,7 @@
   "wooden": [
     {
       "id": "r_a22776dbcce8f567",
+      "root": "-en",
       "meaning": "made of",
       "peers": [
         "ashen",
@@ -15130,6 +15501,7 @@
   "woodpecker": [
     {
       "id": "r_b490297f7b99359e",
+      "root": "peck",
       "meaning": "peck; strike or pick with the beak",
       "peers": [
         "peck",
@@ -15142,6 +15514,7 @@
   "woodpile": [
     {
       "id": "r_ef13b575f6d371b9",
+      "root": "pile",
       "meaning": "heap; stack; accumulation; electrical pile",
       "peers": [
         "photopile",
@@ -15161,6 +15534,7 @@
   "wool": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15178,6 +15552,7 @@
   "woolen": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15193,6 +15568,7 @@
     },
     {
       "id": "r_a22776dbcce8f567",
+      "root": "-en",
       "meaning": "made of",
       "peers": [
         "ashen",
@@ -15209,6 +15585,7 @@
   "woolens": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15226,6 +15603,7 @@
   "woolgathering": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15243,6 +15621,7 @@
   "woollen": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15260,6 +15639,7 @@
   "woolly": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15277,6 +15657,7 @@
   "wooly": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15294,6 +15675,7 @@
   "wooly-haired": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15311,6 +15693,7 @@
   "wooly-minded": [
     {
       "id": "r_6540e72eb7759e10",
+      "root": "wool",
       "meaning": "wool, soft hair of sheep and similar animals",
       "peers": [
         "wool",
@@ -15328,6 +15711,7 @@
   "word": [
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15345,6 +15729,7 @@
   "word-blind": [
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15362,6 +15747,7 @@
   "word-of-mouth": [
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15379,6 +15765,7 @@
   "word-perfect": [
     {
       "id": "r_750a660e6656dfc9",
+      "root": "perfect",
       "meaning": "perfect; complete; without fault",
       "peers": [
         "letter-perfect",
@@ -15389,6 +15776,7 @@
     },
     {
       "id": "r_a864e53c4ba04000",
+      "root": "per",
       "meaning": "through, throughout; very",
       "peers": [
         "impermeable",
@@ -15446,6 +15834,7 @@
     },
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15463,6 +15852,7 @@
   "wordcel": [
     {
       "id": "r_7d0bdd349d0f1f84",
+      "root": "cel",
       "meaning": "person characterized by a stated trait; humorous internet slang",
       "peers": [
         "wordcel"
@@ -15472,6 +15862,7 @@
   "wordless": [
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15487,6 +15878,7 @@
     },
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -15639,6 +16031,7 @@
   "wordlessly": [
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15656,6 +16049,7 @@
   "wordmonger": [
     {
       "id": "r_0856edacb0e00d2b",
+      "root": "-monger",
       "meaning": "dealer, trader",
       "peers": [
         "cheesemonger",
@@ -15672,6 +16066,7 @@
   "wordsmith": [
     {
       "id": "r_e4758c0b51e42a31",
+      "root": "smith",
       "meaning": "skilled maker or user of a specified thing",
       "peers": [
         "wordsmith",
@@ -15690,6 +16085,7 @@
   "wordy": [
     {
       "id": "r_bb03139b521a4c4b",
+      "root": "word",
       "meaning": "word; speech, expression",
       "peers": [
         "word",
@@ -15707,6 +16103,7 @@
   "work": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -15739,6 +16136,7 @@
   "workability": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -15771,6 +16169,7 @@
   "workable": [
     {
       "id": "r_d17c8c06b3351d59",
+      "root": "-able",
       "meaning": "capable of being, doing, or undergoing",
       "peers": [
         "dependable",
@@ -15924,6 +16323,7 @@
     },
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -15956,6 +16356,7 @@
   "workaholic": [
     {
       "id": "r_1a46bb5781b39731",
+      "root": "-aholic",
       "meaning": "person addicted to or excessively fond of",
       "peers": [
         "workaholic",
@@ -15966,6 +16367,7 @@
   "workaholism": [
     {
       "id": "r_fba0232e1a1a06b1",
+      "root": "-aholism",
       "meaning": "compulsive or excessive involvement",
       "peers": [
         "workaholism"
@@ -15975,6 +16377,7 @@
   "workbench": [
     {
       "id": "r_c1daac3807f12f4c",
+      "root": "bench",
       "meaning": "bench, long seat or work surface",
       "peers": [
         "workbench",
@@ -15988,6 +16391,7 @@
   "workday": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16020,6 +16424,7 @@
   "worked": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16052,6 +16457,7 @@
   "worker": [
     {
       "id": "r_3d066a6c1d03a643",
+      "root": "-er",
       "meaning": "a person or thing that does",
       "peers": [
         "baker",
@@ -16272,6 +16678,7 @@
     },
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16304,6 +16711,7 @@
   "workforce": [
     {
       "id": "r_a6ba54f5461afa8d",
+      "root": "forc",
       "meaning": "strong",
       "peers": [
         "counterforce",
@@ -16336,6 +16744,7 @@
   "working": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16368,6 +16777,7 @@
   "workman": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16400,6 +16810,7 @@
   "workmanlike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -16588,6 +16999,7 @@
     },
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16620,6 +17032,7 @@
   "workmate": [
     {
       "id": "r_6b3d48a2ff997d8d",
+      "root": "mate",
       "meaning": "companion; associate; partner; pair",
       "peers": [
         "housemate",
@@ -16636,6 +17049,7 @@
   "works": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16668,6 +17082,7 @@
   "worksite": [
     {
       "id": "r_1439340c4d6286e3",
+      "root": "site",
       "meaning": "a place or location; to locate at a place",
       "peers": [
         "homesite",
@@ -16681,6 +17096,7 @@
   "worksona": [
     {
       "id": "r_ee799acc6f16e4b4",
+      "root": "-sona",
       "meaning": "a personal presentation or persona in a specified real-life context (informal)",
       "peers": [
         "worksona"
@@ -16690,6 +17106,7 @@
   "workstation": [
     {
       "id": "r_dd511342d1c3bc2d",
+      "root": "stat",
       "meaning": "stand, standing, stabilize",
       "peers": [
         "acrostatic",
@@ -16770,6 +17187,7 @@
   "workweek": [
     {
       "id": "r_f7cb4ccf2990c578",
+      "root": "work",
       "meaning": "perform labor or activity; operate; an effort or product",
       "peers": [
         "workable",
@@ -16802,6 +17220,7 @@
   "world": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16821,6 +17240,7 @@
   "world-class": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16840,6 +17260,7 @@
   "world-shaking": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16859,6 +17280,7 @@
   "world-shattering": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16878,6 +17300,7 @@
   "world-weary": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16897,6 +17320,7 @@
   "world-wide": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16916,6 +17340,7 @@
   "worldly": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16933,6 +17358,7 @@
     },
     {
       "id": "r_cd23793d581ce734",
+      "root": "-ly",
       "meaning": "like; every (when attached to times)",
       "peers": [
         "bodily",
@@ -16969,6 +17395,7 @@
   "worldly-minded": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -16988,6 +17415,7 @@
   "worldly-wise": [
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -17007,6 +17435,7 @@
   "worldview": [
     {
       "id": "r_e121991d7c1b2aed",
+      "root": "view",
       "meaning": "see; look at; inspect; sight or opinion",
       "peers": [
         "interview",
@@ -17032,6 +17461,7 @@
   "worldwide": [
     {
       "id": "r_66351cde2425edcb",
+      "root": "-wide",
       "meaning": "throughout a specified area",
       "peers": [
         "citywide",
@@ -17044,6 +17474,7 @@
     },
     {
       "id": "r_9915ab4f3b52c314",
+      "root": "world",
       "meaning": "the world, human life or earthly existence; a realm",
       "peers": [
         "netherworld",
@@ -17063,6 +17494,7 @@
   "worm": [
     {
       "id": "r_4a705cfef277d6f4",
+      "root": "worm",
       "meaning": "a worm or worm-like invertebrate; to move like a worm",
       "peers": [
         "bellyworm",
@@ -17076,6 +17508,7 @@
   "wormhole": [
     {
       "id": "r_4a705cfef277d6f4",
+      "root": "worm",
       "meaning": "a worm or worm-like invertebrate; to move like a worm",
       "peers": [
         "bellyworm",
@@ -17089,6 +17522,7 @@
   "wormless": [
     {
       "id": "r_4a705cfef277d6f4",
+      "root": "worm",
       "meaning": "a worm or worm-like invertebrate; to move like a worm",
       "peers": [
         "bellyworm",
@@ -17102,6 +17536,7 @@
   "wormlike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -17292,6 +17727,7 @@
   "worried": [
     {
       "id": "r_2826ebd2a6f91a8b",
+      "root": "worry",
       "meaning": "worry, feel anxiety or cause distress",
       "peers": [
         "worry",
@@ -17307,6 +17743,7 @@
   "worrier": [
     {
       "id": "r_2826ebd2a6f91a8b",
+      "root": "worry",
       "meaning": "worry, feel anxiety or cause distress",
       "peers": [
         "worry",
@@ -17322,6 +17759,7 @@
   "worrisome": [
     {
       "id": "r_2826ebd2a6f91a8b",
+      "root": "worry",
       "meaning": "worry, feel anxiety or cause distress",
       "peers": [
         "worry",
@@ -17337,6 +17775,7 @@
   "worry": [
     {
       "id": "r_2826ebd2a6f91a8b",
+      "root": "worry",
       "meaning": "worry, feel anxiety or cause distress",
       "peers": [
         "worry",
@@ -17352,6 +17791,7 @@
   "worrying": [
     {
       "id": "r_2826ebd2a6f91a8b",
+      "root": "worry",
       "meaning": "worry, feel anxiety or cause distress",
       "peers": [
         "worry",
@@ -17367,6 +17807,7 @@
   "worryingly": [
     {
       "id": "r_2826ebd2a6f91a8b",
+      "root": "worry",
       "meaning": "worry, feel anxiety or cause distress",
       "peers": [
         "worry",
@@ -17382,6 +17823,7 @@
   "worth": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17399,6 +17841,7 @@
   "worthiness": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17416,6 +17859,7 @@
   "worthless": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17431,6 +17875,7 @@
     },
     {
       "id": "r_c0abd211fdff83d9",
+      "root": "-less",
       "meaning": "without; not affected by",
       "peers": [
         "aimless",
@@ -17583,6 +18028,7 @@
   "worthlessly": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17600,6 +18046,7 @@
   "worthlessness": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17615,6 +18062,7 @@
     },
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -17912,6 +18360,7 @@
   "worthwhile": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17929,6 +18378,7 @@
   "worthy": [
     {
       "id": "r_1a57f6fe44e3f5e0",
+      "root": "worth",
       "meaning": "worth, value, merit",
       "peers": [
         "unworthiness",
@@ -17946,6 +18396,7 @@
   "wouldja": [
     {
       "id": "r_130707a051c5c429",
+      "root": "-ja",
       "meaning": "You, ya.",
       "peers": [
         "wouldja"
@@ -17955,6 +18406,7 @@
   "wound": [
     {
       "id": "r_0ab827eba6cdb275",
+      "root": "wound",
       "meaning": "injury to tissue; injure physically or emotionally",
       "peers": [
         "wound",
@@ -17966,6 +18418,7 @@
   "wounded": [
     {
       "id": "r_0ab827eba6cdb275",
+      "root": "wound",
       "meaning": "injury to tissue; injure physically or emotionally",
       "peers": [
         "wound",
@@ -17977,6 +18430,7 @@
   "wounding": [
     {
       "id": "r_0ab827eba6cdb275",
+      "root": "wound",
       "meaning": "injury to tissue; injure physically or emotionally",
       "peers": [
         "wound",
@@ -17988,6 +18442,7 @@
   "wove": [
     {
       "id": "r_412c69829990f4a2",
+      "root": "weave",
       "meaning": "interlace threads; interlace or combine",
       "peers": [
         "interweave",
@@ -18004,6 +18459,7 @@
   "woven": [
     {
       "id": "r_412c69829990f4a2",
+      "root": "weave",
       "meaning": "interlace threads; interlace or combine",
       "peers": [
         "interweave",
@@ -18020,6 +18476,7 @@
   "wraithlike": [
     {
       "id": "r_47cc2af9dae31cc0",
+      "root": "-like",
       "meaning": "similar to, in the manner of",
       "peers": [
         "airlike",
@@ -18210,6 +18667,7 @@
   "wrap": [
     {
       "id": "r_b3c7cfa2fc86eb88",
+      "root": "wrap",
       "meaning": "cover or enclose by folding material around",
       "peers": [
         "unwrap",
@@ -18224,6 +18682,7 @@
   "wraparound": [
     {
       "id": "r_cfe743fd0d98fd6b",
+      "root": "round",
       "meaning": "circular, spherical or around in a circuit",
       "peers": [
         "around",
@@ -18252,6 +18711,7 @@
   "wrapped": [
     {
       "id": "r_b3c7cfa2fc86eb88",
+      "root": "wrap",
       "meaning": "cover or enclose by folding material around",
       "peers": [
         "unwrap",
@@ -18266,6 +18726,7 @@
   "wrapper": [
     {
       "id": "r_b3c7cfa2fc86eb88",
+      "root": "wrap",
       "meaning": "cover or enclose by folding material around",
       "peers": [
         "unwrap",
@@ -18280,6 +18741,7 @@
   "wrapping": [
     {
       "id": "r_b3c7cfa2fc86eb88",
+      "root": "wrap",
       "meaning": "cover or enclose by folding material around",
       "peers": [
         "unwrap",
@@ -18294,6 +18756,7 @@
   "wreck": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18310,6 +18773,7 @@
   "wreckage": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18324,6 +18788,7 @@
     },
     {
       "id": "r_739ff75a8e44b3ba",
+      "root": "-age",
       "meaning": "act, process, or result of (the action indicated by the verb base)",
       "peers": [
         "drainage",
@@ -18343,6 +18808,7 @@
   "wrecked": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18359,6 +18825,7 @@
   "wrecker": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18375,6 +18842,7 @@
   "wreckfish": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18391,6 +18859,7 @@
   "wreckful": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18407,6 +18876,7 @@
   "wrecking": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18423,6 +18893,7 @@
   "wrecky": [
     {
       "id": "r_72acf49c5ae751d0",
+      "root": "wreck",
       "meaning": "destroy or seriously damage; a wreck or ruined thing",
       "peers": [
         "wrecking",
@@ -18439,6 +18910,7 @@
   "wrest": [
     {
       "id": "r_33063f4510a6a8af",
+      "root": "wrest",
       "meaning": "twist, pull or force away",
       "peers": [
         "wrestle",
@@ -18451,6 +18923,7 @@
   "wrestle": [
     {
       "id": "r_33063f4510a6a8af",
+      "root": "wrest",
       "meaning": "twist, pull or force away",
       "peers": [
         "wrestle",
@@ -18463,6 +18936,7 @@
   "wrestler": [
     {
       "id": "r_33063f4510a6a8af",
+      "root": "wrest",
       "meaning": "twist, pull or force away",
       "peers": [
         "wrestle",
@@ -18473,6 +18947,7 @@
     },
     {
       "id": "r_3d066a6c1d03a643",
+      "root": "-er",
       "meaning": "a person or thing that does",
       "peers": [
         "baker",
@@ -18695,6 +19170,7 @@
   "wrestling": [
     {
       "id": "r_33063f4510a6a8af",
+      "root": "wrest",
       "meaning": "twist, pull or force away",
       "peers": [
         "wrestle",
@@ -18707,6 +19183,7 @@
   "wriggle": [
     {
       "id": "r_b233db28b391a179",
+      "root": "-le",
       "meaning": "diminutive, repetitive, or intensive action",
       "peers": [
         "babble",
@@ -18722,6 +19199,7 @@
   "write": [
     {
       "id": "r_220162e637d83671",
+      "root": "writ",
       "meaning": "scratch, carve, inscribe; write",
       "peers": [
         "rewritable",
@@ -18742,6 +19220,7 @@
   "writer": [
     {
       "id": "r_220162e637d83671",
+      "root": "writ",
       "meaning": "scratch, carve, inscribe; write",
       "peers": [
         "rewritable",
@@ -18760,6 +19239,7 @@
     },
     {
       "id": "r_3d066a6c1d03a643",
+      "root": "-er",
       "meaning": "a person or thing that does",
       "peers": [
         "baker",
@@ -18982,6 +19462,7 @@
   "writerly": [
     {
       "id": "r_220162e637d83671",
+      "root": "writ",
       "meaning": "scratch, carve, inscribe; write",
       "peers": [
         "rewritable",
@@ -19002,6 +19483,7 @@
   "writing": [
     {
       "id": "r_220162e637d83671",
+      "root": "writ",
       "meaning": "scratch, carve, inscribe; write",
       "peers": [
         "rewritable",
@@ -19022,6 +19504,7 @@
   "written": [
     {
       "id": "r_220162e637d83671",
+      "root": "writ",
       "meaning": "scratch, carve, inscribe; write",
       "peers": [
         "rewritable",
@@ -19042,6 +19525,7 @@
   "wrong": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19057,6 +19541,7 @@
   "wrongdoer": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19072,6 +19557,7 @@
   "wrongdoing": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19087,6 +19573,7 @@
   "wronged": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19102,6 +19589,7 @@
   "wrongful": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19115,6 +19603,7 @@
     },
     {
       "id": "r_8e7eafaba7e19e15",
+      "root": "-ful",
       "meaning": "full of",
       "peers": [
         "awful",
@@ -19204,6 +19693,7 @@
   "wrongfully": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19219,6 +19709,7 @@
   "wrongfulness": [
     {
       "id": "r_2bef7b5982c863cb",
+      "root": "wrong",
       "meaning": "unjust, incorrect; injure or act unjustly",
       "peers": [
         "wrongdoer",
@@ -19234,6 +19725,7 @@
   "xanthein": [
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19260,6 +19752,7 @@
   "xanthelasma": [
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19286,6 +19779,7 @@
   "xanthic": [
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19312,6 +19806,7 @@
   "xanthine": [
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19338,6 +19833,7 @@
   "xanthochromia": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19354,6 +19850,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19380,6 +19877,7 @@
   "xanthochromism": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19396,6 +19894,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19422,6 +19921,7 @@
   "xanthogenate": [
     {
       "id": "r_b20261126_b_xantho_acid",
+      "root": "xantho",
       "meaning": "xanthic acid or its derivatives",
       "peers": [
         "xanthogenate"
@@ -19431,6 +19931,7 @@
   "xanthogenic": [
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19457,6 +19958,7 @@
   "xanthoma": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19473,6 +19975,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19499,6 +20002,7 @@
   "xanthomatosis": [
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19525,6 +20029,7 @@
   "xanthophobia": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19541,6 +20046,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19567,6 +20073,7 @@
   "xanthophore": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19583,6 +20090,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19609,6 +20117,7 @@
   "xanthophyll": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19625,6 +20134,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19651,6 +20161,7 @@
   "xanthopsia": [
     {
       "id": "r_d24f6735bfa783e0",
+      "root": "-opsia",
       "meaning": "sight condition",
       "peers": [
         "achromatopsia",
@@ -19662,6 +20173,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19688,6 +20200,7 @@
   "xanthopterin": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19706,6 +20219,7 @@
   "xanthosis": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19722,6 +20236,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19748,6 +20263,7 @@
   "xanthous": [
     {
       "id": "r_0e2e0fd03f9e9cb5",
+      "root": "xantho",
       "meaning": "yellow",
       "peers": [
         "xanthochromia",
@@ -19764,6 +20280,7 @@
     },
     {
       "id": "r_fbfe902894dc16e7",
+      "root": "xanth",
       "meaning": "yellow",
       "peers": [
         "axanthism",
@@ -19790,6 +20307,7 @@
   "xenia": [
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -19810,6 +20328,7 @@
   "xenic": [
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -19830,6 +20349,7 @@
   "xenic acid": [
     {
       "id": "r_b20261126_c_xen_xenon",
+      "root": "xen-",
       "meaning": "xenon (chemical nomenclature)",
       "peers": [
         "xenic acid"
@@ -19839,6 +20359,7 @@
   "xennabyte": [
     {
       "id": "r_8b8e7150d0b66c78",
+      "root": "xenna",
       "meaning": "informal former prefix for 10^27",
       "peers": [
         "xennabyte"
@@ -19848,6 +20369,7 @@
   "xennometer": [
     {
       "id": "r_3f06cee2d6b9301c",
+      "root": "xenno",
       "meaning": "informal former prefix for 10^-27",
       "peers": [
         "xennometer"
@@ -19857,6 +20379,7 @@
   "xenoarchaeology": [
     {
       "id": "r_rem20261125_b_xeno_extraterrestrial",
+      "root": "xeno-",
       "meaning": "of extraterrestrial origin",
       "peers": [
         "xenoarchaeology"
@@ -19866,6 +20389,7 @@
   "xenobiotic": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -19880,6 +20404,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -19900,6 +20425,7 @@
   "xenoblast": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -19914,6 +20440,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -19934,6 +20461,7 @@
   "xenogamy": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -19948,6 +20476,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -19968,6 +20497,7 @@
   "xenograft": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -19982,6 +20512,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -20000,6 +20531,7 @@
     },
     {
       "id": "r_rem20261125_b_xeno_species",
+      "root": "xeno-",
       "meaning": "from a donor of another species",
       "peers": [
         "xenograft"
@@ -20009,6 +20541,7 @@
   "xenolith": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -20023,6 +20556,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -20043,6 +20577,7 @@
   "xenology": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -20057,6 +20592,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -20077,6 +20613,7 @@
   "xenon": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -20091,6 +20628,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -20111,6 +20649,7 @@
   "xenonym": [
     {
       "id": "r_32e0bc618c8a0dcc",
+      "root": "onym",
       "meaning": "name, word",
       "peers": [
         "acronym",
@@ -20167,6 +20706,7 @@
   "xenonymy": [
     {
       "id": "r_32e0bc618c8a0dcc",
+      "root": "onym",
       "meaning": "name, word",
       "peers": [
         "acronym",
@@ -20223,6 +20763,7 @@
   "xenophobe": [
     {
       "id": "r_8be30f408b86b771",
+      "root": "phob",
       "meaning": "fear, dread",
       "peers": [
         "dentophobia",
@@ -20245,6 +20786,7 @@
   "xenophobia": [
     {
       "id": "r_100cd0e8cfa96182",
+      "root": "xeno",
       "meaning": "foreign",
       "peers": [
         "xenobiotic",
@@ -20259,6 +20801,7 @@
     },
     {
       "id": "r_182fd48e7eb8e0d6",
+      "root": "xen",
       "meaning": "foreign",
       "peers": [
         "axenic",
@@ -20277,6 +20820,7 @@
     },
     {
       "id": "r_2992879eb1a53cd4",
+      "root": "-phobia",
       "meaning": "hatred, hostility or dislike toward a specified group or thing",
       "peers": [
         "xenophobia"
@@ -20284,6 +20828,7 @@
     },
     {
       "id": "r_8be30f408b86b771",
+      "root": "phob",
       "meaning": "fear, dread",
       "peers": [
         "dentophobia",
@@ -20304,6 +20849,7 @@
     },
     {
       "id": "r_f7876574995b57d8",
+      "root": "phobia",
       "meaning": "fear, dread",
       "peers": [
         "acrophobia",
@@ -20326,6 +20872,7 @@
   "xenophobic": [
     {
       "id": "r_8be30f408b86b771",
+      "root": "phob",
       "meaning": "fear, dread",
       "peers": [
         "dentophobia",
@@ -20346,6 +20893,7 @@
     },
     {
       "id": "r_9032e18fd087c6f2",
+      "root": "-phobic",
       "meaning": "relating to fear, aversion, or lack of affinity",
       "peers": [
         "hydrophobic",
@@ -20358,6 +20906,7 @@
   "xerasia": [
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20379,6 +20928,7 @@
   "xeriscape": [
     {
       "id": "r_30a30ee641c55cb1",
+      "root": "xeri",
       "meaning": "dry",
       "peers": [
         "xeriscape"
@@ -20388,6 +20938,7 @@
   "xerochilia": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20405,6 +20956,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20426,6 +20978,7 @@
   "xeroderma": [
     {
       "id": "r_34c58c1e48a0f656",
+      "root": "derma",
       "meaning": "skin",
       "peers": [
         "bromoderma",
@@ -20445,6 +20998,7 @@
     },
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20462,6 +21016,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20481,6 +21036,7 @@
     },
     {
       "id": "r_b6a760130b20291d",
+      "root": "derm",
       "meaning": "skin; skin or tissue layer",
       "peers": [
         "bromoderma",
@@ -20512,6 +21068,7 @@
   "xerography": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20529,6 +21086,7 @@
     },
     {
       "id": "r_7205234065a3e70d",
+      "root": "-graphy",
       "meaning": "writing, drawing, recording",
       "peers": [
         "arteriography",
@@ -20582,6 +21140,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20601,6 +21160,7 @@
     },
     {
       "id": "r_dc21d11f32778f92",
+      "root": "graph",
       "meaning": "writing, drawing, recording",
       "peers": [
         "anemograph",
@@ -20744,6 +21304,7 @@
   "xeromorph": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20761,6 +21322,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20782,6 +21344,7 @@
   "xerophagy": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20799,6 +21362,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20820,6 +21384,7 @@
   "xerophile": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20837,6 +21402,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20858,6 +21424,7 @@
   "xerophilous": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -20875,6 +21442,7 @@
     },
     {
       "id": "r_7301951ff76a56ee",
+      "root": "philo",
       "meaning": "love, fondness",
       "peers": [
         "philodendron",
@@ -20892,6 +21460,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -20911,6 +21480,7 @@
     },
     {
       "id": "r_d6be1a4797a1f97e",
+      "root": "-ous",
       "meaning": "full of, characterized by",
       "peers": [
         "adventurous",
@@ -21010,6 +21580,7 @@
     },
     {
       "id": "r_dcdd50d7dae46a06",
+      "root": "phil",
       "meaning": "love, fondness",
       "peers": [
         "americanophile",
@@ -21072,6 +21643,7 @@
   "xerophthalmia": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -21089,6 +21661,7 @@
     },
     {
       "id": "r_6472e3ce4abdbc6e",
+      "root": "ophthalm",
       "meaning": "eye, visual condition, vision, sight, inspection",
       "peers": [
         "exophthalmic",
@@ -21109,6 +21682,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -21130,6 +21704,7 @@
   "xerophyte": [
     {
       "id": "r_1ec0baeb41438bbc",
+      "root": "-phyte",
       "meaning": "plant; plant growth",
       "peers": [
         "archaeophyte",
@@ -21157,6 +21732,7 @@
     },
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -21174,6 +21750,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -21193,6 +21770,7 @@
     },
     {
       "id": "r_f507b4f7d3e07fd9",
+      "root": "phyt",
       "meaning": "plant; plant growth",
       "peers": [
         "bryophyte",
@@ -21217,6 +21795,7 @@
   "xerosis": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -21234,6 +21813,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -21255,6 +21835,7 @@
   "xerostomia": [
     {
       "id": "r_e2853653268ce404",
+      "root": "-stomia",
       "meaning": "condition of the mouth",
       "peers": [
         "xerostomia"
@@ -21264,6 +21845,7 @@
   "xerox": [
     {
       "id": "r_4ad8c016c5478444",
+      "root": "xero",
       "meaning": "dry",
       "peers": [
         "xerochilia",
@@ -21281,6 +21863,7 @@
     },
     {
       "id": "r_b62ddcd99d88dd1a",
+      "root": "xer",
       "meaning": "dry",
       "peers": [
         "phylloxera",
@@ -21302,6 +21885,7 @@
   "xiphiplastron": [
     {
       "id": "r_917f777348590723",
+      "root": "xiphi",
       "meaning": "swordlike; sword-shaped",
       "peers": [
         "xiphiplastron"
@@ -21311,6 +21895,7 @@
   "xiphisternum": [
     {
       "id": "r_0ebe565fc405d383",
+      "root": "xiph",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphisternum",
@@ -21323,6 +21908,7 @@
   "xiphocostal": [
     {
       "id": "r_b20261126_b_xipho_process",
+      "root": "xipho",
       "meaning": "xiphoid process",
       "peers": [
         "xiphocostal"
@@ -21332,6 +21918,7 @@
   "xiphoid": [
     {
       "id": "r_0ebe565fc405d383",
+      "root": "xiph",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphisternum",
@@ -21342,6 +21929,7 @@
     },
     {
       "id": "r_43db7282e95a6249",
+      "root": "xipho",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphoid",
@@ -21353,6 +21941,7 @@
   "xiphopagus": [
     {
       "id": "r_0ebe565fc405d383",
+      "root": "xiph",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphisternum",
@@ -21363,6 +21952,7 @@
     },
     {
       "id": "r_43db7282e95a6249",
+      "root": "xipho",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphoid",
@@ -21374,6 +21964,7 @@
   "xiphophyllous": [
     {
       "id": "r_0ebe565fc405d383",
+      "root": "xiph",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphisternum",
@@ -21384,6 +21975,7 @@
     },
     {
       "id": "r_43db7282e95a6249",
+      "root": "xipho",
       "meaning": "sword, sword-shaped",
       "peers": [
         "xiphoid",
@@ -21395,6 +21987,7 @@
   "xylem": [
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21416,6 +22009,7 @@
   "xylene": [
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21437,6 +22031,7 @@
   "xylitol": [
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21458,6 +22053,7 @@
   "xylocarp": [
     {
       "id": "r_376f08635860d178",
+      "root": "xylo",
       "meaning": "wood",
       "peers": [
         "xylocarp",
@@ -21471,6 +22067,7 @@
     },
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21492,6 +22089,7 @@
   "xyloid": [
     {
       "id": "r_376f08635860d178",
+      "root": "xylo",
       "meaning": "wood",
       "peers": [
         "xylocarp",
@@ -21505,6 +22103,7 @@
     },
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21526,6 +22125,7 @@
   "xylophagous": [
     {
       "id": "r_376f08635860d178",
+      "root": "xylo",
       "meaning": "wood",
       "peers": [
         "xylocarp",
@@ -21539,6 +22139,7 @@
     },
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21560,6 +22161,7 @@
   "xylophobia": [
     {
       "id": "r_376f08635860d178",
+      "root": "xylo",
       "meaning": "wood",
       "peers": [
         "xylocarp",
@@ -21573,6 +22175,7 @@
     },
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21594,6 +22197,7 @@
   "xylophone": [
     {
       "id": "r_376f08635860d178",
+      "root": "xylo",
       "meaning": "wood",
       "peers": [
         "xylocarp",
@@ -21607,6 +22211,7 @@
     },
     {
       "id": "r_9fd963e23cb4d070",
+      "root": "-phone",
       "meaning": "sound, voice",
       "peers": [
         "allophone",
@@ -21633,6 +22238,7 @@
     },
     {
       "id": "r_d3312ca743a34514",
+      "root": "phon",
       "meaning": "sound, voice",
       "peers": [
         "acrophonic",
@@ -21724,6 +22330,7 @@
     },
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21745,6 +22352,7 @@
   "xylose": [
     {
       "id": "r_951c584a04b7caa2",
+      "root": "-ose",
       "meaning": "carbohydrate, esp. sugar",
       "peers": [
         "cellulose",
@@ -21761,6 +22369,7 @@
   "xylosma": [
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21782,6 +22391,7 @@
   "xylostroma": [
     {
       "id": "r_376f08635860d178",
+      "root": "xylo",
       "meaning": "wood",
       "peers": [
         "xylocarp",
@@ -21795,6 +22405,7 @@
     },
     {
       "id": "r_f35f7ae03eb89381",
+      "root": "xyl",
       "meaning": "wood",
       "peers": [
         "metaxylem",
@@ -21816,6 +22427,7 @@
   "xylulose": [
     {
       "id": "r_0d311c226bcd45e1",
+      "root": "-ulose",
       "meaning": "ketose sugar",
       "peers": [
         "xylulose"
@@ -21825,6 +22437,7 @@
   "xyrospasm": [
     {
       "id": "r_39903d397bdad141",
+      "root": "xyro",
       "meaning": "razor",
       "peers": [
         "xyrospasm"
@@ -21834,6 +22447,7 @@
   "yardstick": [
     {
       "id": "r_fee810d82bdd655e",
+      "root": "yard",
       "meaning": "unit of length; measuring rod",
       "peers": [
         "yardstick"
@@ -21843,6 +22457,7 @@
   "yawn": [
     {
       "id": "r_693b2daafa77f2dd",
+      "root": "yawn",
       "meaning": "open the mouth involuntarily; gape",
       "peers": [
         "yawned",
@@ -21856,6 +22471,7 @@
   "yawned": [
     {
       "id": "r_693b2daafa77f2dd",
+      "root": "yawn",
       "meaning": "open the mouth involuntarily; gape",
       "peers": [
         "yawned",
@@ -21869,6 +22485,7 @@
   "yawnful": [
     {
       "id": "r_693b2daafa77f2dd",
+      "root": "yawn",
       "meaning": "open the mouth involuntarily; gape",
       "peers": [
         "yawned",
@@ -21882,6 +22499,7 @@
   "yawning": [
     {
       "id": "r_693b2daafa77f2dd",
+      "root": "yawn",
       "meaning": "open the mouth involuntarily; gape",
       "peers": [
         "yawned",
@@ -21895,6 +22513,7 @@
   "yawningly": [
     {
       "id": "r_693b2daafa77f2dd",
+      "root": "yawn",
       "meaning": "open the mouth involuntarily; gape",
       "peers": [
         "yawned",
@@ -21908,6 +22527,7 @@
   "year": [
     {
       "id": "r_64f6906dedb04c2b",
+      "root": "year",
       "meaning": "year; period of twelve months",
       "peers": [
         "first-year",
@@ -21925,6 +22545,7 @@
   "yearling": [
     {
       "id": "r_64f6906dedb04c2b",
+      "root": "year",
       "meaning": "year; period of twelve months",
       "peers": [
         "first-year",
@@ -21942,6 +22563,7 @@
   "yearlong": [
     {
       "id": "r_64f6906dedb04c2b",
+      "root": "year",
       "meaning": "year; period of twelve months",
       "peers": [
         "first-year",
@@ -21957,6 +22579,7 @@
     },
     {
       "id": "r_927af2325bdad888",
+      "root": "long",
       "meaning": "having great length or duration",
       "peers": [
         "along",
@@ -21976,6 +22599,7 @@
   "yell": [
     {
       "id": "r_8bcdeb2a41703465",
+      "root": "yel",
       "meaning": "yell, cry out loudly",
       "peers": [
         "yell",
@@ -21986,6 +22610,7 @@
   "yelling": [
     {
       "id": "r_8bcdeb2a41703465",
+      "root": "yel",
       "meaning": "yell, cry out loudly",
       "peers": [
         "yell",
@@ -21996,6 +22621,7 @@
   "yellow": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22026,6 +22652,7 @@
   "yellow-bellied": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22056,6 +22683,7 @@
   "yellow-brown": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22084,6 +22712,7 @@
     },
     {
       "id": "r_b01331fde25d3077",
+      "root": "brown",
       "meaning": "brown color",
       "peers": [
         "brownish",
@@ -22124,6 +22753,7 @@
   "yellow-gray": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22154,6 +22784,7 @@
   "yellow-green": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22184,6 +22815,7 @@
   "yellow-grey": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22214,6 +22846,7 @@
   "yellow-orange": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22242,6 +22875,7 @@
     },
     {
       "id": "r_a5fd0a5e2cbc8360",
+      "root": "orange",
       "meaning": "orange color",
       "peers": [
         "brownish-orange",
@@ -22258,6 +22892,7 @@
   "yellow-tinged": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22288,6 +22923,7 @@
   "yellowed": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22318,6 +22954,7 @@
   "yellowing": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22348,6 +22985,7 @@
   "yellowish": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22378,6 +23016,7 @@
   "yellowish-gray": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22408,6 +23047,7 @@
   "yellowish-grey": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22438,6 +23078,7 @@
   "yellowish-orange": [
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22466,6 +23107,7 @@
     },
     {
       "id": "r_a5fd0a5e2cbc8360",
+      "root": "orange",
       "meaning": "orange color",
       "peers": [
         "brownish-orange",
@@ -22482,6 +23124,7 @@
   "yellowness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -22777,6 +23420,7 @@
     },
     {
       "id": "r_875bb8d4f0176edb",
+      "root": "yellow",
       "meaning": "yellow color; having or becoming yellow",
       "peers": [
         "brownish-yellow",
@@ -22807,6 +23451,7 @@
   "yellowwash": [
     {
       "id": "r_b20261126_a_wash_coating",
+      "root": "-wash",
       "meaning": "coating of a specified color",
       "peers": [
         "yellowwash"
@@ -22816,6 +23461,7 @@
   "yesterday": [
     {
       "id": "r_66ec9bc5132e6926",
+      "root": "yester",
       "meaning": "yesterday",
       "peers": [
         "yesterday",
@@ -22824,6 +23470,7 @@
     },
     {
       "id": "r_b2b2ac2b109ae82e",
+      "root": "day",
       "meaning": "a day; the interval of daylight or 24 hours",
       "peers": [
         "friday",
@@ -22849,6 +23496,7 @@
   "yestermorning": [
     {
       "id": "r_cf01a484c5f84d2c",
+      "root": "morn",
       "meaning": "morning",
       "peers": [
         "midmorning",
@@ -22861,6 +23509,7 @@
   "yesteryear": [
     {
       "id": "r_66ec9bc5132e6926",
+      "root": "yester",
       "meaning": "yesterday",
       "peers": [
         "yesterday",
@@ -22869,6 +23518,7 @@
     },
     {
       "id": "r_b20261126_a_yester_former",
+      "root": "yester-",
       "meaning": "former; earlier; previous time",
       "peers": [
         "yesteryear"
@@ -22878,6 +23528,7 @@
   "yield": [
     {
       "id": "r_4f1dc0efcbaeb640",
+      "root": "yield",
       "meaning": "produce or give; surrender or give way",
       "peers": [
         "unyielding",
@@ -22890,6 +23541,7 @@
   "yielder": [
     {
       "id": "r_4f1dc0efcbaeb640",
+      "root": "yield",
       "meaning": "produce or give; surrender or give way",
       "peers": [
         "unyielding",
@@ -22902,6 +23554,7 @@
   "yielding": [
     {
       "id": "r_4f1dc0efcbaeb640",
+      "root": "yield",
       "meaning": "produce or give; surrender or give way",
       "peers": [
         "unyielding",
@@ -22914,6 +23567,7 @@
   "yobibyte": [
     {
       "id": "r_d9577fed8915f221",
+      "root": "yobi",
       "meaning": "2 to the 80th power",
       "peers": [
         "yobibyte"
@@ -22923,6 +23577,7 @@
   "yoctosecond": [
     {
       "id": "r_59102f64287dde95",
+      "root": "yocto",
       "meaning": "10^-24",
       "peers": [
         "yoctosecond"
@@ -22932,6 +23587,7 @@
   "yottabyte": [
     {
       "id": "r_9fd79a8c01c1b54c",
+      "root": "yotta",
       "meaning": "10^24",
       "peers": [
         "yottabyte"
@@ -22941,6 +23597,7 @@
   "young": [
     {
       "id": "r_15133745bb915771",
+      "root": "young",
       "meaning": "not old; early in life",
       "peers": [
         "young",
@@ -22952,6 +23609,7 @@
   "youngish": [
     {
       "id": "r_15133745bb915771",
+      "root": "young",
       "meaning": "not old; early in life",
       "peers": [
         "young",
@@ -22963,6 +23621,7 @@
   "youngster": [
     {
       "id": "r_15133745bb915771",
+      "root": "young",
       "meaning": "not old; early in life",
       "peers": [
         "young",
@@ -22974,6 +23633,7 @@
   "yourself": [
     {
       "id": "r_6f187a82d2dda963",
+      "root": "-self",
       "meaning": "oneself",
       "peers": [
         "herself",
@@ -22988,6 +23648,7 @@
   "yourselves": [
     {
       "id": "r_4ef59790a58e3402",
+      "root": "-selves",
       "meaning": "plural reflexive or intensive",
       "peers": [
         "ourselves",
@@ -22998,6 +23659,7 @@
   "yttrofluorite": [
     {
       "id": "r_a8d6eadb6685dde8",
+      "root": "yttro",
       "meaning": "containing yttrium",
       "peers": [
         "yttrofluorite"
@@ -23007,6 +23669,7 @@
   "yummalicious": [
     {
       "id": "r_406a09838981e160",
+      "root": "-alicious",
       "meaning": "intensifying desirable qualities (informal)",
       "peers": [
         "yummalicious"
@@ -23016,6 +23679,7 @@
   "yurigem": [
     {
       "id": "r_pending20261126_b_gem",
+      "root": "-gem",
       "meaning": "a notably good example of the specified category",
       "peers": [
         "yurigem"
@@ -23025,6 +23689,7 @@
   "zaleplon": [
     {
       "id": "r_2e2d2abc4ba6be73",
+      "root": "-plon",
       "meaning": "pyrazolopyrimidine hypnotics (drug nomenclature)",
       "peers": [
         "zaleplon"
@@ -23034,6 +23699,7 @@
   "zeal": [
     {
       "id": "r_57953743f44f0054",
+      "root": "zel",
       "meaning": "jealousy, zeal",
       "peers": [
         "zeal",
@@ -23045,6 +23711,7 @@
     },
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23064,6 +23731,7 @@
   "zealless": [
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23083,6 +23751,7 @@
   "zealot": [
     {
       "id": "r_57953743f44f0054",
+      "root": "zel",
       "meaning": "jealousy, zeal",
       "peers": [
         "zeal",
@@ -23094,6 +23763,7 @@
     },
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23113,6 +23783,7 @@
   "zealotic": [
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23132,6 +23803,7 @@
   "zealotry": [
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23151,6 +23823,7 @@
   "zealous": [
     {
       "id": "r_57953743f44f0054",
+      "root": "zel",
       "meaning": "jealousy, zeal",
       "peers": [
         "zeal",
@@ -23162,6 +23835,7 @@
     },
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23181,6 +23855,7 @@
   "zealously": [
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23200,6 +23875,7 @@
   "zealousness": [
     {
       "id": "r_2e94b10a5733577d",
+      "root": "-ness",
       "meaning": "state or quality of",
       "peers": [
         "airiness",
@@ -23495,6 +24171,7 @@
     },
     {
       "id": "r_fb3ccf8f6990cafe",
+      "root": "zeal",
       "meaning": "fervor, enthusiasm",
       "peers": [
         "overzeal",
@@ -23514,6 +24191,7 @@
   "zebibyte": [
     {
       "id": "r_a719e05c8590655b",
+      "root": "zebi",
       "meaning": "multiply by 2 to the 70th power",
       "peers": [
         "zebibyte"
@@ -23523,6 +24201,7 @@
   "zenocentric": [
     {
       "id": "r_77af55b36048893e",
+      "root": "zeno",
       "meaning": "Jupiter",
       "peers": [
         "zenocentric"
@@ -23532,6 +24211,7 @@
   "zeolite": [
     {
       "id": "r_814faa16c9c944b5",
+      "root": "-lite",
       "meaning": "mineral, rock, stone, fossil",
       "peers": [
         "actinolite",
@@ -23553,6 +24233,7 @@
   "zeptosecond": [
     {
       "id": "r_ba0996b09072475b",
+      "root": "zepto",
       "meaning": "one sextillionth; 10^-21",
       "peers": [
         "zeptosecond"
@@ -23562,6 +24243,7 @@
   "zetetic": [
     {
       "id": "r_e8506226defb416c",
+      "root": "zete",
       "meaning": "seek, inquire",
       "peers": [
         "zetetic"
@@ -23571,6 +24253,7 @@
   "zettabyte": [
     {
       "id": "r_e94a89642553be0c",
+      "root": "zetta",
       "meaning": "10^21",
       "peers": [
         "zettabyte"
@@ -23580,6 +24263,7 @@
   "zillion": [
     {
       "id": "r_3f659209bd5d85f5",
+      "root": "-illion",
       "meaning": "forming names of large numbers",
       "peers": [
         "billion",
@@ -23598,6 +24282,7 @@
   "zincolysis": [
     {
       "id": "r_3f40b48d7176ef49",
+      "root": "zinco",
       "meaning": "zinc",
       "peers": [
         "zincolysis",
@@ -23608,6 +24293,7 @@
   "zincotype": [
     {
       "id": "r_3f40b48d7176ef49",
+      "root": "zinco",
       "meaning": "zinc",
       "peers": [
         "zincolysis",
@@ -23618,6 +24304,7 @@
   "zircofluoride": [
     {
       "id": "r_37b9f9fe746b1b62",
+      "root": "zirco",
       "meaning": "zirconium",
       "peers": [
         "zircofluoride"
@@ -23627,6 +24314,7 @@
   "zoanthid": [
     {
       "id": "r_5a4b72f91e813fe4",
+      "root": "anth",
       "meaning": "flower",
       "peers": [
         "anther",
@@ -23657,6 +24345,7 @@
   "zoanthropy": [
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -23711,6 +24400,7 @@
   "zodiac": [
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -23765,6 +24455,7 @@
   "zoic": [
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -23819,6 +24510,7 @@
   "zolpidem": [
     {
       "id": "r_ecda53cd7aa203fa",
+      "root": "-pidem",
       "meaning": "zolpidem-type hypnotic and sedative drug names",
       "peers": [
         "zolpidem"
@@ -23828,6 +24520,7 @@
   "zonal": [
     {
       "id": "r_a5a932634422c99a",
+      "root": "zon",
       "meaning": "belt, girdle; zone",
       "peers": [
         "phylozone",
@@ -23841,6 +24534,7 @@
   "zone": [
     {
       "id": "r_a5a932634422c99a",
+      "root": "zon",
       "meaning": "belt, girdle; zone",
       "peers": [
         "phylozone",
@@ -23854,6 +24548,7 @@
   "zonohedron": [
     {
       "id": "r_a5a932634422c99a",
+      "root": "zon",
       "meaning": "belt, girdle; zone",
       "peers": [
         "phylozone",
@@ -23867,6 +24562,7 @@
   "zonoplacental": [
     {
       "id": "r_bf0bd5a6cd42bd03",
+      "root": "zono",
       "meaning": "zone; zonal",
       "peers": [
         "zonoplacental"
@@ -23876,6 +24572,7 @@
   "zonoskeleton": [
     {
       "id": "r_b20261126_a_zono_girdle",
+      "root": "zono-",
       "meaning": "girdle; belt",
       "peers": [
         "zonoskeleton"
@@ -23885,6 +24582,7 @@
   "zonotope": [
     {
       "id": "r_a5a932634422c99a",
+      "root": "zon",
       "meaning": "belt, girdle; zone",
       "peers": [
         "phylozone",
@@ -23896,6 +24594,7 @@
     },
     {
       "id": "r_bf9a2b84a2872e53",
+      "root": "top",
       "meaning": "place, location, state",
       "peers": [
         "atopic",
@@ -23924,6 +24623,7 @@
   "zoo": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -23955,6 +24655,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24009,6 +24710,7 @@
   "zoochore": [
     {
       "id": "r_b20261125_chore_dispersion",
+      "root": "-chore",
       "meaning": "organism dispersed by a specified agent or method",
       "peers": [
         "zoochore"
@@ -24016,6 +24718,7 @@
     },
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -24047,6 +24750,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24101,6 +24805,7 @@
   "zoochorous": [
     {
       "id": "r_35dab9326b777ef4",
+      "root": "-chorous",
       "meaning": "spread, especially seeds dispersed, by a specified agent",
       "peers": [
         "zoochorous"
@@ -24110,6 +24815,7 @@
   "zoochory": [
     {
       "id": "r_e906cff9e3456311",
+      "root": "-chory",
       "meaning": "dispersal of plants or seeds",
       "peers": [
         "zoochory"
@@ -24119,6 +24825,7 @@
   "zoogamete": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -24150,6 +24857,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24204,6 +24912,7 @@
   "zoogeography": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -24235,6 +24944,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24289,6 +24999,7 @@
   "zoography": [
     {
       "id": "r_7205234065a3e70d",
+      "root": "-graphy",
       "meaning": "writing, drawing, recording",
       "peers": [
         "arteriography",
@@ -24342,6 +25053,7 @@
     },
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -24373,6 +25085,7 @@
     },
     {
       "id": "r_dc21d11f32778f92",
+      "root": "graph",
       "meaning": "writing, drawing, recording",
       "peers": [
         "anemograph",
@@ -24514,6 +25227,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24568,6 +25282,7 @@
   "zooid": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -24599,6 +25314,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24653,6 +25369,7 @@
   "zoologic": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -24684,6 +25401,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -24738,6 +25456,7 @@
   "zoology": [
     {
       "id": "r_01bf58f4c2221d8c",
+      "root": "-logy",
       "meaning": "study of, science of; written work; structure or principle",
       "peers": [
         "aerobiology",
@@ -24869,6 +25588,7 @@
     },
     {
       "id": "r_087875fe2f1999ff",
+      "root": "log",
       "meaning": "word, speech, written work",
       "peers": [
         "antilogy",
@@ -24944,6 +25664,7 @@
     },
     {
       "id": "r_151eef3fca18c436",
+      "root": "log",
       "meaning": "study of, science of",
       "peers": [
         "biology",
@@ -24963,6 +25684,7 @@
     },
     {
       "id": "r_a26b2e2b91a79bfb",
+      "root": "-ology",
       "meaning": "study of, science of; written work; structure or principle",
       "peers": [
         "aerobiology",
@@ -25097,6 +25819,7 @@
     },
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -25128,6 +25851,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -25182,6 +25906,7 @@
   "zoomer": [
     {
       "id": "r_dec00fa0da25b5ac",
+      "root": "-oomer",
       "meaning": "names of Wojak characters or caricatured embodiments of traits and qualities",
       "peers": [
         "zoomer"
@@ -25191,6 +25916,7 @@
   "zoomorph": [
     {
       "id": "r_bd83ced28e85d336",
+      "root": "morph",
       "meaning": "shape, form",
       "peers": [
         "actinomorphic",
@@ -25281,6 +26007,7 @@
   "zoomorphic": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -25312,6 +26039,7 @@
     },
     {
       "id": "r_bd83ced28e85d336",
+      "root": "morph",
       "meaning": "shape, form",
       "peers": [
         "actinomorphic",
@@ -25400,6 +26128,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -25454,6 +26183,7 @@
   "zoomorphism": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -25485,6 +26215,7 @@
     },
     {
       "id": "r_bd83ced28e85d336",
+      "root": "morph",
       "meaning": "shape, form",
       "peers": [
         "actinomorphic",
@@ -25573,6 +26304,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -25627,6 +26359,7 @@
   "zoon": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -25658,6 +26391,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -25712,6 +26446,7 @@
   "zoonosis": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -25743,6 +26478,7 @@
     },
     {
       "id": "r_bd46fd69970df5a1",
+      "root": "-osis",
       "meaning": "condition (usually medical) ",
       "peers": [
         "antibiosis",
@@ -25769,6 +26505,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -25823,6 +26560,7 @@
   "zoopathology": [
     {
       "id": "r_d87cb4358530f0e8",
+      "root": "path",
       "meaning": "suffer, feel; disease",
       "peers": [
         "allopath",
@@ -25877,6 +26615,7 @@
   "zoophagous": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -25908,6 +26647,7 @@
     },
     {
       "id": "r_c5f0e6836e31f768",
+      "root": "phag",
       "meaning": "eat",
       "peers": [
         "anthropophagous",
@@ -25950,6 +26690,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26004,6 +26745,7 @@
   "zoophagy": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26035,6 +26777,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26089,6 +26832,7 @@
   "zoophilist": [
     {
       "id": "r_dcdd50d7dae46a06",
+      "root": "phil",
       "meaning": "love, fondness",
       "peers": [
         "americanophile",
@@ -26151,6 +26895,7 @@
   "zoophilous": [
     {
       "id": "r_dcdd50d7dae46a06",
+      "root": "phil",
       "meaning": "love, fondness",
       "peers": [
         "americanophile",
@@ -26213,6 +26958,7 @@
   "zoophobia": [
     {
       "id": "r_8be30f408b86b771",
+      "root": "phob",
       "meaning": "fear, dread",
       "peers": [
         "dentophobia",
@@ -26235,6 +26981,7 @@
   "zoophyte": [
     {
       "id": "r_1ec0baeb41438bbc",
+      "root": "-phyte",
       "meaning": "plant; plant growth",
       "peers": [
         "archaeophyte",
@@ -26262,6 +27009,7 @@
     },
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26293,6 +27041,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26345,6 +27094,7 @@
     },
     {
       "id": "r_f507b4f7d3e07fd9",
+      "root": "phyt",
       "meaning": "plant; plant growth",
       "peers": [
         "bryophyte",
@@ -26369,6 +27119,7 @@
   "zooplankton": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26400,6 +27151,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26454,6 +27206,7 @@
   "zoopoetics": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26485,6 +27238,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26539,6 +27293,7 @@
   "zoospore": [
     {
       "id": "r_2d1d0e7bbad1b82f",
+      "root": "spor",
       "meaning": "sowing; seed",
       "peers": [
         "aplanospore",
@@ -26576,6 +27331,7 @@
     },
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26607,6 +27363,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26661,6 +27418,7 @@
   "zootoxin": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26692,6 +27450,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26746,6 +27505,7 @@
   "zooxanthella": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26777,6 +27537,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26831,6 +27592,7 @@
   "zotepine": [
     {
       "id": "r_fd7d3f3f9a007556",
+      "root": "-tepine",
       "meaning": "thiepine-related tricyclic compound in drug names",
       "peers": [
         "zotepine"
@@ -26840,6 +27602,7 @@
   "zoöid": [
     {
       "id": "r_b524e547a7f3253d",
+      "root": "zoo",
       "meaning": "animal, life",
       "peers": [
         "anthrozoology",
@@ -26871,6 +27634,7 @@
     },
     {
       "id": "r_f27643cc61f7bc22",
+      "root": "zo",
       "meaning": "animal, life",
       "peers": [
         "anthozoan",
@@ -26925,6 +27689,7 @@
   "zygantrum": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -26950,6 +27715,7 @@
   "zygapophysis": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -26975,6 +27741,7 @@
   "zygodactyl": [
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -26998,6 +27765,7 @@
   "zygodactyly": [
     {
       "id": "r_1d8d9eb498cd0e6f",
+      "root": "dactyl",
       "meaning": "finger",
       "peers": [
         "anisodactyly",
@@ -27042,6 +27810,7 @@
   "zygoma": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27065,6 +27834,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27088,6 +27858,7 @@
   "zygomaticomaxillary": [
     {
       "id": "r_9c74e7f1969f6bea",
+      "root": "zygomatico",
       "meaning": "zygomatic bone and",
       "peers": [
         "zygomaticomaxillary"
@@ -27097,6 +27868,7 @@
   "zygomorphic": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27120,6 +27892,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27143,6 +27916,7 @@
   "zygomorphism": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27166,6 +27940,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27189,6 +27964,7 @@
   "zygomycete": [
     {
       "id": "r_37accf993475625a",
+      "root": "-mycete",
       "meaning": "fungus",
       "peers": [
         "ascomycete",
@@ -27198,6 +27974,7 @@
     },
     {
       "id": "r_9fdbb3d27cf1f7c5",
+      "root": "mycet",
       "meaning": "fungus",
       "peers": [
         "ascomycete",
@@ -27207,6 +27984,7 @@
     },
     {
       "id": "r_db70b4d37f681cc1",
+      "root": "myc",
       "meaning": "fungus",
       "peers": [
         "mycobacteria",
@@ -27228,6 +28006,7 @@
   "zygomycosis": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27251,6 +28030,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27272,6 +28052,7 @@
     },
     {
       "id": "r_db70b4d37f681cc1",
+      "root": "myc",
       "meaning": "fungus",
       "peers": [
         "mycobacteria",
@@ -27293,6 +28074,7 @@
   "zygomycota": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27316,6 +28098,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27339,6 +28122,7 @@
   "zygon": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27362,6 +28146,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27385,6 +28170,7 @@
   "zygonema": [
     {
       "id": "r_126a7c4f12ed015d",
+      "root": "ne",
       "meaning": "spin",
       "peers": [
         "axoneme",
@@ -27404,6 +28190,7 @@
   "zygospore": [
     {
       "id": "r_2d1d0e7bbad1b82f",
+      "root": "spor",
       "meaning": "sowing; seed",
       "peers": [
         "aplanospore",
@@ -27441,6 +28228,7 @@
     },
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27464,6 +28252,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27485,6 +28274,7 @@
     },
     {
       "id": "r_d62f255869367afa",
+      "root": "spore",
       "meaning": "spore having a specified origin or characteristic",
       "peers": [
         "aplanospore",
@@ -27507,6 +28297,7 @@
   "zygote": [
     {
       "id": "r_351a8f6132137dc9",
+      "root": "zyg",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27530,6 +28321,7 @@
     },
     {
       "id": "r_41f5d40d2806cd58",
+      "root": "zygo",
       "meaning": "pair; yoke, join",
       "peers": [
         "azygous",
@@ -27553,6 +28345,7 @@
   "zygotene": [
     {
       "id": "r_e91ad0a25a49abff",
+      "root": "tene",
       "meaning": "stage of meiotic prophase characterized by chromosomal filaments",
       "peers": [
         "diplotene",
@@ -27565,6 +28358,7 @@
   "zymase": [
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -27587,6 +28381,7 @@
   "zyme": [
     {
       "id": "r_3a7362096770cb68",
+      "root": "zyme",
       "meaning": "leaven; ferment",
       "peers": [
         "alloenzyme",
@@ -27598,6 +28393,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -27620,6 +28416,7 @@
   "zymogen": [
     {
       "id": "r_8b8a7fa35c98d948",
+      "root": "zymo",
       "meaning": "ferment",
       "peers": [
         "zymogen",
@@ -27631,6 +28428,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -27653,6 +28451,7 @@
   "zymology": [
     {
       "id": "r_01bf58f4c2221d8c",
+      "root": "-logy",
       "meaning": "study of, science of; written work; structure or principle",
       "peers": [
         "aerobiology",
@@ -27784,6 +28583,7 @@
     },
     {
       "id": "r_8b8a7fa35c98d948",
+      "root": "zymo",
       "meaning": "ferment",
       "peers": [
         "zymogen",
@@ -27795,6 +28595,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -27815,6 +28616,7 @@
     },
     {
       "id": "r_a26b2e2b91a79bfb",
+      "root": "-ology",
       "meaning": "study of, science of; written work; structure or principle",
       "peers": [
         "aerobiology",
@@ -27951,6 +28753,7 @@
   "zymolysis": [
     {
       "id": "r_8b8a7fa35c98d948",
+      "root": "zymo",
       "meaning": "ferment",
       "peers": [
         "zymogen",
@@ -27962,6 +28765,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -27984,6 +28788,7 @@
   "zymosis": [
     {
       "id": "r_8b8a7fa35c98d948",
+      "root": "zymo",
       "meaning": "ferment",
       "peers": [
         "zymogen",
@@ -27995,6 +28800,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -28017,6 +28823,7 @@
   "zymotic": [
     {
       "id": "r_8b8a7fa35c98d948",
+      "root": "zymo",
       "meaning": "ferment",
       "peers": [
         "zymogen",
@@ -28028,6 +28835,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -28050,6 +28858,7 @@
   "zymurgy": [
     {
       "id": "r_23a3f9e6e61a2788",
+      "root": "urg",
       "meaning": "work",
       "peers": [
         "dramaturgy",
@@ -28066,6 +28875,7 @@
     },
     {
       "id": "r_8ebae42a9df83848",
+      "root": "zym",
       "meaning": "ferment, leaven; enzyme",
       "peers": [
         "alloenzyme",
@@ -28086,6 +28896,7 @@
     },
     {
       "id": "r_f2924439431eadb9",
+      "root": "-urgy",
       "meaning": "work, working with",
       "peers": [
         "metallurgy",
@@ -28096,6 +28907,7 @@
   "zythology": [
     {
       "id": "r_dcfb1c0a8aa13ccf",
+      "root": "zytho",
       "meaning": "beer",
       "peers": [
         "zythology"
@@ -28105,6 +28917,7 @@
   "émigré": [
     {
       "id": "r_2d495d78871c5900",
+      "root": "migr",
       "meaning": "wander",
       "peers": [
         "countermigration",
