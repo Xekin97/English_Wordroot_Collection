@@ -1,0 +1,3525 @@
+{
+  "armless": [
+    "r_3b098c1747171eef",
+    "r_c0abd211fdff83d9"
+  ],
+  "armlet": [
+    "r_5e620019cc3d7744"
+  ],
+  "armlike": [
+    "r_47cc2af9dae31cc0"
+  ],
+  "armor": [
+    "r_447de33cd0e6bd1a"
+  ],
+  "armor-clad": [
+    "r_c4e17e67d28128e8"
+  ],
+  "armored": [
+    "r_447de33cd0e6bd1a"
+  ],
+  "armorer": [
+    "r_447de33cd0e6bd1a"
+  ],
+  "armory": [
+    "r_447de33cd0e6bd1a"
+  ],
+  "armour": [
+    "r_447de33cd0e6bd1a"
+  ],
+  "armour-clad": [
+    "r_c4e17e67d28128e8"
+  ],
+  "armpit": [
+    "r_3b098c1747171eef"
+  ],
+  "army": [
+    "r_447de33cd0e6bd1a"
+  ],
+  "aroma": [
+    "r_f056c1930fc75c3f"
+  ],
+  "aromachology": [
+    "r_a716ea80c9fb8f73"
+  ],
+  "aromatherapy": [
+    "r_f056c1930fc75c3f"
+  ],
+  "aromatic": [
+    "r_88125d04811b3b52",
+    "r_f056c1930fc75c3f"
+  ],
+  "around": [
+    "r_cfe743fd0d98fd6b"
+  ],
+  "arraign": [
+    "r_1a1466c2e297f0bb"
+  ],
+  "arrange": [
+    "r_1a1466c2e297f0bb",
+    "r_3f28eba7b208e1b6"
+  ],
+  "arranged": [
+    "r_3f28eba7b208e1b6"
+  ],
+  "arrangement": [
+    "r_1a1466c2e297f0bb",
+    "r_3f28eba7b208e1b6",
+    "r_b5e7951a290aa57d"
+  ],
+  "arranger": [
+    "r_3f28eba7b208e1b6"
+  ],
+  "array": [
+    "r_ff9703b7deaabec9"
+  ],
+  "arrayed": [
+    "r_ff9703b7deaabec9"
+  ],
+  "arreption": [
+    "r_1a1466c2e297f0bb"
+  ],
+  "arrest": [
+    "r_1a1466c2e297f0bb",
+    "r_88a87265d53b06cd"
+  ],
+  "arrested": [
+    "r_88a87265d53b06cd"
+  ],
+  "arresting": [
+    "r_88a87265d53b06cd"
+  ],
+  "arrhythmia": [
+    "r_1e11b5858a51acf8",
+    "r_f9b1df84a5445b31"
+  ],
+  "arrhythmic": [
+    "r_1e11b5858a51acf8"
+  ],
+  "arride": [
+    "r_1a1466c2e297f0bb"
+  ],
+  "arrival": [
+    "r_1a1466c2e297f0bb",
+    "r_d1909ab82f08fc93"
+  ],
+  "arrive": [
+    "r_1a1466c2e297f0bb"
+  ],
+  "arrogance": [
+    "r_0cd47dd0dec6cb9a",
+    "r_1a1466c2e297f0bb",
+    "r_65a6db20fecae203"
+  ],
+  "arrogant": [
+    "r_0cd47dd0dec6cb9a",
+    "r_1a1466c2e297f0bb",
+    "r_4e241e182ad245f9",
+    "r_a16c1287a1285f72"
+  ],
+  "arrogantly": [
+    "r_0cd47dd0dec6cb9a",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "arrogate": [
+    "r_0cd47dd0dec6cb9a",
+    "r_1a1466c2e297f0bb",
+    "r_4e241e182ad245f9",
+    "r_71090cab6dfe9b72",
+    "r_7240156d8749caab"
+  ],
+  "arrowsmith": [
+    "r_e4758c0b51e42a31"
+  ],
+  "arsabenzene": [
+    "r_f0d9cc5c1abf6ca4"
+  ],
+  "arsenobenzene": [
+    "r_7c25a259b76e6c13"
+  ],
+  "arsenopyrite": [
+    "r_7c25a259b76e6c13"
+  ],
+  "arson": [
+    "r_22e69acefebdc08f"
+  ],
+  "arsonate": [
+    "r_e892282581b94fc4"
+  ],
+  "arsonist": [
+    "r_22e69acefebdc08f",
+    "r_98e41edddda09423"
+  ],
+  "arsonoacetic acid": [
+    "r_f0e12a5ab8c49e42"
+  ],
+  "art": [
+    "r_9717f2db906b0912"
+  ],
+  "artemether": [
+    "r_b6923a107831f3c2"
+  ],
+  "arterial": [
+    "r_f5429e73dba4005f"
+  ],
+  "arterialization": [
+    "r_f5429e73dba4005f"
+  ],
+  "arterialize": [
+    "r_f5429e73dba4005f"
+  ],
+  "arteriectasis": [
+    "r_74c30378e0526a66"
+  ],
+  "arteriogram": [
+    "r_7d49a0963eedab6f",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriography": [
+    "r_7205234065a3e70d",
+    "r_7d49a0963eedab6f",
+    "r_dc21d11f32778f92",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriolar": [
+    "r_f5429e73dba4005f"
+  ],
+  "arteriole": [
+    "r_7d49a0963eedab6f",
+    "r_895084ebeb61526c",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriology": [
+    "r_f5429e73dba4005f"
+  ],
+  "arteriolopathy": [
+    "r_d620bf7b7d8aed7b"
+  ],
+  "arteriolosclerosis": [
+    "r_7d49a0963eedab6f",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriosclerosis": [
+    "r_7d49a0963eedab6f",
+    "r_8db81dc3232f82a3",
+    "r_9f9e7f1f17aa5d68",
+    "r_bd46fd69970df5a1",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriosclerosis obliterans": [
+    "r_7d49a0963eedab6f",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriosclerotic": [
+    "r_7d49a0963eedab6f",
+    "r_f5429e73dba4005f"
+  ],
+  "arteriotomy": [
+    "r_f5429e73dba4005f"
+  ],
+  "arteriovenous": [
+    "r_7d49a0963eedab6f",
+    "r_f5429e73dba4005f"
+  ],
+  "arteritis": [
+    "r_f5429e73dba4005f"
+  ],
+  "artery": [
+    "r_f5429e73dba4005f"
+  ],
+  "artful": [
+    "r_8e7eafaba7e19e15",
+    "r_9717f2db906b0912"
+  ],
+  "artfulness": [
+    "r_2e94b10a5733577d",
+    "r_9717f2db906b0912"
+  ],
+  "arthralgia": [
+    "r_0ca10c2941b4ac95",
+    "r_20a02c0566f4a485",
+    "r_90d791e6868bf403",
+    "r_dc530ccca61c82db"
+  ],
+  "arthralgic": [
+    "r_20a02c0566f4a485"
+  ],
+  "arthritic": [
+    "r_20a02c0566f4a485",
+    "r_c48a06e467d39250"
+  ],
+  "arthritis": [
+    "r_20a02c0566f4a485",
+    "r_8157e81bceab1c70"
+  ],
+  "arthrocentesis": [
+    "r_20a02c0566f4a485",
+    "r_4a4ee51a2ef469ab"
+  ],
+  "arthroclasia": [
+    "r_da8d437cd026452b"
+  ],
+  "arthrodesis": [
+    "r_20a02c0566f4a485",
+    "r_450de363ad22b3ba"
+  ],
+  "arthrogram": [
+    "r_20a02c0566f4a485"
+  ],
+  "arthrography": [
+    "r_20a02c0566f4a485"
+  ],
+  "arthrogryposis": [
+    "r_20a02c0566f4a485",
+    "r_4ecabcb7ceb5a92d"
+  ],
+  "arthromere": [
+    "r_20a02c0566f4a485",
+    "r_6494fdb500273200",
+    "r_a28f3e1ceabe4512"
+  ],
+  "arthromeric": [
+    "r_20a02c0566f4a485"
+  ],
+  "arthropathy": [
+    "r_20a02c0566f4a485",
+    "r_a083daad20c6acc1",
+    "r_d1f369fc1ba73acd"
+  ],
+  "arthroplasty": [
+    "r_20a02c0566f4a485",
+    "r_401b5a4065a35f5e",
+    "r_b91f2689141e3d2e"
+  ],
+  "arthropod": [
+    "r_20a02c0566f4a485",
+    "r_350dec69a955e50c",
+    "r_401b5a4065a35f5e",
+    "r_5e05d553d699ef55"
+  ],
+  "arthroscope": [
+    "r_20a02c0566f4a485",
+    "r_401b5a4065a35f5e",
+    "r_9e52cc4870a9c2c1",
+    "r_a5920994c55726da"
+  ],
+  "arthrospore": [
+    "r_d62f255869367afa"
+  ],
+  "arthroxesis": [
+    "r_4ac5d8274ebbc4c2"
+  ],
+  "article": [
+    "r_829424d37131504e"
+  ],
+  "articular": [
+    "r_4bb7a76ae02c1756"
+  ],
+  "articulate": [
+    "r_264a7e4043413297",
+    "r_829424d37131504e"
+  ],
+  "articulated": [
+    "r_829424d37131504e"
+  ],
+  "articulately": [
+    "r_829424d37131504e",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "articulateness": [
+    "r_2e94b10a5733577d",
+    "r_829424d37131504e"
+  ],
+  "articulation": [
+    "r_829424d37131504e"
+  ],
+  "articulator": [
+    "r_829424d37131504e"
+  ],
+  "artifact": [
+    "r_72f8a30d2e7a602f",
+    "r_90ad866145dc561b",
+    "r_9717f2db906b0912"
+  ],
+  "artifice": [
+    "r_9717f2db906b0912",
+    "r_d96ab84612ae3ff1"
+  ],
+  "artificial": [
+    "r_24e772217a953c8e",
+    "r_9717f2db906b0912",
+    "r_b2ee881c071dfaa1",
+    "r_d96ab84612ae3ff1"
+  ],
+  "artificiality": [
+    "r_9717f2db906b0912",
+    "r_b7cdcb90d9054f03"
+  ],
+  "artillerist": [
+    "r_1b08e162aa69e941"
+  ],
+  "artillery": [
+    "r_1b08e162aa69e941"
+  ],
+  "artiodactyl": [
+    "r_1d8d9eb498cd0e6f",
+    "r_8dadc272535512b5"
+  ],
+  "artiodactylous": [
+    "r_8dadc272535512b5"
+  ],
+  "artisan": [
+    "r_9717f2db906b0912"
+  ],
+  "artisanal": [
+    "r_9717f2db906b0912"
+  ],
+  "artist": [
+    "r_9717f2db906b0912",
+    "r_98e41edddda09423"
+  ],
+  "artistic": [
+    "r_88125d04811b3b52",
+    "r_9717f2db906b0912"
+  ],
+  "artistical": [
+    "r_9717f2db906b0912"
+  ],
+  "artistically": [
+    "r_9717f2db906b0912"
+  ],
+  "artistry": [
+    "r_9717f2db906b0912"
+  ],
+  "artless": [
+    "r_9717f2db906b0912",
+    "r_c0abd211fdff83d9"
+  ],
+  "artlessly": [
+    "r_9717f2db906b0912",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "artnap": [
+    "r_55394d35b5c9c71f"
+  ],
+  "artolater": [
+    "r_be167d0e78637fa1"
+  ],
+  "artwork": [
+    "r_8931747745eacafe",
+    "r_9717f2db906b0912"
+  ],
+  "arundinaceous": [
+    "r_9e051d70087095fe"
+  ],
+  "arvo": [
+    "r_bnew20261125_o_colloquial"
+  ],
+  "aryepiglottic": [
+    "r_2686037acfc0745d",
+    "r_db5c433494925e2b"
+  ],
+  "asbestoidal": [
+    "r_0276423c3e7c954d"
+  ],
+  "ascariasis": [
+    "r_8b2128812eb107cd",
+    "r_bfac01ac454d92a2"
+  ],
+  "ascend": [
+    "r_106b4c05acc2af08",
+    "r_4fc4771a465fd71d",
+    "r_f6fddf63274975af"
+  ],
+  "ascendancy": [
+    "r_04a3d76291777804",
+    "r_106b4c05acc2af08"
+  ],
+  "ascendant": [
+    "r_106b4c05acc2af08"
+  ],
+  "ascendency": [
+    "r_106b4c05acc2af08"
+  ],
+  "ascendent": [
+    "r_106b4c05acc2af08"
+  ],
+  "ascending": [
+    "r_106b4c05acc2af08"
+  ],
+  "ascension": [
+    "r_d86422ffbd3acf46"
+  ],
+  "ascent": [
+    "r_106b4c05acc2af08"
+  ],
+  "ascertain": [
+    "r_5ac3d154d1626e07",
+    "r_f6fddf63274975af"
+  ],
+  "ascertainable": [
+    "r_5ac3d154d1626e07",
+    "r_d17c8c06b3351d59"
+  ],
+  "ascertainment": [
+    "r_5ac3d154d1626e07"
+  ],
+  "ascetic": [
+    "r_547a3cb8a11bd292",
+    "r_be9c69dc8a479199"
+  ],
+  "asceticism": [
+    "r_be9c69dc8a479199"
+  ],
+  "ascidiozooid": [
+    "r_5b1bcf15238ff918"
+  ],
+  "ascidium": [
+    "r_4a18522f937ceba6",
+    "r_4b2d6999594f6873"
+  ],
+  "ascigerous": [
+    "r_25a3ce20c87429f8"
+  ],
+  "ascites": [
+    "r_4a18522f937ceba6"
+  ],
+  "ascitic": [
+    "r_4a18522f937ceba6"
+  ],
+  "asclepiadaceous": [
+    "r_9e051d70087095fe"
+  ],
+  "ascocarp": [
+    "r_47af6119a9d3da61",
+    "r_4a18522f937ceba6"
+  ],
+  "ascocarpous": [
+    "r_31bbd12b017f2735",
+    "r_47af6119a9d3da61",
+    "r_95acbf86f9d2d74c"
+  ],
+  "ascolichen": [
+    "r_47af6119a9d3da61"
+  ],
+  "ascoma": [
+    "r_47af6119a9d3da61",
+    "r_4a18522f937ceba6"
+  ],
+  "ascomycete": [
+    "r_37accf993475625a",
+    "r_47af6119a9d3da61",
+    "r_4a18522f937ceba6",
+    "r_9fdbb3d27cf1f7c5",
+    "r_db70b4d37f681cc1"
+  ],
+  "ascomycetous": [
+    "r_47af6119a9d3da61"
+  ],
+  "ascospore": [
+    "r_47af6119a9d3da61",
+    "r_4a18522f937ceba6"
+  ],
+  "ascosporic": [
+    "r_47af6119a9d3da61"
+  ],
+  "ascosporous": [
+    "r_47af6119a9d3da61"
+  ],
+  "ascribe": [
+    "r_4fc4771a465fd71d",
+    "r_7b7699c0e550cfcb"
+  ],
+  "ascribed": [
+    "r_7b7699c0e550cfcb"
+  ],
+  "ascription": [
+    "r_d642e5f91e36ae45"
+  ],
+  "ascriptive": [
+    "r_d642e5f91e36ae45"
+  ],
+  "ascus": [
+    "r_4a18522f937ceba6"
+  ],
+  "aseismic": [
+    "r_69246a88daa0409c"
+  ],
+  "asemasia": [
+    "r_4949471ed654150e"
+  ],
+  "asepsis": [
+    "r_b7886eaba945934f"
+  ],
+  "aseptic": [
+    "r_b7886eaba945934f",
+    "r_f9b1df84a5445b31"
+  ],
+  "asexual": [
+    "r_d94b1b69a71dd646",
+    "r_f9b1df84a5445b31"
+  ],
+  "asexually": [
+    "r_d94b1b69a71dd646"
+  ],
+  "ashamed": [
+    "r_0bc6255510c3a05d"
+  ],
+  "ashen": [
+    "r_a22776dbcce8f567"
+  ],
+  "ashes": [
+    "r_fa0ab6234395835a"
+  ],
+  "ashore": [
+    "r_d3a3eca3cb0155ea",
+    "r_f2f11db89040be73"
+  ],
+  "asialofetuin": [
+    "r_fc947936b0630951"
+  ],
+  "aside": [
+    "r_13ef100fcedd1a97"
+  ],
+  "asinine": [
+    "r_1e3b8baa750e35e2"
+  ],
+  "ask": [
+    "r_878a8b58cea88779"
+  ],
+  "asking": [
+    "r_878a8b58cea88779"
+  ],
+  "asleep": [
+    "r_1824eb1c0d41a965"
+  ],
+  "asocial": [
+    "r_813d9effafd211ca",
+    "r_f9b1df84a5445b31"
+  ],
+  "asomatous": [
+    "r_2460e2562157cb76",
+    "r_589fb9e3ed8b30c9",
+    "r_8614bf2973661605"
+  ],
+  "aspect": [
+    "r_2eff3ad494a615ba",
+    "r_4fc4771a465fd71d",
+    "r_e26c4e941ce231cd"
+  ],
+  "aspectual": [
+    "r_2eff3ad494a615ba",
+    "r_e26c4e941ce231cd"
+  ],
+  "aspergilloma": [
+    "r_550899e66fc74d00"
+  ],
+  "aspergillomycosis": [
+    "r_3f7bd859630c72d4"
+  ],
+  "asperity": [
+    "r_01810529abf408a4",
+    "r_b7cdcb90d9054f03",
+    "r_f09c8a53bd3c5e70"
+  ],
+  "asperse": [
+    "r_8cc80f194908b367"
+  ],
+  "aspersion": [
+    "r_671019f8a8913992",
+    "r_8cc80f194908b367"
+  ],
+  "aspersive": [
+    "r_8cc80f194908b367"
+  ],
+  "aspheric": [
+    "r_76f6f45f7c1f2f9d"
+  ],
+  "asphyxia": [
+    "r_f9b1df84a5445b31"
+  ],
+  "aspidate": [
+    "r_d7d7882dcaa34398"
+  ],
+  "aspirant": [
+    "r_6971ecd79ab6860d"
+  ],
+  "aspirate": [
+    "r_4fc4771a465fd71d",
+    "r_6971ecd79ab6860d",
+    "r_7240156d8749caab"
+  ],
+  "aspirated": [
+    "r_6971ecd79ab6860d"
+  ],
+  "aspiration": [
+    "r_6971ecd79ab6860d"
+  ],
+  "aspirational": [
+    "r_6971ecd79ab6860d"
+  ],
+  "aspire": [
+    "r_4fc4771a465fd71d",
+    "r_6971ecd79ab6860d"
+  ],
+  "aspiring": [
+    "r_6971ecd79ab6860d"
+  ],
+  "asplenia": [
+    "r_e62aa7467d09d339"
+  ],
+  "assail": [
+    "r_71f6abcc445a3649"
+  ],
+  "assailable": [
+    "r_71f6abcc445a3649",
+    "r_d17c8c06b3351d59"
+  ],
+  "assailant": [
+    "r_71f6abcc445a3649"
+  ],
+  "assassin": [
+    "r_12017376022b43e2"
+  ],
+  "assassinate": [
+    "r_12017376022b43e2"
+  ],
+  "assassinated": [
+    "r_12017376022b43e2"
+  ],
+  "assassination": [
+    "r_12017376022b43e2"
+  ],
+  "assault": [
+    "r_5fea11bc13db935c",
+    "r_f6fddf63274975af"
+  ],
+  "assaulted": [
+    "r_5fea11bc13db935c"
+  ],
+  "assaultive": [
+    "r_5fea11bc13db935c"
+  ],
+  "assecure": [
+    "r_d4b248038cf7b600"
+  ],
+  "assemblage": [
+    "r_739ff75a8e44b3ba"
+  ],
+  "assemble": [
+    "r_ff2160cbe71912cd"
+  ],
+  "assembled": [
+    "r_ff2160cbe71912cd"
+  ],
+  "assembler": [
+    "r_ff2160cbe71912cd"
+  ],
+  "assembling": [
+    "r_ff2160cbe71912cd"
+  ],
+  "assembly": [
+    "r_2dcaf6f7bb5b5990",
+    "r_8dc0451a415c83b5",
+    "r_ff2160cbe71912cd"
+  ],
+  "assemblyman": [
+    "r_ff2160cbe71912cd"
+  ],
+  "assemblywoman": [
+    "r_ff2160cbe71912cd"
+  ],
+  "assent": [
+    "r_f6fddf63274975af",
+    "r_f72c74d6805143df"
+  ],
+  "assert": [
+    "r_311b089a0f15ba83",
+    "r_ab20f764dc1f6552",
+    "r_f6fddf63274975af"
+  ],
+  "asserted": [
+    "r_311b089a0f15ba83"
+  ],
+  "assertion": [
+    "r_311b089a0f15ba83",
+    "r_94f841adb5ced61a"
+  ],
+  "assertive": [
+    "r_311b089a0f15ba83",
+    "r_b14aa3fd7e6677e0"
+  ],
+  "assertively": [
+    "r_311b089a0f15ba83",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "assertiveness": [
+    "r_2e94b10a5733577d",
+    "r_311b089a0f15ba83"
+  ],
+  "assess": [
+    "r_d237ed9e500e26e2"
+  ],
+  "assessable": [
+    "r_d237ed9e500e26e2"
+  ],
+  "assessment": [
+    "r_b5e7951a290aa57d",
+    "r_d237ed9e500e26e2"
+  ],
+  "assessor": [
+    "r_d237ed9e500e26e2"
+  ],
+  "asseverate": [
+    "r_9895f837a0a7ea6d"
+  ],
+  "asseveration": [
+    "r_9895f837a0a7ea6d"
+  ],
+  "assiduous": [
+    "r_53e4d7e576f8b416"
+  ],
+  "assign": [
+    "r_78d4241c06d2a3e4",
+    "r_f6fddf63274975af"
+  ],
+  "assignable": [
+    "r_78d4241c06d2a3e4",
+    "r_d17c8c06b3351d59"
+  ],
+  "assignation": [
+    "r_78d4241c06d2a3e4"
+  ],
+  "assigned": [
+    "r_78d4241c06d2a3e4"
+  ],
+  "assignment": [
+    "r_78d4241c06d2a3e4",
+    "r_b5e7951a290aa57d"
+  ],
+  "assimilate": [
+    "r_4fc4771a465fd71d",
+    "r_6b4dce2e0e571241",
+    "r_6b8f9060e976ccdd",
+    "r_7240156d8749caab",
+    "r_8351565324308223",
+    "r_f6fddf63274975af"
+  ],
+  "assimilation": [
+    "r_6b4dce2e0e571241"
+  ],
+  "assimilative": [
+    "r_6b4dce2e0e571241"
+  ],
+  "assimilator": [
+    "r_6b4dce2e0e571241"
+  ],
+  "assist": [
+    "r_751916df255937bd",
+    "r_f6fddf63274975af"
+  ],
+  "assistance": [
+    "r_65a6db20fecae203",
+    "r_751916df255937bd"
+  ],
+  "assistant": [
+    "r_751916df255937bd"
+  ],
+  "assistantship": [
+    "r_751916df255937bd",
+    "r_b8fb3ffcaa949bb2"
+  ],
+  "assisted": [
+    "r_751916df255937bd"
+  ],
+  "assisting": [
+    "r_751916df255937bd"
+  ],
+  "assistive": [
+    "r_751916df255937bd"
+  ],
+  "associate": [
+    "r_7240156d8749caab",
+    "r_813d9effafd211ca"
+  ],
+  "associated": [
+    "r_813d9effafd211ca"
+  ],
+  "association": [
+    "r_813d9effafd211ca"
+  ],
+  "associational": [
+    "r_813d9effafd211ca"
+  ],
+  "associative": [
+    "r_813d9effafd211ca"
+  ],
+  "assoil": [
+    "r_b20261126_a_as_away"
+  ],
+  "assonance": [
+    "r_dc48c9deebcb69e7"
+  ],
+  "assonant": [
+    "r_dc48c9deebcb69e7"
+  ],
+  "assonate": [
+    "r_dc48c9deebcb69e7"
+  ],
+  "assort": [
+    "r_bf5158912653d4f5"
+  ],
+  "assortment": [
+    "r_bf5158912653d4f5"
+  ],
+  "assume": [
+    "r_74d44035ba0bc1d7",
+    "r_f27dbbf0ca997936",
+    "r_f6fddf63274975af"
+  ],
+  "assumed": [
+    "r_f27dbbf0ca997936"
+  ],
+  "assuming": [
+    "r_f27dbbf0ca997936"
+  ],
+  "assumption": [
+    "r_2f3d83bcf96e1e63",
+    "r_f27dbbf0ca997936",
+    "r_f6fddf63274975af"
+  ],
+  "assurance": [
+    "r_1ae39de623d8db1e",
+    "r_e93a81496ba9ec8e"
+  ],
+  "assure": [
+    "r_1ae39de623d8db1e",
+    "r_e93a81496ba9ec8e"
+  ],
+  "assured": [
+    "r_1ae39de623d8db1e",
+    "r_e93a81496ba9ec8e"
+  ],
+  "assuredly": [
+    "r_1ae39de623d8db1e",
+    "r_e87e5c07dddcb6d7",
+    "r_e93a81496ba9ec8e"
+  ],
+  "astasia": [
+    "r_55edd99b6c4e6e25"
+  ],
+  "astatine": [
+    "r_c8aea32514e2d66a",
+    "r_dd511342d1c3bc2d",
+    "r_f9b1df84a5445b31"
+  ],
+  "astelic": [
+    "r_f2e2f101268b9697"
+  ],
+  "aster": [
+    "r_350fa5755bf98e87",
+    "r_9e3d099c698df24b"
+  ],
+  "asterisk": [
+    "r_350fa5755bf98e87"
+  ],
+  "asterism": [
+    "r_350fa5755bf98e87"
+  ],
+  "astern": [
+    "r_909fc6ee91396ca4",
+    "r_f2f11db89040be73"
+  ],
+  "asteroid": [
+    "r_350fa5755bf98e87",
+    "r_eb16d5b9515e53ce"
+  ],
+  "asteroseismology": [
+    "r_8c9fb4440ec321df"
+  ],
+  "asthenia": [
+    "r_0b52b574b115e0a5",
+    "r_f9b1df84a5445b31"
+  ],
+  "asthenopia": [
+    "r_92bd2951c4996236",
+    "r_9e4dd92c17d2d574"
+  ],
+  "asthenosphere": [
+    "r_0b52b574b115e0a5",
+    "r_92bd2951c4996236",
+    "r_e69a1610f18759eb"
+  ],
+  "asthenozoospermia": [
+    "r_92bd2951c4996236"
+  ],
+  "astigmatic": [
+    "r_be791880a41f2d6e"
+  ],
+  "astigmatism": [
+    "r_be791880a41f2d6e",
+    "r_f9b1df84a5445b31"
+  ],
+  "astir": [
+    "r_96aabf507c84ced4"
+  ],
+  "astonish": [
+    "r_8caff4c1f3666a87"
+  ],
+  "astound": [
+    "r_21b7cf42e0b11b72"
+  ],
+  "astounded": [
+    "r_21b7cf42e0b11b72"
+  ],
+  "astounding": [
+    "r_21b7cf42e0b11b72"
+  ],
+  "astoundingly": [
+    "r_21b7cf42e0b11b72"
+  ],
+  "astragalar": [
+    "r_4bb7a76ae02c1756"
+  ],
+  "astragalectomy": [
+    "r_af7421595ff98282"
+  ],
+  "astragalocalcaneal": [
+    "r_610b371647895e3a",
+    "r_af7421595ff98282"
+  ],
+  "astragalomancy": [
+    "r_pending20261126_c_astragal_dice"
+  ],
+  "astral": [
+    "r_24e772217a953c8e",
+    "r_b44d52bf614ce139"
+  ],
+  "astride": [
+    "r_5c94a8a1b1b5cae6"
+  ],
+  "astringent": [
+    "r_d44796f6abd6d28a"
+  ],
+  "astrobiology": [
+    "r_7fe23dae4e541cd4",
+    "r_9572c7358e94c340",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrobleme": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrocentric": [
+    "r_9e3d099c698df24b"
+  ],
+  "astrocyte": [
+    "r_6b6f4ec13d2649a5",
+    "r_715e6924c6b986da",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrocytic": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrodome": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrodynamics": [
+    "r_861ad986902a77b7",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrogate": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrogator": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astroglia": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrolabe": [
+    "r_375acec17d9a37e0",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrolatry": [
+    "r_4cb92f99ca79f9f1",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrologer": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139",
+    "r_e6944e346285e89d"
+  ],
+  "astrological": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astrology": [
+    "r_01bf58f4c2221d8c",
+    "r_9e3d099c698df24b",
+    "r_a26b2e2b91a79bfb",
+    "r_b44d52bf614ce139"
+  ],
+  "astrometry": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astronaut": [
+    "r_8a42fb09755a95c2",
+    "r_9e3d099c698df24b",
+    "r_b20261126_a_astro_space",
+    "r_b44d52bf614ce139",
+    "r_e33abdacce435e27"
+  ],
+  "astronautess": [
+    "r_e33abdacce435e27"
+  ],
+  "astronautic": [
+    "r_e33abdacce435e27"
+  ],
+  "astronautical": [
+    "r_e33abdacce435e27"
+  ],
+  "astronautics": [
+    "r_861ad986902a77b7",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139",
+    "r_e33abdacce435e27"
+  ],
+  "astronavigation": [
+    "r_d7f9464ee44c04a9"
+  ],
+  "astronomer": [
+    "r_b44d52bf614ce139",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "astronomical": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "astronomical unit": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139"
+  ],
+  "astronomically": [
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139",
+    "r_e87e5c07dddcb6d7",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "astronomy": [
+    "r_45bf53952bb0b668",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139",
+    "r_ed4bdae3dfd6d39a",
+    "r_pending20261126_c_nomy_knowledge"
+  ],
+  "astrophotography": [
+    "r_f0c9e8c80829a3eb"
+  ],
+  "astrophysics": [
+    "r_861ad986902a77b7",
+    "r_9e3d099c698df24b",
+    "r_b44d52bf614ce139",
+    "r_e2aac1d81fa9b5a4"
+  ],
+  "asunder": [
+    "r_f2f11db89040be73"
+  ],
+  "aswoon": [
+    "r_d3e6870ac139112a"
+  ],
+  "asymmetric": [
+    "r_7be3def87a0623b5",
+    "r_d94bb378b41afbcf"
+  ],
+  "asymmetrical": [
+    "r_7be3def87a0623b5"
+  ],
+  "asymmetrically": [
+    "r_7be3def87a0623b5"
+  ],
+  "asymmetry": [
+    "r_511c0c899244ad42",
+    "r_7be3def87a0623b5",
+    "r_8605789fdd00d47c",
+    "r_f9b1df84a5445b31"
+  ],
+  "asymptomatic": [
+    "r_10254f377335cc24"
+  ],
+  "asymptote": [
+    "r_8605789fdd00d47c",
+    "r_f9b1df84a5445b31"
+  ],
+  "asynchronous": [
+    "r_7a7a706f5bc6b739",
+    "r_832473278292c79c"
+  ],
+  "at-go": [
+    "r_pending20261126_b_at_away"
+  ],
+  "ataractic": [
+    "r_ea4985275ced0e94",
+    "r_f9b1df84a5445b31"
+  ],
+  "ataxia": [
+    "r_009d54187d899342",
+    "r_5f11a76674da1c94",
+    "r_8c087f69315562d9",
+    "r_f9b1df84a5445b31"
+  ],
+  "atelectasis": [
+    "r_39b37fdb8b59e399",
+    "r_74c30378e0526a66"
+  ],
+  "atelomyelia": [
+    "r_25811ffd2be3ff6a"
+  ],
+  "atelorachidia": [
+    "r_63522e582e1ea18b"
+  ],
+  "atemporal": [
+    "r_781360e8094ab5ca"
+  ],
+  "atheism": [
+    "r_1f1e5a932b6a34cd",
+    "r_9b4fdfa4781b546c",
+    "r_de031acbc6e2cc1f",
+    "r_f9b1df84a5445b31"
+  ],
+  "atheist": [
+    "r_de031acbc6e2cc1f",
+    "r_f9b1df84a5445b31"
+  ],
+  "atheistic": [
+    "r_1f1e5a932b6a34cd",
+    "r_88125d04811b3b52",
+    "r_de031acbc6e2cc1f"
+  ],
+  "atheling": [
+    "r_ca27d2210df836df"
+  ],
+  "athermancy": [
+    "r_31c4f92fda324e53"
+  ],
+  "atherogenic": [
+    "r_a751927d16fbac7f"
+  ],
+  "atheroma": [
+    "r_a751927d16fbac7f"
+  ],
+  "atherosclerosis": [
+    "r_4f6bf79ecb3c864c",
+    "r_8db81dc3232f82a3",
+    "r_9f9e7f1f17aa5d68",
+    "r_a751927d16fbac7f"
+  ],
+  "athlete": [
+    "r_f0ab60458673ee9d"
+  ],
+  "athletic": [
+    "r_f0ab60458673ee9d"
+  ],
+  "athletically": [
+    "r_f0ab60458673ee9d"
+  ],
+  "athleticism": [
+    "r_f0ab60458673ee9d"
+  ],
+  "athletics": [
+    "r_861ad986902a77b7",
+    "r_f0ab60458673ee9d"
+  ],
+  "atlantad": [
+    "r_8e279e02cd4cb984"
+  ],
+  "atlantoaxial": [
+    "r_ad029841e84a0a9c"
+  ],
+  "atloaxoid": [
+    "r_8eeff8c3ae1a5859"
+  ],
+  "atmidalbumin": [
+    "r_d8e2a0f3389e55c6"
+  ],
+  "atmidometer": [
+    "r_3d33f9952d6ca0b2"
+  ],
+  "atmometer": [
+    "r_0a1d164be6ae0544"
+  ],
+  "atmosphere": [
+    "r_0a1d164be6ae0544",
+    "r_76f6f45f7c1f2f9d",
+    "r_d940c87122099820",
+    "r_e722c0097bb9571a"
+  ],
+  "atmospheric": [
+    "r_0a1d164be6ae0544",
+    "r_76f6f45f7c1f2f9d",
+    "r_e722c0097bb9571a"
+  ],
+  "atmospherical": [
+    "r_0a1d164be6ae0544"
+  ],
+  "atmospherics": [
+    "r_76f6f45f7c1f2f9d",
+    "r_861ad986902a77b7"
+  ],
+  "atom": [
+    "r_a75f63c40e270577",
+    "r_f9b1df84a5445b31"
+  ],
+  "atomic": [
+    "r_88125d04811b3b52",
+    "r_a75f63c40e270577"
+  ],
+  "atomics": [
+    "r_a75f63c40e270577"
+  ],
+  "atomism": [
+    "r_a75f63c40e270577"
+  ],
+  "atomist": [
+    "r_a75f63c40e270577"
+  ],
+  "atomistic": [
+    "r_a75f63c40e270577"
+  ],
+  "atomization": [
+    "r_a75f63c40e270577"
+  ],
+  "atomize": [
+    "r_a75f63c40e270577"
+  ],
+  "atomized": [
+    "r_a75f63c40e270577"
+  ],
+  "atomizer": [
+    "r_3d066a6c1d03a643",
+    "r_a75f63c40e270577"
+  ],
+  "atonal": [
+    "r_6a7ea55f9a11fe8d",
+    "r_f9b1df84a5445b31"
+  ],
+  "atonality": [
+    "r_6a7ea55f9a11fe8d",
+    "r_b7cdcb90d9054f03"
+  ],
+  "atonia": [
+    "r_6a7ea55f9a11fe8d"
+  ],
+  "atonic": [
+    "r_6a7ea55f9a11fe8d"
+  ],
+  "atonicity": [
+    "r_6a7ea55f9a11fe8d"
+  ],
+  "atony": [
+    "r_6a7ea55f9a11fe8d"
+  ],
+  "atop": [
+    "r_3dd2a7cd3806cd12",
+    "r_f2f11db89040be73"
+  ],
+  "atopic": [
+    "r_bf9a2b84a2872e53"
+  ],
+  "atopy": [
+    "r_bf9a2b84a2872e53"
+  ],
+  "atorvastatin": [
+    "r_37a42d5d913369c9",
+    "r_c9265ad013f45ea8"
+  ],
+  "atracurium": [
+    "r_33f602095c59a71b"
+  ],
+  "atraumatic": [
+    "r_4162ed84ccc9d687"
+  ],
+  "atrial": [
+    "r_ed1150f246376bf6"
+  ],
+  "atriopore": [
+    "r_aef5e753839d464c"
+  ],
+  "atrioventricular": [
+    "r_aef5e753839d464c",
+    "r_e845b002bbb79794"
+  ],
+  "atrocastaneous": [
+    "r_c2bc209945c5ffb4"
+  ],
+  "atrocious": [
+    "r_107e783b19034980",
+    "r_21077087b1c0835a",
+    "r_d6be1a4797a1f97e"
+  ],
+  "atrocity": [
+    "r_21077087b1c0835a"
+  ],
+  "atrophic": [
+    "r_40ac7c2e4b645b13",
+    "r_d2dea1a23a52a303"
+  ],
+  "atrophy": [
+    "r_40ac7c2e4b645b13",
+    "r_d7bb3a968244e816",
+    "r_f9b1df84a5445b31"
+  ],
+  "atroposelective": [
+    "r_60646afcdc570a71"
+  ],
+  "atropselective": [
+    "r_47f4361c61ac5ec5"
+  ],
+  "attach": [
+    "r_7381cc8fac5f15db"
+  ],
+  "attached": [
+    "r_7381cc8fac5f15db"
+  ],
+  "attachment": [
+    "r_7381cc8fac5f15db",
+    "r_b5e7951a290aa57d"
+  ],
+  "attack": [
+    "r_549a3afbf36af0c5"
+  ],
+  "attacked": [
+    "r_549a3afbf36af0c5"
+  ],
+  "attacker": [
+    "r_549a3afbf36af0c5"
+  ],
+  "attacking": [
+    "r_549a3afbf36af0c5"
+  ],
+  "attain": [
+    "r_820dd9cefc6016aa"
+  ],
+  "attempt": [
+    "r_b01d4fd62b7bca87"
+  ],
+  "attempted": [
+    "r_b01d4fd62b7bca87"
+  ],
+  "attend": [
+    "r_15decca3bc391700",
+    "r_820dd9cefc6016aa"
+  ],
+  "attendance": [
+    "r_15decca3bc391700",
+    "r_65a6db20fecae203",
+    "r_820dd9cefc6016aa"
+  ],
+  "attendant": [
+    "r_15decca3bc391700"
+  ],
+  "attended": [
+    "r_15decca3bc391700"
+  ],
+  "attendee": [
+    "r_15decca3bc391700"
+  ],
+  "attender": [
+    "r_15decca3bc391700"
+  ],
+  "attending": [
+    "r_15decca3bc391700"
+  ],
+  "attent": [
+    "r_81af32d722709ad3"
+  ],
+  "attention": [
+    "r_81af32d722709ad3",
+    "r_820dd9cefc6016aa",
+    "r_94f841adb5ced61a"
+  ],
+  "attentional": [
+    "r_81af32d722709ad3"
+  ],
+  "attentive": [
+    "r_81af32d722709ad3",
+    "r_b14aa3fd7e6677e0"
+  ],
+  "attentively": [
+    "r_81af32d722709ad3",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "attentiveness": [
+    "r_2e94b10a5733577d",
+    "r_81af32d722709ad3"
+  ],
+  "attenuate": [
+    "r_165f5a2102e28c69"
+  ],
+  "attest": [
+    "r_820dd9cefc6016aa",
+    "r_90f64e75c65fdb65"
+  ],
+  "attestant": [
+    "r_90f64e75c65fdb65"
+  ],
+  "attestation": [
+    "r_90f64e75c65fdb65"
+  ],
+  "attestative": [
+    "r_90f64e75c65fdb65"
+  ],
+  "attestator": [
+    "r_90f64e75c65fdb65"
+  ],
+  "attestor": [
+    "r_90f64e75c65fdb65"
+  ],
+  "atticotomy": [
+    "r_79f05b1965202076"
+  ],
+  "attire": [
+    "r_f781ff35cb5ae9f0"
+  ],
+  "attired": [
+    "r_f781ff35cb5ae9f0"
+  ],
+  "attitude": [
+    "r_6f06623a461316e1",
+    "r_fe99e507b240a4b2"
+  ],
+  "attitudinal": [
+    "r_fe99e507b240a4b2"
+  ],
+  "attitudinize": [
+    "r_fe99e507b240a4b2"
+  ],
+  "attogram": [
+    "r_37490f361a9f0528"
+  ],
+  "attorney": [
+    "r_c45d369a87fda9ab"
+  ],
+  "attract": [
+    "r_487d64f6c36d5c6f",
+    "r_820dd9cefc6016aa"
+  ],
+  "attractant": [
+    "r_487d64f6c36d5c6f"
+  ],
+  "attracted": [
+    "r_487d64f6c36d5c6f"
+  ],
+  "attracting": [
+    "r_487d64f6c36d5c6f"
+  ],
+  "attraction": [
+    "r_487d64f6c36d5c6f",
+    "r_94f841adb5ced61a",
+    "r_c58a4b6622337dad"
+  ],
+  "attractive": [
+    "r_487d64f6c36d5c6f",
+    "r_820dd9cefc6016aa",
+    "r_b14aa3fd7e6677e0"
+  ],
+  "attractively": [
+    "r_487d64f6c36d5c6f",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "attractiveness": [
+    "r_2e94b10a5733577d",
+    "r_487d64f6c36d5c6f"
+  ],
+  "attractor": [
+    "r_487d64f6c36d5c6f"
+  ],
+  "attributable": [
+    "r_e23b31857c66aad1"
+  ],
+  "attribute": [
+    "r_e03936edee229ac5",
+    "r_e23b31857c66aad1",
+    "r_efc4d5e292259714"
+  ],
+  "attribution": [
+    "r_40ac7e62baefffb4",
+    "r_e23b31857c66aad1"
+  ],
+  "attributional": [
+    "r_e23b31857c66aad1"
+  ],
+  "attributive": [
+    "r_e23b31857c66aad1"
+  ],
+  "attrition": [
+    "r_ee4fd1d270d9c209"
+  ],
+  "attune": [
+    "r_0f1575e156daa4d4"
+  ],
+  "attuned": [
+    "r_0f1575e156daa4d4"
+  ],
+  "attunement": [
+    "r_0f1575e156daa4d4"
+  ],
+  "atypical": [
+    "r_9e4cd673c130d6e8",
+    "r_f9b1df84a5445b31"
+  ],
+  "atypically": [
+    "r_9e4cd673c130d6e8",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "auction": [
+    "r_48ad08e3495c7d3b"
+  ],
+  "auctioneer": [
+    "r_48ad08e3495c7d3b",
+    "r_99009c4c78552a29"
+  ],
+  "audacious": [
+    "r_76e1839b83ebfa26",
+    "r_c841056fb52b3103"
+  ],
+  "audacity": [
+    "r_c841056fb52b3103"
+  ],
+  "audibility": [
+    "r_56428c6b4b64b338"
+  ],
+  "audible": [
+    "r_361fbad16ba5f8f1",
+    "r_43b42fb133fd87b8",
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03"
+  ],
+  "audibly": [
+    "r_56428c6b4b64b338"
+  ],
+  "audience": [
+    "r_56428c6b4b64b338",
+    "r_6cfbd7d958df0f2b",
+    "r_8d3be80f0d98af03"
+  ],
+  "audient": [
+    "r_56428c6b4b64b338"
+  ],
+  "audio": [
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03",
+    "r_bc43b0bb4df1fa98"
+  ],
+  "audio-visual": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiobook": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiocassette": [
+    "r_238e0edd34a3e651"
+  ],
+  "audiologic": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiological": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiologist": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiology": [
+    "r_01bf58f4c2221d8c",
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03",
+    "r_a26b2e2b91a79bfb",
+    "r_bc43b0bb4df1fa98"
+  ],
+  "audiometer": [
+    "r_56428c6b4b64b338",
+    "r_c134650af524e955"
+  ],
+  "audiometric": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiometry": [
+    "r_56428c6b4b64b338",
+    "r_f073eb702ca73529"
+  ],
+  "audiophile": [
+    "r_56428c6b4b64b338",
+    "r_dcdd50d7dae46a06",
+    "r_f3f52a22ca685744"
+  ],
+  "audiotape": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiovisual": [
+    "r_8d3be80f0d98af03",
+    "r_913b580b0e6b6568",
+    "r_bc43b0bb4df1fa98"
+  ],
+  "audiovisuals": [
+    "r_56428c6b4b64b338"
+  ],
+  "audiphone": [
+    "r_56428c6b4b64b338"
+  ],
+  "audit": [
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03",
+    "r_aed6e20ea2f4c923"
+  ],
+  "audited": [
+    "r_56428c6b4b64b338"
+  ],
+  "auditing": [
+    "r_56428c6b4b64b338"
+  ],
+  "audition": [
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03",
+    "r_94f841adb5ced61a",
+    "r_aed6e20ea2f4c923"
+  ],
+  "auditor": [
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03",
+    "r_aed6e20ea2f4c923"
+  ],
+  "auditorium": [
+    "r_56428c6b4b64b338",
+    "r_574764d21d1b7982",
+    "r_8d3be80f0d98af03",
+    "r_aed6e20ea2f4c923",
+    "r_e83f893aa8bc1be0"
+  ],
+  "auditory": [
+    "r_045cbb537e0b33bb",
+    "r_56428c6b4b64b338",
+    "r_8d3be80f0d98af03",
+    "r_aed6e20ea2f4c923"
+  ],
+  "augend": [
+    "r_53807bd77bb3fead",
+    "r_b4a2d3174ed12086"
+  ],
+  "augment": [
+    "r_b4a2d3174ed12086"
+  ],
+  "augmentation": [
+    "r_b4a2d3174ed12086"
+  ],
+  "augmentative": [
+    "r_b4a2d3174ed12086"
+  ],
+  "augmented": [
+    "r_b4a2d3174ed12086"
+  ],
+  "augmentor": [
+    "r_b4a2d3174ed12086"
+  ],
+  "august": [
+    "r_b4a2d3174ed12086"
+  ],
+  "auklet": [
+    "r_5e620019cc3d7744"
+  ],
+  "aulete": [
+    "r_556279d441c35bcd"
+  ],
+  "aulophyte": [
+    "r_23fbcfe39695ef19"
+  ],
+  "aulos": [
+    "r_556279d441c35bcd"
+  ],
+  "aural": [
+    "r_4ece6de5de78a577"
+  ],
+  "aurally": [
+    "r_4ece6de5de78a577",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "aureate": [
+    "r_6111a8df125fd2b3"
+  ],
+  "aureole": [
+    "r_6111a8df125fd2b3",
+    "r_895084ebeb61526c",
+    "r_996e1c66324d9e52"
+  ],
+  "auricle": [
+    "r_f91ee791cd97ac1b"
+  ],
+  "auricula": [
+    "r_b6ebc003bda8517b",
+    "r_ed378e35224802dc"
+  ],
+  "auriculotemporal": [
+    "r_782b2a2669bb3afc"
+  ],
+  "auriculoventricular": [
+    "r_2690776ffcd8d16b",
+    "r_e845b002bbb79794"
+  ],
+  "auriferous": [
+    "r_900d61afc334bea6"
+  ],
+  "auriform": [
+    "r_7cbebcc8fd2ae037"
+  ],
+  "aurinasal": [
+    "r_f91ee791cd97ac1b"
+  ],
+  "auropalpebral": [
+    "r_5f2c227bd3af8205"
+  ],
+  "aurorean": [
+    "r_59acba26e1258727"
+  ],
+  "aurotherapy": [
+    "r_240ce337df38cf28"
+  ],
+  "auscultate": [
+    "r_fc1d27828b4b9c6a"
+  ],
+  "auscultation": [
+    "r_fc1d27828b4b9c6a"
+  ],
+  "auspicate": [
+    "r_2cc44afa44d55cc7",
+    "r_a34d48530b345b9c"
+  ],
+  "auspice": [
+    "r_2cc44afa44d55cc7",
+    "r_a34d48530b345b9c"
+  ],
+  "auspices": [
+    "r_2cc44afa44d55cc7"
+  ],
+  "auspicial": [
+    "r_2cc44afa44d55cc7"
+  ],
+  "auspicious": [
+    "r_107e783b19034980",
+    "r_2cc44afa44d55cc7",
+    "r_a34d48530b345b9c",
+    "r_d6be1a4797a1f97e"
+  ],
+  "auspiciously": [
+    "r_2cc44afa44d55cc7",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "austere": [
+    "r_60970df1dc8d4dbe"
+  ],
+  "austerely": [
+    "r_60970df1dc8d4dbe",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "austral": [
+    "r_b86c132bca384ba7"
+  ],
+  "australopithecine": [
+    "r_219139d4576b78a2",
+    "r_835328bcd25a3c5e"
+  ],
+  "australopithecus": [
+    "r_219139d4576b78a2"
+  ],
+  "autapomorphy": [
+    "r_bd83ced28e85d336"
+  ],
+  "autarch": [
+    "r_c629f5cb05cf35ee"
+  ],
+  "autarchism": [
+    "r_cfde295cb8def75f",
+    "r_eadcf19092bc88f2"
+  ],
+  "autarchy": [
+    "r_cfde295cb8def75f",
+    "r_e351eb8c0d7bea9a",
+    "r_eadcf19092bc88f2"
+  ],
+  "autarky": [
+    "r_eadcf19092bc88f2"
+  ],
+  "authentic": [
+    "r_529723067ca448f5",
+    "r_eadcf19092bc88f2"
+  ],
+  "authentically": [
+    "r_529723067ca448f5"
+  ],
+  "authenticate": [
+    "r_529723067ca448f5"
+  ],
+  "authenticated": [
+    "r_529723067ca448f5"
+  ],
+  "authentication": [
+    "r_529723067ca448f5"
+  ],
+  "authenticity": [
+    "r_529723067ca448f5",
+    "r_5daeec9b45238c73",
+    "r_b7cdcb90d9054f03",
+    "r_f09c8a53bd3c5e70"
+  ],
+  "authorial": [
+    "r_fb347ac618be3f5a"
+  ],
+  "authoritarian": [
+    "r_b7e0efd41b762681"
+  ],
+  "authorization": [
+    "r_f69ff5b18e52b534"
+  ],
+  "authorship": [
+    "r_b8fb3ffcaa949bb2"
+  ],
+  "autism": [
+    "r_623015e6e9193c59",
+    "r_eadcf19092bc88f2"
+  ],
+  "autist": [
+    "r_pending20261126_b_ist_condition"
+  ],
+  "autistic": [
+    "r_eadcf19092bc88f2"
+  ],
+  "autoantibody": [
+    "r_194a40d9e4e7ab8a"
+  ],
+  "autobiography": [
+    "r_7205234065a3e70d",
+    "r_7fe23dae4e541cd4",
+    "r_9572c7358e94c340",
+    "r_dc21d11f32778f92",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autocar": [
+    "r_0a4e45a60bbb4e67"
+  ],
+  "autocephaly": [
+    "r_5188a940a44fbdbe",
+    "r_ed69c803d389045a"
+  ],
+  "autocracy": [
+    "r_30805e8df3441c41",
+    "r_32698446db53d309",
+    "r_7a7a978e5966e3ac",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autocrat": [
+    "r_1ad39aad005a4ae9",
+    "r_6ae4d7eb9755ca7e",
+    "r_eaf306c62b54e88a"
+  ],
+  "autocratic": [
+    "r_1ad39aad005a4ae9",
+    "r_88125d04811b3b52"
+  ],
+  "autocross": [
+    "r_facadf77aecb63b2"
+  ],
+  "autocycle": [
+    "r_957893a8b750e682"
+  ],
+  "autodyne": [
+    "r_5c8a87d70a4aa284",
+    "r_c06abec496e60055"
+  ],
+  "autoecious": [
+    "r_25b29457dd18b24f"
+  ],
+  "autoecism": [
+    "r_25b29457dd18b24f"
+  ],
+  "autofocus": [
+    "r_508a7641c73eb909",
+    "r_dc1eb0e3d904ab8b"
+  ],
+  "autogamy": [
+    "r_7bae8a52e196ab0f",
+    "r_8133ff5955424c2a",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a",
+    "r_pending20261126_c_gamy_reproduction"
+  ],
+  "autogenesis": [
+    "r_9ebac6649db4f485",
+    "r_a70fe288c6124081",
+    "r_b4e7c5aec195329b"
+  ],
+  "autogenous": [
+    "r_77f59cb78fea372c",
+    "r_a70fe288c6124081"
+  ],
+  "autogiro": [
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autograph": [
+    "r_dc21d11f32778f92",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autographed": [
+    "r_dc21d11f32778f92"
+  ],
+  "autogyro": [
+    "r_390d91476bb34ac0",
+    "r_53e070978214d8c9"
+  ],
+  "autohypnosis": [
+    "r_bd46fd69970df5a1",
+    "r_cc225a5205d37dd1",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autoimmune": [
+    "r_79a821d615001f90"
+  ],
+  "autoimmunity": [
+    "r_79a821d615001f90"
+  ],
+  "autointoxication": [
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autolysis": [
+    "r_0039337673fdbaa8",
+    "r_186a0f06e01a3c09",
+    "r_5648e2270271bb6e"
+  ],
+  "automaker": [
+    "r_d97b1b2f4e49256a"
+  ],
+  "automate": [
+    "r_9c4baf4c051584a3"
+  ],
+  "automated": [
+    "r_9c4baf4c051584a3"
+  ],
+  "automatic": [
+    "r_9c4baf4c051584a3",
+    "r_a292f8214b6bc0d6",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "automatically": [
+    "r_9c4baf4c051584a3",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "automaticity": [
+    "r_9c4baf4c051584a3"
+  ],
+  "automatics": [
+    "r_9c4baf4c051584a3"
+  ],
+  "automation": [
+    "r_9c4baf4c051584a3"
+  ],
+  "automatism": [
+    "r_9c4baf4c051584a3"
+  ],
+  "automatograph": [
+    "r_d577c9e6836a0bdb"
+  ],
+  "automaton": [
+    "r_9c4baf4c051584a3",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "automatonlike": [
+    "r_47cc2af9dae31cc0"
+  ],
+  "automobile": [
+    "r_70179726ef67e275",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "automorphism": [
+    "r_bd83ced28e85d336"
+  ],
+  "automotive": [
+    "r_bbe724123c248c8e",
+    "r_eaf306c62b54e88a"
+  ],
+  "autonomic": [
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "autonomic nervous system": [
+    "r_eaf306c62b54e88a"
+  ],
+  "autonomist": [
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "autonomous": [
+    "r_714155187aa1fd07",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "autonomously": [
+    "r_e87e5c07dddcb6d7",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "autonomy": [
+    "r_45bf53952bb0b668",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a",
+    "r_ed4bdae3dfd6d39a"
+  ],
+  "autonym": [
+    "r_32e0bc618c8a0dcc"
+  ],
+  "autophagosome": [
+    "r_49f7b31bc8e91ab8",
+    "r_c5f0e6836e31f768"
+  ],
+  "autophagy": [
+    "r_42e5dc6640fbd86b",
+    "r_c5f0e6836e31f768"
+  ],
+  "autophyte": [
+    "r_1ec0baeb41438bbc"
+  ],
+  "autoplasty": [
+    "r_b91f2689141e3d2e"
+  ],
+  "autopoiesis": [
+    "r_3cb40ccf58ccd372"
+  ],
+  "autopotamic": [
+    "r_293b49185ccce617"
+  ],
+  "autopsy": [
+    "r_0221f697b46a2160",
+    "r_032590c26c7d2e74",
+    "r_c83dc89e2a074419",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autoptic": [
+    "r_d8744a9b01edaaa7"
+  ],
+  "autoradiograph": [
+    "r_dc21d11f32778f92",
+    "r_eadcf19092bc88f2",
+    "r_eaf306c62b54e88a"
+  ],
+  "autoregressive": [
+    "r_70cfdb2938fbedd4"
+  ],
+  "autosome": [
+    "r_2460e2562157cb76",
+    "r_617cdd089031d7da"
+  ],
+  "autotomy": [
+    "r_a75f63c40e270577"
+  ],
+  "autotoxin": [
+    "r_289b6a58113fd373",
+    "r_39af10d179ddb37d"
+  ],
+  "autotroph": [
+    "r_40ac7c2e4b645b13",
+    "r_99bf8c9e229f73e1"
+  ],
+  "autotrophism": [
+    "r_32511934f3cbc4dd"
+  ],
+  "autumn": [
+    "r_db6a13e42fe8fde6"
+  ],
+  "autumnal": [
+    "r_24e772217a953c8e",
+    "r_db6a13e42fe8fde6"
+  ],
+  "auxanogram": [
+    "r_01d84f1d67a66a90",
+    "r_134c9ce2fb866d15"
+  ],
+  "auxanography": [
+    "r_134c9ce2fb866d15"
+  ],
+  "auxanology": [
+    "r_134c9ce2fb866d15"
+  ],
+  "auxanometer": [
+    "r_134c9ce2fb866d15"
+  ],
+  "auxesis": [
+    "r_134c9ce2fb866d15"
+  ],
+  "auxetic": [
+    "r_134c9ce2fb866d15"
+  ],
+  "auxin": [
+    "r_134c9ce2fb866d15"
+  ],
+  "auxochrome": [
+    "r_134c9ce2fb866d15",
+    "r_651f599839f6c1ae",
+    "r_88768b2ed9c7cf19",
+    "r_ac27487beb838d27"
+  ],
+  "auxology": [
+    "r_134c9ce2fb866d15",
+    "r_ac27487beb838d27"
+  ],
+  "auxotroph": [
+    "r_134c9ce2fb866d15",
+    "r_ac27487beb838d27"
+  ],
+  "auxotrophy": [
+    "r_134c9ce2fb866d15",
+    "r_40ac7c2e4b645b13",
+    "r_ac27487beb838d27"
+  ],
+  "avail": [
+    "r_58bbfb713d3236f2"
+  ],
+  "available": [
+    "r_58bbfb713d3236f2",
+    "r_d17c8c06b3351d59"
+  ],
+  "avarice": [
+    "r_c505edfa177db294"
+  ],
+  "avaricious": [
+    "r_107e783b19034980",
+    "r_d6be1a4797a1f97e"
+  ],
+  "avascular": [
+    "r_5b3aa213d2dbe731"
+  ],
+  "avasimibe": [
+    "r_532bae65551ce1af"
+  ],
+  "avenge": [
+    "r_323ed4de045b4cb6"
+  ],
+  "avenger": [
+    "r_323ed4de045b4cb6",
+    "r_3d066a6c1d03a643",
+    "r_964c0fcea062c739"
+  ],
+  "avenging": [
+    "r_323ed4de045b4cb6"
+  ],
+  "avenue": [
+    "r_08b9787882d332b4"
+  ],
+  "aver": [
+    "r_7e7f32039a841cd8"
+  ],
+  "average": [
+    "r_bad757b8b70d9c6e"
+  ],
+  "averaged": [
+    "r_bad757b8b70d9c6e"
+  ],
+  "averageness": [
+    "r_bad757b8b70d9c6e"
+  ],
+  "averse": [
+    "r_2227333b503c7300"
+  ],
+  "aversion": [
+    "r_2227333b503c7300"
+  ],
+  "avert": [
+    "r_89db3780898d872e",
+    "r_b20261125_a_away"
+  ],
+  "averted": [
+    "r_89db3780898d872e"
+  ],
+  "avian": [
+    "r_ee82d4d918e090b9"
+  ],
+  "avianize": [
+    "r_ee82d4d918e090b9"
+  ],
+  "aviary": [
+    "r_a23546b210931afc",
+    "r_ee82d4d918e090b9"
+  ],
+  "aviate": [
+    "r_ee82d4d918e090b9"
+  ],
+  "aviation": [
+    "r_ee82d4d918e090b9"
+  ],
+  "aviator": [
+    "r_c56a1e815c38ced8",
+    "r_ee82d4d918e090b9"
+  ],
+  "aviatrix": [
+    "r_41e1c1c1f1ec1ba5",
+    "r_ee82d4d918e090b9"
+  ],
+  "avicide": [
+    "r_ee82d4d918e090b9"
+  ],
+  "aviculture": [
+    "r_5a4483dbccf048dd",
+    "r_ee82d4d918e090b9"
+  ],
+  "avid": [
+    "r_6f554d86f379f52d",
+    "r_c505edfa177db294"
+  ],
+  "avidity": [
+    "r_6f554d86f379f52d",
+    "r_b7cdcb90d9054f03"
+  ],
+  "avifauna": [
+    "r_ee82d4d918e090b9"
+  ],
+  "avifaunal": [
+    "r_ee82d4d918e090b9"
+  ],
+  "avifaunistic": [
+    "r_ee82d4d918e090b9"
+  ],
+  "avionic": [
+    "r_ee82d4d918e090b9"
+  ],
+  "avionics": [
+    "r_861ad986902a77b7",
+    "r_ee82d4d918e090b9"
+  ],
+  "avitaminosis": [
+    "r_e9bbe7504e788b62",
+    "r_f9b1df84a5445b31"
+  ],
+  "avocation": [
+    "r_a929a52d43d55ba7",
+    "r_e3d72842ecc1c6a0"
+  ],
+  "avocational": [
+    "r_e3d72842ecc1c6a0"
+  ],
+  "avoid": [
+    "r_046e416c2a50ddef"
+  ],
+  "avoidable": [
+    "r_046e416c2a50ddef",
+    "r_361fbad16ba5f8f1",
+    "r_d17c8c06b3351d59"
+  ],
+  "avoidance": [
+    "r_046e416c2a50ddef"
+  ],
+  "avoided": [
+    "r_046e416c2a50ddef"
+  ],
+  "avoiding": [
+    "r_046e416c2a50ddef"
+  ],
+  "await": [
+    "r_e55e8453a20e3f42"
+  ],
+  "awaited": [
+    "r_e55e8453a20e3f42"
+  ],
+  "awaiting": [
+    "r_e55e8453a20e3f42"
+  ],
+  "awake": [
+    "r_8731bd81e1ec4864"
+  ],
+  "awaken": [
+    "r_5a7e9353933f0068",
+    "r_8731bd81e1ec4864"
+  ],
+  "awakened": [
+    "r_8731bd81e1ec4864"
+  ],
+  "awakening": [
+    "r_8731bd81e1ec4864"
+  ],
+  "award": [
+    "r_6934c0fec9e6632a"
+  ],
+  "awarding": [
+    "r_6934c0fec9e6632a"
+  ],
+  "aware": [
+    "r_21ef0f65960c78f1"
+  ],
+  "awareness": [
+    "r_21ef0f65960c78f1",
+    "r_2e94b10a5733577d"
+  ],
+  "away": [
+    "r_704a9553cc09f25d"
+  ],
+  "awe": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "awed": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "awedly": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "awedness": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "aweless": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "awesome": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "awesomely": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "awesomesauce": [
+    "r_0a3df188d875915e"
+  ],
+  "awestruck": [
+    "r_4f7b81cbdf16a56b",
+    "r_ebf9b532385c8f6c"
+  ],
+  "awful": [
+    "r_8e7eafaba7e19e15"
+  ],
+  "awkward": [
+    "r_d69fdd99ed9edc55"
+  ],
+  "awkwardly": [
+    "r_d69fdd99ed9edc55",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "awkwardness": [
+    "r_2e94b10a5733577d",
+    "r_d69fdd99ed9edc55"
+  ],
+  "axanthism": [
+    "r_fbfe902894dc16e7"
+  ],
+  "axenic": [
+    "r_182fd48e7eb8e0d6"
+  ],
+  "axial": [
+    "r_e5e062f43238da40"
+  ],
+  "axiobuccal": [
+    "r_rem20261125_b_axio_axis"
+  ],
+  "axiology": [
+    "r_01bf58f4c2221d8c",
+    "r_94a78ef5c4cdc0ca",
+    "r_a26b2e2b91a79bfb"
+  ],
+  "axis": [
+    "r_e5e062f43238da40"
+  ],
+  "axisymmetric": [
+    "r_7be3def87a0623b5"
+  ],
+  "axisymmetrical": [
+    "r_7be3def87a0623b5"
+  ],
+  "axisymmetry": [
+    "r_cbc31d8371f04100"
+  ],
+  "axodendritic": [
+    "r_ae14ddc7a02ee7ab"
+  ],
+  "axon": [
+    "r_e5e062f43238da40"
+  ],
+  "axoneme": [
+    "r_126a7c4f12ed015d",
+    "r_8dfbff53bf65da24"
+  ],
+  "axonography": [
+    "r_74b28c5a6e9a46f3"
+  ],
+  "axonometric": [
+    "r_74b28c5a6e9a46f3",
+    "r_7be3def87a0623b5",
+    "r_d94bb378b41afbcf"
+  ],
+  "axonometry": [
+    "r_dc21cf4503a3e233"
+  ],
+  "axonotmesis": [
+    "r_74b28c5a6e9a46f3"
+  ],
+  "axophyte": [
+    "r_ae14ddc7a02ee7ab"
+  ],
+  "azabenzene": [
+    "r_165e295b4c082256"
+  ],
+  "azaribine": [
+    "r_0076250ba72d8658"
+  ],
+  "azete": [
+    "r_a12a8817cdb57649"
+  ],
+  "azetidine": [
+    "r_b6231377691254eb"
+  ],
+  "azetine": [
+    "r_5ff1c5c8b96804d8"
+  ],
+  "azidobenzene": [
+    "r_84e972497fcab562"
+  ],
+  "aziridine": [
+    "r_pending20261126_b_az_nitrogen"
+  ],
+  "azobenzene": [
+    "r_f3084f81ed0dde9c"
+  ],
+  "azoic": [
+    "r_7d7bedca5a3b7688",
+    "r_f27643cc61f7bc22"
+  ],
+  "azole": [
+    "r_460f9df708f3d1b5"
+  ],
+  "azoospermia": [
+    "r_f540c1a0cc03f815"
+  ],
+  "azoospermic": [
+    "r_462cd7f17689fb1c"
+  ],
+  "azoxybenzene": [
+    "r_774d73889666e1e6",
+    "r_pending20261126_b_az_nitrogen"
+  ],
+  "azygous": [
+    "r_351a8f6132137dc9",
+    "r_41f5d40d2806cd58",
+    "r_d6be1a4797a1f97e",
+    "r_f9b1df84a5445b31",
+    "r_rem20261125_b_zygous_pair"
+  ],
+  "azyme": [
+    "r_3a7362096770cb68",
+    "r_8ebae42a9df83848"
+  ],
+  "azymite": [
+    "r_8ebae42a9df83848"
+  ],
+  "babble": [
+    "r_b233db28b391a179"
+  ],
+  "babelike": [
+    "r_47cc2af9dae31cc0"
+  ],
+  "baby": [
+    "r_3032dd99d78c48dc"
+  ],
+  "babyhood": [
+    "r_2ede950792ef5d35",
+    "r_3032dd99d78c48dc"
+  ],
+  "babyish": [
+    "r_3032dd99d78c48dc"
+  ],
+  "babykins": [
+    "r_f058cec743c0f709"
+  ],
+  "babysit": [
+    "r_e3a8dcd0c4ad8153"
+  ],
+  "babysitter": [
+    "r_e3a8dcd0c4ad8153"
+  ],
+  "babysitting": [
+    "r_e3a8dcd0c4ad8153"
+  ],
+  "bacciferous": [
+    "r_dedab1cf05a7ec2e"
+  ],
+  "baccivorous": [
+    "r_dedab1cf05a7ec2e"
+  ],
+  "bachelordom": [
+    "r_cece3eb81336c9ff"
+  ],
+  "bachelorette": [
+    "r_cece3eb81336c9ff"
+  ],
+  "bachelorhood": [
+    "r_cece3eb81336c9ff"
+  ],
+  "bachelorship": [
+    "r_cece3eb81336c9ff"
+  ],
+  "bacillar": [
+    "r_5896072c69c6c71c"
+  ],
+  "bacillary": [
+    "r_5896072c69c6c71c"
+  ],
+  "bacilliculture": [
+    "r_cd30abe1b2ecb035"
+  ],
+  "bacilliform": [
+    "r_5896072c69c6c71c"
+  ],
+  "bacillogenic": [
+    "r_992878d2a6b22e4f"
+  ],
+  "bacillus": [
+    "r_041c571ff58ce524",
+    "r_5896072c69c6c71c"
+  ],
+  "back": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backchat": [
+    "r_4e72b1e712474505"
+  ],
+  "backcountry": [
+    "r_41058ef33910671d"
+  ],
+  "backdate": [
+    "r_49108de0d37ccbd9"
+  ],
+  "backdating": [
+    "r_49108de0d37ccbd9"
+  ],
+  "backed": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backer": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backfill": [
+    "r_a540d96b3879c50f"
+  ],
+  "backfire": [
+    "r_cbee9591b810ba03"
+  ],
+  "background": [
+    "r_84bf7ae0e0520d1a",
+    "r_dedb6dcb80ecaef7"
+  ],
+  "backhand": [
+    "r_05d53c252adcf753",
+    "r_6871cd91d868077c"
+  ],
+  "backhoe": [
+    "r_cbee9591b810ba03"
+  ],
+  "backing": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backland": [
+    "r_2af5cb7ec69d0504"
+  ],
+  "backless": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backne": [
+    "r_22b09b8bc401a9b7"
+  ],
+  "backpack": [
+    "r_84bf7ae0e0520d1a",
+    "r_a0f600a334f1e13e"
+  ],
+  "backpacker": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backpacking": [
+    "r_84bf7ae0e0520d1a"
+  ],
+  "backstage": [
+    "r_88a87265d53b06cd"
+  ],
+  "backstair": [
+    "r_bf3074cb629142b5"
+  ],
+  "backstairs": [
+    "r_bf3074cb629142b5"
+  ],
+  "backstory": [
+    "r_23998a8354baa92c"
+  ],
+  "backswing": [
+    "r_a7c4302b5825437c"
+  ],
+  "backtalk": [
+    "r_cbee9591b810ba03"
+  ],
+  "backward": [
+    "r_84bf7ae0e0520d1a",
+    "r_ad744ab76881d811"
+  ],
+  "backwards": [
+    "r_84bf7ae0e0520d1a",
+    "r_ad744ab76881d811",
+    "r_ebd31e0b561a035b"
+  ],
+  "bacon": [
+    "r_6381382d5715f509"
+  ],
+  "bacony": [
+    "r_6381382d5715f509"
+  ],
+  "bacteremia": [
+    "r_8951b3b6b79bfb0a"
+  ],
+  "bacteria": [
+    "r_15c69272bd5e6d9a",
+    "r_8951b3b6b79bfb0a"
+  ],
+  "bacterial": [
+    "r_15c69272bd5e6d9a",
+    "r_24e772217a953c8e",
+    "r_8951b3b6b79bfb0a"
+  ],
+  "bacteric": [
+    "r_8951b3b6b79bfb0a"
+  ],
+  "bactericidal": [
+    "r_cdc7e76bfbaf321f",
+    "r_fd5bfe7de1e3dfed"
+  ],
+  "bactericide": [
+    "r_15c69272bd5e6d9a",
+    "r_339a9af5bfb1ffc2",
+    "r_c9084eff196413a2"
+  ],
+  "bacteriochlorophyll": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriogenic": [
+    "r_8342ec92978a5b0f"
+  ],
+  "bacterioid": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacterioidal": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriologic": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriological": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriologist": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriology": [
+    "r_01bf58f4c2221d8c",
+    "r_15c69272bd5e6d9a",
+    "r_a26b2e2b91a79bfb",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriolysis": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriolytic": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriophage": [
+    "r_0264587768d63764",
+    "r_15c69272bd5e6d9a",
+    "r_c5f0e6836e31f768",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriophagic": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriophagous": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriostasis": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriostat": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteriostatic": [
+    "r_15c69272bd5e6d9a",
+    "r_e06daef62c5eb61a"
+  ],
+  "bacteroid": [
+    "r_8951b3b6b79bfb0a"
+  ],
+  "baculiform": [
+    "r_904df031c6dbdd43"
+  ],
+  "baculum": [
+    "r_904df031c6dbdd43"
+  ],
+  "bad": [
+    "r_97c7031ae0e6288c"
+  ],
+  "bad-guy": [
+    "r_55229ec514078f80"
+  ],
+  "badly": [
+    "r_97c7031ae0e6288c"
+  ],
+  "badness": [
+    "r_97c7031ae0e6288c"
+  ],
+  "bag": [
+    "r_62412f3111f12101"
+  ],
+  "bagatelle": [
+    "r_fae9accc1740b679"
+  ],
+  "bagged": [
+    "r_62412f3111f12101"
+  ],
+  "bagger": [
+    "r_62412f3111f12101"
+  ],
+  "bagging": [
+    "r_62412f3111f12101"
+  ],
+  "baggy": [
+    "r_62412f3111f12101"
+  ],
+  "bailiff": [
+    "r_7eaaf33c71e16472"
+  ],
+  "bait": [
+    "r_0a4ab8d278bc2889"
+  ],
+  "baited": [
+    "r_0a4ab8d278bc2889"
+  ],
+  "baiting": [
+    "r_0a4ab8d278bc2889"
+  ],
+  "bake": [
+    "r_1f29fb2dcc8a1da8"
+  ],
+  "baked": [
+    "r_1f29fb2dcc8a1da8"
+  ],
+  "baker": [
+    "r_1f29fb2dcc8a1da8",
+    "r_3d066a6c1d03a643"
+  ],
+  "bakery": [
+    "r_1f29fb2dcc8a1da8",
+    "r_b20261125_ery_activity_place_collection"
+  ],
+  "bakeshop": [
+    "r_1f29fb2dcc8a1da8"
+  ],
+  "baking-hot": [
+    "r_ef85164417b7d299"
+  ],
+  "balance": [
+    "r_59fb4e2d954f520e"
+  ],
+  "balanced": [
+    "r_59fb4e2d954f520e"
+  ],
+  "balancer": [
+    "r_59fb4e2d954f520e"
+  ],
+  "balancing": [
+    "r_59fb4e2d954f520e"
+  ],
+  "balanoposthitis": [
+    "r_341018972f7de885"
+  ],
+  "baldy": [
+    "r_67aa7a636fdfb2c2"
+  ],
+  "balkano-romanization": [
+    "r_f0c06c130deba681"
+  ],
+  "ballad": [
+    "r_066184a0a88b367a"
+  ],
+  "balladeer": [
+    "r_066184a0a88b367a",
+    "r_99009c4c78552a29"
+  ],
+  "ballet": [
+    "r_066184a0a88b367a"
+  ],
+  "balletic": [
+    "r_066184a0a88b367a"
+  ],
+  "balletomane": [
+    "r_e16b463690746a43"
+  ],
+  "ballistic": [
+    "r_34253a1b133e9d1a"
+  ],
+  "ballistically": [
+    "r_34253a1b133e9d1a"
+  ],
+  "ballistics": [
+    "r_34253a1b133e9d1a",
+    "r_861ad986902a77b7"
+  ],
+  "ballistocardiogram": [
+    "r_c4bcf1e25fa750c8"
+  ],
+  "balloon": [
+    "r_0a0bc01c3539b56d",
+    "r_af051c91396369d3"
+  ],
+  "ballooning": [
+    "r_0a0bc01c3539b56d"
+  ],
+  "balloonist": [
+    "r_0a0bc01c3539b56d",
+    "r_98e41edddda09423"
+  ],
+  "ballot": [
+    "r_0a0bc01c3539b56d"
+  ],
+  "balloting": [
+    "r_0a0bc01c3539b56d"
+  ],
+  "ballroom": [
+    "r_066184a0a88b367a"
+  ],
+  "balneal": [
+    "r_7ac2071db0008d99"
+  ],
+  "balneotherapy": [
+    "r_ca9281857a284a32"
+  ],
+  "balsalazide": [
+    "r_2f2524e584e26d04"
+  ],
+  "bambino": [
+    "r_79b10c456126c8e9"
+  ],
+  "ban": [
+    "r_9e98b21b5f9623ac"
+  ],
+  "banal": [
+    "r_9e98b21b5f9623ac"
+  ],
+  "banality": [
+    "r_9e98b21b5f9623ac",
+    "r_b7cdcb90d9054f03"
+  ],
+  "bandage": [
+    "r_1e14dc1184ac7463"
+  ],
+  "bandana": [
+    "r_1e14dc1184ac7463"
+  ],
+  "banded": [
+    "r_1e14dc1184ac7463"
+  ],
+  "banderilla": [
+    "r_82f248b0b3bd718e"
+  ],
+  "banding": [
+    "r_1e14dc1184ac7463"
+  ],
+  "bandy": [
+    "r_10ff54646e92513e"
+  ],
+  "banish": [
+    "r_9e98b21b5f9623ac"
+  ],
+  "banished": [
+    "r_9e98b21b5f9623ac"
+  ],
+  "banishment": [
+    "r_9e98b21b5f9623ac",
+    "r_b5e7951a290aa57d"
+  ],
+  "bankable": [
+    "r_facdaaa0b3904714"
+  ],
+  "bankbook": [
+    "r_a43f9486ac422ef9",
+    "r_facdaaa0b3904714"
+  ],
+  "banker": [
+    "r_facdaaa0b3904714"
+  ],
+  "banknote": [
+    "r_facdaaa0b3904714"
+  ],
+  "bankroll": [
+    "r_facdaaa0b3904714"
+  ],
+  "bankrupt": [
+    "r_ea66bf1411500110",
+    "r_facdaaa0b3904714"
+  ],
+  "bankruptcy": [
+    "r_b6cb544fcf02a794",
+    "r_ea66bf1411500110"
+  ],
+  "banned": [
+    "r_9e98b21b5f9623ac"
+  ],
+  "banning": [
+    "r_9e98b21b5f9623ac"
+  ],
+  "baptism": [
+    "r_623015e6e9193c59",
+    "r_cab68bd008daa50a"
+  ],
+  "baptize": [
+    "r_7d0d9b893118be49",
+    "r_cab68bd008daa50a"
+  ],
+  "barb": [
+    "r_37c02325c31c6e28"
+  ],
+  "barbarian": [
+    "r_ce167b23d5150d52"
+  ],
+  "barbaric": [
+    "r_ce167b23d5150d52"
+  ],
+  "barbarism": [
+    "r_ce167b23d5150d52"
+  ],
+  "barbarity": [
+    "r_ce167b23d5150d52"
+  ],
+  "barbarous": [
+    "r_ce167b23d5150d52"
+  ],
+  "barbate": [
+    "r_37c02325c31c6e28"
+  ],
+  "barbed": [
+    "r_37c02325c31c6e28"
+  ],
+  "barber": [
+    "r_37c02325c31c6e28"
+  ],
+  "barbershop": [
+    "r_37c02325c31c6e28"
+  ],
+  "bardolatry": [
+    "r_4cb92f99ca79f9f1",
+    "r_a6cf59798b100eca"
+  ],
+  "bare": [
+    "r_121c0c04de6d0250"
+  ],
+  "barefaced": [
+    "r_121c0c04de6d0250"
+  ],
+  "barefoot": [
+    "r_121c0c04de6d0250",
+    "r_f26bd756dd0d3ecc"
+  ],
+  "barely": [
+    "r_121c0c04de6d0250"
+  ],
+  "baresthesia": [
+    "r_7567a1f8533efc31"
+  ],
+  "bargee": [
+    "r_b20261125_ee_person_active"
+  ],
+  "bariatric": [
+    "r_7567a1f8533efc31",
+    "r_d21caa326108e32b"
+  ],
+  "bariatrics": [
+    "r_036d29c7873ce9f8",
+    "r_7567a1f8533efc31",
+    "r_861ad986902a77b7",
+    "r_cd9daa933ed5b213"
+  ],
+  "barilla": [
+    "r_82f248b0b3bd718e"
+  ],
+  "bario-olgite": [
+    "r_af24fc451477ff90"
+  ],
+  "barite": [
+    "r_7567a1f8533efc31",
+    "r_b7556c7c01449fe3"
+  ],
+  "baritone": [
+    "r_6a7ea55f9a11fe8d",
+    "r_7567a1f8533efc31",
+    "r_d21caa326108e32b",
+    "r_ebf85cfc6b23b794"
+  ],
+  "barognosis": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6"
+  ],
+  "barogram": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6"
+  ],
+  "barograph": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6",
+    "r_dc21d11f32778f92"
+  ],
+  "barometer": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6",
+    "r_c134650af524e955"
+  ],
+  "barometric": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6",
+    "r_7be3def87a0623b5",
+    "r_d94bb378b41afbcf"
+  ],
+  "barometry": [
+    "r_7567a1f8533efc31"
+  ],
+  "baronet": [
+    "r_95547a68d58084b4"
+  ],
+  "barophobia": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6"
+  ],
+  "baroreceptor": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6"
+  ],
+  "barostat": [
+    "r_7567a1f8533efc31",
+    "r_7aeb3d3e777d88f6"
+  ],
+  "barotrauma": [
+    "r_7aeb3d3e777d88f6"
+  ],
+  "barrier": [
+    "r_accaeab9918fd1f9"
+  ],
+  "bartender": [
+    "r_15decca3bc391700"
+  ],
+  "barycentre": [
+    "r_7567a1f8533efc31",
+    "r_fb3ae6bec4df270e"
+  ],
+  "barycentric": [
+    "r_7567a1f8533efc31",
+    "r_fb3ae6bec4df270e"
+  ],
+  "baryogenesis": [
+    "r_7567a1f8533efc31",
+    "r_cd10627e5b4b1a53",
+    "r_fb3ae6bec4df270e"
+  ],
+  "baryon": [
+    "r_7567a1f8533efc31",
+    "r_fb3ae6bec4df270e"
+  ],
+  "barysphere": [
+    "r_7567a1f8533efc31",
+    "r_fb3ae6bec4df270e"
+  ],
+  "barytocalcite": [
+    "r_0b6bf9660adab5dc"
+  ],
+  "baryton": [
+    "r_7567a1f8533efc31",
+    "r_fb3ae6bec4df270e"
+  ],
+  "barytone": [
+    "r_7567a1f8533efc31",
+    "r_fb3ae6bec4df270e"
+  ],
+  "basal": [
+    "r_1eec811cd7be4b66"
+  ],
+  "baseball": [
+    "r_0a0bc01c3539b56d"
+  ],
+  "baseborn": [
+    "r_ff60845c57cb5410"
+  ],
+  "baseless": [
+    "r_c0abd211fdff83d9"
+  ],
+  "basement": [
+    "r_1eec811cd7be4b66"
+  ],
+  "basialveolar": [
+    "r_b20261126_a_basi_basion"
+  ],
+  "basiate": [
+    "r_rem20261125_b_bas_kiss"
+  ],
+  "basic": [
+    "r_1eec811cd7be4b66",
+    "r_eadc3d1801263951"
+  ],
+  "basidial": [
+    "r_pending20261126_b_basidi"
+  ],
+  "basidiocarp": [
+    "r_44d1908b54b885ec"
+  ],
+  "basidiolichen": [
+    "r_44d1908b54b885ec"
+  ],
+  "basidioma": [
+    "r_44d1908b54b885ec"
+  ],
+  "basidiomycete": [
+    "r_37accf993475625a",
+    "r_44d1908b54b885ec",
+    "r_9fdbb3d27cf1f7c5",
+    "r_db70b4d37f681cc1"
+  ],
+  "basidiomycetous": [
+    "r_44d1908b54b885ec"
+  ],
+  "basidiospore": [
+    "r_44d1908b54b885ec"
+  ],
+  "basidiosporous": [
+    "r_44d1908b54b885ec"
+  ],
+  "basidium": [
+    "r_4b2d6999594f6873"
+  ],
+  "basilar": [
+    "r_4bb7a76ae02c1756"
+  ],
+  "basioccipital": [
+    "r_eadc3d1801263951"
+  ],
+  "basipetal": [
+    "r_a4eb1b47313c11e0",
+    "r_eb6d66112f917fdb"
+  ],
+  "basipodite": [
+    "r_3eb0769f900078fc"
+  ],
+  "basis": [
+    "r_1eec811cd7be4b66"
+  ],
+  "basketball": [
+    "r_0a0bc01c3539b56d"
+  ],
+  "basolateral": [
+    "r_pending20261126_c_baso_anatomical"
+  ],
+  "basophil": [
+    "r_dcdd50d7dae46a06"
+  ],
+  "basophilic": [
+    "r_0383225abe4a2442"
+  ],
+  "bassoon": [
+    "r_af051c91396369d3"
+  ],
+  "bastardize": [
+    "r_7d0d9b893118be49"
+  ],
+  "bastile": [
+    "r_b4de02c5b9255318"
+  ],
+  "bastion": [
+    "r_b4de02c5b9255318"
+  ],
+  "bat": [
+    "r_681484d8181d4831"
+  ],
+  "bated": [
+    "r_681484d8181d4831"
+  ],
+  "bath": [
+    "r_7d6fa8425ad1a3dc"
+  ],
+  "bathe": [
+    "r_7d6fa8425ad1a3dc"
+  ],
+  "bather": [
+    "r_3d066a6c1d03a643",
+    "r_7d6fa8425ad1a3dc"
+  ],
+  "bathing": [
+    "r_7d6fa8425ad1a3dc"
+  ],
+  "batholith": [
+    "r_46f0a84de9fdbfde"
+  ],
+  "batholithic": [
+    "r_46f0a84de9fdbfde"
+  ],
+  "batholitic": [
+    "r_46f0a84de9fdbfde"
+  ],
+  "bathometer": [
+    "r_46f0a84de9fdbfde",
+    "r_c134650af524e955"
+  ],
+  "bathophobia": [
+    "r_46f0a84de9fdbfde"
+  ],
+  "bathos": [
+    "r_46f0a84de9fdbfde"
+  ],
+  "bathrobe": [
+    "r_7d6fa8425ad1a3dc",
+    "r_d73a7329f6d17c4a"
+  ],
+  "bathymeter": [
+    "r_c352c255431c46eb"
+  ],
+  "bathymetric": [
+    "r_c352c255431c46eb"
+  ],
+  "bathymetrical": [
+    "r_61cf67e2a295e66f",
+    "r_c352c255431c46eb"
+  ],
+  "bathymetry": [
+    "r_c352c255431c46eb"
+  ],
+  "bathypelagic": [
+    "r_9c1a6ece12af09be",
+    "r_c352c255431c46eb"
+  ],
+  "bathyscaphe": [
+    "r_61cf67e2a295e66f",
+    "r_c352c255431c46eb"
+  ],
+  "bathysphere": [
+    "r_76f6f45f7c1f2f9d",
+    "r_c352c255431c46eb",
+    "r_d940c87122099820"
+  ],
+  "batrachophobia": [
+    "r_96879a931f75599d",
+    "r_f56b20da9e6a1a87"
+  ],
+  "battalion": [
+    "r_681484d8181d4831"
+  ],
+  "batter": [
+    "r_3d066a6c1d03a643",
+    "r_681484d8181d4831"
+  ],
+  "batterer": [
+    "r_681484d8181d4831"
+  ],
+  "battery": [
+    "r_681484d8181d4831"
+  ],
+  "battle": [
+    "r_681484d8181d4831"
+  ],
+  "battlefield": [
+    "r_d85ba5e1f270f43e"
+  ],
+  "battler": [
+    "r_681484d8181d4831"
+  ],
+  "battleship": [
+    "r_681484d8181d4831"
+  ],
+  "battling": [
+    "r_681484d8181d4831"
+  ],
+  "bauxite": [
+    "r_b7556c7c01449fe3"
+  ],
+  "bdellotomy": [
+    "r_2e8a9eca91ac4677",
+    "r_728e65bdc4fef132"
+  ],
+  "beach": [
+    "r_fc10bafb07d08299"
+  ],
+  "beachcomber": [
+    "r_fc10bafb07d08299"
+  ],
+  "beachy": [
+    "r_fc10bafb07d08299"
+  ],
+  "beaded": [
+    "r_7dbefefd929804e5"
+  ],
+  "beading": [
+    "r_7dbefefd929804e5"
+  ],
+  "beadle": [
+    "r_35501669d8931ebb"
+  ],
+  "beadlike": [
+    "r_47cc2af9dae31cc0"
+  ],
+  "beadsman": [
+    "r_b35fa2981e23ad46"
+  ],
+  "beadswoman": [
+    "r_b35fa2981e23ad46"
+  ],
+  "beady": [
+    "r_7dbefefd929804e5"
+  ],
+  "beaklike": [
+    "r_47cc2af9dae31cc0"
+  ],
+  "bean": [
+    "r_26ce7353e0d4c491"
+  ],
+  "beanie": [
+    "r_5c0088ae738e75c2"
+  ],
+  "bearable": [
+    "r_361fbad16ba5f8f1",
+    "r_d17c8c06b3351d59",
+    "r_e9af4bf761198a34"
+  ],
+  "bearably": [
+    "r_e9af4bf761198a34"
+  ],
+  "beard": [
+    "r_c1d0398f889704e7"
+  ],
+  "bearded": [
+    "r_c1d0398f889704e7"
+  ],
+  "beardless": [
+    "r_c0abd211fdff83d9",
+    "r_c1d0398f889704e7"
+  ],
+  "bearer": [
+    "r_e9af4bf761198a34"
+  ],
+  "bearing": [
+    "r_e9af4bf761198a34"
+  ],
+  "bearish": [
+    "r_062128666f2ba6f2",
+    "r_385893b20dadba39"
+  ],
+  "beat": [
+    "r_df89081590391669"
+  ],
+  "beatable": [
+    "r_df89081590391669"
+  ],
+  "beaten": [
+    "r_df89081590391669"
+  ],
+  "beater": [
+    "r_df89081590391669"
+  ],
+  "beatific": [
+    "r_2f61faaa0ff9d97c",
+    "r_d96ab84612ae3ff1"
+  ],
+  "beatification": [
+    "r_876c64dd25db83b9"
+  ],
+  "beating": [
+    "r_df89081590391669"
+  ],
+  "beatitude": [
+    "r_745a878d31d83205"
+  ],
+  "beautician": [
+    "r_6de0099a67c1e25f",
+    "r_762839c3eb5b7deb"
+  ],
+  "beautification": [
+    "r_762839c3eb5b7deb",
+    "r_876c64dd25db83b9"
+  ],
+  "beautifier": [
+    "r_762839c3eb5b7deb"
+  ],
+  "beautiful": [
+    "r_762839c3eb5b7deb",
+    "r_8e7eafaba7e19e15"
+  ],
+  "beautifully": [
+    "r_762839c3eb5b7deb",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "beautify": [
+    "r_762839c3eb5b7deb",
+    "r_e73301ea7cb774ae",
+    "r_fe3a5db23160622c"
+  ],
+  "beauty": [
+    "r_762839c3eb5b7deb",
+    "r_f09c8a53bd3c5e70"
+  ],
+  "becalm": [
+    "r_e6e6ba00b38c495e"
+  ],
+  "becalmed": [
+    "r_e6e6ba00b38c495e"
+  ],
+  "because": [
+    "r_e495bd4bd157ae21"
+  ],
+  "become": [
+    "r_7d8c2e1e17c6de97"
+  ],
+  "becoming": [
+    "r_7d8c2e1e17c6de97"
+  ],
+  "bed": [
+    "r_f2ef3124d6003118"
+  ],
+  "bedaub": [
+    "r_3dbe9e5c99a35e15"
+  ],
+  "bedazzle": [
+    "r_217c89354de45823",
+    "r_3dbe9e5c99a35e15",
+    "r_b94e83b7ee09a525"
+  ],
+  "bedazzled": [
+    "r_b94e83b7ee09a525"
+  ]
+}

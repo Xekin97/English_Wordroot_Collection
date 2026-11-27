@@ -1,0 +1,3459 @@
+{
+  "olivette": [
+    "r_b6c13a2aeb496154"
+  ],
+  "olivocerebellar": [
+    "r_3f4ca595c18153c3"
+  ],
+  "omalgia": [
+    "r_c762f6bf48d48edd"
+  ],
+  "omasum": [
+    "r_d54ad73551118452"
+  ],
+  "ombrogenous": [
+    "r_30a6f8158e6f87b9",
+    "r_cb1ff292bdfa7824"
+  ],
+  "ombrology": [
+    "r_30a6f8158e6f87b9",
+    "r_cb1ff292bdfa7824"
+  ],
+  "ombrometer": [
+    "r_30a6f8158e6f87b9",
+    "r_cb1ff292bdfa7824"
+  ],
+  "ombrophilous": [
+    "r_30a6f8158e6f87b9",
+    "r_cb1ff292bdfa7824"
+  ],
+  "ombrophobe": [
+    "r_30a6f8158e6f87b9",
+    "r_c8b7ce87d7356a84",
+    "r_cb1ff292bdfa7824"
+  ],
+  "ombrotrophic": [
+    "r_30a6f8158e6f87b9",
+    "r_cb1ff292bdfa7824"
+  ],
+  "omental": [
+    "r_3fbe06d8e82d4bae"
+  ],
+  "omentopexy": [
+    "r_ab8d170e272a0f94"
+  ],
+  "omeprazole": [
+    "r_a77e89c404678242"
+  ],
+  "ominous": [
+    "r_b86d82e931edb3a6"
+  ],
+  "omissible": [
+    "r_e8f089a58b2722e6"
+  ],
+  "omission": [
+    "r_94f841adb5ced61a",
+    "r_e8f089a58b2722e6",
+    "r_f1cc6811b172db83"
+  ],
+  "omissive": [
+    "r_e8f089a58b2722e6"
+  ],
+  "omit": [
+    "r_1cbb3fbc345916d1",
+    "r_f1cc6811b172db83"
+  ],
+  "omitted": [
+    "r_1cbb3fbc345916d1"
+  ],
+  "ommatidium": [
+    "r_4b2d6999594f6873",
+    "r_7809752eca4d870a"
+  ],
+  "ommatophore": [
+    "r_7809752eca4d870a"
+  ],
+  "omnibenevolence": [
+    "r_993fa2c7dbb1b8ac"
+  ],
+  "omnibus": [
+    "r_356b7a9f8be5eb8b",
+    "r_469cb1caea645305"
+  ],
+  "omnidirectional": [
+    "r_344dd14ee838571b",
+    "r_469cb1caea645305"
+  ],
+  "omnificence": [
+    "r_d2b30a7aa64ac857",
+    "r_d96ab84612ae3ff1"
+  ],
+  "omnificent": [
+    "r_469cb1caea645305",
+    "r_d2b30a7aa64ac857",
+    "r_d96ab84612ae3ff1"
+  ],
+  "omnipotence": [
+    "r_469cb1caea645305",
+    "r_be869f9d51a2287b"
+  ],
+  "omnipotent": [
+    "r_469cb1caea645305",
+    "r_be869f9d51a2287b",
+    "r_f3a4ce08d3c72136"
+  ],
+  "omnipresent": [
+    "r_2e137f712337aa64",
+    "r_356b7a9f8be5eb8b",
+    "r_469cb1caea645305"
+  ],
+  "omniscient": [
+    "r_356b7a9f8be5eb8b",
+    "r_469cb1caea645305",
+    "r_6ea260e235a899f4",
+    "r_806ce30a7ce92d57"
+  ],
+  "omniscious": [
+    "r_806ce30a7ce92d57"
+  ],
+  "omnium-gatherum": [
+    "r_469cb1caea645305"
+  ],
+  "omnivore": [
+    "r_469cb1caea645305",
+    "r_e5039fa3d616be34",
+    "r_e9acd64faf3a9ddb"
+  ],
+  "omnivorous": [
+    "r_2b899ada015b14cd",
+    "r_469cb1caea645305",
+    "r_e5039fa3d616be34"
+  ],
+  "omohyoid": [
+    "r_a71a986734205a4a",
+    "r_c762f6bf48d48edd"
+  ],
+  "omophagia": [
+    "r_eae5ce0076ca0e60"
+  ],
+  "omophorion": [
+    "r_c762f6bf48d48edd"
+  ],
+  "omostegite": [
+    "r_76d514befd743e71"
+  ],
+  "omphalectomy": [
+    "r_32d72e272a1c60fb"
+  ],
+  "omphalic": [
+    "r_32d72e272a1c60fb"
+  ],
+  "omphalomesenteric": [
+    "r_pending20261126_c_omphalo_coordinate"
+  ],
+  "omphalopagus": [
+    "r_32d72e272a1c60fb"
+  ],
+  "omphalophobia": [
+    "r_32d72e272a1c60fb"
+  ],
+  "omphaloskepsis": [
+    "r_ed138299c040dd75"
+  ],
+  "oncocyte": [
+    "r_f55aeb0077b1af32"
+  ],
+  "oncocytoma": [
+    "r_f55aeb0077b1af32"
+  ],
+  "oncogenesis": [
+    "r_f55aeb0077b1af32"
+  ],
+  "oncologist": [
+    "r_46bb7f2933515c78",
+    "r_f55aeb0077b1af32"
+  ],
+  "oncology": [
+    "r_01bf58f4c2221d8c",
+    "r_46bb7f2933515c78",
+    "r_a26b2e2b91a79bfb",
+    "r_f55aeb0077b1af32"
+  ],
+  "oncoming": [
+    "r_82ddc295f35eb5a6"
+  ],
+  "ondansetron": [
+    "r_2985fb913dd4f219"
+  ],
+  "one": [
+    "r_a0159995e3dd1de7"
+  ],
+  "one-party": [
+    "r_a0159995e3dd1de7"
+  ],
+  "one-time-only": [
+    "r_a0159995e3dd1de7"
+  ],
+  "one-upmanship": [
+    "r_c4cff658e774435c"
+  ],
+  "one-year": [
+    "r_64f6906dedb04c2b"
+  ],
+  "oneiric": [
+    "r_4b536e0113d0a123"
+  ],
+  "oneirism": [
+    "r_4b536e0113d0a123"
+  ],
+  "oneirocritic": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneirogen": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneirogenic": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneiroid": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneirology": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneiromancy": [
+    "r_4b536e0113d0a123",
+    "r_4e38d6ebd3026407",
+    "r_9def7a4fae276f24"
+  ],
+  "oneironaut": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneironautics": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneirophobia": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneirophrenia": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24",
+    "r_c66b8b40e225550b"
+  ],
+  "oneiroscopy": [
+    "r_4b536e0113d0a123",
+    "r_9def7a4fae276f24"
+  ],
+  "oneness": [
+    "r_a0159995e3dd1de7"
+  ],
+  "onerous": [
+    "r_0f8c2aab22edaf39"
+  ],
+  "oneself": [
+    "r_6f187a82d2dda963",
+    "r_a0159995e3dd1de7"
+  ],
+  "onetime": [
+    "r_a0159995e3dd1de7"
+  ],
+  "ongoing": [
+    "r_82ddc295f35eb5a6",
+    "r_ed9c418105737a96"
+  ],
+  "oniochalasia": [
+    "r_b6de1e034f7d30a1"
+  ],
+  "oniomania": [
+    "r_b6de1e034f7d30a1"
+  ],
+  "oniomaniac": [
+    "r_162a9e73cbd2dfb0",
+    "r_3386ea5b4bfd9672",
+    "r_b6de1e034f7d30a1"
+  ],
+  "onion": [
+    "r_4d0a0ccb68f2b452"
+  ],
+  "onionskin": [
+    "r_4d0a0ccb68f2b452"
+  ],
+  "oniric": [
+    "r_1ae2340be802c312"
+  ],
+  "oniromancy": [
+    "r_e3440dd8d5d262d5"
+  ],
+  "onlend": [
+    "r_386dbf9b9651212a"
+  ],
+  "onlook": [
+    "r_82ddc295f35eb5a6"
+  ],
+  "onlooker": [
+    "r_4bd98a89029d4974"
+  ],
+  "onomasiology": [
+    "r_9d843a69e81118cb"
+  ],
+  "onomastic": [
+    "r_4fd500c5b5a513d9",
+    "r_9d843a69e81118cb"
+  ],
+  "onomasticon": [
+    "r_9d843a69e81118cb"
+  ],
+  "onomastics": [
+    "r_4fd500c5b5a513d9",
+    "r_861ad986902a77b7",
+    "r_9d843a69e81118cb"
+  ],
+  "onomatology": [
+    "r_9d843a69e81118cb",
+    "r_b0c17c2d97a42f0d"
+  ],
+  "onomatophore": [
+    "r_9d843a69e81118cb",
+    "r_b0c17c2d97a42f0d"
+  ],
+  "onomatopoeia": [
+    "r_10b12929dd553ef4",
+    "r_879c25af70d8de32",
+    "r_9d843a69e81118cb",
+    "r_b0c17c2d97a42f0d"
+  ],
+  "onset": [
+    "r_82ddc295f35eb5a6",
+    "r_c1a89b0bba736442"
+  ],
+  "onshore": [
+    "r_d3a3eca3cb0155ea"
+  ],
+  "onstage": [
+    "r_88a87265d53b06cd"
+  ],
+  "ontic": [
+    "r_239e49afbdf3e9d8"
+  ],
+  "ontogenesis": [
+    "r_23785176324ba313",
+    "r_239e49afbdf3e9d8"
+  ],
+  "ontogenetic": [
+    "r_23785176324ba313",
+    "r_239e49afbdf3e9d8",
+    "r_a70fe288c6124081"
+  ],
+  "ontogeny": [
+    "r_23785176324ba313",
+    "r_239e49afbdf3e9d8",
+    "r_8919095a4d4ea554",
+    "r_a70fe288c6124081"
+  ],
+  "ontology": [
+    "r_01bf58f4c2221d8c",
+    "r_23785176324ba313",
+    "r_239e49afbdf3e9d8",
+    "r_a26b2e2b91a79bfb"
+  ],
+  "onychectomy": [
+    "r_150295fb4a1266c9"
+  ],
+  "onychia": [
+    "r_150295fb4a1266c9"
+  ],
+  "onycholysis": [
+    "r_150295fb4a1266c9"
+  ],
+  "onychomancy": [
+    "r_150295fb4a1266c9"
+  ],
+  "onychomycosis": [
+    "r_150295fb4a1266c9"
+  ],
+  "onychophagia": [
+    "r_150295fb4a1266c9",
+    "r_3834883ec57751c3",
+    "r_f4f40858f907ee2e"
+  ],
+  "onychophagy": [
+    "r_150295fb4a1266c9"
+  ],
+  "onychorrhexis": [
+    "r_150295fb4a1266c9"
+  ],
+  "onymous": [
+    "r_32e0bc618c8a0dcc"
+  ],
+  "ooblast": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oocyst": [
+    "r_1b5d01296e5ec583",
+    "r_63e341033ad91b27"
+  ],
+  "oocyte": [
+    "r_1b5d01296e5ec583",
+    "r_6b6f4ec13d2649a5",
+    "r_715e6924c6b986da"
+  ],
+  "oocytogenesis": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oogamete": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oogamous": [
+    "r_1b5d01296e5ec583",
+    "r_401bea899570b1d1",
+    "r_8133ff5955424c2a",
+    "r_fda80df0f37da9d6"
+  ],
+  "oogamy": [
+    "r_1b5d01296e5ec583",
+    "r_7bae8a52e196ab0f",
+    "r_8133ff5955424c2a"
+  ],
+  "oogenesis": [
+    "r_1b5d01296e5ec583",
+    "r_9ebac6649db4f485",
+    "r_a70fe288c6124081",
+    "r_b4e7c5aec195329b"
+  ],
+  "oogonium": [
+    "r_1b5d01296e5ec583",
+    "r_b0b5bb9f68a2eb2c",
+    "r_e5db82696206113b"
+  ],
+  "ooid": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oolite": [
+    "r_1b5d01296e5ec583",
+    "r_814faa16c9c944b5"
+  ],
+  "oolith": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oology": [
+    "r_01bf58f4c2221d8c",
+    "r_1b5d01296e5ec583",
+    "r_a26b2e2b91a79bfb"
+  ],
+  "oomancy": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oophagy": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oophorectomy": [
+    "r_1b5d01296e5ec583",
+    "r_514282a6bfe3d7c4",
+    "r_51f7fb2f2b540b71",
+    "r_9364051dffd72470",
+    "r_a75f63c40e270577",
+    "r_dd77d2592f519666"
+  ],
+  "oophoritis": [
+    "r_8157e81bceab1c70"
+  ],
+  "oophoron": [
+    "r_1b5d01296e5ec583"
+  ],
+  "oophoropexy": [
+    "r_2376205bab390591"
+  ],
+  "oopsie": [
+    "r_bnew20261125_ie_interjection"
+  ],
+  "oospore": [
+    "r_d62f255869367afa"
+  ],
+  "ootheca": [
+    "r_1b5d01296e5ec583"
+  ],
+  "ootid": [
+    "r_1b5d01296e5ec583"
+  ],
+  "ootidogenesis": [
+    "r_1b5d01296e5ec583"
+  ],
+  "opacity": [
+    "r_cb011a560ccb8cc0"
+  ],
+  "opacus": [
+    "r_cb011a560ccb8cc0"
+  ],
+  "opaion": [
+    "r_0d5ba5f6521b273d"
+  ],
+  "open": [
+    "r_4e2443d19c585a8f"
+  ],
+  "open-minded": [
+    "r_a2bf6a6e81e27fc7"
+  ],
+  "opencut": [
+    "r_15b29dff8a0d4fe4"
+  ],
+  "opened": [
+    "r_4e2443d19c585a8f"
+  ],
+  "opener": [
+    "r_4e2443d19c585a8f"
+  ],
+  "opening": [
+    "r_4e2443d19c585a8f"
+  ],
+  "openly": [
+    "r_4e2443d19c585a8f",
+    "r_e87e5c07dddcb6d7"
+  ],
+  "openness": [
+    "r_2e94b10a5733577d",
+    "r_4e2443d19c585a8f"
+  ],
+  "opera": [
+    "r_8f661030a55ba078"
+  ],
+  "operability": [
+    "r_8f661030a55ba078"
+  ],
+  "operable": [
+    "r_8f661030a55ba078"
+  ],
+  "operate": [
+    "r_7240156d8749caab",
+    "r_8f661030a55ba078"
+  ],
+  "operatic": [
+    "r_8f661030a55ba078",
+    "r_a97ec2c9dd0b23b0"
+  ],
+  "operating": [
+    "r_8f661030a55ba078"
+  ],
+  "operation": [
+    "r_8f661030a55ba078"
+  ],
+  "operational": [
+    "r_8f661030a55ba078"
+  ],
+  "operationalization": [
+    "r_8f661030a55ba078"
+  ],
+  "operationalize": [
+    "r_8f661030a55ba078"
+  ],
+  "operationally": [
+    "r_8f661030a55ba078"
+  ],
+  "operative": [
+    "r_8f661030a55ba078"
+  ],
+  "operator": [
+    "r_8f661030a55ba078"
+  ],
+  "opercular": [
+    "r_33d4a704db1744de"
+  ],
+  "operculiferous": [
+    "r_ba5a526c46da3029"
+  ],
+  "operculiform": [
+    "r_33d4a704db1744de"
+  ],
+  "operculum": [
+    "r_33d4a704db1744de"
+  ],
+  "operose": [
+    "r_8f661030a55ba078"
+  ],
+  "ophicephalous": [
+    "r_be64d245588f7aa9",
+    "r_eb2f363cd4630343",
+    "r_ed69c803d389045a"
+  ],
+  "ophidian": [
+    "r_12e5baac872c1853"
+  ],
+  "ophidiophobia": [
+    "r_1f0012fb4443c930",
+    "r_eb2f363cd4630343"
+  ],
+  "ophiolatry": [
+    "r_4cb92f99ca79f9f1"
+  ],
+  "ophiolite": [
+    "r_eb2f363cd4630343",
+    "r_f2a02933fee5234a"
+  ],
+  "ophiologist": [
+    "r_eb2f363cd4630343",
+    "r_f2a02933fee5234a"
+  ],
+  "ophiology": [
+    "r_01bf58f4c2221d8c",
+    "r_a26b2e2b91a79bfb",
+    "r_eb2f363cd4630343",
+    "r_f2a02933fee5234a"
+  ],
+  "ophiophagous": [
+    "r_eb2f363cd4630343",
+    "r_f2a02933fee5234a"
+  ],
+  "ophiophagy": [
+    "r_eb2f363cd4630343",
+    "r_f2a02933fee5234a"
+  ],
+  "ophiophobia": [
+    "r_eb2f363cd4630343",
+    "r_f2a02933fee5234a"
+  ],
+  "ophitic": [
+    "r_eb2f363cd4630343"
+  ],
+  "ophthalmia": [
+    "r_6472e3ce4abdbc6e"
+  ],
+  "ophthalmic": [
+    "r_6472e3ce4abdbc6e"
+  ],
+  "ophthalmologic": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e"
+  ],
+  "ophthalmologist": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e"
+  ],
+  "ophthalmology": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e"
+  ],
+  "ophthalmoparesis": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e"
+  ],
+  "ophthalmoplegia": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e",
+    "r_691f9e6549bc60d2"
+  ],
+  "ophthalmoscope": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e",
+    "r_9e52cc4870a9c2c1",
+    "r_a5920994c55726da"
+  ],
+  "ophthalmoscopy": [
+    "r_26415edf950d9919",
+    "r_6472e3ce4abdbc6e"
+  ],
+  "opinion": [
+    "r_27bc29a8b7238dbc"
+  ],
+  "opiomania": [
+    "r_92a1062304497990"
+  ],
+  "opisthenar": [
+    "r_4c38ca9904a40d8d"
+  ],
+  "opisthobranch": [
+    "r_340aa429242a2d44"
+  ],
+  "opisthodomos": [
+    "r_340aa429242a2d44"
+  ],
+  "opisthoglyphous": [
+    "r_340aa429242a2d44",
+    "r_cf22c933340fdcfd"
+  ],
+  "opisthognathous": [
+    "r_340aa429242a2d44",
+    "r_48f9afc8c093a9cc"
+  ],
+  "opisthograph": [
+    "r_340aa429242a2d44"
+  ],
+  "opisthokont": [
+    "r_340aa429242a2d44"
+  ],
+  "opisthosoma": [
+    "r_340aa429242a2d44"
+  ],
+  "opisthotonus": [
+    "r_340aa429242a2d44"
+  ],
+  "opotherapy": [
+    "r_84bb76b5c9a7261a"
+  ],
+  "opponent": [
+    "r_571093c29f18664d",
+    "r_c31b4707801c5f07",
+    "r_e4b988314557cf8c"
+  ],
+  "opportune": [
+    "r_5b9aef31d3a2aa20"
+  ],
+  "opposable": [
+    "r_361fbad16ba5f8f1",
+    "r_4122d22176db833b",
+    "r_d17c8c06b3351d59",
+    "r_e4b988314557cf8c"
+  ],
+  "oppose": [
+    "r_4122d22176db833b",
+    "r_93a88804387907a7",
+    "r_e4b988314557cf8c",
+    "r_f508349b58c1179e"
+  ],
+  "opposed": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "opposing": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "opposite": [
+    "r_0d7dbaa2984af3e6",
+    "r_a1ad058647a5c9e1",
+    "r_e4b988314557cf8c"
+  ],
+  "oppositely": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "opposition": [
+    "r_0d7dbaa2984af3e6",
+    "r_e4b988314557cf8c"
+  ],
+  "oppositional": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "oppositionist": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "oppositisepalous": [
+    "r_d03de97e8c69b8db"
+  ],
+  "oppress": [
+    "r_137375d81f4d3c5c",
+    "r_e4b988314557cf8c"
+  ],
+  "oppressed": [
+    "r_137375d81f4d3c5c"
+  ],
+  "oppression": [
+    "r_137375d81f4d3c5c"
+  ],
+  "oppressive": [
+    "r_137375d81f4d3c5c",
+    "r_b14aa3fd7e6677e0"
+  ],
+  "oppressively": [
+    "r_137375d81f4d3c5c"
+  ],
+  "oppressiveness": [
+    "r_137375d81f4d3c5c",
+    "r_2e94b10a5733577d"
+  ],
+  "oppressor": [
+    "r_137375d81f4d3c5c",
+    "r_79af09ef592cb0e8"
+  ],
+  "oppugn": [
+    "r_e4b988314557cf8c"
+  ],
+  "opsimath": [
+    "r_8b25e5c289d79512"
+  ],
+  "opsoclonus": [
+    "r_c83dc89e2a074419"
+  ],
+  "opsonin": [
+    "r_1633c4414ca6dbf4"
+  ],
+  "opsonoid": [
+    "r_1633c4414ca6dbf4"
+  ],
+  "opsonophagocytosis": [
+    "r_3bae4f1a7270bada"
+  ],
+  "opt": [
+    "r_4c0e7e56e8f0dc2f"
+  ],
+  "optation": [
+    "r_4c0e7e56e8f0dc2f"
+  ],
+  "optative": [
+    "r_4c0e7e56e8f0dc2f"
+  ],
+  "optic": [
+    "r_0221f697b46a2160",
+    "r_d8744a9b01edaaa7",
+    "r_fc6ac5fb5c0afdf5"
+  ],
+  "optical": [
+    "r_0221f697b46a2160",
+    "r_d8744a9b01edaaa7",
+    "r_fc6ac5fb5c0afdf5"
+  ],
+  "optically": [
+    "r_d8744a9b01edaaa7",
+    "r_fc6ac5fb5c0afdf5"
+  ],
+  "optician": [
+    "r_0221f697b46a2160",
+    "r_6de0099a67c1e25f",
+    "r_d8744a9b01edaaa7"
+  ],
+  "opticist": [
+    "r_d8744a9b01edaaa7"
+  ],
+  "optico-electronic": [
+    "r_pending20261126_b_optico_optical"
+  ],
+  "opticospinal": [
+    "r_6584264abe784cb8"
+  ],
+  "optics": [
+    "r_0221f697b46a2160",
+    "r_861ad986902a77b7",
+    "r_d8744a9b01edaaa7"
+  ],
+  "optimal": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimally": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimism": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimist": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimistic": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimistically": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimization": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimize": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimized": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimizing": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "optimum": [
+    "r_4067ecd7540d9ef6"
+  ],
+  "option": [
+    "r_4c0e7e56e8f0dc2f"
+  ],
+  "optional": [
+    "r_4c0e7e56e8f0dc2f"
+  ],
+  "optionality": [
+    "r_4c0e7e56e8f0dc2f"
+  ],
+  "optoelectronic": [
+    "r_faaab53e699de0ef"
+  ],
+  "optoelectronics": [
+    "r_68080c9348a09bb1",
+    "r_faaab53e699de0ef"
+  ],
+  "optokinetic": [
+    "r_68080c9348a09bb1",
+    "r_d8744a9b01edaaa7"
+  ],
+  "optometrist": [
+    "r_0221f697b46a2160",
+    "r_68080c9348a09bb1",
+    "r_d8744a9b01edaaa7"
+  ],
+  "optometry": [
+    "r_0221f697b46a2160",
+    "r_511c0c899244ad42",
+    "r_68080c9348a09bb1",
+    "r_7be3def87a0623b5",
+    "r_d8744a9b01edaaa7"
+  ],
+  "opulence": [
+    "r_40e0d60b3c0cb0de"
+  ],
+  "opulent": [
+    "r_40e0d60b3c0cb0de"
+  ],
+  "opulently": [
+    "r_40e0d60b3c0cb0de"
+  ],
+  "oracle": [
+    "r_0d7b3fb5b041d2fa",
+    "r_c5868c3c64d31bf2"
+  ],
+  "oral": [
+    "r_1bd074c5a7c8bac4"
+  ],
+  "orally": [
+    "r_1bd074c5a7c8bac4"
+  ],
+  "orange-brown": [
+    "r_b01331fde25d3077"
+  ],
+  "orate": [
+    "r_7240156d8749caab",
+    "r_c5868c3c64d31bf2",
+    "r_dd42056118ea2331"
+  ],
+  "oration": [
+    "r_c5868c3c64d31bf2",
+    "r_dd42056118ea2331"
+  ],
+  "orator": [
+    "r_c5868c3c64d31bf2",
+    "r_dd42056118ea2331"
+  ],
+  "oratorio": [
+    "r_c5868c3c64d31bf2",
+    "r_dd42056118ea2331"
+  ],
+  "oratory": [
+    "r_0d7b3fb5b041d2fa",
+    "r_c5868c3c64d31bf2",
+    "r_dd42056118ea2331"
+  ],
+  "orb": [
+    "r_367793a75ee86b87"
+  ],
+  "orbed": [
+    "r_367793a75ee86b87"
+  ],
+  "orbicular": [
+    "r_367793a75ee86b87"
+  ],
+  "orbit": [
+    "r_367793a75ee86b87",
+    "r_da7db2f2ef63f590"
+  ],
+  "orbital": [
+    "r_da7db2f2ef63f590"
+  ],
+  "orbiter": [
+    "r_da7db2f2ef63f590"
+  ],
+  "orbiting": [
+    "r_da7db2f2ef63f590"
+  ],
+  "orbitofrontal": [
+    "r_e301ca83b906d460"
+  ],
+  "orchestra": [
+    "r_af4d4cad0b17931f"
+  ],
+  "orchid": [
+    "r_287f097a2ea1582e"
+  ],
+  "orchiectomy": [
+    "r_287f097a2ea1582e"
+  ],
+  "orchiopexy": [
+    "r_287f097a2ea1582e"
+  ],
+  "orchis": [
+    "r_287f097a2ea1582e"
+  ],
+  "ordain": [
+    "r_d2ce97b34a2f4663",
+    "r_fd1b780a5b138abe"
+  ],
+  "ordainment": [
+    "r_d2ce97b34a2f4663"
+  ],
+  "order": [
+    "r_822fb562c4a56dd0",
+    "r_d2ce97b34a2f4663"
+  ],
+  "ordered": [
+    "r_822fb562c4a56dd0"
+  ],
+  "ordering": [
+    "r_822fb562c4a56dd0"
+  ],
+  "orderliness": [
+    "r_822fb562c4a56dd0"
+  ],
+  "orderly": [
+    "r_822fb562c4a56dd0",
+    "r_cd23793d581ce734",
+    "r_d2ce97b34a2f4663"
+  ],
+  "ordinal": [
+    "r_3f17bdcd73bcbde2",
+    "r_d2ce97b34a2f4663"
+  ],
+  "ordinance": [
+    "r_3f17bdcd73bcbde2",
+    "r_d2ce97b34a2f4663"
+  ],
+  "ordinand": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordinariate": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordinarily": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordinariness": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordinary": [
+    "r_3f17bdcd73bcbde2",
+    "r_d2ce97b34a2f4663"
+  ],
+  "ordinate": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordination": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordinative": [
+    "r_3f17bdcd73bcbde2"
+  ],
+  "ordnance": [
+    "r_d2ce97b34a2f4663"
+  ],
+  "organ": [
+    "r_c53a3b29e4d34e12"
+  ],
+  "organic": [
+    "r_36e40c1a51e76517",
+    "r_c53a3b29e4d34e12"
+  ],
+  "organiser": [
+    "r_84ae0d4a5d2b66ec"
+  ],
+  "organism": [
+    "r_36e40c1a51e76517",
+    "r_c53a3b29e4d34e12"
+  ],
+  "organist": [
+    "r_98e41edddda09423",
+    "r_c53a3b29e4d34e12"
+  ],
+  "organize": [
+    "r_c53a3b29e4d34e12"
+  ],
+  "organo-mineral": [
+    "r_bnew20261125_organo_soil"
+  ],
+  "organogenesis": [
+    "r_36e40c1a51e76517",
+    "r_ac1d62635e95681d",
+    "r_c53a3b29e4d34e12"
+  ],
+  "organoid": [
+    "r_c53a3b29e4d34e12",
+    "r_eb16d5b9515e53ce"
+  ],
+  "organoleptic": [
+    "r_c53a3b29e4d34e12"
+  ],
+  "organometallic": [
+    "r_8675d2f6370ec955"
+  ],
+  "organopalladium": [
+    "r_bnew20261125_organo_chemical"
+  ],
+  "organotroph": [
+    "r_99bf8c9e229f73e1"
+  ],
+  "orgiastic": [
+    "r_76269aab9d1b6ddf"
+  ],
+  "orient": [
+    "r_33c1c32c284a2e44"
+  ],
+  "oriental": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientalia": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientalism": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientalist": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientate": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientation": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientational": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orientative": [
+    "r_33c1c32c284a2e44"
+  ],
+  "oriented": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orienteer": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orienteering": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orienting": [
+    "r_33c1c32c284a2e44"
+  ],
+  "orifice": [
+    "r_1bd074c5a7c8bac4",
+    "r_d96ab84612ae3ff1"
+  ],
+  "origin": [
+    "r_33c1c32c284a2e44",
+    "r_64ef894a37372a3e"
+  ],
+  "original": [
+    "r_33c1c32c284a2e44",
+    "r_64ef894a37372a3e"
+  ],
+  "originalism": [
+    "r_64ef894a37372a3e"
+  ],
+  "originality": [
+    "r_33c1c32c284a2e44",
+    "r_64ef894a37372a3e",
+    "r_b7cdcb90d9054f03"
+  ],
+  "originally": [
+    "r_64ef894a37372a3e"
+  ],
+  "originate": [
+    "r_33c1c32c284a2e44",
+    "r_64ef894a37372a3e",
+    "r_7240156d8749caab"
+  ],
+  "originating": [
+    "r_64ef894a37372a3e"
+  ],
+  "origination": [
+    "r_33c1c32c284a2e44",
+    "r_64ef894a37372a3e"
+  ],
+  "originative": [
+    "r_64ef894a37372a3e"
+  ],
+  "originator": [
+    "r_33c1c32c284a2e44",
+    "r_64ef894a37372a3e"
+  ],
+  "orison": [
+    "r_0d7b3fb5b041d2fa"
+  ],
+  "ornament": [
+    "r_cf364277b76d697b"
+  ],
+  "ornamental": [
+    "r_cf364277b76d697b"
+  ],
+  "ornamentalist": [
+    "r_cf364277b76d697b"
+  ],
+  "ornamentation": [
+    "r_cf364277b76d697b"
+  ],
+  "ornamented": [
+    "r_cf364277b76d697b"
+  ],
+  "ornate": [
+    "r_cf364277b76d697b"
+  ],
+  "ornately": [
+    "r_cf364277b76d697b"
+  ],
+  "ornative": [
+    "r_cf364277b76d697b"
+  ],
+  "ornature": [
+    "r_cf364277b76d697b"
+  ],
+  "ornithine": [
+    "r_7180f5691212785f"
+  ],
+  "ornithology": [
+    "r_01bf58f4c2221d8c",
+    "r_1f1805698ec14697",
+    "r_7180f5691212785f",
+    "r_a26b2e2b91a79bfb"
+  ],
+  "ornithomancy": [
+    "r_1f1805698ec14697",
+    "r_7180f5691212785f"
+  ],
+  "ornithorhynchus": [
+    "r_1f1805698ec14697",
+    "r_7180f5691212785f"
+  ],
+  "ornithosis": [
+    "r_1f1805698ec14697",
+    "r_7180f5691212785f"
+  ],
+  "orogeny": [
+    "r_8919095a4d4ea554",
+    "r_a70fe288c6124081"
+  ],
+  "orography": [
+    "r_d2b9ebe80c2e962b"
+  ],
+  "oropharynx": [
+    "r_9b12c256dc731438"
+  ],
+  "orphan": [
+    "r_440127acb839b594"
+  ],
+  "orphanhood": [
+    "r_440127acb839b594"
+  ],
+  "ortho-dibromobenzene": [
+    "r_47cd052e58dad464"
+  ],
+  "orthocenter": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthocentric": [
+    "r_28f6b5d3b84e5041",
+    "r_92c7c1a594a1468b",
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c",
+    "r_e5220ee76c48ae8b"
+  ],
+  "orthoclase": [
+    "r_3113b80c88540db8",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthocone": [
+    "r_e57d996438499e5a"
+  ],
+  "orthoconic": [
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodontia": [
+    "r_a44fce748843f901",
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodontic": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodontics": [
+    "r_0d525e701dd16d15",
+    "r_711f6d8fc9bd9e67",
+    "r_72bc0c849fd9d4a3",
+    "r_861ad986902a77b7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodontist": [
+    "r_0d525e701dd16d15",
+    "r_711f6d8fc9bd9e67",
+    "r_72bc0c849fd9d4a3",
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodox": [
+    "r_1305d5cd8b4292f2",
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodoxy": [
+    "r_1305d5cd8b4292f2",
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthodromic": [
+    "r_7aa75c3a0d0c00a2"
+  ],
+  "orthoepy": [
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthogeriatrics": [
+    "r_pending20261126_c_ortho_orthopaedics"
+  ],
+  "orthogneiss": [
+    "r_dcb15fb24b5ed5da"
+  ],
+  "orthogonal": [
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthographic": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthography": [
+    "r_7205234065a3e70d",
+    "r_dc21d11f32778f92",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthohydrogen": [
+    "r_2bf963ee2adbca98"
+  ],
+  "ortholog": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthologous": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthonym": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthopedic": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c",
+    "r_e3b34365d5beed2a"
+  ],
+  "orthopedics": [
+    "r_861ad986902a77b7",
+    "r_df4c6a1cb0f1861c",
+    "r_e3b34365d5beed2a"
+  ],
+  "orthophosphoric acid": [
+    "r_8e2a06d133848bbc"
+  ],
+  "orthopteran": [
+    "r_24181cefceb34177",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthopyroxene": [
+    "r_518745a04a5f147a"
+  ],
+  "orthorhombic": [
+    "r_af0c7445249d10bf"
+  ],
+  "orthoscope": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthosis": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthostat": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthostatic": [
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthostyle": [
+    "r_5830165d5184b662",
+    "r_62883176c3ea2615",
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthotic": [
+    "r_be9ea9f0bf47b8e7",
+    "r_df4c6a1cb0f1861c"
+  ],
+  "orthotomous": [
+    "r_7ed56d5b7fac7e84"
+  ],
+  "orthotropous": [
+    "r_cd41f8f10bc09a7c"
+  ],
+  "oryctology": [
+    "r_16f0d8773d274b7a",
+    "r_abd958ac5fd8009b"
+  ],
+  "oryzivorous": [
+    "r_01e98d01e2162a2e",
+    "r_99d6f5bb2f0b09f3"
+  ],
+  "oscheocele": [
+    "r_ce7e8eae50067446"
+  ],
+  "oscillate": [
+    "r_d92f5340426c8388"
+  ],
+  "oscillation": [
+    "r_d92f5340426c8388"
+  ],
+  "oscillator": [
+    "r_d92f5340426c8388"
+  ],
+  "oscillatory": [
+    "r_d92f5340426c8388"
+  ],
+  "oscillograph": [
+    "r_7cd177e5b4e959ca",
+    "r_dc21d11f32778f92"
+  ],
+  "oscilloscope": [
+    "r_9e52cc4870a9c2c1",
+    "r_a5920994c55726da"
+  ],
+  "oseltamivir": [
+    "r_ce04502a8ade37ee"
+  ],
+  "osmiophilic": [
+    "r_84c0b3869418a460"
+  ],
+  "osmobiosis": [
+    "r_7b7b3153cd7d8099",
+    "r_9572c7358e94c340"
+  ],
+  "osmometer": [
+    "r_pending20261126_b_osmo_osmosis"
+  ],
+  "osmometry": [
+    "r_337dd1c62497d6b3"
+  ],
+  "osmophobia": [
+    "r_pending20261126_b_osmo_smell"
+  ],
+  "osmosis": [
+    "r_337dd1c62497d6b3",
+    "r_bd46fd69970df5a1"
+  ],
+  "osmostat": [
+    "r_337dd1c62497d6b3"
+  ],
+  "osmotic": [
+    "r_337dd1c62497d6b3"
+  ],
+  "ossature": [
+    "r_d5930598d26dc3a2"
+  ],
+  "ossein": [
+    "r_80845d71eeade6d9"
+  ],
+  "osselet": [
+    "r_d5930598d26dc3a2"
+  ],
+  "osseocartilaginous": [
+    "r_d5930598d26dc3a2"
+  ],
+  "osseointegration": [
+    "r_89d862c8364fa6f6",
+    "r_d5930598d26dc3a2"
+  ],
+  "osseous": [
+    "r_d5930598d26dc3a2"
+  ],
+  "ossicle": [
+    "r_9974e82e994aee2d",
+    "r_d5930598d26dc3a2",
+    "r_d9605bb7601f074a"
+  ],
+  "ossicular": [
+    "r_d5930598d26dc3a2",
+    "r_d9605bb7601f074a"
+  ],
+  "ossiferous": [
+    "r_d5930598d26dc3a2",
+    "r_d9605bb7601f074a"
+  ],
+  "ossification": [
+    "r_d5930598d26dc3a2",
+    "r_d9605bb7601f074a"
+  ],
+  "ossifrage": [
+    "r_d5930598d26dc3a2",
+    "r_d9605bb7601f074a"
+  ],
+  "ossify": [
+    "r_d5930598d26dc3a2",
+    "r_d9605bb7601f074a"
+  ],
+  "ossuary": [
+    "r_d5930598d26dc3a2"
+  ],
+  "osteitis": [
+    "r_8157e81bceab1c70",
+    "r_8a31a23b1e61209d"
+  ],
+  "ostensible": [
+    "r_57a0e87c12abdb3b",
+    "r_740052f2ccd49ae4"
+  ],
+  "ostension": [
+    "r_740052f2ccd49ae4"
+  ],
+  "ostensive": [
+    "r_740052f2ccd49ae4"
+  ],
+  "ostensory": [
+    "r_740052f2ccd49ae4"
+  ],
+  "ostentation": [
+    "r_81af32d722709ad3"
+  ],
+  "ostentatious": [
+    "r_57a0e87c12abdb3b"
+  ],
+  "osteoarthritis": [
+    "r_8157e81bceab1c70",
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteoblast": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8",
+    "r_cd459d44c7e2b1fc"
+  ],
+  "osteochondritis": [
+    "r_8a31a23b1e61209d",
+    "r_a1d6f0ba59802ccb",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteochondropathy": [
+    "r_dd7331354a346fad"
+  ],
+  "osteochondrosis": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteoclasis": [
+    "r_b4e5d9105894454d"
+  ],
+  "osteoclast": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8",
+    "r_f2b334a820e58345"
+  ],
+  "osteoclastic": [
+    "r_rem20261125_b_clastic_active"
+  ],
+  "osteogenesis": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteogenic": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteoid": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteology": [
+    "r_01bf58f4c2221d8c",
+    "r_8a31a23b1e61209d",
+    "r_a26b2e2b91a79bfb",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteolysis": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteoma": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteomalacia": [
+    "r_0399e07bb60d8b37",
+    "r_780442f7afbb5c6e",
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteomyelitis": [
+    "r_8157e81bceab1c70",
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteonecrosis": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteopath": [
+    "r_3069ac29e8f1af47"
+  ],
+  "osteopathy": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteopenia": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteophyte": [
+    "r_72a7a9f093243e23"
+  ],
+  "osteoporosis": [
+    "r_5f1c8d00cf0402e3",
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8",
+    "r_bd46fd69970df5a1"
+  ],
+  "osteoporotic": [
+    "r_5f1c8d00cf0402e3"
+  ],
+  "osteosarcoma": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteosis": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteothrombosis": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteotome": [
+    "r_8a31a23b1e61209d",
+    "r_a7a120d19249e2f8"
+  ],
+  "osteotomy": [
+    "r_8a31a23b1e61209d",
+    "r_a75f63c40e270577",
+    "r_a7a120d19249e2f8",
+    "r_bf5779e4af097ae6"
+  ],
+  "ostiary": [
+    "r_d5f54ee65140b1d5"
+  ],
+  "ostiolar": [
+    "r_d5f54ee65140b1d5"
+  ],
+  "ostiole": [
+    "r_d5f54ee65140b1d5"
+  ],
+  "ostium": [
+    "r_d5f54ee65140b1d5"
+  ],
+  "ostracism": [
+    "r_1824375e12266029"
+  ],
+  "ostracize": [
+    "r_1824375e12266029"
+  ],
+  "ostracod": [
+    "r_1824375e12266029"
+  ],
+  "ostracoderm": [
+    "r_1824375e12266029"
+  ],
+  "ostracology": [
+    "r_0b38b1c2c81abd40"
+  ],
+  "ostracon": [
+    "r_1824375e12266029"
+  ],
+  "ostreiculture": [
+    "r_c46827309cd4a34b"
+  ],
+  "ostreophagist": [
+    "r_886432aac5b80edb"
+  ],
+  "ostreophagous": [
+    "r_a92032f29a360245"
+  ],
+  "otalgia": [
+    "r_07df9c2b3ef9c673"
+  ],
+  "otherwise": [
+    "r_a3ac768d8c08e708"
+  ],
+  "otic": [
+    "r_07df9c2b3ef9c673"
+  ],
+  "otiose": [
+    "r_40e8a75a0a5fc2ff"
+  ],
+  "otitis": [
+    "r_07df9c2b3ef9c673",
+    "r_8157e81bceab1c70"
+  ],
+  "otocephaly": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otocleisis": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otoconium": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otocyst": [
+    "r_63e341033ad91b27",
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otodynia": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otolith": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otology": [
+    "r_01bf58f4c2221d8c",
+    "r_07df9c2b3ef9c673",
+    "r_a26b2e2b91a79bfb",
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otopathy": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otophone": [
+    "r_d3312ca743a34514"
+  ],
+  "otophyma": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otoplasty": [
+    "r_b91f2689141e3d2e",
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otorhinology": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otorrhea": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otosclerosis": [
+    "r_07df9c2b3ef9c673",
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otoscope": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "otoscopy": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "ototomy": [
+    "r_fcc304c6c3fa96ab"
+  ],
+  "ourselves": [
+    "r_4ef59790a58e3402"
+  ],
+  "oust": [
+    "r_88a87265d53b06cd"
+  ],
+  "ousting": [
+    "r_88a87265d53b06cd"
+  ],
+  "out": [
+    "r_bc73b380d5fc7d90"
+  ],
+  "outboard": [
+    "r_d07e1445546aea2a"
+  ],
+  "outbound": [
+    "r_d1ddb9d3067911a0"
+  ],
+  "outbreak": [
+    "r_3310a9a30e42bd29",
+    "r_369646ecc607a84c"
+  ],
+  "outburn": [
+    "r_b20261126_a_out_completion"
+  ],
+  "outburst": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outcast": [
+    "r_3310a9a30e42bd29",
+    "r_bc73b380d5fc7d90"
+  ],
+  "outclass": [
+    "r_929523d540ffff17"
+  ],
+  "outcome": [
+    "r_3310a9a30e42bd29",
+    "r_7d8c2e1e17c6de97"
+  ],
+  "outdate": [
+    "r_49108de0d37ccbd9"
+  ],
+  "outdated": [
+    "r_49108de0d37ccbd9"
+  ],
+  "outdo": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outdoing": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outdoor": [
+    "r_bc73b380d5fc7d90",
+    "r_f72057e0984158ba"
+  ],
+  "outdoorsperson": [
+    "r_e7f3677e17d932a1"
+  ],
+  "outer": [
+    "r_bc73b380d5fc7d90"
+  ],
+  "outfall": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outfield": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outfox": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outgrow": [
+    "r_3310a9a30e42bd29",
+    "r_7b02d8a575c42aec"
+  ],
+  "outgrown": [
+    "r_7b02d8a575c42aec"
+  ],
+  "outgrowth": [
+    "r_3310a9a30e42bd29",
+    "r_7b02d8a575c42aec"
+  ],
+  "outhouse": [
+    "r_bc73b380d5fc7d90"
+  ],
+  "outlast": [
+    "r_0789163d9ab55e91",
+    "r_3310a9a30e42bd29"
+  ],
+  "outlaw": [
+    "r_3310a9a30e42bd29",
+    "r_c80373640b519f57"
+  ],
+  "outlawing": [
+    "r_c80373640b519f57"
+  ],
+  "outline": [
+    "r_fbe217d63b9effba"
+  ],
+  "outlined": [
+    "r_fbe217d63b9effba"
+  ],
+  "outmaneuver": [
+    "r_5ccc3361ffba7958"
+  ],
+  "outmoded": [
+    "r_9827c8c2206e31b1"
+  ],
+  "outpatient": [
+    "r_cef8635a95cc7130"
+  ],
+  "outplay": [
+    "r_92e0791c22809d3a"
+  ],
+  "output": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outrageous": [
+    "r_0a8b7de8bd0ae055"
+  ],
+  "outreach": [
+    "r_3310a9a30e42bd29",
+    "r_4277b7ee3b8c0ee4"
+  ],
+  "outright": [
+    "r_9271355010f888d3"
+  ],
+  "outrun": [
+    "r_3310a9a30e42bd29"
+  ],
+  "outscore": [
+    "r_6a6c407819caf54e"
+  ],
+  "outsell": [
+    "r_4deffa0ce61c6cd4"
+  ],
+  "outside": [
+    "r_13ef100fcedd1a97",
+    "r_3310a9a30e42bd29"
+  ],
+  "outsider": [
+    "r_13ef100fcedd1a97"
+  ],
+  "outskirt": [
+    "r_243256adad5b6d97"
+  ],
+  "outskirts": [
+    "r_243256adad5b6d97"
+  ],
+  "outsmart": [
+    "r_119c4d0d65626106",
+    "r_3310a9a30e42bd29"
+  ],
+  "outspend": [
+    "r_90c86dc376499958"
+  ],
+  "outvote": [
+    "r_8565cc1e9ba1d96c"
+  ],
+  "outward": [
+    "r_bc73b380d5fc7d90"
+  ],
+  "outward-bound": [
+    "r_d1ddb9d3067911a0"
+  ],
+  "oval": [
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovarian": [
+    "r_3d0498d880b1ca01",
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovariectomy": [
+    "r_4e910df1708e26eb",
+    "r_514282a6bfe3d7c4",
+    "r_82723e5952ca83bc",
+    "r_a75f63c40e270577"
+  ],
+  "ovariohysterectomy": [
+    "r_a3f78edf680b15fb"
+  ],
+  "ovariole": [
+    "r_3d0498d880b1ca01",
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovariotomy": [
+    "r_a75f63c40e270577",
+    "r_bf5779e4af097ae6"
+  ],
+  "ovaritis": [
+    "r_8157e81bceab1c70",
+    "r_feafbd05285601d7"
+  ],
+  "ovary": [
+    "r_3d0498d880b1ca01",
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovate": [
+    "r_3d0498d880b1ca01",
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovenproof": [
+    "r_7798c4565bbb488d"
+  ],
+  "overachieve": [
+    "r_ae8013679d9bcc13"
+  ],
+  "overachievement": [
+    "r_ae8013679d9bcc13"
+  ],
+  "overachiever": [
+    "r_ae8013679d9bcc13"
+  ],
+  "overachieving": [
+    "r_ae8013679d9bcc13"
+  ],
+  "overact": [
+    "r_69379cc078010c95",
+    "r_9f635c08c6e50fcf"
+  ],
+  "overanxious": [
+    "r_caa6025dc74a8406"
+  ],
+  "overargue": [
+    "r_c4f4a965340400a2"
+  ],
+  "overarm": [
+    "r_3b098c1747171eef"
+  ],
+  "overawe": [
+    "r_4f7b81cbdf16a56b"
+  ],
+  "overbake": [
+    "r_69379cc078010c95"
+  ],
+  "overbalance": [
+    "r_59fb4e2d954f520e"
+  ],
+  "overbar": [
+    "r_69379cc078010c95"
+  ],
+  "overboard": [
+    "r_69379cc078010c95",
+    "r_d07e1445546aea2a"
+  ],
+  "overbook": [
+    "r_69379cc078010c95",
+    "r_a43f9486ac422ef9"
+  ],
+  "overbooked": [
+    "r_a43f9486ac422ef9"
+  ],
+  "overburden": [
+    "r_5db74fe591db298d"
+  ],
+  "overburdened": [
+    "r_5db74fe591db298d"
+  ],
+  "overbusy": [
+    "r_69379cc078010c95"
+  ],
+  "overcapitalize": [
+    "r_8ad14917b0a5e4fb",
+    "r_8e1da1fc26d31ec0"
+  ],
+  "overcast": [
+    "r_69379cc078010c95"
+  ],
+  "overcharge": [
+    "r_90538c5bec82c7c1"
+  ],
+  "overclean": [
+    "r_69379cc078010c95"
+  ],
+  "overcoat": [
+    "r_36120f28c39611b9",
+    "r_69379cc078010c95"
+  ],
+  "overcome": [
+    "r_69379cc078010c95",
+    "r_7d8c2e1e17c6de97"
+  ],
+  "overcoming": [
+    "r_7d8c2e1e17c6de97"
+  ],
+  "overcompensate": [
+    "r_558f1c1bb368fb73"
+  ],
+  "overcompensation": [
+    "r_558f1c1bb368fb73"
+  ],
+  "overconfidence": [
+    "r_7494d0744f11c4d4"
+  ],
+  "overconfident": [
+    "r_69379cc078010c95",
+    "r_7494d0744f11c4d4"
+  ],
+  "overconsumption": [
+    "r_f27dbbf0ca997936"
+  ],
+  "overcook": [
+    "r_313122ee50b306c7",
+    "r_69379cc078010c95"
+  ],
+  "overcooked": [
+    "r_313122ee50b306c7"
+  ],
+  "overcritical": [
+    "r_6c8b333471a8ef79"
+  ],
+  "overcrowd": [
+    "r_8171ea77597bf013"
+  ],
+  "overcrowded": [
+    "r_8171ea77597bf013"
+  ],
+  "overcrowding": [
+    "r_8171ea77597bf013"
+  ],
+  "overdependence": [
+    "r_90c86dc376499958"
+  ],
+  "overdevelop": [
+    "r_fa3f8a7107539faa"
+  ],
+  "overdeveloped": [
+    "r_fa3f8a7107539faa"
+  ],
+  "overdo": [
+    "r_69379cc078010c95"
+  ],
+  "overdramatize": [
+    "r_d7c6db7303edb4e7"
+  ],
+  "overdress": [
+    "r_57376435709446a1"
+  ],
+  "overdressed": [
+    "r_57376435709446a1"
+  ],
+  "overdrive": [
+    "r_05d6f102d0a58f9f",
+    "r_7ca006f7609ab98b"
+  ],
+  "overdry": [
+    "r_69379cc078010c95"
+  ],
+  "overeager": [
+    "r_e20519ae4d486550"
+  ],
+  "overeat": [
+    "r_a9d26e5089265347"
+  ],
+  "overeating": [
+    "r_a9d26e5089265347"
+  ],
+  "overemphasis": [
+    "r_b589a56f50699588"
+  ],
+  "overemphasize": [
+    "r_b589a56f50699588"
+  ],
+  "overestimate": [
+    "r_dbbefeaf47da1055"
+  ],
+  "overestimation": [
+    "r_dbbefeaf47da1055"
+  ],
+  "overexcited": [
+    "r_2bce7dbca170c156",
+    "r_69379cc078010c95"
+  ],
+  "overexploitation": [
+    "r_046ad986db0f5e0a",
+    "r_3c7377d40c5ac766"
+  ],
+  "overexpose": [
+    "r_0d7dbaa2984af3e6",
+    "r_93a88804387907a7"
+  ],
+  "overexposed": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "overexposure": [
+    "r_0d7dbaa2984af3e6"
+  ],
+  "overexpression": [
+    "r_137375d81f4d3c5c"
+  ],
+  "overextend": [
+    "r_15decca3bc391700"
+  ],
+  "overextended": [
+    "r_15decca3bc391700"
+  ],
+  "overextension": [
+    "r_740052f2ccd49ae4"
+  ],
+  "overfamiliar": [
+    "r_f81d8b7a947ba2d1"
+  ],
+  "overfeed": [
+    "r_d4dd74c2bc7b6ea9"
+  ],
+  "overfilled": [
+    "r_a540d96b3879c50f"
+  ],
+  "overfish": [
+    "r_b29a56e918b58525"
+  ],
+  "overfishing": [
+    "r_b29a56e918b58525"
+  ],
+  "overflow": [
+    "r_69379cc078010c95",
+    "r_94cad7f4ae07aaf4"
+  ],
+  "overflowing": [
+    "r_94cad7f4ae07aaf4"
+  ],
+  "overfull": [
+    "r_e4d2d56f098336f4"
+  ],
+  "overgrazed": [
+    "r_82afce84a4e21d43"
+  ],
+  "overgrow": [
+    "r_7b02d8a575c42aec"
+  ],
+  "overgrown": [
+    "r_53b02a3b5b8e1891",
+    "r_7b02d8a575c42aec"
+  ],
+  "overgrowth": [
+    "r_7b02d8a575c42aec"
+  ],
+  "overhand": [
+    "r_6871cd91d868077c"
+  ],
+  "overhang": [
+    "r_ad9ffd3540a01897"
+  ],
+  "overhanging": [
+    "r_ad9ffd3540a01897"
+  ],
+  "overhead": [
+    "r_525680eaee161167",
+    "r_69379cc078010c95"
+  ],
+  "overhear": [
+    "r_4ccec70dae1355fb"
+  ],
+  "overheard": [
+    "r_4ccec70dae1355fb"
+  ],
+  "overhearing": [
+    "r_4ccec70dae1355fb"
+  ],
+  "overheat": [
+    "r_285fa067ba182f0d"
+  ],
+  "overheated": [
+    "r_285fa067ba182f0d"
+  ],
+  "overheating": [
+    "r_285fa067ba182f0d"
+  ],
+  "overjoyed": [
+    "r_4b85a6883a6de632",
+    "r_69379cc078010c95",
+    "r_bnew20261125_over_intense"
+  ],
+  "overkill": [
+    "r_955d950ab5d513e6"
+  ],
+  "overland": [
+    "r_2af5cb7ec69d0504"
+  ],
+  "overlap": [
+    "r_69379cc078010c95"
+  ],
+  "overlarge": [
+    "r_69379cc078010c95",
+    "r_fe90bc52b5a9ba40"
+  ],
+  "overlength": [
+    "r_69379cc078010c95"
+  ],
+  "overload": [
+    "r_38c0d72e17484410",
+    "r_69379cc078010c95"
+  ],
+  "overloaded": [
+    "r_38c0d72e17484410"
+  ],
+  "overlook": [
+    "r_4bd98a89029d4974",
+    "r_69379cc078010c95"
+  ],
+  "overlord": [
+    "r_3b55b59d3e56910a",
+    "r_69379cc078010c95"
+  ],
+  "overmuch": [
+    "r_649eed1688ccceea"
+  ],
+  "overnice": [
+    "r_69379cc078010c95"
+  ],
+  "overnight": [
+    "r_6d2cab315afad67f"
+  ],
+  "overpaint": [
+    "r_97f4307c6d165fa0"
+  ],
+  "overpainting": [
+    "r_97f4307c6d165fa0"
+  ],
+  "overpay": [
+    "r_69379cc078010c95",
+    "r_eb1ce15016ec227f"
+  ],
+  "overpayment": [
+    "r_b5e7951a290aa57d",
+    "r_eb1ce15016ec227f"
+  ],
+  "overplan": [
+    "r_69379cc078010c95"
+  ],
+  "overplay": [
+    "r_92e0791c22809d3a"
+  ],
+  "overpopulate": [
+    "r_1b4ffea9a558586b"
+  ],
+  "overpopulated": [
+    "r_1b4ffea9a558586b"
+  ],
+  "overpopulation": [
+    "r_1b4ffea9a558586b"
+  ],
+  "overpower": [
+    "r_50b40c808cdc3089",
+    "r_69379cc078010c95"
+  ],
+  "overpowering": [
+    "r_50b40c808cdc3089"
+  ],
+  "overprice": [
+    "r_9b01462747817638"
+  ],
+  "overpriced": [
+    "r_9b01462747817638"
+  ],
+  "overproduce": [
+    "r_57d3837fc6458ff1",
+    "r_5fd2302f3dd9cfb8"
+  ],
+  "overproduction": [
+    "r_5d475659115e628c",
+    "r_5fd2302f3dd9cfb8"
+  ],
+  "overproud": [
+    "r_89902aa15d6c3716"
+  ],
+  "overqualified": [
+    "r_c22bbba520512cbb"
+  ],
+  "overrate": [
+    "r_69379cc078010c95",
+    "r_7877a731b25ec86d"
+  ],
+  "overrated": [
+    "r_7877a731b25ec86d"
+  ],
+  "overreach": [
+    "r_4277b7ee3b8c0ee4"
+  ],
+  "overreaching": [
+    "r_4277b7ee3b8c0ee4"
+  ],
+  "overreact": [
+    "r_9f635c08c6e50fcf"
+  ],
+  "overreaction": [
+    "r_9f635c08c6e50fcf"
+  ],
+  "overrepresentation": [
+    "r_2e137f712337aa64"
+  ],
+  "override": [
+    "r_69379cc078010c95"
+  ],
+  "overripe": [
+    "r_327a64e21289a1bd"
+  ],
+  "overrule": [
+    "r_3899183bbb98c81c"
+  ],
+  "oversea": [
+    "r_9f8bb712b15f98cd"
+  ],
+  "oversee": [
+    "r_fc86d52534d3f397"
+  ],
+  "overseer": [
+    "r_3d066a6c1d03a643",
+    "r_fc86d52534d3f397"
+  ],
+  "oversell": [
+    "r_4deffa0ce61c6cd4"
+  ],
+  "oversensitive": [
+    "r_5463e5d9c124c04d"
+  ],
+  "overshadow": [
+    "r_1f9bb81b96fc6980",
+    "r_69379cc078010c95"
+  ],
+  "oversleep": [
+    "r_1824eb1c0d41a965"
+  ],
+  "overspeculate": [
+    "r_e26c4e941ce231cd"
+  ],
+  "overspend": [
+    "r_90c86dc376499958"
+  ],
+  "overstate": [
+    "r_69379cc078010c95",
+    "r_dd511342d1c3bc2d"
+  ],
+  "overstated": [
+    "r_dd511342d1c3bc2d"
+  ],
+  "overstatement": [
+    "r_b5e7951a290aa57d",
+    "r_dd511342d1c3bc2d"
+  ],
+  "overstay": [
+    "r_0a4f97b5c97911ca"
+  ],
+  "overstep": [
+    "r_69379cc078010c95",
+    "r_dc07af70cb9734ba"
+  ],
+  "overstock": [
+    "r_69379cc078010c95",
+    "r_7c9b669d82aec037"
+  ],
+  "overstocked": [
+    "r_7c9b669d82aec037"
+  ],
+  "overstress": [
+    "r_57615c15697bed22"
+  ],
+  "overstretch": [
+    "r_01c9b336f8989aee"
+  ],
+  "overstretched": [
+    "r_01c9b336f8989aee"
+  ],
+  "overstrung": [
+    "r_c186f24bb6038003"
+  ],
+  "overstuff": [
+    "r_f1cfba4f813436af"
+  ],
+  "overstuffed": [
+    "r_f1cfba4f813436af"
+  ],
+  "oversubscribe": [
+    "r_7b7699c0e550cfcb"
+  ],
+  "oversweet": [
+    "r_69379cc078010c95"
+  ],
+  "overtake": [
+    "r_32d58931719d09ff",
+    "r_69379cc078010c95"
+  ],
+  "overtaking": [
+    "r_32d58931719d09ff"
+  ],
+  "overtax": [
+    "r_05a7782645c30d61"
+  ],
+  "overtaxed": [
+    "r_05a7782645c30d61"
+  ],
+  "overthin": [
+    "r_69379cc078010c95"
+  ],
+  "overthrow": [
+    "r_60796e350084c0c8"
+  ],
+  "overtire": [
+    "r_0c6f59bef4478aeb"
+  ],
+  "overtop": [
+    "r_3dd2a7cd3806cd12"
+  ],
+  "overturn": [
+    "r_3f888d9ee66b99e8"
+  ],
+  "overturned": [
+    "r_3f888d9ee66b99e8"
+  ],
+  "overturning": [
+    "r_3f888d9ee66b99e8"
+  ],
+  "overuse": [
+    "r_69379cc078010c95",
+    "r_88712e94949bf0ad"
+  ],
+  "overused": [
+    "r_88712e94949bf0ad"
+  ],
+  "overvaluation": [
+    "r_90c2e34b68bb0724"
+  ],
+  "overvalue": [
+    "r_90c2e34b68bb0724"
+  ],
+  "overvalued": [
+    "r_90c2e34b68bb0724"
+  ],
+  "overview": [
+    "r_e121991d7c1b2aed"
+  ],
+  "overweight": [
+    "r_03868bf978ab8f1f",
+    "r_b4e99c18cbc174fc"
+  ],
+  "overwhelm": [
+    "r_69379cc078010c95"
+  ],
+  "overwinter": [
+    "r_94ce784f43ce2707"
+  ],
+  "overwintering": [
+    "r_94ce784f43ce2707"
+  ],
+  "overwork": [
+    "r_f7cb4ccf2990c578"
+  ],
+  "overworked": [
+    "r_f7cb4ccf2990c578"
+  ],
+  "overzeal": [
+    "r_fb3ccf8f6990cafe"
+  ],
+  "overzealous": [
+    "r_fb3ccf8f6990cafe"
+  ],
+  "ovibovine": [
+    "r_5aa305644988ba56"
+  ],
+  "ovicapsule": [
+    "r_65eb5d68a4e2b518",
+    "r_e1f0de41cd83a9d2"
+  ],
+  "ovicidal": [
+    "r_65eb5d68a4e2b518",
+    "r_cdc7e76bfbaf321f",
+    "r_e1f0de41cd83a9d2",
+    "r_fd5bfe7de1e3dfed"
+  ],
+  "ovicide": [
+    "r_65eb5d68a4e2b518",
+    "r_e1f0de41cd83a9d2"
+  ],
+  "oviduct": [
+    "r_5d475659115e628c",
+    "r_5fd2302f3dd9cfb8",
+    "r_65eb5d68a4e2b518",
+    "r_e1f0de41cd83a9d2",
+    "r_pending20261126_c_duct_anatomical"
+  ],
+  "oviferous": [
+    "r_65eb5d68a4e2b518",
+    "r_e1f0de41cd83a9d2"
+  ],
+  "oviform": [
+    "r_65eb5d68a4e2b518",
+    "r_7cbebcc8fd2ae037",
+    "r_e1f0de41cd83a9d2"
+  ],
+  "ovigerous": [
+    "r_b20261126_a_igerous"
+  ],
+  "ovine": [
+    "r_5aa305644988ba56"
+  ],
+  "oviparous": [
+    "r_65eb5d68a4e2b518",
+    "r_e006c8037666985e",
+    "r_e1f0de41cd83a9d2",
+    "r_ea9c836428e09cf5"
+  ],
+  "oviposition": [
+    "r_65eb5d68a4e2b518",
+    "r_e1f0de41cd83a9d2"
+  ],
+  "ovipositor": [
+    "r_0d7dbaa2984af3e6",
+    "r_65eb5d68a4e2b518",
+    "r_e1f0de41cd83a9d2"
+  ],
+  "ovoid": [
+    "r_65eb5d68a4e2b518",
+    "r_eb16d5b9515e53ce"
+  ],
+  "ovolo": [
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovoviviparous": [
+    "r_2d20fef3bbc57063"
+  ],
+  "ovular": [
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovulate": [
+    "r_65eb5d68a4e2b518",
+    "r_7240156d8749caab"
+  ],
+  "ovulation": [
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovulatory": [
+    "r_65eb5d68a4e2b518"
+  ],
+  "ovule": [
+    "r_65eb5d68a4e2b518",
+    "r_de41073eda708174"
+  ],
+  "ovum": [
+    "r_65eb5d68a4e2b518"
+  ],
+  "own": [
+    "r_48b8312942249bc0"
+  ],
+  "owner": [
+    "r_48b8312942249bc0"
+  ],
+  "ownerless": [
+    "r_48b8312942249bc0",
+    "r_c0abd211fdff83d9"
+  ],
+  "ownership": [
+    "r_48b8312942249bc0",
+    "r_b8fb3ffcaa949bb2"
+  ],
+  "oxacyclohexane": [
+    "r_5c57bd7e9b200382"
+  ],
+  "oxalate": [
+    "r_5136d6d5a4088180"
+  ],
+  "oxaloacetate": [
+    "r_2f59a552eac4bcbd"
+  ],
+  "oxaloacetic acid": [
+    "r_2f59a552eac4bcbd"
+  ],
+  "oxalyl": [
+    "r_5136d6d5a4088180"
+  ],
+  "oxamic acid": [
+    "r_pending20261126_c_amic_acid"
+  ],
+  "oxazabicycloalkyl": [
+    "r_b20261126_a_oxaza"
+  ],
+  "oxazole": [
+    "r_2908af9c247beaa0"
+  ],
+  "oxazolidine": [
+    "r_bb8576c449c8241c"
+  ],
+  "oxazoline": [
+    "r_4add167d8746a5c8"
+  ],
+  "oxcart": [
+    "r_045e675ad0d3c40d"
+  ],
+  "oxide": [
+    "r_2908af9c247beaa0"
+  ],
+  "oxidoethane": [
+    "r_15e39726e0887abc"
+  ],
+  "oximuriatic": [
+    "r_pending20261126_b_oxi_oxygen"
+  ],
+  "oxoacid": [
+    "r_c74ab5d1929b7261"
+  ],
+  "oxoglutarate": [
+    "r_c74ab5d1929b7261"
+  ],
+  "oxohalide": [
+    "r_e75bc22c51524f8a"
+  ],
+  "oxolan-2-one": [
+    "r_bnew20261125_one_carbonyl"
+  ],
+  "oxonium": [
+    "r_fe40a01533141be4"
+  ],
+  "oxyacetylene": [
+    "r_0b985649370ea0c6"
+  ],
+  "oxyanion": [
+    "r_0b985649370ea0c6",
+    "r_2908af9c247beaa0",
+    "r_e35fd94b801a2a66"
+  ],
+  "oxycephaly": [
+    "r_ed69c803d389045a"
+  ],
+  "oxychloride": [
+    "r_a7bd17a9c02d3dbc"
+  ],
+  "oxygen": [
+    "r_8b7f40458447f57d",
+    "r_a70fe288c6124081",
+    "r_e35fd94b801a2a66"
+  ],
+  "oxygenate": [
+    "r_e35fd94b801a2a66"
+  ],
+  "oxygenated": [
+    "r_e35fd94b801a2a66"
+  ],
+  "oxygenating": [
+    "r_e35fd94b801a2a66"
+  ],
+  "oxyhalide": [
+    "r_0b985649370ea0c6",
+    "r_2908af9c247beaa0",
+    "r_e35fd94b801a2a66"
+  ],
+  "oxyhydrogen": [
+    "r_49a56c47a6667775",
+    "r_9deb4617f5a69bb7"
+  ],
+  "oxymoron": [
+    "r_e35fd94b801a2a66"
+  ],
+  "oxyntic": [
+    "r_e35fd94b801a2a66"
+  ],
+  "oxytone": [
+    "r_e35fd94b801a2a66"
+  ],
+  "ozocerite": [
+    "r_6f578f4bac576467"
+  ],
+  "ozone": [
+    "r_6f578f4bac576467"
+  ],
+  "ozonize": [
+    "r_a95882fec0d3b8e5"
+  ],
+  "ozonolysis": [
+    "r_55e9f5edc339ce68"
+  ],
+  "ozonosphere": [
+    "r_76f6f45f7c1f2f9d",
+    "r_d940c87122099820"
+  ],
+  "ozopore": [
+    "r_1403bb80a082b1c4",
+    "r_6f578f4bac576467"
+  ],
+  "p-arsenosophenol": [
+    "r_c57384c09f4dca98"
+  ],
+  "p-dichlorobenzene": [
+    "r_5038d99a369e3748"
+  ],
+  "pachyderm": [
+    "r_27835fb8b2a6baf2",
+    "r_b6a760130b20291d"
+  ],
+  "pachydermata": [
+    "r_27835fb8b2a6baf2"
+  ],
+  "pachydermatous": [
+    "r_27835fb8b2a6baf2"
+  ],
+  "pachydermia": [
+    "r_6ffc13764960ab8b"
+  ],
+  "pachyglossia": [
+    "r_27835fb8b2a6baf2"
+  ],
+  "pachygyria": [
+    "r_27835fb8b2a6baf2",
+    "r_390d91476bb34ac0"
+  ],
+  "pachynema": [
+    "r_126a7c4f12ed015d",
+    "r_27835fb8b2a6baf2"
+  ],
+  "pachynsis": [
+    "r_27835fb8b2a6baf2"
+  ],
+  "pachysandra": [
+    "r_27835fb8b2a6baf2"
+  ],
+  "pachytene": [
+    "r_27835fb8b2a6baf2",
+    "r_e91ad0a25a49abff"
+  ],
+  "pacific": [
+    "r_2f61faaa0ff9d97c",
+    "r_8d33ade40e69fb6b",
+    "r_d7e2656462042190",
+    "r_d96ab84612ae3ff1"
+  ],
+  "pacification": [
+    "r_d7e2656462042190"
+  ],
+  "pacificator": [
+    "r_d7e2656462042190"
+  ],
+  "pacifier": [
+    "r_8d33ade40e69fb6b",
+    "r_d7e2656462042190"
+  ],
+  "pacifism": [
+    "r_8d33ade40e69fb6b",
+    "r_d7e2656462042190"
+  ],
+  "pacifist": [
+    "r_8d33ade40e69fb6b",
+    "r_d7e2656462042190"
+  ],
+  "pacifistic": [
+    "r_d7e2656462042190"
+  ],
+  "pacify": [
+    "r_8d33ade40e69fb6b",
+    "r_d7e2656462042190",
+    "r_e73301ea7cb774ae",
+    "r_fe3a5db23160622c"
+  ],
+  "pack": [
+    "r_a0f600a334f1e13e"
+  ],
+  "package": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packaged": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packager": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packaging": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packed": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packer": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packet": [
+    "r_a0f600a334f1e13e"
+  ],
+  "packing": [
+    "r_a0f600a334f1e13e"
+  ],
+  "paclitaxel": [
+    "r_405290e10b9e1cbf"
+  ],
+  "pad": [
+    "r_fce7f0e9d4326571"
+  ],
+  "padded": [
+    "r_fce7f0e9d4326571"
+  ],
+  "padding": [
+    "r_fce7f0e9d4326571"
+  ],
+  "paediatric": [
+    "r_860cfcc6a28e9d5a"
+  ],
+  "paedogenesis": [
+    "r_860cfcc6a28e9d5a"
+  ],
+  "paedomorphism": [
+    "r_860cfcc6a28e9d5a"
+  ],
+  "paedomorphosis": [
+    "r_55a72fade87471b3"
+  ],
+  "page": [
+    "r_9abc9f755355d5a4"
+  ],
+  "pageant": [
+    "r_a06e9be5960ac089"
+  ],
+  "pageantry": [
+    "r_a06e9be5960ac089"
+  ],
+  "pager": [
+    "r_9abc9f755355d5a4",
+    "r_e8b048f085b12d1f"
+  ],
+  "pagination": [
+    "r_a4b1afca13eed188"
+  ],
+  "paging": [
+    "r_9abc9f755355d5a4"
+  ],
+  "paidology": [
+    "r_371e00fd9c27cc49",
+    "r_a38ae154ebeb71b7"
+  ],
+  "pain": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "pained": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "painful": [
+    "r_48fe3cf3919cad9c",
+    "r_8e7eafaba7e19e15"
+  ],
+  "painfully": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "painfulness": [
+    "r_2e94b10a5733577d",
+    "r_48fe3cf3919cad9c"
+  ],
+  "painkiller": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "painless": [
+    "r_48fe3cf3919cad9c",
+    "r_c0abd211fdff83d9"
+  ],
+  "painlessly": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "painstaking": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "painstakingly": [
+    "r_48fe3cf3919cad9c"
+  ],
+  "paint": [
+    "r_97f4307c6d165fa0"
+  ],
+  "paintbrush": [
+    "r_97f4307c6d165fa0"
+  ],
+  "painted": [
+    "r_97f4307c6d165fa0"
+  ],
+  "painter": [
+    "r_3d066a6c1d03a643",
+    "r_97f4307c6d165fa0"
+  ],
+  "painterly": [
+    "r_97f4307c6d165fa0"
+  ],
+  "painting": [
+    "r_97f4307c6d165fa0"
+  ],
+  "paintless": [
+    "r_97f4307c6d165fa0"
+  ],
+  "paintwork": [
+    "r_97f4307c6d165fa0"
+  ],
+  "pair": [
+    "r_758c5cee686801a0"
+  ],
+  "paired": [
+    "r_758c5cee686801a0"
+  ],
+  "pairing": [
+    "r_758c5cee686801a0"
+  ],
+  "palace": [
+    "r_855f43fb4b3a26db"
+  ],
+  "palacelike": [
+    "r_855f43fb4b3a26db"
+  ],
+  "palaeethnology": [
+    "r_954dbd873ab79715"
+  ],
+  "palaeoecology": [
+    "r_3920b60332e250c3",
+    "r_954dbd873ab79715"
+  ],
+  "palaeolithic": [
+    "r_3920b60332e250c3",
+    "r_954dbd873ab79715"
+  ],
+  "palatoglossal": [
+    "r_b1136ea875dd9afb"
+  ],
+  "pale": [
+    "r_9f5879bfe259d1f0"
+  ],
+  "pale blue": [
+    "r_71c3b57789bc87ce"
+  ],
+  "paleencephalon": [
+    "r_6a23330b7a35f284",
+    "r_ed69c803d389045a"
+  ],
+  "paleethnology": [
+    "r_01bf58f4c2221d8c",
+    "r_36452e1dff583d8f",
+    "r_a26b2e2b91a79bfb",
+    "r_b0d90a34790e58ac"
+  ],
+  "paleoart": [
+    "r_pending20261126_b_paleo_paleontology"
+  ],
+  "paleobiology": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33"
+  ],
+  "paleobotanic": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33"
+  ],
+  "paleobotany": [
+    "r_7d5e97885fb57c33"
+  ],
+  "paleography": [
+    "r_36452e1dff583d8f",
+    "r_7205234065a3e70d",
+    "r_7d5e97885fb57c33",
+    "r_dc21d11f32778f92"
+  ],
+  "paleolithic": [
+    "r_36452e1dff583d8f",
+    "r_4c44db2cb9b59713",
+    "r_7d5e97885fb57c33",
+    "r_e6c719021f1b90ab"
+  ],
+  "paleology": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33"
+  ],
+  "paleomagnetism": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33"
+  ],
+  "paleontology": [
+    "r_01bf58f4c2221d8c",
+    "r_23785176324ba313",
+    "r_239e49afbdf3e9d8",
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33",
+    "r_a26b2e2b91a79bfb"
+  ],
+  "paleopolyploidy": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33"
+  ],
+  "paleopsychology": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33"
+  ],
+  "paleoseismology": [
+    "r_551fd27c1bdcf537",
+    "r_69246a88daa0409c"
+  ],
+  "paleozoic": [
+    "r_36452e1dff583d8f",
+    "r_7d5e97885fb57c33",
+    "r_f27643cc61f7bc22"
+  ],
+  "palilalia": [
+    "r_3cfbebee17337031"
+  ],
+  "palimpsest": [
+    "r_3cfbebee17337031",
+    "r_c2ca6217b5bda4bb"
+  ],
+  "palindrome": [
+    "r_321f2e1a68490b4f",
+    "r_369232ded429440b",
+    "r_3cfbebee17337031",
+    "r_f86ad3167b76bd54"
+  ],
+  "palingenesis": [
+    "r_3cfbebee17337031",
+    "r_f86ad3167b76bd54"
+  ],
+  "palinspastic": [
+    "r_3cfbebee17337031",
+    "r_79d6efccd0839e39",
+    "r_f86ad3167b76bd54"
+  ],
+  "palisade": [
+    "r_9f5879bfe259d1f0"
+  ],
+  "palladio-protochloride": [
+    "r_09f667721bb7a08d"
+  ],
+  "palladocycle": [
+    "r_ae013b8d3754f598"
+  ],
+  "palliate": [
+    "r_9d92a9373ab84da2"
+  ],
+  "palliative": [
+    "r_9d92a9373ab84da2"
+  ],
+  "pallid": [
+    "r_110e8b42cfb2c6a7"
+  ],
+  "pallidectomy": [
+    "r_8bff2c677b61702b"
+  ],
+  "pallidiflorous": [
+    "r_06f821bd313bfbd6"
+  ],
+  "pallidotomy": [
+    "r_08ed39894fb26c0c"
+  ],
+  "palliostriatal": [
+    "r_049a785f61f84563"
+  ],
+  "pallium": [
+    "r_9d92a9373ab84da2"
+  ],
+  "pallor": [
+    "r_110e8b42cfb2c6a7"
+  ],
+  "palm": [
+    "r_d86796af32bccd8c"
+  ],
+  "palmate": [
+    "r_b20261125_ate_adjective",
+    "r_d86796af32bccd8c"
+  ],
+  "palmatifid": [
+    "r_937e700ea07c1aa5",
+    "r_ce7818587450e269"
+  ],
+  "palmatiform": [
+    "r_d32e09507cc7fa16"
+  ],
+  "palmette": [
+    "r_d86796af32bccd8c"
+  ],
+  "palmful": [
+    "r_d86796af32bccd8c"
+  ],
+  "palmigrade": [
+    "r_7acaac49899c9313"
+  ],
+  "palmist": [
+    "r_98e41edddda09423",
+    "r_d86796af32bccd8c"
+  ],
+  "palmistry": [
+    "r_d86796af32bccd8c"
+  ],
+  "palmoplantar": [
+    "r_c38dcd27ad7f61d8"
+  ],
+  "palmtop": [
+    "r_d86796af32bccd8c"
+  ],
+  "palmy": [
+    "r_d86796af32bccd8c"
+  ],
+  "palpable": [
+    "r_361fbad16ba5f8f1",
+    "r_d17c8c06b3351d59",
+    "r_e52342b48120bb1f"
+  ],
+  "palpate": [
+    "r_7240156d8749caab",
+    "r_e52342b48120bb1f"
+  ],
+  "palpation": [
+    "r_e52342b48120bb1f"
+  ],
+  "palpitant": [
+    "r_e52342b48120bb1f"
+  ],
+  "palpitate": [
+    "r_e52342b48120bb1f"
+  ],
+  "palpitation": [
+    "r_e52342b48120bb1f"
+  ],
+  "paludicolous": [
+    "r_f4eb163488dc8dcf"
+  ],
+  "paludiculture": [
+    "r_f4eb163488dc8dcf"
+  ],
+  "palustral": [
+    "r_e0447cb2d7ec055e"
+  ],
+  "palynology": [
+    "r_26d51018dfcb3fe8"
+  ],
+  "palynostratigraphy": [
+    "r_f665eca2fec4b401"
+  ],
+  "pamprodactyly": [
+    "r_1d8d9eb498cd0e6f"
+  ],
+  "panacea": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "panalphabetic": [
+    "r_65ea52b88f970290"
+  ],
+  "panarchy": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "panatella": [
+    "r_08a4378f2d0f526d"
+  ],
+  "pancake": [
+    "r_a593c79f48a1ee70"
+  ],
+  "panchromatic": [
+    "r_88768b2ed9c7cf19",
+    "r_9fcec6b8e65c8269"
+  ],
+  "pancolitis": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "pancreas": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "pancreatalgia": [
+    "r_fe15adba4ccd2c76"
+  ],
+  "pancreaticoduodenal": [
+    "r_e0bc0bab21b105fc"
+  ],
+  "pancreatitis": [
+    "r_fe15adba4ccd2c76"
+  ],
+  "pancreatoduodenectomy": [
+    "r_b534ed919798330d"
+  ],
+  "pancytopenia": [
+    "r_715e6924c6b986da"
+  ],
+  "pandect": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "pandemic": [
+    "r_8d1747e0be28fdcd",
+    "r_9fcec6b8e65c8269"
+  ],
+  "pandemonium": [
+    "r_729eb66481c45b5c",
+    "r_9fcec6b8e65c8269"
+  ],
+  "pander": [
+    "r_726e0f00ce46650a"
+  ],
+  "pandering": [
+    "r_726e0f00ce46650a"
+  ],
+  "pandiculate": [
+    "r_15cac51ba68b827f"
+  ],
+  "pandiculation": [
+    "r_15cac51ba68b827f"
+  ],
+  "panegyric": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "panel": [
+    "r_2fd120154fb98c35"
+  ],
+  "paneled": [
+    "r_2fd120154fb98c35"
+  ],
+  "paneling": [
+    "r_3f255623f4549d5b"
+  ],
+  "panelist": [
+    "r_3f255623f4549d5b"
+  ],
+  "panelle": [
+    "r_08a4378f2d0f526d"
+  ],
+  "panendoscopy": [
+    "r_9e52cc4870a9c2c1"
+  ],
+  "panetela": [
+    "r_08a4378f2d0f526d"
+  ],
+  "panetella": [
+    "r_08a4378f2d0f526d"
+  ],
+  "panettone": [
+    "r_08a4378f2d0f526d"
+  ],
+  "pangea": [
+    "r_0289786e34149880"
+  ],
+  "pangenesis": [
+    "r_25cb673dd1864ec5"
+  ],
+  "pangrammatic": [
+    "r_68ffaab3edee38b7",
+    "r_fdbba88d5ccf8ade"
+  ],
+  "panic-struck": [
+    "r_ebf9b532385c8f6c"
+  ],
+  "panivorous": [
+    "r_08a4378f2d0f526d",
+    "r_e5039fa3d616be34"
+  ],
+  "pannier": [
+    "r_08a4378f2d0f526d"
+  ],
+  "panniers": [
+    "r_08a4378f2d0f526d"
+  ],
+  "panoply": [
+    "r_9fcec6b8e65c8269"
+  ],
+  "panoptic": [
+    "r_d8744a9b01edaaa7"
+  ],
+  "panopticon": [
+    "r_d8744a9b01edaaa7",
+    "r_fc6ac5fb5c0afdf5"
+  ],
+  "panorama": [
+    "r_9fcec6b8e65c8269",
+    "r_b54c5d88a301e0de"
+  ],
+  "panphobia": [
+    "r_ec14cde282370f98"
+  ],
+  "panpsychism": [
+    "r_3529b47171632c16"
+  ],
+  "pansophic": [
+    "r_b5121d7faf29a04d"
+  ],
+  "pansophism": [
+    "r_b5121d7faf29a04d"
+  ],
+  "pansophist": [
+    "r_b5121d7faf29a04d"
+  ],
+  "pansophy": [
+    "r_2c8cec10e9427a67",
+    "r_b5121d7faf29a04d"
+  ],
+  "pantagraph": [
+    "r_74ef5427377a5466"
+  ],
+  "pantheism": [
+    "r_9fcec6b8e65c8269",
+    "r_de031acbc6e2cc1f"
+  ],
+  "pantheon": [
+    "r_8565afbee58e90a8",
+    "r_9fcec6b8e65c8269",
+    "r_de031acbc6e2cc1f"
+  ],
+  "pantograph": [
+    "r_4acad740a71703dc",
+    "r_9fcec6b8e65c8269",
+    "r_dc21d11f32778f92"
+  ],
+  "pantology": [
+    "r_4acad740a71703dc",
+    "r_9fcec6b8e65c8269"
+  ],
+  "pantomime": [
+    "r_4acad740a71703dc",
+    "r_9fcec6b8e65c8269",
+    "r_e3408568a14a6514"
+  ],
+  "pantophobia": [
+    "r_f334d4864aa75531"
+  ],
+  "pantothenic": [
+    "r_4acad740a71703dc",
+    "r_9fcec6b8e65c8269"
+  ],
+  "pantry": [
+    "r_08a4378f2d0f526d"
+  ],
+  "papaphobia": [
+    "r_722d92bcddc90fff"
+  ],
+  "paper": [
+    "r_234310417a82b8d6"
+  ],
+  "paperback": [
+    "r_234310417a82b8d6"
+  ],
+  "paperboard": [
+    "r_234310417a82b8d6"
+  ],
+  "paperlike": [
+    "r_47cc2af9dae31cc0"
+  ],
+  "paperweight": [
+    "r_234310417a82b8d6"
+  ],
+  "papery": [
+    "r_234310417a82b8d6"
+  ],
+  "papillary": [
+    "r_20477e313862c1b5",
+    "r_c573392af8d2201b"
+  ],
+  "papilloma": [
+    "r_20477e313862c1b5"
+  ],
+  "papillomacular": [
+    "r_5326b0d93fd49455"
+  ],
+  "papillose": [
+    "r_c573392af8d2201b"
+  ],
+  "papist": [
+    "r_f05b29b06f7a17f1"
+  ],
+  "papistic": [
+    "r_f05b29b06f7a17f1"
+  ],
+  "papistical": [
+    "r_f05b29b06f7a17f1"
+  ],
+  "papulosquamous": [
+    "r_63217f45a8fa26ff"
+  ],
+  "papyrograph": [
+    "r_pending20261126_c_papyro_paper"
+  ],
+  "papyrology": [
+    "r_c999c5f3abbe37c1"
+  ],
+  "para-athlete": [
+    "r_cfb3151769d340b2"
+  ],
+  "parabiosis": [
+    "r_7fe23dae4e541cd4",
+    "r_9572c7358e94c340",
+    "r_9e5f45b75221f866"
+  ],
+  "parable": [
+    "r_9e5f45b75221f866",
+    "r_c7040ccfdcf1847f"
+  ],
+  "parabola": [
+    "r_9e5f45b75221f866"
+  ],
+  "paracentesis": [
+    "r_4a4ee51a2ef469ab"
+  ],
+  "paracentral": [
+    "r_9e5f45b75221f866"
+  ],
+  "parachute": [
+    "r_a6fbd12efdd62661",
+    "r_fe645c69bbd70009"
+  ],
+  "paracolpitis": [
+    "r_e7b76a7117d77851"
+  ],
+  "paracord": [
+    "r_73da8357102de6f9"
+  ],
+  "parade": [
+    "r_81e2c274ef750c25",
+    "r_ee4dc86204bae44b",
+    "r_f6c89da871b9b26b"
+  ],
+  "paradichlorobenzene": [
+    "r_a041174237ecac95"
+  ],
+  "paradigm": [
+    "r_9e5f45b75221f866"
+  ],
+  "paradiorthosis": [
+    "r_d7605e3604305bdf"
+  ],
+  "paradisiac": [
+    "r_d0a40a4d58d954e3"
+  ],
+  "paradox": [
+    "r_1305d5cd8b4292f2",
+    "r_d2b1258b697d820f",
+    "r_dea5325d7315a1b4"
+  ]
+}
