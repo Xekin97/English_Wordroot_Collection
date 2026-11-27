@@ -1,10 +1,16 @@
 {
+  "schema_version": "2.0",
   "source_roots_sha256": "41275ea93f36866ecaee3f1928dc76c6243f6641c79b549b16952ed3bc0e7036",
   "word_count": 35646,
   "relation_count": 51306,
   "root_count": 9191,
   "case_sensitive": true,
   "word_order": "Unicode code point",
+  "record_fields": [
+    "id",
+    "meaning",
+    "peers"
+  ],
   "max_words_per_part": 1000,
   "parts": [
     {
@@ -12,252 +18,252 @@
       "count": 1000,
       "first_word": "1,2-didehydrobenzene",
       "last_word": "account",
-      "sha256": "5558b04f304fd0518099f35f11e8ae985a608af7215515e0c8b1e6fecb8a5b0c"
+      "sha256": "083b616cf2255e03b65dc89591c3b5b261b3691c69abf5d14e65225ac733bbd0"
     },
     {
       "file": "word-roots-002.json",
       "count": 1000,
       "first_word": "accountability",
       "last_word": "amendment",
-      "sha256": "d825dacfcd9d61a773d11c71a642a992fef3830673e5449a6a8a00f008263a9c"
+      "sha256": "a9de8b603f1f11cf3af032ac64161fb70d8a97a564d01f1698e90368952cbc1b"
     },
     {
       "file": "word-roots-003.json",
       "count": 1000,
       "first_word": "amenity",
       "last_word": "arming",
-      "sha256": "4c229059a61a95cbf402373c1ca5967e52936fe756e6006dc368d0f670a78f2a"
+      "sha256": "9e1db569a6a19ca826009cf54e9f2e480c7c25d5bf7cb35021e0fd838404b0eb"
     },
     {
       "file": "word-roots-004.json",
       "count": 1000,
       "first_word": "armless",
       "last_word": "bedazzled",
-      "sha256": "e1c63e6acfc108013f4d6d7bc56a3dc4b91317f90c9a43d900fd3ef745c20ae6"
+      "sha256": "7cb0ae031fd4b96bfe8058469f10da099e6e95c363f5837b34e22085ecbac44a"
     },
     {
       "file": "word-roots-005.json",
       "count": 1000,
       "first_word": "bedchamber",
       "last_word": "busman",
-      "sha256": "9a06cd376399070b33ef02c2f118afde6141c658697ac40c8d1ac4c345c24d29"
+      "sha256": "3a62326b658ffabf82c6aef66d4803c80514ce7ab18de4f50d90003f2c4da156"
     },
     {
       "file": "word-roots-006.json",
       "count": 1000,
       "first_word": "buspirone",
       "last_word": "chronology",
-      "sha256": "0ea1740fbb5a320365719cfa3acef73bc98fd1bae430af576a9f2116bb374f96"
+      "sha256": "33ba26c570e7a6ad25c48c8649329eabdf1b7f939f33abb20fb8754c7158b233"
     },
     {
       "file": "word-roots-007.json",
       "count": 1000,
       "first_word": "chronometer",
       "last_word": "configure",
-      "sha256": "9917b0cc555c01de1086b88ee8cc5c582c91b61cc5908143e609ffc20a50f7c8"
+      "sha256": "62bf6b323155f22afce7c81c20765517ed8d8e395d3b701376d68ceb56cd29bd"
     },
     {
       "file": "word-roots-008.json",
       "count": 1000,
       "first_word": "confine",
       "last_word": "cryptic",
-      "sha256": "d19041d3aa65c4519e9eb66a6ed33907b094c2bc9e551b0485dd7221c2f80eea"
+      "sha256": "097c00dcf98926c330eab142a9d0104594715e870191b4e2e23bedab0fa29f71"
     },
     {
       "file": "word-roots-009.json",
       "count": 1000,
       "first_word": "cryptically",
       "last_word": "desegregation",
-      "sha256": "8ee0df65edb6cc32881a31a500ef8d30945935c315aec4a42b2e63695917611e"
+      "sha256": "f443dfb4fcb16b0389538345e5a6756cded12253377364ced76623c3b57ae171"
     },
     {
       "file": "word-roots-010.json",
       "count": 1000,
       "first_word": "deselect",
       "last_word": "ditcher",
-      "sha256": "ce6c6402cc44312a88a11ae72aee9544fa800dd4cd201a8adcd3cd1af4f9748b"
+      "sha256": "659a01230e072f40fa6b5ab89373cd3ad9ee60b3345b03b4faca957c506de567"
     },
     {
       "file": "word-roots-011.json",
       "count": 1000,
       "first_word": "ditchwater",
       "last_word": "emulation",
-      "sha256": "2d8614b5db07135447e23edf4d2d72988e481036f5159b8f1fbb855852ed87c8"
+      "sha256": "05eb35b5fd0bfc2a8daae6dd9ef9da63a4b6e2d5d5a178b68e80151cc34e19b7"
     },
     {
       "file": "word-roots-012.json",
       "count": 1000,
       "first_word": "emulator",
       "last_word": "exhaustible",
-      "sha256": "578f9d119882381a6347f563d9349e14ed39af27a529bfca305b0d4d3b7e514a"
+      "sha256": "6868eae342df44215a5fd7f2aadcf8530919162fab2fdba08fe7693735de2e7b"
     },
     {
       "file": "word-roots-013.json",
       "count": 1000,
       "first_word": "exhausting",
       "last_word": "football",
-      "sha256": "16e0c29199a27b1fd6c2070769b737f58742f3234560e8e048452b1fb546d656"
+      "sha256": "83b2d55f8f0123124c0b0b0a4e2181b565e47b6856cd73bbd9206814221ac17b"
     },
     {
       "file": "word-roots-014.json",
       "count": 1000,
       "first_word": "footballer",
       "last_word": "govern",
-      "sha256": "315afd7e44bd3c45538e9f9dceaa154f4997aa21b920ef8a54a3633f7b378d62"
+      "sha256": "af86aa4231cb68bde4136557cb24762086eff1f1033ccd34d460cf42e8af227f"
     },
     {
       "file": "word-roots-015.json",
       "count": 1000,
       "first_word": "governable",
       "last_word": "heterodoxy",
-      "sha256": "36f25ba103b8457e891fea0cbd042567be373d7372aebc86d832e63379597c11"
+      "sha256": "f88f3f141d54deb224cb0dc5be05064e7abb568d07037c1df8340937ad883f23"
     },
     {
       "file": "word-roots-016.json",
       "count": 1000,
       "first_word": "heterodromous",
       "last_word": "imminence",
-      "sha256": "111dd01775965427d945e2e5e979958360cdf88ebcd22e6e9140f9cc14425519"
+      "sha256": "925fed0b8f8c0cfb86bb640161485358eb6b6a0c0a3be4fc50dbbae561d7ccdc"
     },
     {
       "file": "word-roots-017.json",
       "count": 1000,
       "first_word": "imminent",
       "last_word": "instigator",
-      "sha256": "d4334a67dbb02c5652e04cc4daeb54d3d3705ac87bbf329dbc445e30fcabc4bc"
+      "sha256": "356b199390363aa245a18b37648313e87f3323e3bf732bd3ace09e42a466804e"
     },
     {
       "file": "word-roots-018.json",
       "count": 1000,
       "first_word": "instill",
       "last_word": "knowing",
-      "sha256": "25c9d4d24d1a15a99dfb9f25bd8edf6630fb0a0cef505145660281cd6d9ed7d2"
+      "sha256": "6c8907a5a5dde3a17a783fe4cabe5c468f93d26842a9b061cefb41f680085911"
     },
     {
       "file": "word-roots-019.json",
       "count": 1000,
       "first_word": "knowingly",
       "last_word": "macrocheiria",
-      "sha256": "99181fdea5432001d14a7dc4cdde4710648997a0bc52a6ca0cc0e0d4ed34f515"
+      "sha256": "edb00be58661f6c7b27ac4f71785f5aa0c0a646e83241c8ef89bb30255fb6bb7"
     },
     {
       "file": "word-roots-020.json",
       "count": 1000,
       "first_word": "macrochilia",
       "last_word": "mimic",
-      "sha256": "8c368d80abfcb49091261079b00d1f2fe6a9dd31d34e3a8fe5ca45cf78374ed2"
+      "sha256": "b392124bedc21e740faee9cbe960f11eaa77fed0cbb732f1b6c49a1dc181a1fa"
     },
     {
       "file": "word-roots-021.json",
       "count": 1000,
       "first_word": "mimicry",
       "last_word": "near",
-      "sha256": "abda0d3894d8df9031c348de711e073374beef2bdcb5ae51961a7cb8e8c1b2ad"
+      "sha256": "e53e44e08c3254802baf29b34ed381dc036c03ff05a2958f27c80cd964444927"
     },
     {
       "file": "word-roots-022.json",
       "count": 1000,
       "first_word": "near-blind",
       "last_word": "olive-brown",
-      "sha256": "ed02486346108baeb10992af4388f0b864e3a2f645f0d16d8cae2863a20cf0c0"
+      "sha256": "73d12ed41d461f69b08b401d80b55fdb270d13cae68d42c058fb5686aca33859"
     },
     {
       "file": "word-roots-023.json",
       "count": 1000,
       "first_word": "olivette",
       "last_word": "paradox",
-      "sha256": "f30251a89917d2dd4eee016404e23f6ae4fae9b7bb64a1d1009a5c661067adfe"
+      "sha256": "3ac26de2dce11fdcd645093a9f6aed513eb7a1adb7579328d6a74b73999e45ae"
     },
     {
       "file": "word-roots-024.json",
       "count": 1000,
       "first_word": "paradoxical",
       "last_word": "photosensitive",
-      "sha256": "cd3d90c97781efe834d8a0cf1b3999c3823dd44128abdf82ee7c06718dbb4f32"
+      "sha256": "441686a730ddcd4de5d45bbcc0e4cb1b5173a2c064d6c667e6ea6e17e32aeb2e"
     },
     {
       "file": "word-roots-025.json",
       "count": 1000,
       "first_word": "photosphere",
       "last_word": "preignition",
-      "sha256": "3204b366c5445bd0381a88c9c0536ca215e38a165e6fffd3772b00c69342d2c8"
+      "sha256": "8cd6736764bb95ab2df704dc1bb415431d99957f23fcb4b434259c609f9c5bd3"
     },
     {
       "file": "word-roots-026.json",
       "count": 1000,
       "first_word": "prejudge",
       "last_word": "pyorrhoea",
-      "sha256": "d531760e5729c52cbd5bdc307b0ea8c62082d1b51d4a2589a03f3e6af03d1d2d"
+      "sha256": "48b86e94ec32e82b6dc1644fe16ba37830c448f29b0bce2fcfb821a5191b8690"
     },
     {
       "file": "word-roots-027.json",
       "count": 1000,
       "first_word": "pyosis",
       "last_word": "rejecter",
-      "sha256": "17efdabcf870c6714d2a690bc5ee7c3c5fe9ff8854f427e72e533ba96da444a6"
+      "sha256": "acd941b2870882119f6aa1e067c9a290d9e600b18306ca548b4ec2a04f99cb61"
     },
     {
       "file": "word-roots-028.json",
       "count": 1000,
       "first_word": "rejection",
       "last_word": "rumenotomy",
-      "sha256": "e0f22b22fb2f38d8dff5193f0ce993c5374013bedfe9ecd1f90bdeb0424cc4be"
+      "sha256": "9c45319f61b41f93ed09930fe5b3a27dd39a80416772f351ab5574c52a999892"
     },
     {
       "file": "word-roots-029.json",
       "count": 1000,
       "first_word": "ruminal",
       "last_word": "shaky",
-      "sha256": "a482f25d01ad692352b777ab1e4d45db2a39b3302ee901b95154a51c3ebeb141"
+      "sha256": "e0ca042cae4664777987b6687dd4ab1ade03df877fe10e67956982714bcb8af2"
     },
     {
       "file": "word-roots-030.json",
       "count": 1000,
       "first_word": "shallow",
       "last_word": "spiritless",
-      "sha256": "0d61f1c9e758d7fe3c9f2b6ee8486a1e724393b796596030e7efb9b399990b35"
+      "sha256": "07d728abbde5cfaad4d6b3e48af95905a484951797f3f2ec93f8580df89ab00e"
     },
     {
       "file": "word-roots-031.json",
       "count": 1000,
       "first_word": "spiritual",
       "last_word": "superconductive",
-      "sha256": "bef8a9c6c92b298a05507c0e4012c73404331c006d3e5a217fa58082f9152a56"
+      "sha256": "2f529e6a7c3157d0d84665a2e8ae3566b7b0c77fb6f25e586a45b7dd5970bb2d"
     },
     {
       "file": "word-roots-032.json",
       "count": 1000,
       "first_word": "superconductivity",
       "last_word": "then",
-      "sha256": "6197cc2aa7614b0c311c18d6ec04bfe7724cd38a781563f33abc8d55352acf74"
+      "sha256": "efc4cd3be6b077df4ed7f02278607681fe106fbe143f89d469463699ddd2b17d"
     },
     {
       "file": "word-roots-033.json",
       "count": 1000,
       "first_word": "thenness",
       "last_word": "tumbledung",
-      "sha256": "5d23d154558b7017ee84a275c5f6ae9adec58172309f5253b2d82b66de9edd2c"
+      "sha256": "6ed359bb6925b85dd41453149ff2f34d43659526f664939daea70388630a6c29"
     },
     {
       "file": "word-roots-034.json",
       "count": 1000,
       "first_word": "tumbler",
       "last_word": "unsalted",
-      "sha256": "c6bb82616546d90cbeec4f414883b5a4ef5be8ef663aed8dfff1538064d8b128"
+      "sha256": "faeb3bdb5fb8556981a1830a9b4dc1e16c064331845058d1ec97b84af8392f32"
     },
     {
       "file": "word-roots-035.json",
       "count": 1000,
       "first_word": "unsalvageable",
       "last_word": "waterproofing",
-      "sha256": "aa2abc1ca88f97f2167bf9c84e6377366e71d8e60b722a5f516f007ad30dc33c"
+      "sha256": "2038fc5307df34b42e3f0b043fec90e01ef5d4c5b652e836d94459d9737de9e2"
     },
     {
       "file": "word-roots-036.json",
       "count": 646,
       "first_word": "waterproofness",
       "last_word": "émigré",
-      "sha256": "e30da66832c823ad94bcbc447da8661e1b14f51970501eee44140782b4f33e36"
+      "sha256": "d6e71ee76e9b9da7169da794c5c179676735020863bd4293b50511bc6f6999ff"
     }
   ]
 }

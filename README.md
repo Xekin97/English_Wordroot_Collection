@@ -10,7 +10,7 @@
 
 - [JSON](json/)：包含全部字段及同族关联。
 - [CSV](csv/)：包含常用字段，例词以 ` | ` 分隔；文件使用 UTF-8 BOM。
-- [单词到词根的反向索引](word-roots/)：通过单词或词组查找对应的词根 ID。
+- [单词到词根的反向索引](word-roots/)：通过单词或词组查找对应的词根 ID、英文含义和同根例词。
 
 词根 JSON 和 CSV 均按词根（忽略大小写）和 `id` 排序，依次编号为 `roots-001` 至 `roots-010`。每份最多 1,000 条，最后一份包含 191 条。按编号拼接 JSON 数组即可得到完整数据；合并 CSV 时只保留一份表头。
 
@@ -33,21 +33,29 @@ for item in roots:
 
 ## 从单词查词根
 
-反向索引将每个例词或词组映射到词根 `id` 列表。例如 `airport` 对应 `air` 和港口义的 `port`。一个词可以对应多个词根，也可以对应相同写法的不同义项。
+反向索引将每个例词或词组映射到一个词根记录列表。例如 `airport` 对应 `air` 和港口义的 `port`。一个词可以对应多个词根，也可以对应相同写法的不同义项。每条记录包含：
+
+- `id`：对应词根的 ID，可用于查询词根写法等其他字段。
+- `meaning`：该词根的英文含义。
+- `peers`：该词根的完整例词列表，包含当前查询的词。
 
 索引按原词形精确匹配，保留大小写、空格和标点；不在例词库中的词不会自动推断词根。索引共 36 个 JSON 分片，每份最多 1,000 个词；[manifest.json](word-roots/manifest.json) 记录各分片的词数、首尾词和校验值，首尾词按 Unicode 码点排序，可用于定位分片。
 
-配合上面的 `roots` 列表，可以加载索引并查询：
+下面根据分片范围直接查找 `phenomena`：
 
 ```python
-word_roots = {}
-for path in sorted(Path("word-roots").glob("word-roots-*.json")):
-    word_roots.update(json.loads(path.read_text(encoding="utf-8")))
+import json
+from pathlib import Path
 
-roots_by_id = {item["id"]: item for item in roots}
-for root_id in word_roots.get("airport", []):
-    item = roots_by_id[root_id]
-    print(item["root"], item["meaning"])
+directory = Path("word-roots")
+manifest = json.loads((directory / "manifest.json").read_text(encoding="utf-8"))
+word = "phenomena"
+for part in manifest["parts"]:
+    if part["first_word"] <= word <= part["last_word"]:
+        words = json.loads((directory / part["file"]).read_text(encoding="utf-8"))
+        for item in words.get(word, []):
+            print(item["id"], item["meaning"], item["peers"])
+        break
 ```
 
 ## JSON 字段
